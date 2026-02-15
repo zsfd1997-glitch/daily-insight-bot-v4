@@ -1,356 +1,5 @@
 [
   {
-    "title": "ScalSelect：可扩展的免训练多模态数据选择，用于高效的视觉指令调整",
-    "url": "https://huggingface.co/papers/2602.11636",
-    "time": 1770959594599,
-    "score": 5,
-    "summary": "大规模视觉指令调优（VIT）已成为提高视觉语言机器性能的关键范例...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Gaia2：在动态和异步环境中对 LLM 代理进行基准测试",
-    "url": "https://huggingface.co/papers/2602.11964",
-    "time": 1770959594599,
-    "score": 5,
-    "summary": "我们推出 Gaia2，这是一个在现实的异步环境中评估大型语言模型代理的基准。不列...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "firecrawl/firecrawl: 🔥 用于 AI 的 Web 数据 API - 将整个网站转换为 LLM 就绪的 Markdown 或结构化数据",
-    "url": "https://github.com/firecrawl/firecrawl",
-    "time": 1770959594599,
-    "score": 4,
-    "summary": "⭐82.1k stars · TypeScript",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "一位人工智能特工发表了一篇关于我的热门文章",
-    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-    "time": 1770959594599,
-    "score": 4,
-    "summary": "1595 points · 657 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "制作人工智能代理",
-    "url": "https://www.producthunt.com/products/make-4",
-    "time": 1770959594599,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "PISCO：具有稀疏控制的精确视频实例插入",
-    "url": "https://huggingface.co/papers/2602.08277",
-    "time": 1770959594599,
-    "score": 4,
-    "summary": "人工智能视频生成的格局正在经历关键转变：超越一般生成 - 它依赖于电子...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "continuedev/continue: ⏩ 通过持续人工智能加快发货速度。可在 Headless 模式下使用的开源 CLI 来运行异步 clo",
-    "url": "https://github.com/continuedev/continue",
-    "time": 1770959594599,
-    "score": 4,
-    "summary": "⭐31.4k stars · TypeScript",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "趋势小工具",
-    "url": "https://www.producthunt.com/products/trendwidget",
-    "time": 1770959594599,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "ComposioHQ/composio: Composio 通过函数调用为您的 AI 代理和法学硕士提供 100 多个高质量集成",
-    "url": "https://github.com/ComposioHQ/composio",
-    "time": 1770959594599,
-    "score": 4,
-    "summary": "⭐26.6k stars · TypeScript",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "维斯拉AI导演模式",
-    "url": "https://www.producthunt.com/products/visla",
-    "time": 1770959594599,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "惊喜之笔：矢量草图中的渐进式语义错觉",
-    "url": "https://huggingface.co/papers/2602.12280",
-    "time": 1770959594599,
-    "score": 4,
-    "summary": "视觉错觉传统上依赖于空间操纵，例如多视图一致性。在这项工作中，我们介绍...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "欧洲主要付款处理机构无法向 Google Workspace 用户发送电子邮件",
-    "url": "https://atha.io/blog/2026-02-12-viva",
-    "time": 1770959594599,
-    "score": 4,
-    "summary": "475 points · 317 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "dVoting：dLLM 快速投票",
-    "url": "https://huggingface.co/papers/2602.12153",
-    "time": 1770959594599,
-    "score": 4,
-    "summary": "扩散大型语言模型 (dLLM) 代表了自回归建模之外的新范式，提供具有竞争力的性能...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "ThinkRouter：通过潜在空间和离散空间之间的路由思维进行高效推理",
-    "url": "https://huggingface.co/papers/2602.11683",
-    "time": 1770959594599,
-    "score": 4,
-    "summary": "最近的工作探索潜在推理，通过用......替换显式推理轨迹来提高推理效率。",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "MolmoSpaces：用于机器人导航和操作的大规模开放生态系统",
-    "url": "https://huggingface.co/papers/2602.11337",
-    "time": 1770959594599,
-    "score": 4,
-    "summary": "大规模部署机器人需要对日常情况的长尾具有鲁棒性。场景中无数的变化......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "LawThinker：动态环境中的深度研究法律代理人",
-    "url": "https://huggingface.co/papers/2602.12056",
-    "time": 1770959594599,
-    "score": 4,
-    "summary": "法律推理不仅需要正确的结果，还需要符合程序的推理过程。然而，存在...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Voxtral 实时",
-    "url": "https://huggingface.co/papers/2602.11298",
-    "time": 1770959594599,
-    "score": 4,
-    "summary": "我们推出 Voxtral Realtime，一种本地流式自动语音识别模型，可匹配离线转录...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "f/prompts.chat: 又名很棒的 ChatGPT 提示。分享、发现并收集社区中的提示。免费和操作",
-    "url": "https://github.com/f/prompts.chat",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "⭐145.2k stars · HTML",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "在 macOS Tahoe 上调整窗口大小 – 传奇仍在继续",
-    "url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "297 points · 157 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "langchain-ai/langchain: 🦜🔗 可靠代理商的平台。",
-    "url": "https://github.com/langchain-ai/langchain",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "⭐126.6k stars · Python",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "跳过提示：选择“无提示”的游戏，但黑暗图案试图阻止您",
-    "url": "https://skipthe.tips/",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "159 points · 90 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "GPT-5.3-Codex-Spark",
-    "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "620 points · 251 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "DatoCMS 可视化编辑",
-    "url": "https://www.producthunt.com/products/dato-cms",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "AWS 增加了对嵌套虚拟化的支持",
-    "url": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "128 points · 51 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "hiyouga/LlamaFactory: 100多个LLM和VLM的统一高效微调（ACL 2024）",
-    "url": "https://github.com/hiyouga/LlamaFactory",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "⭐67.2k stars · Python",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "图表螺柱",
-    "url": "https://www.producthunt.com/products/chartstud-2",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "日本的渡渡鸟乐园，地球上最刺激的地方",
-    "url": "https://soranews24.com/2026/02/07/take-a-trip-to-japans-dododo-land-the-most-irritating-place-on-earth/",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "33 points · 6 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Polis：大规模公民审议的开源平台",
-    "url": "https://pol.is/home2",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "205 points · 78 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "在监视强烈反对后，Ring 取消了与 Flock Safety 的合作关系",
-    "url": "https://www.theverge.com/news/878447/ring-flock-partnership-canceled",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "301 points · 157 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "克劳兹",
-    "url": "https://www.producthunt.com/products/clawezy",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "一下午提高 15 个编码法学硕士学位。仅改变了背带",
-    "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "606 points · 236 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "焦点阅读",
-    "url": "https://www.producthunt.com/products/focalread-speed-read-anything",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "立方体",
-    "url": "https://www.producthunt.com/products/cube-dev",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "帕尔戈",
-    "url": "https://www.producthunt.com/products/palgo",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "港股午评：恒生指数跌1.79% AI双雄再创历史新高",
-    "url": "https://www.cls.cn/detail/2289349",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "【港股午评：恒生指数跌1.79% AI双雄再创历史新高】财联社2月13日电，港股午间收盘，恒生指数跌1.79%，恒生科技指数跌1.65%。港股“AI双雄”再发力...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "供电",
-    "url": "https://www.producthunt.com/products/powering",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "地下酒吧的粮仓",
-    "url": "https://www.producthunt.com/products/speakeasy-3",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "我的祖母是一名美联储——童年数字化的教训",
-    "url": "https://sampatt.com/blog/2025-12-13-my-grandma-was-a-fed-lessons-from-digitizing-hundreds-of-hours-of-childhood/",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "81 points · 20 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "林迪助理",
-    "url": "https://www.producthunt.com/products/lindy",
-    "time": 1770959594599,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
     "title": "CopilotKit/CopilotKit: 代理的堆栈前端堆栈。连接到任何代理框架并构建聊天 UI、生成 UI、F",
     "url": "https://github.com/CopilotKit/CopilotKit",
     "time": 1770959594599,
@@ -8996,6 +8645,357 @@
     "time": 1771171310207,
     "score": 2,
     "summary": "【国铁集团：网传今年春运绿皮车严重超员视频系历史画面拼凑】财联社2月15日电，经中国国家铁路集团有限公司客运中心组织技术分析和专家鉴定，网传2026年春运绿皮车...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "据《金融时报》报道，英伟达和 AMD 将向美国政府支付 15% 的中国芯片销售收入 - MSN",
+    "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxONTFnbTlxZnFzbVpxSWc1WUFpTWFWNmZuNEFVUWZ4UUVEeUFGMjFpaUw5S3hFTnBRMmMwR2hBdUZYU0lzVG9HbVluVlFDeHZPY1RIcTJpaDZiTjctSFU2Mmw2Uk45cXFQRXVibmVLcXZKdllGN3dpNTV5T19IRjg4eVNTUlowem9QaExZRHJadUhyN2JlNGo1cHVYYVNxYU9aMkxoakozRlVWOVB0YU5STGdSNG54M1ROQTIzdURVWFFxVkpwalNpYjcxMDhzZ0loeEsyTG45STRkeHltOWh3MlFrMjFDQ0lzd1NTYUppZTdxVW1DUTc2ekF5N1p3T3pWVkpvelpEZHpfbDlVdkxkVVFkY2tKRXZQUVFLS1ctazZBOHJVQXJQUURCVXhlOTZqOVVWUXFxTkFoM1pCS3YxSWpSWWtnanJUdjgyZExGVXMtVnJMS2tmN0cyUkd6OENJbU8tT29kVVMtaFZPd3hxY0loWGV3WWoxV2JaUTJUOWgtbUI1?oc=5",
+    "time": 1771185538473,
+    "score": 121,
+    "summary": "Nvidia and AMD to pay 15% of China chip sales revenues to the U.S. government, F...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "美光科技、AMD 和 Nvidia 如何帮助这只伟大的 ETF 将每月 500 美元变成 100 万美元 - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGNVWk5SdlByZHJwaGxnS0tlTTRzTzBTSmJFeTdFMFQwdC1VYjdUNS1DUy0ta2c4YmpOZW5ycHppNWNNSHlRaTk2TmFUbEttMnAwVHFadGc1VFRQWGJyR290VTM5SEV5eGtQT1RhaHUtYjVfUU1lb3VuWUh0cHctNEVtTQ?oc=5",
+    "time": 1771185538473,
+    "score": 110,
+    "summary": "Here's How Micron Technology, AMD, and Nvidia Could Help This Magnificent ETF Tu...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "回收核燃料有两个好处，其中之一有助于能源安全 - Energy News Beat",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSUNzTlJvdXo0TmVFdm5kR3dNQThXZjgzQ3otNlUwbXp5QjFWbVJYb2pEc1dIN1ZkN3lLWG1OR0tPc2FWTXdnNjBILVBMVGEzd21vWElkT240NHpFemJEZ2FPTnFsdTN5YTZXN1JlMDU1cmgzdTVqSi0tYU5qVlVnSWVOQVZlMzQ5UVlmT1VRYUJROF9nOFdqSnBSQmpwenZNR3YtN1ZHNHg?oc=5",
+    "time": 1771185538473,
+    "score": 16,
+    "summary": "Recycling Nuclear Fuel Has Two Benefits, and One of Those Helps Energy Security ...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "2 月份值得买入的 2 只核能股票 - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zdUJ3OUVfRlZCM1dxZmJuVHBpbXBlWGNVRjVRbGViOXFwdFpyNXJXRG9kZDBEbnNfaEQ5ZXgwMXpxNjRxVU5MdzhOZ1ljTVBxaGQzTmRueGJvUHlSUzEtaUZ0bEloRFZsTDFOc2JjQWxtY0xTLXh2OEw3cw?oc=5",
+    "time": 1771185538473,
+    "score": 15,
+    "summary": "2 Nuclear Energy Stocks to Buy in February AOL.com",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "AMD 数据中心的增长和新的 CMO 增强了人工智能的雄心 - Simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYzZvTGh2aGNnMlQ1T3ZFLS02Sy0yRjhsWFIzQlMtbHYwZzN0TkNzQWNMSTk1OEhlNm0xeHlfVUl4eUE5ZGNjZmlMOUJoRndjUjQ4MFJ1Q3AyTkxvUnM3MEk1MjFOdU9sSGtLVHNxRHc0MUVYZHphYm1zY2xtXzRqY05ucFU2ZVhJd3JRQm1kTVNPQi1kRVRndWZvQS1CZ0h3WmRXRklYUVlrSEtzajNFVFM4ME9UeFJjQ3lTX092aDVvckRGNjJ1d1B5Q09IamtEZ3pfZWFiN0xRLVRGVDVj?oc=5",
+    "time": 1771185538473,
+    "score": 12,
+    "summary": "AMD Data Center Growth And New CMO Add Weight To AI Ambitions simplywall.st",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "TechCrunch Mobility：Rivian 的救星",
+    "url": "https://techcrunch.com/2026/02/15/techcrunch-mobility-rivians-savior/",
+    "time": 1771185538473,
+    "score": 10,
+    "summary": "欢迎回到 TechCrunch Mobility——您获取关于交通未来的新闻和见解的中心中心...",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "爱泼斯坦的文件揭示了电动汽车初创公司和硅谷的哪些内容",
+    "url": "https://techcrunch.com/2026/02/15/what-the-epstein-files-reveal-about-ev-startups-and-silicon-valley/",
+    "time": 1771185538473,
+    "score": 10,
+    "summary": "爱泼斯坦的爆料是否会在硅谷引发更广泛的影响？",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "jeecgboot/JeecgBoot: 【AI低代码平台】AI低代码平台赋能企业快速开发低代码解决方案，打造A",
+    "url": "https://github.com/jeecgboot/JeecgBoot",
+    "time": 1771185538473,
+    "score": 10,
+    "summary": "⭐45.2k stars · Java",
+    "source": "GitHub·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Waymo 要求 DoorDash 司机关闭其自动驾驶汽车的车门",
+    "url": "https://techcrunch.com/2026/02/12/waymo-is-asking-doordash-drivers-to-shut-the-doors-of-its-self-driving-cars/",
+    "time": 1771185538473,
+    "score": 10,
+    "summary": "如果乘客不小心让 Waymo 车门打开，车辆可能会卡在原地。",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Rivian 在 2025 年被软件拯救",
+    "url": "https://techcrunch.com/2026/02/12/rivian-was-saved-by-software-in-2025/",
+    "time": 1771185538473,
+    "score": 10,
+    "summary": "该公司的年收入得益于与大众集团成立的技术合资企业。",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "TechCrunch Mobility：16B 美元足以建立一个盈利的机器人出租车业务吗？",
+    "url": "https://techcrunch.com/2026/02/08/techcrunch-mobility-is-16b-enough-to-build-a-profitable-robotaxi-business/",
+    "time": 1771185538473,
+    "score": 10,
+    "summary": "欢迎回到 TechCrunch Mobility——您获取关于交通未来的新闻和见解的中心中心...",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Didero 获得 3000 万美元资金，将制造采购置于“代理”自动驾驶仪上",
+    "url": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/",
+    "time": 1771185538473,
+    "score": 10,
+    "summary": "Didero 充当代理 AI 层，位于公司现有 ERP 之上，充当协作...",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "langgenius/dify: 用于代理工作流程开发的生产就绪平台。",
+    "url": "https://github.com/langgenius/dify",
+    "time": 1771185538473,
+    "score": 8,
+    "summary": "⭐129.7k stars · TypeScript",
+    "source": "GitHub·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "infiniflow/ragflow: RAGFlow 是一款领先的开源检索增强生成 (RAG) 引擎，融合了尖端技术",
+    "url": "https://github.com/infiniflow/ragflow",
+    "time": 1771185538473,
+    "score": 8,
+    "summary": "⭐73.3k stars · Python",
+    "source": "GitHub·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "马斯克需要为 SpaceX 和 xAI 制定新愿景。他降落在阿尔法月球基地。",
+    "url": "https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/",
+    "time": 1771185538473,
+    "score": 7,
+    "summary": "“我真的很想看到月球上有一个大规模驾驶员将人工智能卫星发射到深空。”",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "企业人工智能的领地抢夺已经开始。 Glean 正在构建界面下方的层。",
+    "url": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
+    "time": 1771185538473,
+    "score": 6,
+    "summary": "在本周的股票播客节目中，Glean 首席执行官 Arvind Jain 解释了该公司从...的转变",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "特朗普政府破坏美国环保局执行《清洁空气法》",
+    "url": "https://techcrunch.com/2026/02/12/trump-administration-undermines-epa-enforcement-of-clean-air-act/",
+    "time": 1771185538473,
+    "score": 6,
+    "summary": "EPA 的新规则旨在撤销 2009 年的一项调查结果，该调查结果允许联邦政府监管六项...",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "埃隆·马斯克 (Elon Musk) 表示，xAI 的大量退出是推动而非拉动",
+    "url": "https://techcrunch.com/2026/02/13/elon-musk-suggests-spate-of-xai-exits-have-been-push-not-pull/",
+    "time": 1771185538473,
+    "score": 6,
+    "summary": "过去至少有九名工程师（包括两名联合创始人）宣布退出 xAI……",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Lyft 向青少年开放打车应用",
+    "url": "https://techcrunch.com/2026/02/09/lyft-opens-its-ride-hailing-app-to-teens/",
+    "time": 1771185538473,
+    "score": 6,
+    "summary": "新的 Lyft 服务配备了许多护栏。只有父母或监护人才能创建青少年......",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "苹果正在努力使 CarPlay 与 ChatGPT 等人工智能聊天机器人兼容",
+    "url": "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/",
+    "time": 1771185538473,
+    "score": 6,
+    "summary": "苹果工程师正在努力在未来几个月内支持人工智能聊天机器人应用程序。",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "财报令人失望，Pinterest 声称其搜索量超过 ChatGPT",
+    "url": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
+    "time": 1771185538473,
+    "score": 6,
+    "summary": "Pinterest 的股价在盈利低于预期后暴跌，使用量高于预期是其唯一的亮点...",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Sam Altman 表示，印度每周有 1 亿活跃 ChatGPT 用户",
+    "url": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
+    "time": 1771185538473,
+    "score": 5,
+    "summary": "OpenAI 首席执行官 Sam Altman 表示，印度拥有全球最多的 ChatGPT 学生用户。",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Aurora 的无人驾驶卡车现在可以比人类司机更快地行驶更远的距离",
+    "url": "https://techcrunch.com/2026/02/12/auroras-driverless-trucks-can-now-travel-farther-distances-faster-than-human-drivers/",
+    "time": 1771185538473,
+    "score": 5,
+    "summary": "首席执行官 Chris Urmson 称这是一个“超人”时刻，并补充说 Aurora 的卡车现在可以运载货物......",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "随着传感器整合的继续，激光雷达制造商 Ouster 收购了视觉公司 StereoLabs",
+    "url": "https://techcrunch.com/2026/02/09/lidar-maker-ouster-buys-vision-company-stereolabs-as-sensor-consolidation-continues/",
+    "time": 1771185538473,
+    "score": 5,
+    "summary": "Ouster 将支付 3500 万美元以及 180 万股股票。",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Palantir 从纽约市公立医院获得数百万美元",
+    "url": "https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/",
+    "time": 1771185538473,
+    "score": 4,
+    "summary": "135 points · 41 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "LT6502：基于 6502 的自制笔记本电脑",
+    "url": "https://github.com/TechPaula/LT6502",
+    "time": 1771185538473,
+    "score": 3,
+    "summary": "159 points · 41 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "欧盟禁止销毁未售出的服装、服装、配饰和鞋类",
+    "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
+    "time": 1771185538473,
+    "score": 3,
+    "summary": "381 points · 271 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "走向自主数学研究",
+    "url": "https://arxiv.org/abs/2602.10177",
+    "time": 1771185538473,
+    "score": 3,
+    "summary": "27 points · 4 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Gwtar：静态高效的单文件 HTML 格式",
+    "url": "https://gwern.net/gwtar",
+    "time": 1771185538473,
+    "score": 3,
+    "summary": "100 points · 25 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "WebGL 中具有全局照明的实时路径跟踪",
+    "url": "https://erichlof.github.io/THREE.js-PathTracing-Renderer/",
+    "time": 1771185538473,
+    "score": 3,
+    "summary": "53 points · 7 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "世嘉所有游戏机的设计师佐藤英树去世",
+    "url": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
+    "time": 1771185538473,
+    "score": 3,
+    "summary": "201 points · 16 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Palantir 诉“Republik”：美国分析公司将杂志告上法庭",
+    "url": "https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html",
+    "time": 1771185538473,
+    "score": 3,
+    "summary": "112 points · 41 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "一名被奴役的园丁将山核桃变成了经济作物",
+    "url": "https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/",
+    "time": 1771185538473,
+    "score": 3,
+    "summary": "56 points · 36 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "美伊新一轮谈判在即 以总理：伊朗必须拆除核设施",
+    "url": "https://www.cls.cn/detail/2290678",
+    "time": 1771185538473,
+    "score": 2,
+    "summary": "【美伊新一轮谈判在即 以总理：伊朗必须拆除核设施】财联社2月16日电，以色列总理内塔尼亚胡当地时间15日发表讲话，针对加沙战后安排及伊朗核问题划定明确红线。在谈...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "财联社2月16日电，据德国地球科学研究中心（GFZ），千岛群岛地区发生6级地震。",
+    "url": "https://www.cls.cn/detail/2290677",
+    "time": 1771185538473,
+    "score": 2,
+    "summary": "财联社2月16日电，据德国地球科学研究中心（GFZ），千岛群岛地区发生6级地震。",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "缅甸要求东帝汶驻缅临时代办限时离境",
+    "url": "https://www.cls.cn/detail/2290674",
+    "time": 1771185538473,
+    "score": 2,
+    "summary": "【缅甸要求东帝汶驻缅临时代办限时离境】财联社2月16日电，缅甸外交部15日发表声明，要求东帝汶驻缅甸大使馆临时代办埃利西奥·多罗萨里奥·德索萨于20日前离境，缘...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "也门马里卜省一商场发生火灾 1死30伤",
+    "url": "https://www.cls.cn/detail/2290673",
+    "time": 1771185538473,
+    "score": 2,
+    "summary": "【也门马里卜省一商场发生火灾 1死30伤】财联社2月16日电，亚丁消息：据也门政府控制的萨巴通讯社15日报道，也门中部马里卜省一座商场当天凌晨发生火灾，造成至少...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "应急管理部紧急召开调度会督促加强烟花爆竹各环节安全监管",
+    "url": "https://www.cls.cn/detail/2290671",
+    "time": 1771185538473,
+    "score": 2,
+    "summary": "【应急管理部紧急召开调度会督促加强烟花爆竹各环节安全监管】财联社2月16日电，应急管理部2月15日晚紧急召开应急、消防系统调度会。认真贯彻落实习近平总书记重要指...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "伊朗外长启程参加第二轮伊美谈判",
+    "url": "https://www.cls.cn/detail/2290670",
+    "time": 1771185538473,
+    "score": 2,
+    "summary": "【伊朗外长启程参加第二轮伊美谈判】财联社2月16日电，伊朗外长阿拉格齐率领伊朗谈判代表团当地时间15日晚启程前往瑞士日内瓦，参加第二轮伊美谈判和其他外交活动。",
     "source": "财联社·宏观",
     "region": "🇨🇳"
   }
