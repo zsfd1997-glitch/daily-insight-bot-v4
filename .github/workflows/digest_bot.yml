@@ -1,0 +1,33 @@
+name: Daily Digest Bot
+
+on:
+  schedule:
+    # 每天北京时间 22:00 运行 (UTC 14:00)
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  run-digest:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '18'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run Digest Bot
+      env:
+        EMAIL_USER: ${{ secrets.EMAIL_USER }}
+        EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+        RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+      run: node digest_bot.js
