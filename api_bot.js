@@ -194,20 +194,33 @@ async function generateAIQuestions(items) {
   }
 
   try {
-    const prompt = `你是资深的AI与科技行业分析师。基于以下今天的顶尖科技新闻，提出 3 个极其深刻、有启发性的延伸思考问题（每个问题附带一小句解释为什么这很重要）。
-新闻：
+    const systemPrompt = `你是一位硅谷顶配风投(VC)合伙人与前沿技术分析师。你拥有极强的洞察力，能穿透新闻表象，看到底层的商业杠杆、技术奇点和范式转移。
+【你的语言特征】
+1. 极其精准、犀利、克制，拒绝任何平庸的“正确的废话”。
+2. 擅长使用真实的商业和硬科技中文术语（如：飞轮效应、算力霸权、心智模型、边际成本、网络效应、技术生态重构、降维打击等）。
+3. 你的问题往往带有“反直觉”的跨学科交叉视野，直击商业本质。
+4. 绝不能出现僵硬的“机器翻译腔”，句子结构必须符合中国顶尖行业分析师的地道表达习惯。`;
+
+    const userPrompt = `仔细阅读以下今日最核心的科技/AI突破新闻，并生成 3 个极其深刻的真实世界延伸思考拷问。
+
+【新闻上下文】
 ${topItems}
 
-要求：
-1. 直接输出 3 个问题，尽量使用 Markdown 格式的无序或有序列表。
-2. 问题必须紧扣商业模式、技术演进趋势或人类生活变革，拒绝平庸。
-3. 中文输出。`;
+【生成要求】
+1. 必须精准输出 3 个节点，使用 Markdown 无序列表格式 (\`-\`)。
+2. 每个节点的结构必须严格为：
+   - **核心拷问**：加粗，一句话，锋利干脆。
+   - 极简点评：无前缀，直接用灰色简述为什么它致命的重要（限30字内）。
+3. 绝对不要加任何寒暄（如“你好”、“基于以上”）、不要任何解释性和客套的废话结尾。直接给我列表。`;
 
     const response = await axios.post(`${baseUrl}/chat/completions`, {
       model: process.env.OPENAI_MODEL || 'gpt-3.5-turbo',
-      messages: [{ role: 'user', content: prompt }],
-      temperature: 0.7,
-      max_tokens: 300
+      messages: [
+        { role: 'system', content: systemPrompt },
+        { role: 'user', content: userPrompt }
+      ],
+      temperature: 0.5,
+      max_tokens: 350
     }, {
       headers: {
         'Authorization': `Bearer ${apiKey}`,
