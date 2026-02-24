@@ -171,6 +171,74 @@ function generateVisualHeader(items) {
   </div>`;
 }
 
+// --- LLM 延伸思考问题生成 ---
+async function generateAIQuestions(items) {
+  if (items.length === 0) return '';
+
+  const apiKey = process.env.OPENAI_API_KEY;
+  const baseUrl = process.env.OPENAI_BASE_URL || 'https://api.openai.com/v1';
+
+  // 提取前 5 条较高分的新闻标题和摘要作为 Context
+  const topItems = items.slice(0, 5).map(i => `- ${i.title} (${i.summary || ''})`).join('\n');
+
+  if (!apiKey) {
+    // 优雅降级：如果没有配置 API Key，展示引导提示，方便测试 UI
+    return `<div style="background:#fef9e7;border:1px solid #f9e79f;border-left:4px solid #f1c40f;border-radius:6px;padding:15px;margin-bottom:20px;">
+      <h3 style="color:#b7950b;margin:0 0 10px 0;font-size:16px;">🧠 延伸思考 (测试版)</h3>
+      <ul style="padding-left:20px;margin:0;color:#7d6608;font-size:14px;line-height:1.6;">
+        <li><strong>如何配置生效？</strong> 请在 Github Secrets (或本地 .env) 配置 <code>OPENAI_API_KEY</code> 即可启用本板块。</li>
+        <li><strong>会有什么效果？</strong> 将自动基于今日最热门的 5 条新闻，生成 3 个直击商业与技术本质的交叉反思问题。</li>
+        <li><strong>为什么要做这个？</strong> 阅读不仅仅是获取信息，更是建立独立思考模型、对抗碎片化的契机。</li>
+      </ul>
+    </div>`;
+  }
+
+  try {
+    const prompt = `你是资深的AI与科技行业分析师。基于以下今天的顶尖科技新闻，提出 3 个极其深刻、有启发性的延伸思考问题（每个问题附带一小句解释为什么这很重要）。
+新闻：
+${topItems}
+
+要求：
+1. 直接输出 3 个问题，尽量使用 Markdown 格式的无序或有序列表。
+2. 问题必须紧扣商业模式、技术演进趋势或人类生活变革，拒绝平庸。
+3. 中文输出。`;
+
+    const response = await axios.post(`${baseUrl}/chat/completions`, {
+      model: process.env.OPENAI_MODEL || 'gpt-3.5-turbo',
+      messages: [{ role: 'user', content: prompt }],
+      temperature: 0.7,
+      max_tokens: 300
+    }, {
+      headers: {
+        'Authorization': `Bearer ${apiKey}`,
+        'Content-Type': 'application/json'
+      },
+      timeout: 12000 // 12秒超时
+    });
+
+    const reply = response.data.choices[0].message.content;
+
+    // 将 Markdown 列表转成 HTML
+    const htmlList = reply.split('\n')
+      .filter(line => line.trim().startsWith('-') || line.trim().startsWith('*') || /^\d+\./.test(line.trim()))
+      .map(line => `<li style="margin-bottom:8px;">${line.replace(/^[-\*\d\.]+ /, '').replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')}</li>`)
+      .join('');
+
+    return `<div style="background:#fef9e7;border:1px solid #f9e79f;border-left:4px solid #f1c40f;border-radius:6px;padding:15px;margin-bottom:20px;">
+      <h3 style="color:#b7950b;margin:0 0 12px 0;font-size:16px;">🧠 延伸思考</h3>
+      <ul style="padding-left:20px;margin:0;color:#7d6608;font-size:14px;line-height:1.6;">
+        ${htmlList || '<li style="list-style:none;">' + reply.replace(/\\n/g, '<br/>') + '</li>'}
+      </ul>
+    </div>`;
+  } catch (error) {
+    console.error('LLM API Error:', error.message);
+    return `<div style="background:#fef9e7;border:1px solid #f9e79f;border-left:4px solid #f1c40f;border-radius:6px;padding:15px;margin-bottom:20px;">
+      <h3 style="color:#b7950b;margin:0 0 10px 0;font-size:16px;">🧠 延伸思考 (生成失败)</h3>
+      <p style="margin:0;font-size:14px;color:#7d6608;">LLM API 调用超时或出错 (${error.message})。</p>
+    </div>`;
+  }
+}
+
 // --- 翻译辅助 ---
 async function translateText(text) {
   try {
@@ -692,12 +760,15 @@ async function main() {
       ? `🔥 [Urgent] ${millionaireItems[0].title.substring(0, 30)}...`
       : titlePrefix;
 
+    const aiQuestionsHtml = await generateAIQuestions(freshItems);
+
     const finalHtml = `<div style="font-family:'Helvetica Neue', Arial, sans-serif; max-width:700px; margin:0 auto; color:#333; line-height:1.6; background-color:#FAFAFA; padding:20px; border-radius:10px;">
       <div style="text-align:center; padding-bottom:15px; margin-bottom:20px;">
         <h1 style="margin:0; font-size:22px; color:#111; letter-spacing:1px;">DAILY INSIGHT</h1>
         <p style="margin:5px 0 0; color:#666; font-size:12px; text-transform:uppercase;">Millionaire Edition v3.4</p>
       </div>
       ${generateVisualHeader(freshItems)}
+      ${aiQuestionsHtml}
       ${htmlContent}
       <div style="margin-top:40px; text-align:center; color:#ccc; font-size:12px;">
         Powered by Intelligent Analysis Engine • 新鲜 ${freshItems.length} 条 / 回顾 ${reviewItems.length} 条
