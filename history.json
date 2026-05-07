@@ -1,356 +1,5 @@
 [
   {
-    "title": "用于跨文档检索增强生成的分层抽象树",
-    "url": "https://huggingface.co/papers/2605.00529",
-    "time": 1778000935249,
-    "score": 9,
-    "summary": "检索增强生成（RAG）利用外部知识增强大型语言模型，基于树的 RAG 组织...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "PhysicianBench：在真实的 EHR 环境中评估 LLM 代理",
-    "url": "https://huggingface.co/papers/2605.02240",
-    "time": 1778000935249,
-    "score": 9,
-    "summary": "我们推出 PhysicianBench，这是一个评估 LLM 代理基于真实临床环境的医生任务的基准......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "langgenius/dify: 用于代理工作流程开发的生产就绪平台。",
-    "url": "https://github.com/langgenius/dify",
-    "time": 1778000935249,
-    "score": 8,
-    "summary": "⭐140.2k stars · TypeScript",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "EEVblog：555 计时器已经 55 岁了",
-    "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-    "time": 1778000935249,
-    "score": 8,
-    "summary": "48 points · 8 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Proliferate (YC S25) 正在招聘 - 初级工程师 20 万",
-    "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
-    "time": 1778000935249,
-    "score": 8,
-    "summary": "1 points · 0 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Async Rust 从未离开过 MVP 状态",
-    "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-    "time": 1778000935249,
-    "score": 8,
-    "summary": "357 points · 196 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Islo.dev 上的简单元线束",
-    "url": "https://zozo123.github.io/meta-harness-on-islo-page/",
-    "time": 1778000935249,
-    "score": 8,
-    "summary": "28 points · 16 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "随着人工智能模型的雄心壮志面临现实，印度首家 GenAI 独角兽转向云服务",
-    "url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
-    "time": 1778000935249,
-    "score": 7,
-    "summary": "Krutrim 在裁员和有限的产品更新后转向云计算反映了经济挑战......",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "由于数据中心电力需求激增 美国电力公司AEP将资本计划提高至780亿美元",
-    "url": "https://www.cls.cn/detail/2363120",
-    "time": 1778000935249,
-    "score": 7,
-    "summary": "【由于数据中心电力需求激增 美国电力公司AEP将资本计划提高至780亿美元】财联社5月5日电，美国电力公司（American Electric Power, A...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "PayPal 表示，它正在“再次成为一家科技公司”。这意味着人工智能。",
-    "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
-    "time": 1778000935249,
-    "score": 6,
-    "summary": "PayPal 正在推动人工智能主导的转型，将自动化和重组与节省 1.5B 美元联系起来，因为我...",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "NVDA 的现金产生量猛增：人工智能支出能否进一步提升现金流？ - 交易视图",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMHcyUjdrbWZsaWNTVzZJMDZacGgzdGpSank4REYzSVFXWm9JSHpGdzlMbWZJcXctTnVFQ2Z5OV9jQzM5ZDZ6NEFlN3lmNTFiZFAwVmZCR2lLa1diMmlLT1VHQWdWcnd3eV95dm9HaVpYX3E2Rl9Pb2tTOXhDeS1uUUF0cmtIcHJCSDFtWXJsUlBGOHNXMEpmLWI1LVpHUUNXQ2kzVU9RQU5jZGIxU3NkQzhGUWZqcldQSGpJZjNVald6dw?oc=5",
-    "time": 1778000935249,
-    "score": 6,
-    "summary": "NVDA's Cash Generation Soars: Can AI Spending Further Lift Cash Flows? TradingVi...",
-    "source": "基建·芯片",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Meta将使用AI分析身高和骨骼结构来识别用户是否未成年",
-    "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
-    "time": 1778000935249,
-    "score": 6,
-    "summary": "视觉分析系统目前正在部分国家/地区运行，但 Meta 表示，它正在努力......",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "表格基础模型的预先对齐数据清理",
-    "url": "https://huggingface.co/papers/2604.25154",
-    "time": 1778000935249,
-    "score": 5,
-    "summary": "表格基础模型（TFM）通过元学习在小型表格数据集上实现了最先进的零样本精度......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "为什么各行业正在转向表后电源 - NuScale Power",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZzJNNDgweWpfNmRRNnZabmJpeDloQldtc3pHUXB3OW1COHJZVEJDWGhUY0NfU09TR1VublVpTDJGYU1JRVFOaldxRTI2YmJWczdpTHctaWNfNm1QaGZEcHlYenZzcC00Z09Ta0xaSVdoSU1iSXJMSDVjV0sySzRva25LMi1Ka3RiTENtR2RtSTk0dkZYWVJhM2hGMHRSRjRIbG9sM21UM0p6ZDZQTnNr0gGvAUFVX3lxTE9nMk00ODB5al82ZFE2dlpuYml4OWhCV21zekdRcHc5bUI4cllUQkNYaFRjQ19TT1NHVW5uVWlMMkZhTUlFUU5qV3FFMjZiYlZzN2lMdy1pY182bVBoZkRweVh6dnNwLTRnT1NrTFpJV2hJTWJJckxINWNXSzJLNG9rbksyLUprdGJMQ21HZG1JOTR2RlhZUmEzaEYwdFJGNEhsb2wzbVQzSnpkNlBOc2s?oc=5",
-    "time": 1778000935249,
-    "score": 5,
-    "summary": "Why Industries Are Moving to Behind-the-Meter Power NuScale Power",
-    "source": "基建·能源",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "mudler/LocalAI: LocalAI 是开源人工智能引擎。在任何设备上运行任何模型 - 法学硕士、视觉、语音、图像、视频",
-    "url": "https://github.com/mudler/LocalAI",
-    "time": 1778000935249,
-    "score": 5,
-    "summary": "⭐46.1k stars · Go",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "科氪 | 张雪机车再夺冠军！荣耀宣布推出张雪机车冠军联名款手表",
-    "url": "https://36kr.com/p/3792228036615430?f=rss",
-    "time": 1778000935249,
-    "score": 5,
-    "summary": "在2026世界超级摩托车锦标赛（WSBK）匈牙利站WorldSSP组别第一回合正赛中，中国摩托车制造商张雪机车的法国车手瓦伦丁·德比斯通过最后时刻的反超绝杀夺得...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "人工智能的三个逆定律",
-    "url": "https://susam.net/inverse-laws-of-robotics.html",
-    "time": 1778000935249,
-    "score": 4,
-    "summary": "126 points · 69 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Docker 29 更改了新安装的默认映像存储",
-    "url": "https://docs.docker.com/engine/storage/containerd",
-    "time": 1778000935249,
-    "score": 4,
-    "summary": "78 points · 39 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "AI产品墓地",
-    "url": "https://tooldirectory.ai/ai-graveyard",
-    "time": 1778000935249,
-    "score": 4,
-    "summary": "191 points · 77 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "显示 HN：Airbyte Agents – 跨多个数据源的代理上下文",
-    "url": "https://news.ycombinator.com/item?id=48023496",
-    "time": 1778000935249,
-    "score": 4,
-    "summary": "34 points · 3 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "黑石集团、KKR正就接入谷歌的AI模型与Alphabet进行谈判",
-    "url": "https://www.cls.cn/detail/2363132",
-    "time": 1778000935249,
-    "score": 4,
-    "summary": "【黑石集团、KKR正就接入谷歌的AI模型与Alphabet进行谈判】财联社5月6日电，黑石集团、KKR正与Alphabet进行谈判，以便让他们所拥有的公司能够接...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "自我人工智能",
-    "url": "https://www.producthunt.com/products/mox-data",
-    "time": 1778000935249,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "英国：市场强劲反弹，第 200 万辆电动汽车注册",
-    "url": "https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/",
-    "time": 1778000935249,
-    "score": 3,
-    "summary": "57 points · 32 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "加速 Gemma 4：使用多令牌预测起草器进行更快的推理",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-    "time": 1778000935249,
-    "score": 3,
-    "summary": "46 points · 9 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "计算机使用比结构化 API 贵 45 倍",
-    "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-    "time": 1778000935249,
-    "score": 3,
-    "summary": "21 points · 1 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "人才操作系统",
-    "url": "https://www.producthunt.com/products/talentos-2",
-    "time": 1778000935249,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "金融服务和保险代理",
-    "url": "https://www.anthropic.com/news/finance-agents",
-    "time": 1778000935249,
-    "score": 3,
-    "summary": "87 points · 67 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "财联社5月6日电，英伟达与Servicenow在面向企业的AI代理方面进行合作。",
-    "url": "https://www.cls.cn/detail/2363139",
-    "time": 1778000935249,
-    "score": 3,
-    "summary": "财联社5月6日电，英伟达与Servicenow在面向企业的AI代理方面进行合作。",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "美国证券交易委员会公布允许企业每半年发布财报的提案",
-    "url": "https://www.cls.cn/detail/2363125",
-    "time": 1778000935249,
-    "score": 3,
-    "summary": "【美国证券交易委员会公布允许企业每半年发布财报的提案】财联社5月5日电，美国证券交易委员会(SEC)提议修改规则，允许企业以新的10-S表格形式提交半年度报告，...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "🎉Token自由-Ollama部署本地大模型超详细操作指南",
-    "url": "https://juejin.cn/post/7634768133992759296",
-    "time": 1778000935249,
-    "score": 3,
-    "summary": "",
-    "source": "掘金·AI",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "俄外交部：需警惕波斯湾地区再度爆发武装冲突",
-    "url": "https://www.cls.cn/detail/2363137",
-    "time": 1778000935249,
-    "score": 2,
-    "summary": "【俄外交部：需警惕波斯湾地区再度爆发武装冲突】财联社5月6日电，俄罗斯外交部发言人扎哈罗娃5日说，波斯湾地区的调解和谈判进程已陷入停滞，各方应保持最大限度克制与...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "伊朗警告霍尔木兹海峡通行船只：偏离指定航道将面临“坚决回应”",
-    "url": "https://www.cls.cn/detail/2363136",
-    "time": 1778000935249,
-    "score": 2,
-    "summary": "【伊朗警告霍尔木兹海峡通行船只：偏离指定航道将面临“坚决回应”】财联社5月6日电，伊朗伊斯兰革命卫队海军司令部当地时间5月5日发表声明，再次警告所有计划通过霍尔...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "财联社5月6日电，据报道，特朗普施压美国食品药品监督管理局（FDA）局长批准调味电子烟。",
-    "url": "https://www.cls.cn/detail/2363134",
-    "time": 1778000935249,
-    "score": 2,
-    "summary": "财联社5月6日电，据报道，特朗普施压美国食品药品监督管理局（FDA）局长批准调味电子烟。",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "秘鲁通贝斯大区发生5.0级地震",
-    "url": "https://www.cls.cn/detail/2363133",
-    "time": 1778000935249,
-    "score": 2,
-    "summary": "【秘鲁通贝斯大区发生5.0级地震】财联社5月6日电，秘鲁西北部通贝斯大区当地时间5月5日上午发生5.0级地震。据秘鲁地球物理研究所发布的信息，地震发生于当地时间...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "特朗普：伊朗“知道什么不该做”",
-    "url": "https://www.cls.cn/detail/2363131",
-    "time": 1778000935249,
-    "score": 2,
-    "summary": "【特朗普：伊朗“知道什么不该做”】财联社5月6日电，美国总统特朗普5日在白宫参加活动期间被媒体提问“伊朗的什么行为算违反停火”时，回答称：“他们（伊朗）知道什么...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "以军总参谋长：若伊朗袭击以色列 以军已做好回应准备",
-    "url": "https://www.cls.cn/detail/2363130",
-    "time": 1778000935249,
-    "score": 2,
-    "summary": "【以军总参谋长：若伊朗袭击以色列 以军已做好回应准备】财联社5月6日电，以色列国防军总参谋长扎米尔当地时间5月5日表示，如果伊朗在海湾局势升级之际袭击以色列，军...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "巴基斯坦外长：相信调解结束美伊冲突能取得“重大进展”",
-    "url": "https://www.cls.cn/detail/2363128",
-    "time": 1778000935249,
-    "score": 2,
-    "summary": "【巴基斯坦外长：相信调解结束美伊冲突能取得“重大进展”】财联社5月6日电，巴基斯坦副总理兼外交部长达尔5日晚表示，巴方正持续努力调解结束美伊冲突，并相信能够取得...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "CBOT小麦日内跌幅达2%",
-    "url": "https://www.cls.cn/detail/2363126",
-    "time": 1778000935249,
-    "score": 2,
-    "summary": "【CBOT小麦日内跌幅达2%】财联社5月5日电，CBOT小麦日内跌幅达2%，报625.25美分/蒲式耳。",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "财联社5月5日电，法国总统马克龙将提名穆兰为法国中央银行行长。",
-    "url": "https://www.cls.cn/detail/2363124",
-    "time": 1778000935249,
-    "score": 2,
-    "summary": "财联社5月5日电，法国总统马克龙将提名穆兰为法国中央银行行长。",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
     "title": "欧盟航空安全局将中东冲突空域飞行警告延长至5月12日",
     "url": "https://www.cls.cn/detail/2363123",
     "time": 1778000935249,
@@ -8996,6 +8645,357 @@
     "time": 1778174833676,
     "score": 2,
     "summary": "【马士基：中东战事加剧全球贸易和物流不确定性】财联社5月7日电，丹麦航运巨头马士基7日在财报中表示，地缘政治正成为影响宏观经济以及贸易和物流的主导因素，中东战事...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "OpenAI 为可能的自残案件引入了新的“可信联系人”保护措施",
+    "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+    "time": 1778187182739,
+    "score": 107,
+    "summary": "该公司正在加大力度保护 ChatGPT 用户，以防对话可能会发生变化……",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "埃隆·马斯克的诉讼将 OpenAI 的安全记录置于显微镜下",
+    "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+    "time": 1778187182739,
+    "score": 106,
+    "summary": "埃隆·马斯克（Elon Musk）拆除 OpenAI 的法律努力可能取决于其营利性子公司如何增强或......",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "英伟达首席执行官黄仁勋警告称，如果中国华为获得人工智能优势，将会出现“可怕的结果” - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd3VSVEdpZHp1SWh3QVpmbjZBRzhqVUpPdEtJTndBSWpVZ0hKLU52dE01eDVGdHJ5eUQtUy1CUm03ZGZoOGdTSzQ3VmlGZFVTSm5DaVhTSllRcC00RXlzNnYxVTFZbDEwdXFaS1YwMVZKMGVrVWJXN2RzcHNfWG5YeHNTWUd0cld5TllaT3F1Q1FzN1hKaGozREVKX3g3MnJCRjlENm9KcURILVZqYm9iR3ZXcmVBd2pKbjE0MU9neXQtLTQ3MmZMUWRraktsNm1ocmc?oc=5",
+    "time": 1778187182739,
+    "score": 106,
+    "summary": "Nvidia CEO Jensen Huang Warns of 'Horrible Outcome' if China's Huawei Gains AI A...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "自然语言自动编码器：将克劳德的想法转化为文本",
+    "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+    "time": 1778187182739,
+    "score": 103,
+    "summary": "94 points · 31 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "分析师：忘记芯片周期吧，因为人工智能需求已经永久改变了半导体定价 - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN25GZUNGOEFYTXNrSm80M0Q1LXVycHphOHpOZG1pLVFUME1ZbWNtSXpZUmFRSWR2cmtzcjdIVWZKMXhVRmxuVjk1NEdzVmR5LUVXTnpoOWp5X0tMU1lkLXA4QW1DazRoT0NaZlhWTzBkYkZBTEpzdW5KV1NISHRDWEhrUQ?oc=5",
+    "time": 1778187182739,
+    "score": 16,
+    "summary": "Analyst: Forget the Chip Cycle, Because AI Demand Has Permanently Rewired Semico...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Cathie Wood 谈论 SpaceX 的“贪婪”胃口以及特斯拉推动机器人出租车获胜的优势 - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdnRscmROakxZeWRXSzFHbW80SGNwbl9NQ1NseDUyNzVVdF9tajNldVF5VGFUVUZNS09JZ0VwV1FGNFMxUEVCZVpkZl9mdm9HcTBKNUFiam5ER2VVN3F5c0RSQmhxdTdVX0IyNURpWU1PMy03TXJ2R2p5NGRrWWRZYmNjUWZBdGFIeC0xNGlKM3czVjdSd084QVoxZ19IV0p5aURlQ2IxQ0FTWElrNnNuOFlCd1FqdEZ6UnJFRmx0ajdmSlJiLUV0ZURuU3lmczJGY2c3Q2VIYjZTTFZXSnRibndaZ1kzSTRudXA3MGRUSQ?oc=5",
+    "time": 1778187182739,
+    "score": 15,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "特斯拉 Model Y 是第一款满足美国新驾驶员辅助安全基准的汽车",
+    "url": "https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark/",
+    "time": 1778187182739,
+    "score": 12,
+    "summary": "新的基准评级适用于 2026 年 11 月 12 日或之后组装的 2026 款特斯拉 Model Y 车辆...",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Perplexity 的个人电脑现已可供 Mac 上的所有人使用",
+    "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+    "time": 1778187182739,
+    "score": 11,
+    "summary": "Perplexity 的个人电脑将 AI 代理带到了您的 Mac 上，现在向所有人开放。",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Rivian 即将推出更多 R2 型号 - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0ZWQ2WmwtWkVGWWNDTXNKb0pVTG5zTF9leHZ4MmdBbUJYcEl4R1lUZFB2ODRKaFkzZXlnY2tadG80WUFnbklXRThnWkhkV0hiN01VLUJtaTNuemRjZ1VocTkxZDctTG14QUJhaUx2Tmw3RElTSkFxVA?oc=5",
+    "time": 1778187182739,
+    "score": 11,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "肯塔基州最大的公用事业公司正在考虑使用小型核反应堆为数据中心供电 - MSN",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVDVOdldTSU9zZ0RmQUtPUDA2Zm0wd2JRWDNVbjJEWTl1QTlMSUx6NGZXSlhsV2JkRnZYWUhtdzc2b0czUkFlSlVZd0Ixb3V3Ymx6UWxpMmkyTmZxUVNGQWxLdXdfRGV6Zm9UT0hVbmhEWEJuc19GRHhWc0NJU21Yc3JERkdVTXpkVTk2X2FoRmlYZWxrZW9SVUdDM0JjdlF1QTkzN1Y0NzZyeWNYRmV5Qk0xZ0djb1JUcXRMdlREOFFQMFYwb1hocFRRdVpGalk?oc=5",
+    "time": 1778187182739,
+    "score": 10,
+    "summary": "KY's largest utilities are eyeing small nuclear reactors to power data centers M...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "玻利维亚政府拟出台新电力法吸引私人投资",
+    "url": "https://www.cls.cn/detail/2365473",
+    "time": 1778187182739,
+    "score": 7,
+    "summary": "【玻利维亚政府拟出台新电力法吸引私人投资】财联社5月8日电，玻利维亚政府7日推出《电力和可再生能源法》草案，拟通过开放电力市场、引入可再生能源并完善行业监管，推...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "杰夫·贝佐斯 (Jeff Bezos) 代表离开 Slate Auto 董事会",
+    "url": "https://techcrunch.com/2026/05/07/jeff-bezos-rep-leaves-slate-autos-board/",
+    "time": 1778187182739,
+    "score": 5,
+    "summary": "梅琳达·刘易森 (Melinda Lewison) 的离职引发了人们对贝佐斯对这家初创公司的支持和参与的质疑。",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "首席执行官表示，Bumble 正在取消滑动操作",
+    "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+    "time": 1778187182739,
+    "score": 5,
+    "summary": "根据 Whitney Wolfe Herd 过去对 Bumble 新方向的评论，该公司预计...",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "今日股市，4 月 30 日：Aurora Innovation 借助 Hirschbach 的 500 辆卡车自动货运计划跃升 - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xMVIyRjF2UWc0dDdYQmREdVREU2pfN3ZkSjRyWmdFdXpWYUxKYy1CX1N3bUg4N3B6ejNXOC1ZNmRuY21OQ1VtMUt2Vi1jOFZfaGU2OFFIQ2ZjTXkwSVk0ajliZzE5alVfMG9tZlpPU3dCN2lrRjJ3QS13?oc=5",
+    "time": 1778187182739,
+    "score": 5,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "KindER：机器人学习和规划的物理推理基准",
+    "url": "https://huggingface.co/papers/2604.25788",
+    "time": 1778187182739,
+    "score": 4,
+    "summary": "与物理世界交互的机器人系统必须推理由......施加的运动学和动态约束。",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Dirtyfrag：通用 Linux LPE",
+    "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+    "time": 1778187182739,
+    "score": 3,
+    "summary": "112 points · 46 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "建设未来",
+    "url": "https://blog.cloudflare.com/building-for-the-future/",
+    "time": 1778187182739,
+    "score": 3,
+    "summary": "42 points · 10 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "彩色阴影半影",
+    "url": "https://chosker.github.io/blog/colored-shadow-penumbra",
+    "time": 1778187182739,
+    "score": 3,
+    "summary": "17 points · 3 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "我想像 Costco 人一样生活",
+    "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
+    "time": 1778187182739,
+    "score": 3,
+    "summary": "127 points · 298 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "代理本机 CLI 的原则",
+    "url": "https://twitter.com/trevin/status/2051316002730991795",
+    "time": 1778187182739,
+    "score": 3,
+    "summary": "29 points · 15 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "伊朗首都德黑兰西部传来巨响",
+    "url": "https://www.cls.cn/detail/2365479",
+    "time": 1778187182739,
+    "score": 2,
+    "summary": "【伊朗首都德黑兰西部传来巨响】财联社5月8日电，据伊朗伊斯兰共和国通讯社7日报道，伊朗首都德黑兰西部地区当天夜间传来两声巨响，随后几分钟内响起防空武器密集开火的...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "英伟达与IREN宣布达成战略合作",
+    "url": "https://www.cls.cn/detail/2365478",
+    "time": 1778187182739,
+    "score": 2,
+    "summary": "【英伟达与IREN宣布达成战略合作】财联社5月8日电，英伟达与IREN宣布达成战略合作，以加速部署高达5吉瓦的人工智能基础设施。英伟达获得了一项五年期认购权，可...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "伊朗首都德黑兰西部启动防空系统",
+    "url": "https://www.cls.cn/detail/2365477",
+    "time": 1778187182739,
+    "score": 2,
+    "summary": "【伊朗首都德黑兰西部启动防空系统】财联社5月8日电，伊朗首都德黑兰西部当地时间7日夜间启动防空系统，以应对数架小型飞行器。 (央视新闻)",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "财联社5月8日电，美联储威廉姆斯表示，正密切关注政府债务，美国政府债务出现大量需求。",
+    "url": "https://www.cls.cn/detail/2365475",
+    "time": 1778187182739,
+    "score": 2,
+    "summary": "财联社5月8日电，美联储威廉姆斯表示，正密切关注政府债务，美国政府债务出现大量需求。",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "伊防空力量在阿巴斯港和格什姆岛上空击落“敌对飞行器”",
+    "url": "https://www.cls.cn/detail/2365474",
+    "time": 1778187182739,
+    "score": 2,
+    "summary": "【伊防空力量在阿巴斯港和格什姆岛上空击落“敌对飞行器”】财联社5月8日电，伊朗防空力量当地时间7日在南部阿巴斯港及格什姆岛上空击落两架“敌对飞行器”。伊朗官方目...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "财联社5月8日电，爱彼迎预计第二季度收入为35.4亿美元至36亿美元，市场预计为34.6亿美元。",
+    "url": "https://www.cls.cn/detail/2365472",
+    "time": 1778187182739,
+    "score": 2,
+    "summary": "财联社5月8日电，爱彼迎预计第二季度收入为35.4亿美元至36亿美元，市场预计为34.6亿美元。",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "CoreWeave一季度营收20.78亿美元",
+    "url": "https://www.cls.cn/detail/2365471",
+    "time": 1778187182739,
+    "score": 2,
+    "summary": "【CoreWeave一季度营收20.78亿美元】财联社5月8日电，CoreWeave一季度营收20.78亿美元，IBES预期19.65亿美元。一季度调整后息税折...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "伊军方人士称霍尔木兹海峡内敌方单位遭伊朗导弹打击",
+    "url": "https://www.cls.cn/detail/2365470",
+    "time": 1778187182739,
+    "score": 2,
+    "summary": "【伊军方人士称霍尔木兹海峡内敌方单位遭伊朗导弹打击】财联社5月8日电，一名伊朗军方人士当地时间7日表示，在美军对一艘伊朗油轮发动袭击后，霍尔木兹海峡内的“敌方单...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "利弗莫尔中概股龙头指数收跌1.06%",
+    "url": "https://www.cls.cn/detail/2365469",
+    "time": 1778187182739,
+    "score": 2,
+    "summary": "【利弗莫尔中概股龙头指数收跌1.06%】财联社5月8日电，利弗莫尔中概股龙头指数收跌1.06%。成分股中，富途控股跌超13%，向上融科跌超7%，小马智行、再鼎医...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "美股高开低走 三大指数集体收跌",
+    "url": "https://www.cls.cn/detail/2365468",
+    "time": 1778187182739,
+    "score": 2,
+    "summary": "【美股高开低走 三大指数集体收跌】财联社5月8日电，美股高开低走，三大指数集体收跌，道指跌0.63%，标普500指数跌0.38%，纳指跌0.13%。英伟达股价上...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "美国财长贝森特与保险监管机构会谈 讨论私募信贷问题",
+    "url": "https://www.cls.cn/detail/2365467",
+    "time": 1778187182739,
+    "score": 2,
+    "summary": "【美国财长贝森特与保险监管机构会谈 讨论私募信贷问题】财联社5月8日电，美国财政部长斯科特·贝森特与保险监管机构会晤，讨论其对私募信贷的敞口问题。随着两大领域联...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "伊朗阿巴斯港附近发生爆炸",
+    "url": "https://www.cls.cn/detail/2365466",
+    "time": 1778187182739,
+    "score": 2,
+    "summary": "【伊朗阿巴斯港附近发生爆炸】财联社5月8日电，据伊朗法尔斯通讯社7日报道，伊朗阿巴斯港附近当天发生爆炸，在伊朗武装力量与敌方交火过程中，附近码头地区的部分商业设...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "美联储威廉姆斯：目前经济中存在很多不确定性",
+    "url": "https://www.cls.cn/detail/2365465",
+    "time": 1778187182739,
+    "score": 2,
+    "summary": "【美联储威廉姆斯：目前经济中存在很多不确定性】财联社5月8日电，美联储威廉姆斯表示，目前经济中存在很多不确定性，去年经济表现好于许多人的预期，经济在稳定的就业市...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "美国务卿批准向中东国家出售价值258亿美元的武器",
+    "url": "https://www.cls.cn/detail/2365463",
+    "time": 1778187182739,
+    "score": 2,
+    "summary": "【美国务卿批准向中东国家出售价值258亿美元的武器】财联社5月8日电，美国国务卿鲁比奥当地时间5月7日批准向中东伙伴国出售数百枚防空拦截弹及其他武器，相关交易总...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "在岸人民币兑美元较周三夜盘收盘涨65点",
+    "url": "https://www.cls.cn/detail/2365462",
+    "time": 1778187182739,
+    "score": 2,
+    "summary": "【在岸人民币兑美元较周三夜盘收盘涨65点】财联社5月8日电，在岸人民币兑美元（CNY）北京时间03:00收报6.8068元，较周三夜盘收盘涨65点。成交量565...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "俄罗斯国防部宣布8日零时起至10日前停火",
+    "url": "https://www.cls.cn/detail/2365461",
+    "time": 1778187182739,
+    "score": 2,
+    "summary": "【俄罗斯国防部宣布8日零时起至10日前停火】财联社5月8日电，俄罗斯国防部7日通过社交媒体宣布，在纪念苏联伟大卫国战争胜利81周年之际，俄方将从8日零时起至10...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "财联社5月8日电，美国3月消费者信贷余额增248亿美元，2月消费者信贷余额从增95亿美元修正至增89亿美元。",
+    "url": "https://www.cls.cn/detail/2365460",
+    "time": 1778187182739,
+    "score": 2,
+    "summary": "财联社5月8日电，美国3月消费者信贷余额增248亿美元，2月消费者信贷余额从增95亿美元修正至增89亿美元。",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "财联社5月8日电，墨西哥央行将隔夜利率从6.75%下调至6.50%。",
+    "url": "https://www.cls.cn/detail/2365459",
+    "time": 1778187182739,
+    "score": 2,
+    "summary": "财联社5月8日电，墨西哥央行将隔夜利率从6.75%下调至6.50%。",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "伊朗外交部发言人：最高领袖穆杰塔巴全面掌控局势",
+    "url": "https://www.cls.cn/detail/2365458",
+    "time": 1778187182739,
+    "score": 2,
+    "summary": "【伊朗外交部发言人：最高领袖穆杰塔巴全面掌控局势】财联社5月8日电，伊朗外交部发言人当地时间7日表示，伊朗最高领袖穆杰塔巴·哈梅内伊对当前各项事务和局势发展进行...",
     "source": "财联社·宏观",
     "region": "🇨🇳"
   }
