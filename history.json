@@ -1,419 +1,5 @@
 [
   {
-    "title": "FlowCompile：结构化 LLM 工作流程的优化编译器",
-    "url": "https://huggingface.co/papers/2605.13647",
-    "time": 1778809549042,
-    "score": 4,
-    "summary": "结构化的 LLM 工作流程（其中专门的 LLM 子代理根据预定义的图表执行）已成为强大的...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "关于 DS4 的几句话",
-    "url": "https://antirez.com/news/165",
-    "time": 1778809549042,
-    "score": 3,
-    "summary": "139 points · 42 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Codex 现已位于 ChatGPT 移动应用程序中",
-    "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-    "time": 1778809549042,
-    "score": 3,
-    "summary": "171 points · 81 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "RISC-V路由器",
-    "url": "https://router.start9.com/",
-    "time": 1778809549042,
-    "score": 3,
-    "summary": "70 points · 34 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "AI应用端异动拉升 引力传媒涨停",
-    "url": "https://www.cls.cn/detail/2371993",
-    "time": 1778809549042,
-    "score": 3,
-    "summary": "【AI应用端异动拉升 引力传媒涨停】财联社5月15日电，AI应用端盘中逆势拉升，引力传媒涨停，粤传媒触及涨停，浙文互联、易点天下、壹网壹创、天龙集团等跟涨。消息...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "美国百分之六十以上的地区正在经历干旱",
-    "url": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
-    "time": 1778809549042,
-    "score": 3,
-    "summary": "85 points · 29 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "水晶",
-    "url": "https://www.producthunt.com/products/crystal-7",
-    "time": 1778809549042,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "中芯国际赵海军：公司高度重视市值管理工作",
-    "url": "https://www.cls.cn/detail/2372000",
-    "time": 1778809549042,
-    "score": 2,
-    "summary": "【中芯国际赵海军：公司高度重视市值管理工作】财联社5月15日电，在今日的一季报业绩说明会上，中芯国际联合CEO赵海军表示，当前全球宏观环境仍面临诸多不确定性，对...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "港股科网股多数走低 哔哩哩哔跌近8%",
-    "url": "https://www.cls.cn/detail/2371997",
-    "time": 1778809549042,
-    "score": 2,
-    "summary": "【港股科网股多数走低 哔哩哩哔跌近8%】财联社5月15日电，截至发稿，哔哩哔哩-W(09626.HK)跌7.66%，网易-S(09999.HK)跌2.83%，京...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "中芯国际赵海军：对今年整体运营情况更加乐观",
-    "url": "https://www.cls.cn/detail/2371994",
-    "time": 1778809549042,
-    "score": 2,
-    "summary": "【中芯国际赵海军：对今年整体运营情况更加乐观】财联社5月15日电，在今日的一季报业绩说明会上，中芯国际联合CEO赵海军表示，基于客户需求和在手订单情况，相较于上...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "体育概念震荡走强 粤传媒冲击涨停",
-    "url": "https://www.cls.cn/detail/2371992",
-    "time": 1778809549042,
-    "score": 2,
-    "summary": "【体育概念震荡走强 粤传媒冲击涨停】财联社5月15日电，体育概念震荡走强，粤传媒冲击涨停，金陵体育、共创草坪、舒华体育、中体产业跟涨。消息面上，中央财政近日继续...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "财联社5月15日电，恒生科技指数跌幅扩大至1%，现报5022.86点。",
-    "url": "https://www.cls.cn/detail/2371990",
-    "time": 1778809549042,
-    "score": 2,
-    "summary": "财联社5月15日电，恒生科技指数跌幅扩大至1%，现报5022.86点。",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "港股半导体股延续涨势 中芯国际涨超6%",
-    "url": "https://www.cls.cn/detail/2371989",
-    "time": 1778809549042,
-    "score": 2,
-    "summary": "【港股半导体股延续涨势 中芯国际涨超6%】财联社5月15日电，截至发稿，中芯国际(00981.HK)涨6.15%，长光辰芯(03277.HK)涨2.95%，国民...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "CPO概念反复走强 铭普光磁涨停续创历史新高",
-    "url": "https://www.cls.cn/detail/2371986",
-    "time": 1778809549042,
-    "score": 2,
-    "summary": "【CPO概念反复走强 铭普光磁涨停续创历史新高】财联社5月15日电，CPO概念近期反复走强，铭普光磁涨停，续创历史新高，长盈通、光莆股份、富信科技涨超10%，致...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "环氧树脂概念表现活跃 康达新材触及涨停",
-    "url": "https://www.cls.cn/detail/2371985",
-    "time": 1778809549042,
-    "score": 2,
-    "summary": "【环氧树脂概念表现活跃 康达新材触及涨停】财联社5月15日电，环氧树脂概念表现活跃，康达新材触及涨停，回天新材、华海诚科、阿科力跟涨。消息面上，住友电木5月14...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "中芯国际赵海军：公司与客户协商上调定价 涨价效应逐步体现",
-    "url": "https://www.cls.cn/detail/2371987",
-    "time": 1778809549042,
-    "score": 2,
-    "summary": "【中芯国际赵海军：公司与客户协商上调定价 涨价效应逐步体现】财联社5月15日电，在今日的一季报业绩说明会上，中芯国际联合CEO赵海军表示，一季度毛利率为20.1...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "豪恩汽电：获智能驾驶视觉感知产品定点 预计总营业额约7.8亿元",
-    "url": "https://www.cls.cn/detail/2371983",
-    "time": 1778809549042,
-    "score": 2,
-    "summary": "【豪恩汽电：获智能驾驶视觉感知产品定点 预计总营业额约7.8亿元】财联社5月15日电，豪恩汽电15日早间公告，公司近日收到某德系高端豪华汽车品牌的智能驾驶视觉感...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "我国开展专项治理 严打中医医疗违法违规行为",
-    "url": "https://www.cls.cn/detail/2371982",
-    "time": 1778809549042,
-    "score": 2,
-    "summary": "【我国开展专项治理 严打中医医疗违法违规行为】财联社5月15日电，国家中医药管理局等十部门联合召开中医医疗违法违规行为专项治理工作启动会。据悉，本次专项治理工作...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "财联社5月15日电，韩国KOSPI指数跌超1%失守7900点。三星电子股价延续跌势，跌幅达2%。",
-    "url": "https://www.cls.cn/detail/2371977",
-    "time": 1778809549042,
-    "score": 2,
-    "summary": "财联社5月15日电，韩国KOSPI指数跌超1%失守7900点。三星电子股价延续跌势，跌幅达2%。",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "财联社5月15日电，现货白银向下跌破81美元/盎司，日内下跌3.01%。",
-    "url": "https://www.cls.cn/detail/2371975",
-    "time": 1778809549042,
-    "score": 2,
-    "summary": "财联社5月15日电，现货白银向下跌破81美元/盎司，日内下跌3.01%。",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "氟化工板块大幅高开 滨化股份、中欣氟材一字涨停",
-    "url": "https://www.cls.cn/detail/2371969",
-    "time": 1778809549042,
-    "score": 2,
-    "summary": "【氟化工板块大幅高开 滨化股份、中欣氟材一字涨停】财联社5月15日电，早盘氟化工板块大幅高开，滨化股份、中欣氟材一字涨停，金石资源、三美股份、多氟多、永和股份等...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "【盘中宝】多重里程碑密集落地，未来几个月将迎来密集催化窗口，该行业进入技术验证与商业化兑现期，这家企业产品已获海外订单",
-    "url": "https://www.cls.cn/detail/2371971",
-    "time": 1778809549042,
-    "score": 2,
-    "summary": "多重里程碑密集落地，未来几个月将迎来密集催化窗口，该行业进入技术验证与商业化兑现期，这家企业已布局多个细分业务，产品已获海外订单。",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "阿里巴巴等来收获期，外卖大战已无大波澜",
-    "url": "https://36kr.com/p/3807527591058948?f=rss",
-    "time": 1778827690476,
-    "score": 553,
-    "summary": "文｜彭倩 编辑｜乔芊 阿里千亿巨额投入后，回报正在逐一兑现。 财报显示，阿里巴巴2026年第四财季（即自然年Q1）营收2433.8亿元，同比增长3%。若不考虑高...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "8点1氪丨周大福回应金饰又涨价；韩国一季度未成年人股票账户暴涨近十倍；张雪机车820RR暂停生产交付",
-    "url": "https://36kr.com/p/3809785128869641?f=rss",
-    "time": 1778827690476,
-    "score": 168,
-    "summary": "今日热点导览 李强会见美国工商界代表 微信成立800人团队适配鸿蒙，约占开发人员一半 周大福回应金饰又涨价 韩国要求三星与工会5月16日恢复谈判 美参议院批准凯...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "氪星晚报｜千里智驾CEO辟谣离职传闻；三星在计划罢工前夕启动减产",
-    "url": "https://36kr.com/p/3809007831375621?f=rss",
-    "time": 1778827690476,
-    "score": 127,
-    "summary": "大公司： 苏州高新：董事长王平因个人原因辞职 36氪获悉，苏州高新公告，公司董事会近日收到董事长王平的书面辞职报告。王平因个人原因，申请辞去公司董事长、董事等职...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "Claude token 暴涨 117%，十家 AI 宣布涨价，你准备好了吗",
-    "url": "https://juejin.cn/post/7637271996707618856",
-    "time": 1778827690476,
-    "score": 113,
-    "summary": "",
-    "source": "掘金·AI",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "为什么 Cerebras AI 芯片在 Nvidia 主导的市场中脱颖而出 - 雅虎财经",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzFUUVZDSFhIcHhia19PUHozRElDbGhDeWJhbG5pOWppc0tNZWI3NUtlYjNnbndIV3AyRDYzb2poNjMtRkRlS1FIRmtsZFpCVmw2VFhpUHhpdVRQRWNrbWxLX0t0SUpOVTUwYkFjRE9kWHBoRU1qMkVKZlF4TEx2eElXTGQ4ZnlKOWlFT25qN3Z1UHpfbUJsTS1KVFJlVENaQzVQdTNxOTh5Y0o5?oc=5",
-    "time": 1778827690476,
-    "score": 111,
-    "summary": "Why Cerebras AI chips stand out in the Nvidia-dominated market Yahoo Finance",
-    "source": "基建·芯片",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "据报道，OpenAI 正准备对苹果采取法律行动；它不会是第一个感到被烧伤的合作伙伴",
-    "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-    "time": 1778827690476,
-    "score": 107,
-    "summary": "OpenAI 对 Apple 未能提供订阅者的 ChatGPT 集成感到非常沮丧......",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "OpenAI 表示 Codex 即将登陆你的手机",
-    "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-    "time": 1778827690476,
-    "score": 106,
-    "summary": "此次更新为用户管理工作流程提供了更大的灵活性。",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Clawdmeter 将您的 Claude Code 使用统计数据变成一个小型桌面仪表板",
-    "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
-    "time": 1778827690476,
-    "score": 105,
-    "summary": "一个名为 Clawdmeter 的新开源小工具将 Claude Code 使用统计数据变成了一个小型桌面仪表板......",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "open-webui/open-webui: 用户友好的 AI 界面（支持 Ollama、OpenAI API...）",
-    "url": "https://github.com/open-webui/open-webui",
-    "time": 1778827690476,
-    "score": 104,
-    "summary": "⭐137.1k stars · Python",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "RTX 5090 和 M4 MacBook Air：可以玩游戏吗？",
-    "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-    "time": 1778827690476,
-    "score": 104,
-    "summary": "550 points · 140 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Claude Code 推出Agent View，一个人同时指挥十个 AI 写代码！",
-    "url": "https://juejin.cn/post/7638888225260584998",
-    "time": 1778827690476,
-    "score": 103,
-    "summary": "",
-    "source": "掘金·AI",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "可以免费使用的 DeepSeek-V4-Flash，很多人还不知道！",
-    "url": "https://juejin.cn/post/7637355003941896198",
-    "time": 1778827690476,
-    "score": 102,
-    "summary": "",
-    "source": "掘金·AI",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "Claude Code 智能体是如何设计实现的？",
-    "url": "https://juejin.cn/post/7638807947525816366",
-    "time": 1778827690476,
-    "score": 102,
-    "summary": "",
-    "source": "掘金·AI",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "36氪首发｜航天发动机核心部件厂商获投，国内唯一具备核心部件一站式制造能力的民营企业",
-    "url": "https://36kr.com/p/3809936183860740?f=rss",
-    "time": 1778827690476,
-    "score": 35,
-    "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京思创航天精密制造有限公司（以下简称“思创航天”）近日完成新一轮数千万元融资，由丹诚资本独家投资。 思创航天前身...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "36氪首发 | 前大疆核心成员做消费级CNC，获美团、昆仑资本、奇绩创坛投资近亿元",
-    "url": "https://36kr.com/p/3809919654403587?f=rss",
-    "time": 1778827690476,
-    "score": 27,
-    "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，消费级桌面CNC与智能数字制造平台「无限工坊（Infimaker）」近日宣布，连续获得多轮融资，融资金额近亿元，投...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "“深度机智”完成数亿元融资",
-    "url": "https://36kr.com/newsflashes/3810157538549250?f=rss",
-    "time": 1778827690476,
-    "score": 21,
-    "summary": "36氪获悉，具身智能企业“深度机智”近日完成数亿元融资，投资方包括中关村资本、诚通科创基金、北京熙诚致远、普华资本、东方富海、蓝湖资本、晶科能源控股旗下CVC基...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "Obi 数据显示旧金山 Tesla Robotaxi 票价上涨 41% - thebuzzevnews.com",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WUDhSTXVSelBqMEtOWV9hZHJHY01HbVIzTEdvREJISzhkQWFqWE5TNVlhWXUzci0yZk5NY0tQdEVrRFJ5NlBpTmhEdlltZ21xSUNhV3I4NG5yOVIwNjE0WXB6b1NnbVVhR05tTXRjYlAxR3ZKRGQtbFdDcw?oc=5",
-    "time": 1778827690476,
-    "score": 21,
-    "summary": "",
-    "source": "汽车·EV",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "埃隆·马斯克 (Elon Musk) 的 SpaceXAI 自合并以来一直在裁员",
-    "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-    "time": 1778827690476,
-    "score": 16,
-    "summary": "据报道，自 2 月份以来，埃隆·马斯克 (Elon Musk) 新合并的 SpaceXAI 已有 50 多名员工离开，葡萄干……",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "博通 vs 台积电：目前更值得购买哪家 AI 芯片巨头？ - 杂七杂八的傻瓜",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMm93TUdnQ3pPbmdpZmIwaWR5R2s3UzVLVFh1UXgwdlZabmZkVmlkbFVuZUNCdS1GU010bFJQdV83Qnhnb0E2YnI3S0hYNUdsMzQtaEliMVlGdE52RDhrdWV3elR6LVJwc2xicDU1QWxHeWpMOWtUXzVib3c4Y3l3enBBT3JQNEtNZnA3XzJGdW5qQlBNcG5BeA?oc=5",
-    "time": 1778827690476,
-    "score": 16,
-    "summary": "Broadcom vs. Taiwan Semiconductor: Which AI Chip Giant Is the Better Buy Right N...",
-    "source": "基建·芯片",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Cerebras 融资 5.5B 美元，股价上涨 108%，这是 2026 年首次大型科技 IPO",
-    "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-    "time": 1778827690476,
-    "score": 16,
-    "summary": "一年前，对于 Cerebras 来说，这一天似乎永远不会发生。",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "麦记牛奶谢永亮：2025年是唯一窗口期，糖水赛道胜负已定｜厚雪专访",
-    "url": "https://36kr.com/p/3809931035844359?f=rss",
-    "time": 1778827690476,
-    "score": 16,
-    "summary": "作者 | 钟艺璇 编辑 | 乔芊 2025年，糖水这个老品类突然火了一把。 这个赛道的代表公司是麦记牛奶公司、赵记传承，它们在过去一年的门店增长数约为1000家...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "Redwood Materials 即将上任的首席财务官表示，谈论 IPO“为时过早”",
-    "url": "https://techcrunch.com/2026/05/11/too-early-to-talk-ipo-for-redwood-materials-incoming-cfo-says/",
-    "time": 1778827690476,
-    "score": 15,
-    "summary": "这家电池回收和能源存储公司聘请了特斯拉前财务主管迪帕克·阿胡贾（Deepak Ahuja）...",
-    "source": "汽车·TechCrunch",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元",
-    "url": "https://36kr.com/p/3809911566704388?f=rss",
-    "time": 1778827690476,
-    "score": 15,
-    "summary": "2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "台积电、英特尔和三星的前沿代工路线图 — 概述了 1.4 纳米及以上节点的路径 - Tom's Hardware",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTGpVRFZ3VkhqY3RfbngyVHpxaG9CWjFESnNDQ0M0S2d5LW4wcHhHek9OdHY2Z2pZWjQ4X0NLNzZscnBPUjBCY293OGlIQXdpb2huLTN6SUNCSzRhcjZMeDJ6N3ZKUmZtRnhYNzNieWJoQkhGVUhDQzRrZ19nX0dkbGU0WjYyTzFPR2MtZWdJY0FyYURHNWxrRUFBU0tHVnZNWVdRZFNyQS0zSEtiOEg3ZF9rRzZ1MHRJQW9NVUZMNEVCdi1IM0hmOG9tcXQ1WXJCSHFMNDQtdXJuMzF2Z3k4U2hpV24yMkRyZE9YRHRRUHQ?oc=5",
-    "time": 1778827690476,
-    "score": 15,
-    "summary": "Leading-edge foundry roadmaps for TSMC, Intel and Samsung — outlining the path t...",
-    "source": "基建·芯片",
-    "region": "🇺🇸"
-  },
-  {
     "title": "苹果将​​于 2027 年在 M7 芯片上使用英特尔 18A 工艺，到 2028 年在 iPhone 上使用 14A 工艺 - RS Web Solutions",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQnNsQmtMNUZ0UG5zaDlvZW5JWEU4aE9VZk1LNjZKOHR6aHdxcjNBQUJtNWlFYkZpaHc4SjZzVnh6ejlUNjY0MVJYb1NxUFd1aHU2cmN6U2NjRUZDa0lEcVRBUG1tNHVDcmRrMzlvRlBmXy1rdHc5R3FmYzl4MnhhYmtHTHJkN0Z0a3BJVVgxNUpGUW56QUNQbjNHXzJ1eDYtMG93bXFtbUVoU1RxXzdMZWwtcGNXNGY5a0Z1MVF1aVItbGZSMVFxeWtwRjA?oc=5",
     "time": 1778827690476,
@@ -8996,6 +8582,420 @@
     "time": 1779021838307,
     "score": 2,
     "summary": "【十四届全国政协常委、农业和农村委员会副主任王晓东接受审查调查】财联社5月17日电，中央纪委国家监委网站消息，十四届全国政协常委、农业和农村委员会副主任王晓东涉...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "又诞生一位千亿女富豪",
+    "url": "https://36kr.com/p/3813040859258373?f=rss",
+    "time": 1779036020868,
+    "score": 117,
+    "summary": "示意图 自4月初以来，立讯精密股价上涨超过55%。 5月11日，立讯精密市值创下历史新高，达到了5542亿人民币。立讯精密掌舵者王来春持股18.75%，身价也突...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "Nvidia 面临周五下跌后一周的关键盈利 - TechStock²",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkpQOEZ3UnZ5TS0zZGtTZkxXaFlnam9rVVhzSUhsOUVuc2VuaFZoZnpnLTR5TkZsLXFzdlBEUmF0RzYzVExLQlNLTGE5MmFlS2pWbDBmM2tCV0xvM2ZVVnJTMjFaOGh2UWpiWWp3SGxhbFZkN094eldTNmhsa1Y2RGM1bnpLMGFFb2Z1UjhDU1BJVm9vVFdITw?oc=5",
+    "time": 1779036020868,
+    "score": 105,
+    "summary": "Nvidia Faces Key Earnings Week After Friday Drop TechStock²",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "中信证券：AI+能化可能是今年更合适的杠铃结构",
+    "url": "https://36kr.com/newsflashes/3813028969406216?f=rss",
+    "time": 1779036020868,
+    "score": 22,
+    "summary": "36氪获悉，中信证券研报表示，AI+能化可能是今年更合适的杠铃结构。今年的AI+能化，或与2023-2024年的AI+红利、2025年的AI+资源类似，有望在全...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "特斯拉 Robotaxi 透明度：17 起事故报告暴露远程操作风险和安全担忧 - Indianweb2.com",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaUMxcXdPLWhONVF3d1pUSHFtSlhmdEdjaHczVk5qUi1vZDNzSVQ3YTlTZ3p3ZUFhck55U3g5R0p4bW5FVmtUNWJ0bTNEQXM0WVJlc1VoeGloM2t1c1VZaC1SWFpYdk9mUlRwNnFYZFdacldwZVk2Smx4bWlXT2RRUVFsYw?oc=5",
+    "time": 1779036020868,
+    "score": 16,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "宏和科技：向香港联交所递交境外上市股份（H股）发行并上市申请",
+    "url": "https://36kr.com/newsflashes/3813108827069961?f=rss",
+    "time": 1779036020868,
+    "score": 15,
+    "summary": "36氪获悉，宏和科技公告，公司已于5月15日向香港联交所递交了发行境外上市股份（H股）并在香港联交所主板挂牌上市的申请，并于同日在香港联交所网站刊登了本次发行并...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "独家：专家称特斯拉与 Waymo 不在同一个竞争环境中——预测中国制造商将陷入困境 - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWXJZc084YUxfd2RFZ1NEWklmNEdRZHkzYVlaRzEwajZhNGhQekd2Tlp5WWVsQ05jSEh1WU11Y1hHT3VtblFjWmtIM3liQ0Y0U0pRejRNQjk5MzNvTkp4bHhqNEZQZ0xoQ2NyZHBMSGw2cXVkTUEtR0w4OUN0TlpJbUMwamVuN1BtQ2pJaEZzcUNudlAyd2hMY0hzRUlqdFpxTndRb0VJMy1rNnRwN2liVThhb3RoS0g5WGFzTVVNdm9NMUo5VWNCUGZaVEEtM05PRjRCZmFSTUYzZmVwbWdCcjUzd29ueVFla1NidEx5Z1RWY3BEb3RuLXl5Ykp5TDZhc0thdHNhS3B1YjRlTHE4?oc=5",
+    "time": 1779036020868,
+    "score": 15,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "财联社创投通：一级市场本周融资总额约90.14亿元 航空航天、具身智能活跃度居前",
+    "url": "https://www.cls.cn/detail/2373433",
+    "time": 1779036020868,
+    "score": 12,
+    "summary": "【财联社创投通：一级市场本周融资总额约90.14亿元 航空航天、具身智能活跃度居前】《科创板日报》17日讯，据财联社创投通数据，本周（5.9-5.15）国内统计...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "威斯康星州领导人推动国家在不断发展的核聚变工业中发挥作用 - The Daily Cardinal",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUnJBRUdXeWtEeWRLTVF0NDlwRGpWN2xGYWxEVl9nSE1iUEl5QkRJc0NiNFowUG43QktsZ0EtYkpwY3J5ZTAxNlpCbmRLQ3J3cmRDRkF5dF84ZGY1NGI0UmowUUcyUWlXWHhKMjBmUU9MYjQ0cE1qN0d3czRPMWxkRWhuSGhPOE1rZ3NPcnFvM2ZJcXl2dVlHYW1qVmswTFotV09Xcmd3all5bldITVV0Y21BTjJnWElFcm4yVjdnclVhQUdzeEg3ZENrMzByZ1FYQi1YX1dMVThSdVNGclRtWEJWYmpYUQ?oc=5",
+    "time": 1779036020868,
+    "score": 11,
+    "summary": "Wisconsin leaders push for state role in growing nuclear fusion industry The Dai...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "九连板*ST准油：公司、控股股东和实际控制人并无注入算力资产的计划",
+    "url": "https://36kr.com/newsflashes/3813109650890498?f=rss",
+    "time": 1779036020868,
+    "score": 11,
+    "summary": "36氪获悉，*ST准油发布股票交易异常波动暨风险提示性公告称，近期公司关注到，东方财富股吧有投资者发帖称公司有“可能注入算力资产”的计划，公司特此澄清，公司、控...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "围绕里克·佩里 (Rick Perry) 核电初创公司的德克萨斯州规模之争 - MSN",
+    "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNNTdBeXRVbkdYbjZ2VkxLd0tpbnYwMzVDbmNfNXhhei1yOUNWYlFYQWN4T19pZ1JHZkdyblhTNW9BamVLVFdvVXRwQlVxY0FTU2NTZVRqVXNTcDBZN0lRblV3WWE0eWppcHpWZnZ0UnJodlJHSXVoaGN4dHRwTE1MSzZTZnhseGFkX2kwMEExVnFDaWdYUEhtT1RUc090RDl0cjRWSUtoeHpUbEZXZUxNSE5iRFc0RF9vRVdOTEJlUTFiTnE1NVJ0Ymw0TzFXbm5hUHd6djRMSUp3bUlwS3U3a0I4bm40TU52cnd4UGtHZ2EyaEtybW5Lem0yMEpTTVV0NEltVnc5QVEwX3d0eWJNenBHTkpuQnhvaG9ucFRUVnhoTG0zX1lsMHBabnVLOERubU5EcXQ5VnNreVNnSERpbVBIWklVZ2FNTXhpb25FNTZVSTZWRGFNdVlDWHJBN2hSWmpSSUZZOUJqQ2c3UUhKRHBmX0pxSUZUSnFVLVhGSXk4enYwVl81VTY2MkdmMUtwQkZQeVdZOXVOQTZtMTJ0UGdqVDJUdUR0VGJ0LUJCNEVDNDh1aWZfbDM3WG8?oc=5",
+    "time": 1779036020868,
+    "score": 10,
+    "summary": "The Texas-size fight over Rick Perry’s nuclear power startup MSN",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "无人机袭击阿联酋核电站起火，这是自伊朗战争爆发以来首次遭到袭击 - 财富",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZlJDOEo1cG9ncFVKczZlZXNGM0tscEtJWjZUNnpuYlpyM2hjdDRqQUluazliVDBlX2g2UjBDYlcyUURLOVo2dXA5ZS13ellsUDgwbHhjUVdyY3dKNHF4dENtXzlEYldOU04tQ2pzNjB4Q1p1ZzVKODgyU1JjV3NqSTZONjR3WEhYWlRHS3UyOE80VEVvRU9QS2hlUUViMUpwVUE?oc=5",
+    "time": 1779036020868,
+    "score": 10,
+    "summary": "Drone strike sparks fire at UAE nuclear power plant, the first time it's been at...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "加剧未来冲突：走向核化的理由 - 国家利益",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYlR6UV9iSnNTN1pDcjhCV1lOY1VnZ3ZhLWMyMDNHZ293TmZrSEJRVVJsM3NuOW5kQ0hJdkVoOUE5dWVvRDJoNmRwR0JQbUtMb1VMZHgzc0lxSS1McjE0d0EzLVdOLU9RcldZUDFsLXU5YVFObXFvSzRPNHpDdXVWay1JcnJtTldTTkZ2WGdDSWZlWlNMQ2ZWZUlSUXo5MmhG?oc=5",
+    "time": 1779036020868,
+    "score": 10,
+    "summary": "Powering Future Conflicts: The Case for Going Nuclear The National Interest",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "在近期股价回调和 DCF 上涨之后，铀能源 (UEC) 仍然具有吸引力吗？ - simplewall.st",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQemVTeVlpTWloek9Ya0ltU1VwZy1iZldkTFQyQjFUUEdVQkNPR0xNRUlYM0N0eHZYUC1XZUpmUU1uOWpMa2ZQVDlDMWQ5X0VRNktXX0ZqajFWZ2JTbFNRcDZnNENrQldMNC1GUG1Qb2cyYnRoVUt3LWdRa3ZCYzI3RFVCWE1WTjVlUlpVX0VQc2RZRjl1YktwR0FjWGpxNnFZLW1OeDNEWE50X0Uydl9vZzd2Q2ttaXR5U0ZiSGZMXzhmMzJWNlRzQkNub9IB0AFBVV95cUxNbzc3NXBpUlB1WTZ3TGJReDJmaEhZbFNXZUZuMHpOeDFwWFJmV1MwejJEcUVfWm1tMGxoRnZyYjFGc09VaG45NVE3LVBEMVhvS0RiQXNIdXZkTXhHeko0WE50eThkckVJY01nNHl1bXNoRUExckxUSlNFMWVxaUZHVjNUR2NqUE1YaVNiZk40MU8xdTZ5UU9TRXdpdXNGQTItMk9yNEdxUHl0YldHTmJUTEhzLTRqbm0wa0lUU05FY1ZnTUVUVDdrZEQ5TzAxLV9H?oc=5",
+    "time": 1779036020868,
+    "score": 10,
+    "summary": "Is Uranium Energy (UEC) Still Attractive After Recent Share Price Pullback And D...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "科学家相信伊博加因可以帮助退伍军人克服创伤后应激障碍",
+    "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+    "time": 1779036020868,
+    "score": 9,
+    "summary": "34 points · 24 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "中国联通上海分公司发布全栈国产化“国芯国模国云”安全基座 推出多元化算力服务、多档Token产品及融合套餐",
+    "url": "https://www.cls.cn/detail/2373487",
+    "time": 1779036020868,
+    "score": 8,
+    "summary": "【中国联通上海分公司发布全栈国产化“国芯国模国云”安全基座 推出多元化算力服务、多档Token产品及融合套餐】财联社5月17日电，2026中国联通·上海人工智能...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "【金牌纪要库】算力封装与光互联升级，带动玻璃基板、硅透镜进入验证放量窗口",
+    "url": "https://www.cls.cn/detail/2373237",
+    "time": 1779036020868,
+    "score": 7,
+    "summary": "①2027年是玻璃基板从验证走向量产的关键节点，传统ABF有机载板越来越接近工程极限，国内这两家企业已在玻璃基板原片、TGV和镀铜方案上推进送样验证；②800G...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "【公告全知道】机器人+光通信+PCB+先进封装+固态电池+芯片！公司拟与1.6T硅光芯片企业联合开发光引擎产品",
+    "url": "https://www.cls.cn/detail/2373474",
+    "time": 1779036020868,
+    "score": 7,
+    "summary": "①机器人+光通信+PCB+先进封装+固态电池+芯片！这家公司拟与1.6T硅光芯片企业联合开发光引擎产品；②光纤+PCB+商业航天+芯片+玻璃基板+先进封装！这家...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "【风口研报·洞察】高密度算力的“动脉”与“静脉”，“液冷机架母线”有望替代风冷平排成为标配，叠加及800V高压平台与再生铜ESG需求，机架母线市场空间有望显著扩大；如何看待当前调整后的市场",
+    "url": "https://www.cls.cn/detail/2373357",
+    "time": 1779036020868,
+    "score": 7,
+    "summary": "①如何看待当前调整后的市场；②高密度算力的“动脉”与“静脉”，“液冷机架母线”有望替代风冷平排成为标配，叠加及800V高压平台与再生铜ESG需求，机架母线市场空...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "如果你要在 2026 年发表毕业演讲，也许不要提及人工智能",
+    "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+    "time": 1779036020868,
+    "score": 6,
+    "summary": "让即将毕业的学生对人工智能塑造的未来感到兴奋是很困难的。",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "TechCrunch Mobility：汽车领域的人工智能技能军备竞赛即将来临",
+    "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+    "time": 1779036020868,
+    "score": 6,
+    "summary": "欢迎回到 TechCrunch Mobility——您获取关于交通未来的新闻和见解的中心中心...",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "回收热量的数据中心获得批准 - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9peXRFTjhHc2pybW1aQjNyUDk5Sk5wWTI4Nkh2RmpuSkJqR3BBUlNjVGlRbGd2R3pDXzVtemViY0MyM1lBZEE1SENVQ0ZYSjh5ems3Y0xjdXJuMnBhTENNUTlyVEZoTU1tNnRmZjI4QV9MQlpvSV8yNUNQTXMyZw?oc=5",
+    "time": 1779036020868,
+    "score": 5,
+    "summary": "Data centre which will recycle heat gets go-ahead AOL.com",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "在埃隆·马斯克 (Elon Musk) 与萨姆·奥尔特曼 (Sam Altman) 的案件中，陪审团实际上会做出什么决定",
+    "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+    "time": 1779036020868,
+    "score": 5,
+    "summary": "以下是今年最大的科技法庭案件的全部内容。",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "美国能源部为轻水 SMR 授予 9400 万美元 - Neutron Bytes",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZkplbU9vQUlPeDE2bXp6Wmw3UlN1SnN5b0RhZS1wd1ZoT1RJMUZnMGZaVldnc1lYQ1lKNmFhVWtEd29lVUt4VnA0dk1sRGFzdDllcE9MdkZGM1FRT2xwR1RuYkR1RFJSWkRoT1UyVGZGak5BS0I3ZWQwWndidDdaQmdXR3V3UQ?oc=5",
+    "time": 1779036020868,
+    "score": 5,
+    "summary": "DOE Awards $94 Million for Light Water SMRs Neutron Bytes",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "安全研究人员称微软构建了 Bitlocker 后门并发布了漏洞",
+    "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+    "time": 1779036020868,
+    "score": 4,
+    "summary": "258 points · 121 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "AI是一项技术而非产品",
+    "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+    "time": 1779036020868,
+    "score": 4,
+    "summary": "112 points · 32 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "我将价值 80 美元的 RK3562 Android 平板电脑变成了 Debian Linux 工作站",
+    "url": "https://github.com/tech4bot/rk3562deb",
+    "time": 1779036020868,
+    "score": 3,
+    "summary": "75 points · 33 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "rasbt/LLMs-from-scratch: 在 PyTorch 中从头开始一步步实现类似 ChatGPT 的 LLM",
+    "url": "https://github.com/rasbt/LLMs-from-scratch",
+    "time": 1779036020868,
+    "score": 3,
+    "summary": "⭐95.0k stars · Jupyter Notebook",
+    "source": "GitHub·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "兴登堡的吸烟室",
+    "url": "https://www.airships.net/hindenburg-smoking-room/",
+    "time": 1779036020868,
+    "score": 3,
+    "summary": "39 points · 14 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "世界卫生组织宣布埃博拉疫情为全球卫生紧急事件",
+    "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+    "time": 1779036020868,
+    "score": 3,
+    "summary": "154 points · 77 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "高熵合金",
+    "url": "https://en.wikipedia.org/wiki/High-entropy_alloy",
+    "time": 1779036020868,
+    "score": 3,
+    "summary": "35 points · 3 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
+    "url": "https://www.cls.cn/detail/2373475",
+    "time": 1779036020868,
+    "score": 3,
+    "summary": "【中信建投：重点关注AI、光模块、电网设备、人形机器人等】财联社5月17日电，中信建投研报认为，5月以来科技因全球巨头资本开支及业绩超预期加速上涨，产业趋势获市...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "CUDA 书籍",
+    "url": "https://github.com/alternbits/awesome-cuda-books",
+    "time": 1779036020868,
+    "score": 3,
+    "summary": "33 points · 2 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "广西柳州市柳南区发生5.2级地震 南宁、河池等地有震感",
+    "url": "https://www.cls.cn/detail/2373500",
+    "time": 1779036020868,
+    "score": 2,
+    "summary": "【广西柳州市柳南区发生5.2级地震 南宁、河池等地有震感】财联社5月18日电，中国地震台网正式测定：5月18日00时21分在广西柳州市柳南区（北纬24.38度，...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "阿联酋外长与国际原子能机构总干事就无人机袭击事件通电话",
+    "url": "https://www.cls.cn/detail/2373499",
+    "time": 1779036020868,
+    "score": 2,
+    "summary": "【阿联酋外长与国际原子能机构总干事就无人机袭击事件通电话】财联社5月18日电，阿联酋副总理兼外交部长阿卜杜拉当地时间17日与国际原子能机构总干事格罗西通电话。在...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "广西柳州市柳南区附近发生5.2级左右地震",
+    "url": "https://www.cls.cn/detail/2373497",
+    "time": 1779036020868,
+    "score": 2,
+    "summary": "【广西柳州市柳南区附近发生5.2级左右地震】财联社5月18日电，中国地震台网自动测定：05月18日00时21分在广西柳州市柳南区附近（北纬24.36度，东经10...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "财联社5月18日电，Publicis将以总计22亿美元的企业价值收购Liveramp。",
+    "url": "https://www.cls.cn/detail/2373495",
+    "time": 1779036020868,
+    "score": 2,
+    "summary": "财联社5月18日电，Publicis将以总计22亿美元的企业价值收购Liveramp。",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "以媒：内塔尼亚胡称以色列已控制加沙六成区域",
+    "url": "https://www.cls.cn/detail/2373492",
+    "time": 1779036020868,
+    "score": 2,
+    "summary": "【以媒：内塔尼亚胡称以色列已控制加沙六成区域】财联社5月17日电，据《以色列时报》17日报道，以色列总理内塔尼亚胡当天称，以色列一直在扩大对加沙地带的控制范围，...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "消息人士：国际刑事法院检察官已申请对数名以官员签发“秘密逮捕令”",
+    "url": "https://www.cls.cn/detail/2373491",
+    "time": 1779036020868,
+    "score": 2,
+    "summary": "【消息人士：国际刑事法院检察官已申请对数名以官员签发“秘密逮捕令”】财联社5月17日电，消息人士称，当地时间17日，国际刑事法院首席检察官已申请对数名以色列官员...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "印度驻俄罗斯使馆：莫斯科遭袭致一名印度公民死亡",
+    "url": "https://www.cls.cn/detail/2373490",
+    "time": 1779036020868,
+    "score": 2,
+    "summary": "【印度驻俄罗斯使馆：莫斯科遭袭致一名印度公民死亡】财联社5月17日电，印度驻俄罗斯大使馆当地时间5月17日通报称，莫斯科地区遭遇的大规模无人机袭击致1名印度公民...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "我国成功发射千帆星座第9批组网卫星",
+    "url": "https://www.cls.cn/detail/2373489",
+    "time": 1779036020868,
+    "score": 2,
+    "summary": "【我国成功发射千帆星座第9批组网卫星】财联社5月17日电，在海南商业航天发射场，17日22时42分，长征八号运载火箭将千帆星座第9批组网卫星顺利送入预定轨道，所...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "格罗西说任何威胁核安全的军事活动都不可接受",
+    "url": "https://www.cls.cn/detail/2373488",
+    "time": 1779036020868,
+    "score": 2,
+    "summary": "【格罗西说任何威胁核安全的军事活动都不可接受】财联社5月17日电，国际原子能机构17日在社交媒体上发表声明说，国际原子能机构总干事格罗西对阿联酋巴拉卡核电站当天...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "云天励飞与财联社等发起“1001计划”联合倡议 目标推动“百亿Token 1分钱”",
+    "url": "https://www.cls.cn/detail/2373485",
+    "time": 1779036020868,
+    "score": 2,
+    "summary": "【云天励飞与财联社等发起“1001计划”联合倡议 目标推动“百亿Token 1分钱”】财联社5月17日电，“浦云天芯——云天励飞全球创新中心”今日在沪揭牌。同时...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "上海移动宣布5G-A超级上行网络能力规模商用 推出Token通用服务：1元40万Tokens",
+    "url": "https://www.cls.cn/detail/2373483",
+    "time": 1779036020868,
+    "score": 2,
+    "summary": "【上海移动宣布5G-A超级上行网络能力规模商用 推出Token通用服务：1元40万Tokens】财联社5月17日电，“智能加码 科创申城” 中国移动上海公司世界...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "苏州积分落户政策调整：将苏州市区积分落户居住期限赋分区域扩大至“苏南五市”范围",
+    "url": "https://www.cls.cn/detail/2373481",
+    "time": 1779036020868,
+    "score": 2,
+    "summary": "【苏州积分落户政策调整：将苏州市区积分落户居住期限赋分区域扩大至“苏南五市”范围】财联社5月17日电，为了进一步优化市区积分落户政策，促进更多在苏州稳定就业和生...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "国家防总向贵州调拨中央防汛抗旱物资",
+    "url": "https://www.cls.cn/detail/2373479",
+    "time": 1779036020868,
+    "score": 2,
+    "summary": "【国家防总向贵州调拨中央防汛抗旱物资】财联社5月17日电，应贵州省防汛抗旱指挥部请求，国家防总办公室会同国家粮食和物资储备局5月17日调拨编织袋、复膜编织布、长...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "下周资本市场大事提醒：俄总统普京访华；市场静候英伟达财报；SpaceX星舰V3冲刺首飞",
+    "url": "https://www.cls.cn/detail/2373473",
+    "time": 1779036020868,
+    "score": 2,
+    "summary": "【下周资本市场大事提醒：俄总统普京访华；市场静候英伟达财报；SpaceX星舰V3冲刺首飞】 1、俄罗斯总统普京将于5月19日至20日对中国进行国事访问。 2、国...",
     "source": "财联社·宏观",
     "region": "🇨🇳"
   }
