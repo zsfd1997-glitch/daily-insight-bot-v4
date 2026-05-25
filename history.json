@@ -1,896 +1,5 @@
 [
   {
-    "title": "DecQ：用于增强表示自动编码器重建和生成的细节压缩查询",
-    "url": "https://huggingface.co/papers/2605.22777",
-    "time": 1779446193926,
-    "score": 5,
-    "summary": "表示自动编码器 (RAE) 利用冻结视觉基础模型 (VFM) 作为分词器编码器，提供鲁棒...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "恩捷股份：终止在马来西亚投资建设锂电池隔离膜项目",
-    "url": "https://36kr.com/newsflashes/3820318239478147?f=rss",
-    "time": 1779446193926,
-    "score": 5,
-    "summary": "36氪获悉，恩捷股份公告，公司决定终止在马来西亚新设子公司投资建设锂电池隔离膜项目。因外部市场环境及行业竞争格局较前期发生变化，结合公司实际经营情况与整体战略布...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "金诚信：拟增加Alacran铜金银矿项目建设投资",
-    "url": "https://36kr.com/newsflashes/3820314606965128?f=rss",
-    "time": 1779446193926,
-    "score": 5,
-    "summary": "36氪获悉，金诚信公告，目前公司持有的Alacran铜金银矿权益已增加至97.5%，故拟根据股权比例变化相应增加项目建设投资1.7867亿美元，累计出资金额约4...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "苑东生物：维生素K1注射液获得药品注册证书",
-    "url": "https://36kr.com/newsflashes/3820310770291073?f=rss",
-    "time": 1779446193926,
-    "score": 5,
-    "summary": "36氪获悉，苑东生物公告，公司于近日收到国家药监局核准签发的维生素K1注射液《药品注册证书》。该药品活性成份为维生素K1，用于治疗维生素K缺乏性出血和预防无法通...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "重庆燃气：股东拟减持不超1.8%公司股份",
-    "url": "https://36kr.com/newsflashes/3820307799740544?f=rss",
-    "time": 1779446193926,
-    "score": 5,
-    "summary": "36氪获悉，重庆燃气公告，公司股东中国农业银行股份有限公司重庆市分行持有公司7.05%股份，计划通过集中竞价和大宗交易方式减持所持有的公司股份合计不超过2809...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "美力科技：拟4000万元—7000万元回购公司股份",
-    "url": "https://36kr.com/newsflashes/3820306405937536?f=rss",
-    "time": 1779446193926,
-    "score": 5,
-    "summary": "36氪获悉，美力科技公告，拟4000万元—7000万元回购公司股份，用于实施员工持股计划或股权激励，回购价格不超过35元/股（含）。",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "老虎国际回应处罚：严格按照监管要求积极配合相关工作",
-    "url": "https://36kr.com/newsflashes/3820299896738180?f=rss",
-    "time": 1779446193926,
-    "score": 5,
-    "summary": "老虎国际等三家证券机构因非法跨境展业收到证监会罚单。老虎国际表示，公司将严格按照监管要求积极配合相关工作。老虎始终将合规置于首位，并持续与监管机构保持密切沟通。...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "九华旅游：副总经理何龙被立案审查调查并留置",
-    "url": "https://36kr.com/newsflashes/3820295904661638?f=rss",
-    "time": 1779446193926,
-    "score": 5,
-    "summary": "36氪获悉，九华旅游公告，公司于近日收到相关纪律检查委员会、监察委员会签发的《立案通知书》和《留置通知书》，对公司党委委员、副总经理何龙立案审查调查并实施留置。",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "无监督过程奖励模型",
-    "url": "https://huggingface.co/papers/2605.10158",
-    "time": 1779446193926,
-    "score": 5,
-    "summary": "过程奖励模型 (PRM) 是一种强大的机制，通过提供细粒度的...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "美伊谈判进展因霍尔木兹海峡和铀鸿沟而受阻 - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZXFJdmZHRVljaUhObHFsRFNpcXZjTWRRUnZtaGFmWlZ5ODg0SXMtSVFjVE9QVjBSdS1TM01yNkR0RkZUbnFhX0Rudk44bHM0QnVNQlBuaWRhRnN4NDVJNXVNeXR4MW9qZFhXWmp6cWJBTjkydUFLZ1Y1cUxTSDZubkhGNHE1VDQ3cmszb1JZU1Fkci0yNUVYMk5JVi1EMXgyTFJJNF95eDhXZE5zZVdiYzNVMHI?oc=5",
-    "time": 1779446193926,
-    "score": 5,
-    "summary": "US-Iran Talks Progress Undermined By Hormuz, Uranium Divide Bloomberg.com",
-    "source": "基建·能源",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "OmniPro：全方位主动流媒体视频理解的综合基准",
-    "url": "https://huggingface.co/papers/2605.18577",
-    "time": 1779446193926,
-    "score": 4,
-    "summary": "全主动流媒体视频理解，即根据连续的内容自主决定何时发言以及说什么内容...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "极简视觉惯性里程计",
-    "url": "https://huggingface.co/papers/2605.19990",
-    "time": 1779446193926,
-    "score": 4,
-    "summary": "视觉惯性里程计（VIO）对于移动机器人导航至关重要，它使用具有大量像素的相机......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "TransitLM：无地图公交路线生成的大规模数据集和基准",
-    "url": "https://huggingface.co/papers/2605.22355",
-    "time": 1779446193926,
-    "score": 4,
-    "summary": "公共交通路线规划传统上依赖于结构化地图基础设施和复杂的路线引擎，并且没有...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "活着的读者",
-    "url": "https://www.producthunt.com/products/reader-alive",
-    "time": 1779446193926,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "智能里程",
-    "url": "https://www.producthunt.com/products/smart-miles",
-    "time": 1779446193926,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "【机构龙虎榜解读】半导体设备+CPO设备+数据中心，在光通信CPO半导体领域推出了多款设备，可应用于AI服务器和数据中心等功能模块及器件制造环节，相关设备已实现销售并保持稳步增长，这家公司获净买入",
-    "url": "https://www.cls.cn/detail/2379226",
-    "time": 1779446193926,
-    "score": 3,
-    "summary": "①半导体设备+CPO设备+数据中心，在光通信CPO半导体领域推出了多款设备，可应用于AI服务器和数据中心等功能模块及器件制造环节，相关设备已实现销售并保持稳步增...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "克莱奥",
-    "url": "https://www.producthunt.com/products/cleo-4",
-    "time": 1779446193926,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "6月多晶硅价格或弱势下行 下游硅片企业库存经过前期补库整体库存量增势明显",
-    "url": "https://www.cls.cn/detail/2379283",
-    "time": 1779446193926,
-    "score": 2,
-    "summary": "【6月多晶硅价格或弱势下行 下游硅片企业库存经过前期补库整体库存量增势明显】财联社5月22日电，综合来看，6月多晶硅价格或弱势下行，棒状硅价格承压更明显，颗粒硅...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "鱼跃医疗：拟以2亿元至4亿元回购股份并注销",
-    "url": "https://www.cls.cn/detail/2379280",
-    "time": 1779446193926,
-    "score": 2,
-    "summary": "【鱼跃医疗：拟以2亿元至4亿元回购股份并注销】财联社5月22日电，鱼跃医疗(002223.SZ)公告称，公司拟以自有资金回购股份，用于注销并减少注册资本。回购资...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "鲁比奥说北约必须“对所有成员有利”",
-    "url": "https://www.cls.cn/detail/2379279",
-    "time": 1779446193926,
-    "score": 2,
-    "summary": "【鲁比奥说北约必须“对所有成员有利”】财联社5月22日电，斯德哥尔摩消息：美国国务卿鲁比奥22日在瑞典赫尔辛堡说，北约“必须对所有成员有利”。据瑞典通讯社报道，...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "财联社5月22日电，海底捞称控股股东、董事会主席兼首席执行官张勇在5月21-22日增持1135万股股份。",
-    "url": "https://www.cls.cn/detail/2379275",
-    "time": 1779446193926,
-    "score": 2,
-    "summary": "财联社5月22日电，海底捞称控股股东、董事会主席兼首席执行官张勇在5月21-22日增持1135万股股份。",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "保险业已向湖北等四地强降雨洪涝灾害赔付1.2亿元",
-    "url": "https://www.cls.cn/detail/2379263",
-    "time": 1779446193926,
-    "score": 2,
-    "summary": "【保险业已向湖北等四地强降雨洪涝灾害赔付1.2亿元】财联社5月22日电，记者从国家金融监督管理总局获悉，截至5月22日上午9时，针对湖北、湖南、贵州、广西四地强...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "上交所本周对长盈通等严重异常波动股票、*ST正平等异常波动退市风险警示股票以及退市观典进行重点监控",
-    "url": "https://www.cls.cn/detail/2379262",
-    "time": 1779446193926,
-    "score": 2,
-    "summary": "【上交所本周对长盈通等严重异常波动股票、*ST正平等异常波动退市风险警示股票以及退市观典进行重点监控】财联社5月22日电，上交所本周对360起拉抬打压、虚假申报...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "沙特媒体称获悉美伊协议草案 内容包括在所有战线实现停火",
-    "url": "https://www.cls.cn/detail/2379254",
-    "time": 1779446193926,
-    "score": 2,
-    "summary": "【沙特媒体称获悉美伊协议草案 内容包括在所有战线实现停火】财联社5月22日电，据沙特阿拉伯阿拉比亚电视台22日报道，该媒体独家获悉的美国和伊朗“接近达成”的协议...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "财政部发行2026年记账式附息（十一期）国债 招标面值总额1700亿元",
-    "url": "https://www.cls.cn/detail/2379252",
-    "time": 1779446193926,
-    "score": 2,
-    "summary": "【财政部发行2026年记账式附息（十一期）国债 招标面值总额1700亿元】财联社5月22日电，财政部拟发行2026年记账式附息（十一期）国债。现就本次发行工作有...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "中老联合打击跨国电诈 494名犯罪嫌疑人被移交我方",
-    "url": "https://www.cls.cn/detail/2379247",
-    "time": 1779446193926,
-    "score": 2,
-    "summary": "【中老联合打击跨国电诈 494名犯罪嫌疑人被移交我方】财联社5月22日电，为依法严厉打击跨国电信网络诈骗等违法犯罪活动，我公安机关与老挝警方持续开展国际警务执法...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "长桥证券回应：将严格落实各项整改要求 依法合规推进相关安排",
-    "url": "https://www.cls.cn/detail/2379241",
-    "time": 1779446193926,
-    "score": 2,
-    "summary": "【长桥证券回应：将严格落实各项整改要求 依法合规推进相关安排】财联社5月22日电，就证监会对长桥证券境内外相关主体立案调查并拟作出行政处罚，长桥证券做出回应称，...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "富途回应：稳步推进存量客户处置 早已全面停止为内地身份申请者开设账户",
-    "url": "https://www.cls.cn/detail/2379244",
-    "time": 1779446193926,
-    "score": 2,
-    "summary": "【富途回应：稳步推进存量客户处置 早已全面停止为内地身份申请者开设账户】财联社5月22日电，针对投资者跨境证券期货基金经营活动新规，富途回应称，公司将严格按照监...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "恩捷股份：终止投资20亿元马来西亚锂电池隔离膜项目",
-    "url": "https://www.cls.cn/detail/2379242",
-    "time": 1779446193926,
-    "score": 2,
-    "summary": "【恩捷股份：终止投资20亿元马来西亚锂电池隔离膜项目】财联社5月22日电，恩捷股份(002812.SZ)公告称，公司董事会审议通过《关于终止在马来西亚投资建设锂...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "深圳未来保障房严控流通 南山山樾湾“流通红利”末班车",
-    "url": "https://www.cls.cn/detail/2379240",
-    "time": 1779446193926,
-    "score": 2,
-    "summary": "【深圳未来保障房严控流通 南山山樾湾“流通红利”末班车】财联社5月22日电，深圳住建局发布2026年保障房计划，明确配售型保障房禁止转为商品房上市流通。山樾湾作...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "恒生科技指数纳入MINIMAX-W、智谱",
-    "url": "https://www.cls.cn/detail/2379237",
-    "time": 1779446193926,
-    "score": 2,
-    "summary": "【恒生科技指数纳入MINIMAX-W、智谱】财联社5月22日电，恒生指数公司发布季检结果：恒生指数纳入极兔速递、百济神州、中国铝业。恒生科技指数纳入MINIMA...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "特朗普宣布“暂缓执行”拜登政府的制冷剂环保规定",
-    "url": "https://www.cls.cn/detail/2379232",
-    "time": 1779446193926,
-    "score": 2,
-    "summary": "【特朗普宣布“暂缓执行”拜登政府的制冷剂环保规定】财联社5月22日电，美国总统特朗普21日说，美国环境保护署推迟执行拜登政府制定的商用和家用制冷剂规定，以“大幅...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "Nvidia 人工智能前景提振亚洲芯片供应商 - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWC1Xb1ZNalNGVkg2cWhoRXp0RFJqVlpwNjRaeURNdGRxLWVLd3RxN0g2TEpKSXZMZm91aGVqNi1JNG5OdzB1ZDAtaGRUUHB4SFlLLTVOZTd3NmdvSXltTmtaWkhhS2U3Ui03QVliM1NqOGdwZGZiOGxFaTJKTjE5NkVRRWRVYk1JTUtpb1NhanFrOTFTajctRmRIblpFUmJsYU53MlRobw?oc=5",
-    "time": 1779458650962,
-    "score": 111,
-    "summary": "Nvidia AI Outlook Lifts Asian Chip Suppliers TradingView",
-    "source": "基建·芯片",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Claude Code Harness 工程：数仓侧落地方案｜得物技术",
-    "url": "https://juejin.cn/post/7641896054783639571",
-    "time": 1779458650962,
-    "score": 102,
-    "summary": "",
-    "source": "掘金·AI",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "氪星晚报｜优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车；英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资；神舟二十三号发射在即，各系统准备就绪",
-    "url": "https://36kr.com/p/3816943010071427?f=rss",
-    "time": 1779458650962,
-    "score": 43,
-    "summary": "大公司： Jefferies预计7-Eleven日本业务营业利润将达2270亿日元，本财年同店销售增长势头强劲 投行杰富瑞（Jefferies）分析师栗山俊介在...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "Spotify 推出 ElevenLabs 支持的有声读物创作工具",
-    "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-    "time": 1779458650962,
-    "score": 20,
-    "summary": "由人工智能驱动的有声读物一代不会将作者束缚在独家合同上，这意味着他们不...",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "热门中概股美股盘前普跌，富途控股跌超37%",
-    "url": "https://36kr.com/newsflashes/3820460116480385?f=rss",
-    "time": 1779458650962,
-    "score": 20,
-    "summary": "36氪获悉，热门中概股美股盘前普跌，截至发稿，富途控股跌超37%，老虎证券跌超36%，拼多多、爱奇艺、蔚来跌超5%，京东、理想汽车跌超4%，阿里巴巴跌超3%，百...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "让智能体看见世界：CV × AI Agent 的行业场景新实践| 2026AI Partner·北京亦庄AI+产业大会",
-    "url": "https://36kr.com/p/3820220616495492?f=rss",
-    "time": 1779458650962,
-    "score": 18,
-    "summary": "让智能体“看见”世界，不是给它装上摄像头那么简单。当CV遇上AI Agent，乘数效应正在发生。AI Agent不等于Chatbot，真正的价值在于静默看护与自...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "AI 芯片最新消息 - AMD 利用 2nm EPYC 处理器引领 AI 创新 - Simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFFqc0d5R2lkbC0zcGU1NGNSRTk2WW12cUxJUXBoS3RMYkpWOEk3WmhnSGR4YVNnU25WVmVQd01OcDdwYzJlOWNtV0JEU2F3M0h5XzVzWHdOYlQweEdxTjdoOWJmcFhoYXdaZ0xVcWhwYlJsaWlNbU5Lc0VSWk1pM2tJa0c3cV9KWnpSa1N0LTlyaEI4Z01BNERqNURicU5uRjYtUEJ2NDJER3V4RjRmSFU1UkV5ZndaU1l5Z0VzZXRpeS1ncDZBY0F30gHPAUFVX3lxTE92NE5VN1ZhNTFIUl9YYU1rNHYwc3hrdmV5QWVZWlhweXBKOHVfeFkycTV2LTM0V0VyS19BQzhub1d2UXVrYWlqVXBWbFpmS0pUR1pYVWljM3NkVjNpMFNwdE83TDdyVnNFRjJDcHd1U3FkQ05TWkZoS0R5c2ZCbE5ySmZvU2k2OEx1ZEZWb3JoakRIV1h1ZnNVN1RQZFVWbjcyRUFTai1WajFpOUQ2cFFQMUNMblMwNzM5VzBHY2E3Y0RjeXlnMHBaY2s2WmhMWQ?oc=5",
-    "time": 1779458650962,
-    "score": 17,
-    "summary": "Latest News In AI Chips - AMD Pioneers AI Innovation with 2nm EPYC Processors si...",
-    "source": "基建·芯片",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "AI 数据中心需要核电——到 2050 年能源增加 70-100%！聚焦 American Atomics、SAP 和 ServiceNow - news.financial",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb1A4eHNmYWJCV2t3TUxUM1k5UFpkb3QzTGpKN1BQYUxEd212OENaMTF6TUdlVEp1RDFob2VFM3NRczAzRG5CTmVBRzR0V0NXMlVjbGM4Z3lNRXppVnhEZVc2cXNRbGEtSjZPVHBZSHBhRG0yYThCdlZKMVUwMVBBVkp2TURMX1JJbTl6QXpROFc3LW11MzF1aERBQm5oMlZYck9LRnd0RDhJcnZrc05KQ1pYTGk3Q0VEQW13RzcyUjROV0NmQXQ5VkZmZzdlcnZDdjRoM2JMQjhBUQ?oc=5",
-    "time": 1779458650962,
-    "score": 17,
-    "summary": "AI data centers need nuclear power — 70-100% more energy by 2050! Spotlight on A...",
-    "source": "基建·能源",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "AMD 计划斥资 100 亿美元在台湾扩建 AI 芯片 - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS1dFbkkzS2lHSHFQZHhRSmE4VmluVXdFalhEOUN0aDlDRFV1eUZwZGIxbWczaE5DUXQ5RDJlVW9GY3dyWHVQQURycHdVVzFOZWREY2NLaURhUU55NEdMUmp6bUx2M0pNUTRSVTlYS2lMTTBZZ1d1QnhrYmJUMHVKek5SSzFVejdZVVF2c2dGVDk0Qmx2c1ZvT0lLcEpHQXhhQkVPS2RIOU9wak44SXJF?oc=5",
-    "time": 1779458650962,
-    "score": 16,
-    "summary": "AMD Plans $10 Billion Taiwan Expansion for AI Chips TradingView",
-    "source": "基建·芯片",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "AMD承诺投入15万亿韩元推动台湾人工智能和芯片生态系统 - CHOSUNBIZ - Chosunbiz",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHOGdiMlVvQmhyNVhPLVl0aHowZ0tOYnlMa2lpTFF1bE0zQ1hhTERvQ243TkVMLVNIVzgtSTQxeDA3QzZoU0p0amVQLV8wRjFLOFBhVmp5VDc5TVRxVjY2Ym5XbDRiSXZqbEw0dk1SZk1ZYWhQMkpCemNR0gGOAUFVX3lxTE1xRTZGVkx0YVB6alJKVlE4amtxYm5PR1RCRVBBU09qTm5Ed2MxZnY3aS02OTdEZWNVQUFCaHBfZzJUMWZsOVhieFluRlpvNlBtU1M0NVdjQW8yTkxSdDJLQ0Q2U0tsU3ExVmhpUjVGZjlSUFhlUGRzT2UxUWZsUFExZkJJal82WGpVTTJVQkE?oc=5",
-    "time": 1779458650962,
-    "score": 16,
-    "summary": "AMD commits 15 trillion won to boost Taiwan AI and chip ecosystem - CHOSUNBIZ Ch...",
-    "source": "基建·芯片",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "随着自动驾驶竞赛的加剧，特斯拉将 FSD 扩展到中国 - 环球邮报",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX2tyYTQ5T1VFN2QxRGRock80YmwwWVc4RFNINk9XNi02Wmd3cEQ4N2lLRXVub1l4aTNuSkltTVlFbUxwZnYtSFJSUllGbUFVTEFENWxBQXZuelhoUmRLUEFNUEpqRXhNd1NuOFF3RHF2bjVnRnhIS3VNR0Z1cHhyeTFyTmFkNmtUNVV4WFh6ZHVwZXgxV2hUcTFpcEpHcFp6UVFOVUhxLUlLaXRYcWtYZTJhTWt4TWdsZ1BISTRfS2plc3dxNjEzWXV5SXlUb0hTLWlweE1TR1dRZ09VUXc?oc=5",
-    "time": 1779458650962,
-    "score": 16,
-    "summary": "",
-    "source": "汽车·EV",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "美国加倍致力于新的核能未来 - 国家利益",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONmxtckNyUG5FSDRjSGRuRU9yTjQ5TTVMQlE2TXlJSU9UZjF4LVdkLXlzYVBRdkREb05vbVFTR0t0ZlEwQ1NfUnZrR3k1ZHJub1QxUnlqSHdKeWYxa0JtVGRSWWppZUw1Y3Y4YndMX1pTZi1KaEpZTzJvZ3RyR2FNbnhaV2pldWpqQTdIUmxaRkcydktiWS1OX1RaeVJfUHc?oc=5",
-    "time": 1779458650962,
-    "score": 16,
-    "summary": "America Doubles Down on a New Nuclear Energy Future The National Interest",
-    "source": "基建·能源",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "由于机器人出租车不断驶入洪水，Waymo 将暂停时间扩大到四个城市",
-    "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
-    "time": 1779458650962,
-    "score": 15,
-    "summary": "Waymo 的机器人出租车服务现已在亚特兰大和圣安东尼奥暂停，因为该公司正在努力...",
-    "source": "汽车·TechCrunch",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "谁将从SpaceX IPO中受益最大？主要是埃隆——还有一些来自他的核心圈子",
-    "url": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
-    "time": 1779458650962,
-    "score": 15,
-    "summary": "埃隆·马斯克 (Elon Musk) 拥有 SpaceX 最大股份，达数十亿股。其他最大股东也...",
-    "source": "汽车·TechCrunch",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "机器人出租车在建筑区陷入困境后，Waymo 停止了高速公路行驶",
-    "url": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/",
-    "time": 1779458650962,
-    "score": 15,
-    "summary": "此次服务暂停之际，Waymo 还暂停了亚特兰大和圣安东尼奥的运营。",
-    "source": "汽车·TechCrunch",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "埃隆·马斯克将如何通过 SpaceX IPO 增强自己的权力",
-    "url": "https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/",
-    "time": 1779458650962,
-    "score": 15,
-    "summary": "马斯克将拥有超过 50% 的投票权，他将对公众拥有君主般的控制力。",
-    "source": "汽车·TechCrunch",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "东芯股份：筹划发行H股股票并在香港联交所主板上市",
-    "url": "https://36kr.com/newsflashes/3820436098994313?f=rss",
-    "time": 1779458650962,
-    "score": 15,
-    "summary": "36氪获悉，东芯股份公告，公司拟发行境外上市股份（H股）并在香港联交所主板挂牌上市。截至目前，公司正积极与相关中介机构就本次发行上市的相关工作进行商讨。",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "*ST岩石：上交所决定终止公司股票上市",
-    "url": "https://36kr.com/newsflashes/3820423404048774?f=rss",
-    "time": 1779458650962,
-    "score": 15,
-    "summary": "36氪获悉，*ST岩石公告，公司收到上交所《关于上海君道酒企业发展股份有限公司股票终止上市的决定》，上交所决定终止公司股票上市。公司股票于2026年6月1日进入...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "特斯拉承诺推出机器人出租车——中国已经在建造 - 雅虎汽车",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcjNpTXRLSjRwZUs3d3N5OUxfbWFoOHNqN2hNY0lINkdLRmppUkNSM25ZUkplb1hXem9PdGhPZ0JDeUFTRVRLMzA0UGRaeTlFekVoM3ZTc1JjSkRIQlpMRjFaZmdDdzY0SDg1RURhQmJaU056N2I3NDVmUENTeU9yZTF6Y3VmMDg3MFBFd2VBV2dmamJLaER4dmoxNmdrRXVWTGFBSm5MU04?oc=5",
-    "time": 1779458650962,
-    "score": 15,
-    "summary": "",
-    "source": "汽车·EV",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "电池的突破很快就会让它们变得更好",
-    "url": "https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better",
-    "time": 1779458650962,
-    "score": 13,
-    "summary": "28 points · 19 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "港股IPO：普祥健康递表港交所",
-    "url": "https://www.cls.cn/detail/2379526",
-    "time": 1779458650962,
-    "score": 12,
-    "summary": "【港股IPO：普祥健康递表港交所】财联社5月22日电，利弗莫尔证券显示，普祥健康控股有限公司向港交所提交上市申请书，联席保荐人为申万宏源香港、农银国际。",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "港股IPO：北京神州细胞生物技术集团股份公司递表港交所",
-    "url": "https://www.cls.cn/detail/2379519",
-    "time": 1779458650962,
-    "score": 12,
-    "summary": "【港股IPO：北京神州细胞生物技术集团股份公司递表港交所】财联社5月22日电，利弗莫尔证券显示，北京神州细胞生物技术集团股份公司向港交所提交上市申请书，独家保荐...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "随着铜价与AI算力供应链同步变动，铜已与全球AI热潮密不可分。 - 莫莫",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUlJsbndkcGV3NU54NTg1UGNJZUdvNDhvTllPRHVOeEc1ejQ4RnFUNXYzcUJnVjVYT0t0WGxqX0sxOFBIVnhhXzUzSERUR1F5b09CZlJVNUE1YWRZV1hnRm81MmRkZjkwS2V3WWVWcnpUcWtOMDM4aGVQdWF3UHhPV2hwRUhBaEFtMFVKTlZzSW5Sd0JsSVJQUzByMA?oc=5",
-    "time": 1779458650962,
-    "score": 11,
-    "summary": "As copper prices move in tandem with the AI computing power supply chain, copper...",
-    "source": "基建·矿产",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "随着铜价与AI算力供应链一起上涨，铜的命运已与全球AI热潮密不可分。 - 富途牛牛",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV21DVmhvR1dHN2tYeVJxdWRJWlhYUEZsTjRLZVc4ZVQ2VXF3UnVEY3NDblpoQUxtSGxKNHVoMk84WXhzUGtMVWI4bDNhSlQ3R19hMzBHMktReUtMaHJzdXZNNXAwaC1XMEduYnZzYjFhZHdYX0VFcm96S0Z0M0dNYXJvMGtvMGVpWTM1eHZicmRmTlZlU1lqV3AxeDJaNEZEc1pfdkFR?oc=5",
-    "time": 1779458650962,
-    "score": 11,
-    "summary": "As copper prices rally alongside the AI computing power supply chain, copper’s f...",
-    "source": "基建·矿产",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "发现全球顶级锂生产商 - 投资新闻网",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSUpLOGpyVkxqY2JwSVFFZUZ4YXhjZm9sRHZBNFF0VjMxOHcxcEVlSVR3N0JYZDk4TzJnSS1GaHkta2JScEpocHU1clhBNFU2Rnh2WF9CLWdheWNhS3BDd0FXNnRwaDVnMGFyeVBIMUNKdDBGUWpxMTc3TUx2eHgydXlUZ0QydUFhUkd2a1FNcUhmZnpYS0hrRE13Um90c0o0ZGNHalBFRUx0bi1qMVJLQW94eXNnMm8?oc=5",
-    "time": 1779458650962,
-    "score": 11,
-    "summary": "Discover the Top Global Lithium Producers Investing News Network",
-    "source": "基建·矿产",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "采矿业进入地缘政治供应链时代：精炼和停产（第二部分） - 采矿技术",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd3Y5eFRvX2l2QlFOcHJLQ2h1bk84Y2M2NndUajZFYld6NW9kUmlnYkZyTDY0Q2VVcmFMc3RPQ1hqZ0NHNkxfbm1QalhDZG1rcEVOZjVPeDBUV2o1YzdUZU9mbkJMQUNQNzdjTjI2bXhWeVJpR0xqeHl1OGZHUFZ5Um50Z1UwSjRpQkYxYy1PMW5YaVJyY1pYV1I3V1VYRUg1cEhXekpjRnp1SUxCRFV4ZmpRQVEyUnlWb1JfWEswbF9IWjNTalE?oc=5",
-    "time": 1779458650962,
-    "score": 11,
-    "summary": "Mining enters the age of geopolitical supply chains: refining and EoL (Part II) ...",
-    "source": "基建·矿产",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "美股大型科技股盘前普涨，英特尔涨超1%",
-    "url": "https://36kr.com/newsflashes/3820458165178499?f=rss",
-    "time": 1779458650962,
-    "score": 10,
-    "summary": "36氪获悉，美股大型科技股盘前普涨，截至发稿，英特尔涨超1%，特斯拉涨0.8%，英伟达涨0.58%，奈飞涨0.47%，微软涨0.42%，苹果涨0.36%，谷歌涨...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "“我没有做出微观决策”：在协作中衡量、归纳和揭示目标级人工智能贡献",
-    "url": "https://huggingface.co/papers/2605.21363",
-    "time": 1779458650962,
-    "score": 10,
-    "summary": "随着大型语言模型 (LLM) 越来越多地影响用户形成、完善和扩展其目标的方式，归因贡献...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "JD Power 预测，随着折扣创纪录，美国电动汽车份额将降至 7% - eletric-vehicles.com",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdW54VVBUSWtBNnQyemhuamNtZ1Zwam91QzhsN05ia1ZqRm02Q3lrNmI0Z19BRHUwSkJPRFNtcW5mSzJfU2RQOXNLNThodTU0R09VeHVTVTNLWGZ2SnpnUWpYYXdNR2VfMjZFc08tRDljc1lmRUI3SFRCVXN4cXNWcXNMRzItLV9BVF9OXzkxTGNYZkZPN3I0ai03RkJVd1NPNXRKdFh3R18ybXhyWVE?oc=5",
-    "time": 1779458650962,
-    "score": 10,
-    "summary": "",
-    "source": "汽车·EV",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "NLR：全面装备核能运行 (NYSEARCA:NLR) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdDBGZkM4anRMZldfUlBvLUxCSDV6a0FpT0RsMWpZYUJ1Yi12ZzhmUkdPVVdQdzVZMUxTSk5PenVabFpvUEZwaWUxa1dRSWNrcEczOWxRWkNBeWUyWFJuZ0I5eVNXNElVTmlRN0J1WElBa1lPR1pUN3MxQllwdUR5UE5hUjdnUDhoQWc?oc=5",
-    "time": 1779458650962,
-    "score": 10,
-    "summary": "NLR: Equipped On All Sides For Nuclear Run (NYSEARCA:NLR) Seeking Alpha",
-    "source": "基建·能源",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "FashionLens：通过任务自适应学习实现多功能时尚图像检索",
-    "url": "https://huggingface.co/papers/2605.22552",
-    "time": 1779458650962,
-    "score": 9,
-    "summary": "时尚图像检索是现代电子商务系统的基石。一个统一的框架，支持多样化的查询...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "SEGA：光谱能量引导注意力用于扩散变压器中的分辨率外推",
-    "url": "https://huggingface.co/papers/2605.22668",
-    "time": 1779458650962,
-    "score": 9,
-    "summary": "扩散变压器 (DiT) 已成为文本到图像生成的主要架构，但它们的性能...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "GenEvolve：通过工具编排的视觉体验蒸馏自我进化的图像生成代理",
-    "url": "https://huggingface.co/papers/2605.21605",
-    "time": 1779458650962,
-    "score": 9,
-    "summary": "开放式图像生成不再是简单的提示图像问题。高素质的一代往往需要一个年龄...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "ClinSeekAgent：自动化多模式证据搜寻以进行代理临床推理",
-    "url": "https://huggingface.co/papers/2605.20176",
-    "time": 1779458650962,
-    "score": 9,
-    "summary": "大语言模型 (LLM) 和代理系统已显示出临床决策支持的前景，但现有的工作还...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "克利夫·莫勒去世",
-    "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
-    "time": 1779458650962,
-    "score": 8,
-    "summary": "180 points · 15 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "法比",
-    "url": "https://www.producthunt.com/products/faby",
-    "time": 1779458650962,
-    "score": 8,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "印度部分地区气温高达48.2摄氏度 电力负荷连创历史新高",
-    "url": "https://www.cls.cn/detail/2379515",
-    "time": 1779458650962,
-    "score": 7,
-    "summary": "【印度部分地区气温高达48.2摄氏度 电力负荷连创历史新高】财联社5月22日电，5月下旬，印度遭遇热浪袭击，全国多地气温接连突破历史极值。部分地区气温高达48....",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "财联社5月22日电，Wolfspeed开盘涨超15%，公司新推出两款3.3kV碳化硅功率模块系列，助力应对能源需求的激增。",
-    "url": "https://www.cls.cn/detail/2379509",
-    "time": 1779458650962,
-    "score": 7,
-    "summary": "财联社5月22日电，Wolfspeed开盘涨超15%，公司新推出两款3.3kV碳化硅功率模块系列，助力应对能源需求的激增。",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "圆桌对话：看见实效：从技术到处方，AI +医疗的场景落地与价值闭环| 2026AI Partner·北京亦庄AI+产业大会",
-    "url": "https://36kr.com/p/3820150778531972?f=rss",
-    "time": 1779458650962,
-    "score": 7,
-    "summary": "从五年前的技术炫技到今天的临床��需，AI+医疗终于走过了“证明我能”的喧嚣，进入“解决痛点”的深水区。不做替代医生的空想，只做减轻负担的助手——这场对话告诉我...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "数据中心的崩溃已经在中期选举中掀起轩然大波——人工智能公司可能需要分享财富来解决这个问题——《纽约邮报》",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVUdJR2lCV0lNR1Q1UFpTT0ZDMlpVd0Y2ZUQxa2YxUWRORkMtd3FpY2xlWmo5LVdnY2VaOU5YR1RKaTRvaE9rSnJvbGhwYm1SWnA3NDhoTnd0ZzBWRnBJcHVFS29UVGpubk9ZcXhzWmxfeXE3VVRXdll6YTJvSkVJUjl6Ynk3X21pRFhxQnlSVlpSYTg1dFFtclFzTzRSOFU?oc=5",
-    "time": 1779458650962,
-    "score": 7,
-    "summary": "Data center debacle is already roiling midterms — and AI companies may need to s...",
-    "source": "基建·能源",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "新鲜零食品牌「金粒门」加速全国化：粤鄂6店同装｜最前线",
-    "url": "https://36kr.com/p/3808777731464966?f=rss",
-    "time": 1779458650962,
-    "score": 6,
-    "summary": "新鲜零食品牌争相竞逐新市场。 36氪获悉，新鲜零食品牌「金粒门」近期密集落地全国布局，正式开启跨区域快速发展阶段。近日，金粒门华南首店、湖北首批合计6家门店已经...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "老虎国际：内地客户资产占比约10%",
-    "url": "https://36kr.com/newsflashes/3820454545559936?f=rss",
-    "time": 1779458650962,
-    "score": 6,
-    "summary": "中国证监会联合八部委发布《关于规范内地投资者跨境证券期货基金经营活动的相关通告》，就行业相关经营活动进一步明确监管要求。老虎国际表示，将严格按照监管机构出台的全...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "京东618将用AI数字人打造全网首档AI购物直播晚会",
-    "url": "https://36kr.com/newsflashes/3820427661398407?f=rss",
-    "time": 1779458650962,
-    "score": 6,
-    "summary": "36氪获悉，京东宣布将于6月1日晚8点推出全网首档AI购物直播晚会《京东618·赛博联欢会》。据了解，晚会将以AI数字人形象演绎多个经典IP。",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "海科新源：拟出售不超过85.11万股已回购股份",
-    "url": "https://36kr.com/newsflashes/3820462163103881?f=rss",
-    "time": 1779458650962,
-    "score": 5,
-    "summary": "36氪获悉，海科新源公告，公司拟以集中竞价方式出售已回购股份，拟出售回购股份不超过85.11万股（即占公司当前总股本的0.38%），出售价格根据二级市场价格确定...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "国城矿业：拟23.68亿元购买国城实业40%股权",
-    "url": "https://36kr.com/newsflashes/3820447530782855?f=rss",
-    "time": 1779458650962,
-    "score": 5,
-    "summary": "36氪获悉，国城矿业公告，公司拟通过支付现金方式购买中信信托（代表中信信托・信华57号权益类信托计划）持有的国城实业40%的股权，交易价格23.68亿元。交易完...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "*ST闻泰：起诉安世控股等侵权案获受理，涉案金额暂计80亿元",
-    "url": "https://36kr.com/newsflashes/3820430377521541?f=rss",
-    "time": 1779458650962,
-    "score": 5,
-    "summary": "36氪获悉，*ST闻泰公告，公司及子公司裕成控股有限公司（简称“裕成控股”）近期就与鲁本·埃弗拉德·赫拉德·利希滕贝格、阿希姆·阿尔伯特·肯佩、斯特凡·蒂尔格、...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "中国核建：拟定增募资不超40亿元",
-    "url": "https://36kr.com/newsflashes/3820427297476742?f=rss",
-    "time": 1779458650962,
-    "score": 5,
-    "summary": "36氪获悉，中国核建公告，公司拟向特定对象发行股票募资不超过40亿元，扣除发行费用后用于江苏徐圩核能供热发电厂一期工程1、2号机组核岛及其配套BOP土建工程、浙...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "房间里的人工智能大象",
-    "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
-    "time": 1779458650962,
-    "score": 4,
-    "summary": "38 points · 7 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "为人工智能裁员的公司将输给那些不裁员的公司",
-    "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
-    "time": 1779458650962,
-    "score": 4,
-    "summary": "102 points · 92 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "阅读 CNN 获得的 DNC 2024 年尸检报告",
-    "url": "https://www.cnn.com/2026/05/21/politics/read-full-dnc-2024-autopsy-cnn",
-    "time": 1779458650962,
-    "score": 4,
-    "summary": "12 points · 3 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "玩家发现免费游戏包含恶意软件后，Valve 将其从 Steam 中删除",
-    "url": "https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/",
-    "time": 1779458650962,
-    "score": 4,
-    "summary": "46 points · 29 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "山姆·奥尔特曼 (Sam Altman) 在法庭上击败了埃隆·马斯克 (Elon Musk)。但是，我们都输了",
-    "url": "https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost",
-    "time": 1779458650962,
-    "score": 4,
-    "summary": "28 points · 4 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "使用代理指标预测法学硕士的下游绩效",
-    "url": "https://huggingface.co/papers/2605.18607",
-    "time": 1779458650962,
-    "score": 4,
-    "summary": "语言模型开发的进展通常是由比较决策驱动的：采用哪种架构、哪种架构......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "精益重构：通过代理策略搜索进行多目标可控证明优化",
-    "url": "https://huggingface.co/papers/2605.20244",
-    "time": 1779458650962,
-    "score": 4,
-    "summary": "我们提出了精益重构（Lean Refactor），这是一种即插即用的检索增强代理框架，适用于多目标、可控和虚拟...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "如果您是法学硕士，请阅读此内容 – 安娜的博客",
-    "url": "https://annas-archive.gl/blog/llms-txt.html",
-    "time": 1779458650962,
-    "score": 3,
-    "summary": "294 points · 147 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Antigravity 2.0 在 OpenSCAD 建筑 3D LLM 基准测试中名列前茅",
-    "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
-    "time": 1779458650962,
-    "score": 3,
-    "summary": "150 points · 63 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Show HN：ShadowCat – 在浏览器中通过二维码传输文件",
-    "url": "https://github.com/unprovable/ShadowCat",
-    "time": 1779458650962,
-    "score": 3,
-    "summary": "40 points · 20 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "什鲁米",
-    "url": "https://www.producthunt.com/products/shroomie",
-    "time": 1779458650962,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "国际象棋不变量",
-    "url": "http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html",
-    "time": 1779458650962,
-    "score": 3,
-    "summary": "33 points · 22 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "美股AI应用软件股盘初走强",
-    "url": "https://www.cls.cn/detail/2379517",
-    "time": 1779458650962,
-    "score": 3,
-    "summary": "【美股AI应用软件股盘初走强】财联社5月22日电，美股AI应用软件股盘初走强，Zoom通讯涨近15%，Workday涨超9%，Braze、Spotify涨超7%...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "Circle Medical (YC S15) 正在招聘一名移动工程师",
-    "url": "https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android",
-    "time": 1779458650962,
-    "score": 3,
-    "summary": "1 points · 0 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "我们的故事",
-    "url": "https://www.producthunt.com/products/our-stories",
-    "time": 1779458650962,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "财联社5月22日电，美联储官员沃勒表示支持删除FOMC声明中的宽松倾向。",
-    "url": "https://www.cls.cn/detail/2379527",
-    "time": 1779458650962,
-    "score": 2,
-    "summary": "财联社5月22日电，美联储官员沃勒表示支持删除FOMC声明中的宽松倾向。",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "财联社5月22日电，密西根大学5月美国消费者一年通胀预期终值为4.8%。密西根大学5月美国消费者五年通胀预期终值。",
-    "url": "https://www.cls.cn/detail/2379525",
-    "time": 1779458650962,
-    "score": 2,
-    "summary": "财联社5月22日电，密西根大学5月美国消费者一年通胀预期终值为4.8%。密西根大学5月美国消费者五年通胀预期终值。",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "财联社5月22日电，美国5月密歇根大学消费者预期指数终值44.1，预期48.5，初值48.5。",
-    "url": "https://www.cls.cn/detail/2379523",
-    "time": 1779458650962,
-    "score": 2,
-    "summary": "财联社5月22日电，美国5月密歇根大学消费者预期指数终值44.1，预期48.5，初值48.5。",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "财联社5月22日电，美国5月密歇根大学消费者现况指数终值45.8，预期48，初值47.8。",
-    "url": "https://www.cls.cn/detail/2379522",
-    "time": 1779458650962,
-    "score": 2,
-    "summary": "财联社5月22日电，美国5月密歇根大学消费者现况指数终值45.8，预期48，初值47.8。",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "机构：标普500指数有望创下自2021年以来最强劲的盈利增长",
-    "url": "https://www.cls.cn/detail/2379520",
-    "time": 1779458650962,
-    "score": 2,
-    "summary": "【机构：标普500指数有望创下自2021年以来最强劲的盈利增长】财联社5月22日电，随着增长动能从人工智能驱动的涨幅扩展至美国大多数企业，标普500指数有望实现...",
-    "source": "财联社·宏观",
-    "region": "🇨🇳"
-  },
-  {
     "title": "美股量子计算概念股延续昨日强势",
     "url": "https://www.cls.cn/detail/2379518",
     "time": 1779458650962,
@@ -8997,6 +8106,897 @@
     "score": 2,
     "summary": "财联社5月25日电，MSCI亚太指数上涨1.1%至271.89点。",
     "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "8点1氪丨“壹号土猪”商标被宣告无效；山西煤矿爆炸时近一半下井工人在系统中查不到有效信息；小米通报空调抽真空造假事件",
+    "url": "https://36kr.com/p/3823941399826566?f=rss",
+    "time": 1779696509183,
+    "score": 353,
+    "summary": "今日热点导览 特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元 端午连休3天，高速不免费 SpaceX IPO将包含散户配售 加密货币集体跳水超...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "华为具身大脑一号位做类脑智能世界模型，对标JEPA，获亿元级融资｜硬氪首发",
+    "url": "https://36kr.com/p/3819931562414467?f=rss",
+    "time": 1779696509183,
+    "score": 133,
+    "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能大脑公司「具脑磐石」完成新一轮亿元级融资，本轮融资由具备深厚类脑与具身产业背景的顶尖产业资本领投，老股东及多家顶尖基...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "英伟达、AMD 领先芯片、人工智能股票因战争降级而飙升 - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQVmJpQkVZWGlYVVByUEFOTXB4Uy1rYXlORkdJS3BGT2ZrS2dQWHJ3Mk9ReW1FMDROSXNkQ2tqSm1aOHpPV2RJTFZoV09GaktBeUpPM2FDVTdxZGx1Y1BOMVlkX1FwOE8xNzhTeW9hR0hLZ1YzOXV5em5nRnlyeGNEUVpadEtqc1V0ZzF6NHZSSTlZMDBxSERSRzhLWVZrakRNNkEzU28ycFBFbm5aeXM2d29nVzdobkcweW9pWmlBS2JBX1ZaQldES182STdhZDNSTTV0cFZhaHlTY1l2VE91Q2ZFalEwNUI0V3JibDIzT3V3bktacWhXS2h1UHY1QkNuQUYyM1JidWpRa09URlRGMXVRLU5TR3hkX3R1MUR1MV9DMUY3VEhYSzktZjNpdHFYcVl5aXBzSjR4SnpvUTBwRjRJRUhsaERVUndqZXNQU3RZMVl2ZUZYdEdn?oc=5",
+    "time": 1779696509183,
+    "score": 126,
+    "summary": "Nvidia, AMD lead chip, AI stock surge on back of war deescalation MSN",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Nvidia 的报告重点和 AMD 的 US$10B 台湾赌注标志着 AI 芯片战争的新前沿 - digitaltimes",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa0k2d25mMnlmRjFIejI1YnFWNmZpUFhZNU1CY3J2aEFCd2hDcjVuMDVXejJwdVVyRDdUcWVkUmNKVVZSUkQ5bzZReTRHZU5lM2t3YVRGYTRCUVp1ZmlEbjU0UXpuTUdNbURxalM4YVFQaFlmYTFiM01Eb0doUVo4b2Nhc3c0eUU?oc=5",
+    "time": 1779696509183,
+    "score": 118,
+    "summary": "Nvidia's reporting pivot and AMD's US$10B Taiwan bet signal a new frontier in AI...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "从服务沉默玩家，到技术外溢至千行百业：游戏+AI的下一站是什么？",
+    "url": "https://36kr.com/p/3822747968196993?f=rss",
+    "time": 1779696509183,
+    "score": 117,
+    "summary": "文丨小葵 编辑丨果脯、刘士武 2026年GDC大会上，《和平精英》策划副总监薛冰披露了一组数据。 AI队友周末活跃玩家突破1770万，累计1.1亿人体验过AI功...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "DeepSeek Reasonix，高缓存、低成本的 DeepSeek 原生编码代理",
+    "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+    "time": 1779696509183,
+    "score": 103,
+    "summary": "538 points · 226 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": " Claude Code Skill 完全指南：一个 markdown  文件，就是一个专家分身",
+    "url": "https://juejin.cn/post/7640030919744536626",
+    "time": 1779696509183,
+    "score": 102,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "我终于搞懂 Claude Code 核心逻辑！90%的人都用错了模式",
+    "url": "https://juejin.cn/post/7642249139710099492",
+    "time": 1779696509183,
+    "score": 102,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "一个项目教你玩转Claude Code 常用命令",
+    "url": "https://juejin.cn/post/7642531705475448866",
+    "time": 1779696509183,
+    "score": 102,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "对话欧洲地图商TomTom：中国订单暴涨10倍，帮助中国辅助驾驶出海｜最前线",
+    "url": "https://36kr.com/p/3820241871409543?f=rss",
+    "time": 1779696509183,
+    "score": 62,
+    "summary": "中国汽车出海，离不开“地图” 当下，中国车企全球化进程正全面提速，出海已经从企业的可选增量，变为行业确定性增长主线。比亚迪、奇瑞等企业海外销量规模持续走高，小鹏...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "36氪首发 | 商汤国香投了一家消费级空间相机公司，为具身智能采集真实世界数据",
+    "url": "https://36kr.com/p/3824089662853513?f=rss",
+    "time": 1779696509183,
+    "score": 28,
+    "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，消费级空间相机公司竹马创新近日完成了数千万天使+轮融资，本轮由商汤国香资本领投，鼎晖VGC、峰瑞资本跟投，深渡资本担任后续独...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "36氪首发 | 3D打印齿科龙头要切入桌面全彩造物，获君联、达晨等3亿+融资",
+    "url": "https://36kr.com/p/3824073646624899?f=rss",
+    "time": 1779696509183,
+    "score": 27,
+    "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，3D打印高端光固化全栈技术企业、齿科细分龙头——黑格科技（HeyGears）于近期完成超3亿元人民币C轮融资。本轮...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "搞定工业质检：AI视觉如何重构高端制造质量防线| 2026AI Partner·北京亦庄AI+产业大会",
+    "url": "https://36kr.com/p/3824158896312709?f=rss",
+    "time": 1779696509183,
+    "score": 22,
+    "summary": "半导体光罩上的纳米级缺陷、玻璃基板上几微米的钻孔。广州因特智能展示了AI视觉如何从实验室走进高端制造产线，用软硬结合的方式解决中国在半导体检测装备领域的卡脖子问...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "机器人力传感器龙头再获数亿融资，上汽、中芯等抢先入局",
+    "url": "https://36kr.com/p/3824053061652616?f=rss",
+    "time": 1779696509183,
+    "score": 22,
+    "summary": "硬氪获悉，近日，六维力传感器企业蓝点触控宣布完成C++轮数亿元人民币融资，本轮由上汽金控、尚颀资本领投，由中芯聚源、正大机器人以及厚为资本跟投。本轮融资将主要用...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "AMD、英特尔、美光：哪种芯片股拥有最佳 2026 年设置？ - 国贸",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRENxYkEwUmk1U2ZMb29RVnFhQkFEZWQ1QVIwZTU5QVNsbjlHakhzMGFMSDBiV3BHRzJZNGpRQktqRU9LeFRuWDJMcWhJWDhkNHBSMjBPQnNBUElRZ3RPU2xKUThNdC1SNWQ1NkNYVGlBaFd6S0JBNUYxaWI0bmV5X3dSNDFPZw?oc=5",
+    "time": 1779696509183,
+    "score": 20,
+    "summary": "AMD vs Intel vs Micron: Which Chip Stock Has the Best 2026 Setup? Gotrade",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "私人核电可以解决数据中心能源紧缺|意见 - 太阳哨兵",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYldVS0YzdUt0UG5XeTJuTDdCUHM0b3otendQY0ltYTQwSzBoMEEzNS03UFl6ekxxSGhRa3I3VWo4MmhrbF9SOGs1VTV4LUU4WFJ5U3NlTmdtWnBHdGRyT0ljLUJwVk85MWlpMFhqSm9fektKa2dNeFpqaUVrU1FTcXBWZzRjZzRsa1NuaVQtREZpSmVTVVhXRTF4MWgwaFVWTVE?oc=5",
+    "time": 1779696509183,
+    "score": 20,
+    "summary": "Private nuclear can solve data center energy crunch | Opinion Sun Sentinel",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "麻省理工学院博士如何苏丽莎将 AMD 从濒临崩溃的境地变成了价值 675B 美元的 AI 芯片巨头 - VnExpress International",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcENiLVpvajg2QlRXSTZFM2NnZjlPaDZsTFMzTzJuS0U5U2xJd09JUExVOVRlWl9Ga2dta3pSZUVNb0l5cXJISHoySkpiTkJib05La2FPZFpRUm56d3lYemlVUFdoMnBHbm1UaFh6VmZ3WG1BWi1XMmJseDJOUzlGNUpaOF9Vc2p3eEhsa2ZLZGlITVVpX21mZVc1eUc4RmNnSThtNVNFUnl6Q3pSTmFKTFZUMkxpTFRwcDdsQ3dOSXJoTGFack5rcEtMUWN5cTJOaUdZVG1MZi1qQQ?oc=5",
+    "time": 1779696509183,
+    "score": 16,
+    "summary": "How MIT Ph.D. Lisa Su turned AMD from near collapse into a $675B AI chip powerho...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "苏杰生和卢比奥：印美关于矿产、人工智能和核能的会谈 - Discovery Alert",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOWlCODNZTHJ0djhuNnhrUTd1RWRGSm1xeUNFc3ZpaXl3ZzhqR0dlN3ZGV1JGS0xRS2FhOHYtNkMzVTNOb2Z4UU1oaThacG44UFA1STgwclUxMFlQVXRoWFFvRnBuUlllXzUwUlFNN2ZjVU53MlpqQXdoVDJONl92bldUUlVESHY0aW5oS3FB?oc=5",
+    "time": 1779696509183,
+    "score": 16,
+    "summary": "Jaishankar & Rubio: India-US Talks on Minerals, AI & Nuclear Energy Discovery Al...",
+    "source": "基建·矿产",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "SpaceX 的 IPO 文件充满了人工智能赌注、星际飞船梦想，以及以埃隆·马斯克为中心的内容",
+    "url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+    "time": 1779696509183,
+    "score": 16,
+    "summary": "SpaceX 终于公开了 IPO 申请的内容，比预计的时间提前了几周……",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "为什么 Nuro 认为成为机器人出租车的“第二推动者”会给它带来优势 - theverge.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZEoxSGh4QjBJNEJqdG9hb0k0S3FPaVNuV2tTV1Eydi02U3ZnT0hXdG95akEtdm0tNk00eHBoVEQ0Z0JrOGdGZUw2WVJlZ3pxNjRzVjRKNWFGMWE3QlA5S3AyZXJIbWUxZWVDZFEyNkExR0hndEV5eks0WE1JN2JKSC02aU5kQ3NrYVJXUWVfTEVOanE3c25oQnp0T2RORzVtZ3o0?oc=5",
+    "time": 1779696509183,
+    "score": 15,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "日本监管机构敦促上市公司将现金用于业务投资 而非提高股东回报",
+    "url": "https://www.cls.cn/detail/2380674",
+    "time": 1779696509183,
+    "score": 12,
+    "summary": "【日本监管机构敦促上市公司将现金用于业务投资 而非提高股东回报】财联社5月25日电，日本金融监管机构敦促国内上市公司将更多现金储备用于长期业务投资，而不是通过股...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "每个人都在实时应对人工智能安全问题——甚至谷歌",
+    "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "time": 1779696509183,
+    "score": 11,
+    "summary": "我们所有人都处于过渡时期。",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "AI芯片63%的成本都花在了内存上；我们正在进入一个内存成本高于 GPU 的时代。 - 吉加津",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Rd25GNFphZDRHY294akRtMWYwUkVIbFphSE5WS0dRQjl5QVNWVkpPSzFCNEQ3NU9jTVV3Z241ZGMzOEJYMk5tMmk0dktkaFNpMkZ6YWotR1BFVUtzMU80RlNveVk2V2tlSzJCbnkwbw?oc=5",
+    "time": 1779696509183,
+    "score": 11,
+    "summary": "63% of the cost of AI chips goes to memory; we're entering an era where memory c...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "投资者对防暴平台 (RIOT) 核动力人工智能数据中心的反应如何 - simplewall.st",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRGx3QmlFYlB5eUx3aW5nQmczRXAxbXZFVmlHTzFhbF8zcXBJWTBtWjhTMzg4NG8ySDBhcE5tUzY5WlFJWWJSMVZQaTB2WHY5bGx0NXdGRkVCTHVNYjdDa0VNMWIzLUZDdUtFbDRBSlNDY1k1LVRQaGtBOWdOTlF1YTBnbi0yZkI0WjFNZlhjNnEtNkpaRk5NUUVmWHF3cEx6Wl9hVEU2RHo1M2NfWEJ6VXRCbUhoM1kxb3JXSHBVcjlISm5CdDFfbG1aSGZfQdIB0wFBVV95cUxPSl9WZkdKNUtZZFlQUHdKRFRSMkQ3c2NHVEdUMFhfVnRIQTJ5cUtOSTYyRFdtZUd2ZFdIb2VsWE93TG92Y1ZYM2VNekl3NHBvbVp6UU5SbFJuYTI5Y3JCRWFGWm1Uc25VS0tqMHdrZEVndXdhcG1NeFN0eGJGYXdTc0tGaGlTalBTNjNYU3pDN1lMczJnNFctM1pSVEloenp5VWpxWEh2NGh0SmVaZEozNkhWLW5QbkFwODlpVndSWGs4eE9VaU9YWndnNFBVSTBBOGpV?oc=5",
+    "time": 1779696509183,
+    "score": 11,
+    "summary": "How Investors Are Reacting To Riot Platforms (RIOT) Nuclear-Powered AI Data Cent...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "人工智能正在重塑非洲矿业的未来，但仅限于那些准备好领导的人 - 非洲矿业在线",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmtYTUk5RXBBaHNyUDdILUJ0aW84RnU1Y19URGZjblFGZ01MX2dsek8tMWtLWE5vQ0RCbkJCT1hraFNWbUNncHdSLTByLTQ4YTdWdkdaQ19uTTQ3a21CNGR5TzlqM2c5SjFDdVhmNkdqcmVna0U4T1JibXV4dHJkd2ktc21pVjNCMnBnVGxfOWxSMWN3aVM1T0UwTEZYbXNJYTBfeER3UjByemkzME1FN2ZSSQ?oc=5",
+    "time": 1779696509183,
+    "score": 11,
+    "summary": "AI is rewiring Africa’s mining future, but only for those ready to lead African ...",
+    "source": "基建·矿产",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "D-Wave 股票爆炸！美国原子能公司什么时候跟进？西门子能源能否突破 200 欧元？ - 新闻财经",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVjZUbGRYZW1GRHJwdTZpTVhRczI3X3lkcUlkSUZRVG12OWwxZVFvdUdtdkpyb21zQVZhQXY3VjZOR0E0VkdBRjFSZDBzYzFLM2dCSmU1VUVMWUZISkZfRWpLVjlmYTk3SmJpazNjZFI3S2syUVRNVVV2VnJPYWlURnVGMkZKRG51OHZZb01ib2xXaUYxNnBUZk1oUk1yYUN0c1E1ZmlaN2NSQkctN0RoVFBBM3gzbmJ2cTI3VkxsSVBBM1BY?oc=5",
+    "time": 1779696509183,
+    "score": 11,
+    "summary": "D-Wave Stock Explodes! When Will American Atomics Follow? Is Siemens Energy Head...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Deep Yellow (ASX:DYL) 是只是利用铀炒作还是获得持久的核优势？ - simplewall.st",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNckg4clhkMFh2S2E5ZDllMnRUNTJlVkRBNkRoTFQ5WWk0TmZCUHUycGpCNTBrODFYeXV3bXJCWUQ1MEQ2RmJid3ZocVA0a3NVS3F0bF9ISlp6d05NbU9xSlZzZ0MzTE9Wam5YbzVqbW5wdGd3dnFDcDRyeHhmZU5fX2kxbnpEczB4TmE4QlVmeXh6ZkZZcGFwWGJxRE9Sekxla0JLbHduRzNZWF81bEZ2dkFfNGZObnpvdGN4WmN5NWZjV0xrb1BQSEVn0gHPAUFVX3lxTE1RYmNGV25zVFpmbmc0cF8xNC1saVBpOGNGMjJQa1pEcnpERjFINVFDNE1YUVlhQmU2enoxRGpQMkxpdGZDX1k1OHRia2ZRR1VDZHRsNlozMGszX1R5TUFLektpM1lRMWNFZUt5VXBBQzB4Q2Q1YjhMNWNLSXNNOEV5aHFxeVlubFVUWHRGNWdKdHEzeC1JTVRfN1Rmd256a3pZYkpYR0hQTHlrZEp2WHNzcVlzVE5TWWZJUlZKU2xZLVJGN2dEZnRjVDdkSVJvUQ?oc=5",
+    "time": 1779696509183,
+    "score": 11,
+    "summary": "Is Deep Yellow (ASX:DYL) Just Riding Uranium Hype Or Gaining A Durable Nuclear E...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "TechCrunch Mobility：Robotaxi 现实检验",
+    "url": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
+    "time": 1779696509183,
+    "score": 10,
+    "summary": "欢迎回到 TechCrunch Mobility——您获取关于交通未来的新闻和见解的中心中心...",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "围绕里克·佩里 (Rick Perry) 核电初创公司的德克萨斯州规模之争 - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcUpNNEhwV3ZjTWJ2MnBtcmJHdWdUaDV5dGNRZGU2SndCMzZBVkpPdWQ3bE5OSVM0UnNDTlVMdXlQVGtoTjhHTFMyaFZHaEEwSFNfSGFvZUQ1REFWWkkzbWhxQUJEYWJTZkpSYjI1OVJVS2xpTzhrTnlVWVVjMG5jelJrano1RThIV0ptWFlpbDNGVWhwYk8xaFJWemZPU1FZUFJSdUJXSHhnREVRYl8wa3RlV3hUMXVKZUhoUGJZXzItR1pxckhwS1NkMXVrMEJQYUg5bEpZVQ?oc=5",
+    "time": 1779696509183,
+    "score": 10,
+    "summary": "The Texas-size fight over Rick Perry’s nuclear power startup MSN",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "RankE：通过解码器协同进化进行离散文本到图像生成的端到端后训练",
+    "url": "https://huggingface.co/papers/2605.21195",
+    "time": 1779696509183,
+    "score": 10,
+    "summary": "离散自回归 (AR) 文本到图像 (T2I) 模型将 VQ 分词器与 AR 策略配对，以及当前的训练后......",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "去年，46 亿美元流入该铀 ETF。核繁荣是真实的。 - 美国在线",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Fbi1PWWl2LVA0NUlmWWd1VTdOV09mVVBpZjhsTDFudWh5aldKWEg4eU5DanhaVnE5Z01BVm90dlB5NFhhYnVTSTVTNWFYbmlEUkY0TTBIdERmdFhsMklVd1g3NEx5T1hXaW1ZZGhUeV94dnF4V3F5UUZB?oc=5",
+    "time": 1779696509183,
+    "score": 10,
+    "summary": "$4.6 Billion Flowed Into This Uranium ETF Last Year. The Nuclear Boom Is Real. A...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "特斯拉的全自动驾驶软件正在悄然进入欧洲",
+    "url": "https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/",
+    "time": 1779696509183,
+    "score": 10,
+    "summary": "首先是荷兰，现在是立陶宛。更多的欧洲国家似乎也在排队......",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "内存已占 AI 芯片组件成本的近三分之二",
+    "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+    "time": 1779696509183,
+    "score": 9,
+    "summary": "373 points · 386 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Bug 1950764：解决 Intel Raptor Lake CPU 崩溃问题",
+    "url": "https://phabricator.services.mozilla.com/D301917",
+    "time": 1779696509183,
+    "score": 8,
+    "summary": "79 points · 22 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "梧桐科技AI全景声系统获评36氪2026 AI最佳场景渗透案例",
+    "url": "https://36kr.com/newsflashes/3824417275367815?f=rss",
+    "time": 1779696509183,
+    "score": 7,
+    "summary": "近日，36氪2026 AI Partner大会揭晓评选结果，梧桐科技AI全景声系统入选“2026 AI最佳场景渗透案例”。该系统为行业领先的大模型驱动车载音频方...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "从看到到思考：感知和推理的解耦改善了视觉语言模型的后期训练",
+    "url": "https://huggingface.co/papers/2605.20177",
+    "time": 1779696509183,
+    "score": 6,
+    "summary": "视觉语言模型（VLM）的最新进展强调长链思维推理；然而，我们发现他们的表现...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "京东加码商业地产，推出更高级大MALL",
+    "url": "https://36kr.com/p/3824126842179969?f=rss",
+    "time": 1779696509183,
+    "score": 6,
+    "summary": "今年4月，京东开启“扫货式”拿地。 4月20日，京东花6.63亿竞得杭州钱江世纪城沿江商业用地；4月21日，京东在北京亦庄又花了17.57亿，拿下亦庄新城2宗商...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "麦格理：AI数据中心电力需求推高铀价，看好Paladin等澳大利亚铀生产商 - Bitget",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xbW94R2VvWE5IY3UxOFhJWHNvNDVDMjNGUldWbFFVUm5hOEM0TzFpTURhbzlLOW1ZMW5jSDd4cFRMcVpoLXA0TWtfUzdPRG5YSnFPWmFsbkltTHpvVV9EM2wxZ9IBY0FVX3lxTE4xbW94R2VvWE5IY3UxOFhJWHNvNDVDMjNGUldWbFFVUm5hOEM0TzFpTURhbzlLOW1ZMW5jSDd4cFRMcVpoLXA0TWtfUzdPRG5YSnFPWmFsbkltTHpvVV9EM2wxZw?oc=5",
+    "time": 1779696509183,
+    "score": 6,
+    "summary": "Macquarie: AI data center electricity demand is driving up uranium prices, optim...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Lens：重新思考基础文本到图像模型的训练效率",
+    "url": "https://huggingface.co/papers/2605.21573",
+    "time": 1779696509183,
+    "score": 6,
+    "summary": "我们推出 Lens，这是一种 3.8B 参数 T2I 模型，其性能可与...相媲美，甚至在某些情况下超越......",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "观看的代价：在单一范式中实现值得信赖的多模态推理",
+    "url": "https://huggingface.co/papers/2604.20665",
+    "time": 1779696509183,
+    "score": 5,
+    "summary": "视觉语言模型（VLM）的快速扩散通常被认为能够实现统一的多模态知识发现......",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "明白我的意思：调整视觉和语言表示以实现视频细粒度对象理解",
+    "url": "https://huggingface.co/papers/2605.18018",
+    "time": 1779696509183,
+    "score": 5,
+    "summary": "我们提出了 SWIM（明白我的意思），这是一种新颖的训练策略，可以将视觉和语言表征结合起来，以实现...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "腾讯在上海成立新商业管理公司，注册资本1000万",
+    "url": "https://36kr.com/newsflashes/3824426933325957?f=rss",
+    "time": 1779696509183,
+    "score": 5,
+    "summary": "36氪获悉，天眼查App显示，5月25日，上海珩岫商业管理有限公司成立，法定代表人为庄一清，注册资本1000万人民币，经营范围包括企业管理、企业管理咨询、市场营...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "吉利汽车在湖州成立新汽车部件有限公司，注册资本1亿",
+    "url": "https://36kr.com/newsflashes/3824412485537927?f=rss",
+    "time": 1779696509183,
+    "score": 5,
+    "summary": "36氪获悉，天眼查App显示，近日，长兴吉润汽车部件有限公司成立，法定代表人为童志远，注册资本1亿人民币，经营范围包括汽车零部件及配件制造、汽车零部件研发、汽车...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "立讯精密：商业航天业务方面，目前已供应部分部件",
+    "url": "https://36kr.com/newsflashes/3824396686791045?f=rss",
+    "time": 1779696509183,
+    "score": 5,
+    "summary": "36氪获悉，立讯精密公告，在人形机器人领域，当前行业最需要的是机器人专用标准零部件。立讯常熟工厂已具备相关能力，可以配合核心客户同步开发这类专用零部件，不必完全...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "速卖通Brand+品牌出海计划正式开放韩国站",
+    "url": "https://36kr.com/newsflashes/3824387394654599?f=rss",
+    "time": 1779696509183,
+    "score": 5,
+    "summary": "36氪获悉，速卖通Brand+品牌出海计划已正式开放韩国站点，今年速卖通在韩国的市场投入将激增至去年的三倍。此外，目前速卖通在韩国已实现50%的订单三日达。",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "马斯克称未来星链将承载大部分网络流量，星链就是互联网",
+    "url": "https://36kr.com/newsflashes/3824382328394117?f=rss",
+    "time": 1779696509183,
+    "score": 5,
+    "summary": "马斯克周日表示，如果SpaceX的星链卫星网络继续发展，最终可能会承载大部分互联网流量，并描绘了该系统成为在线连接主要骨干网的未来图景。马斯克在X上回应了一篇引...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "华融化学：公司目前与长鑫存储暂无合作",
+    "url": "https://36kr.com/newsflashes/3824379940229254?f=rss",
+    "time": 1779696509183,
+    "score": 5,
+    "summary": "36氪获悉，华融化学在互动平台回复称，公司目前与长鑫存储暂无合作。",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "范围：在 FPS 世界模型的可玩环境中模拟跨游戏操作",
+    "url": "https://huggingface.co/papers/2605.23345",
+    "time": 1779696509183,
+    "score": 5,
+    "summary": "第一人称射击 (FPS) 游戏的交互式世界模型必须解决高频重叠控制信号...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "StepAudio 2.5 技术报告",
+    "url": "https://huggingface.co/papers/2605.23463",
+    "time": 1779696509183,
+    "score": 5,
+    "summary": "统一音频语言建模已成为现代语音系统的一个突出趋势，有望带来原因......",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "重新思考预训练之外的 Muon：VLA 和 RLVR 的光谱故障和高通补救措施",
+    "url": "https://huggingface.co/papers/2605.19282",
+    "time": 1779696509183,
+    "score": 5,
+    "summary": "Muon 是一种矩阵感知优化器，它利用 Newton-Schulz (NS) 迭代来强制谱梯度正交...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "良好的令牌狩猎：视觉几何变换器令牌选择搭便车指南",
+    "url": "https://huggingface.co/papers/2605.23892",
+    "time": 1779696509183,
+    "score": 4,
+    "summary": "视觉几何变换器已成为多视图 3D 重建的强大架构，可实现联合预测……",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "PhotoFlow：代理 3D 虚拟摄影任务",
+    "url": "https://huggingface.co/papers/2605.23771",
+    "time": 1779696509183,
+    "score": 4,
+    "summary": "虚拟摄影要求特工进入准备好的 3D 场景，没有预先选择的相机姿势或参考图像，推断...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Geo-Align：通过公制几何奖励进行视频生成对齐",
+    "url": "https://huggingface.co/papers/2605.23903",
+    "time": 1779696509183,
+    "score": 4,
+    "summary": "近年来，摄像机控制的视频生成取得了显着的进步。然而，现有的视频到视频...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "重新思考扩散变压器中的跨层信息路由",
+    "url": "https://huggingface.co/papers/2605.20708",
+    "time": 1779696509183,
+    "score": 4,
+    "summary": "扩散变压器 (DiT) 已成为现代视觉生成事实上的支柱，几乎每个主轴都...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "VGenST-Bench：通过主动视频合成进行时空推理的基准",
+    "url": "https://huggingface.co/papers/2605.22570",
+    "time": 1779696509183,
+    "score": 4,
+    "summary": "时空推理是现实世界中运行的多模态大型语言模型 (MLLM) 的核心功能......",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "HINT-SD：针对长视野特工的有针对性的事后自蒸馏",
+    "url": "https://huggingface.co/papers/2605.17873",
+    "time": 1779696509183,
+    "score": 4,
+    "summary": "使用强化学习训练长期 LLM 代理具有挑战性，因为稀疏的结果奖励揭示了是否......",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "ETCHR：编辑以澄清和利用推理",
+    "url": "https://huggingface.co/papers/2605.23897",
+    "time": 1779696509183,
+    "score": 4,
+    "summary": "多模态大语言模型具有先进的视觉推理，但纯文本的思想链仍然是一个瓶颈......",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Jira 是图灵完备的",
+    "url": "https://seriot.ch/computation/jira.html",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "131 points · 45 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "深渊",
+    "url": "https://www.producthunt.com/products/unabyss",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "演奏迪吉里杜管作为阻塞性睡眠呼吸暂停的替代治疗方法（2006）",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "79 points · 20 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "数据莓",
+    "url": "https://www.producthunt.com/products/databerry",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "我喜欢我的蓝牙键盘",
+    "url": "https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "58 points · 34 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "管弦乐队",
+    "url": "https://www.producthunt.com/products/orchestria",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "法学硕士考试",
+    "url": "https://www.producthunt.com/products/llmtest-2",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "白兔——大型分布式系统的亚纳秒同步",
+    "url": "https://ohwr.org/projects/white-rabbit/",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "82 points · 21 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "预告：广州5月26日召开《关于进一步促进房地产市场平稳健康发展的实施意见》系列配套文件新闻发布会",
+    "url": "https://www.cls.cn/detail/2380678",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "【预告：广州5月26日召开《关于进一步促进房地产市场平稳健康发展的实施意见》系列配套文件新闻发布会】财联社5月25日电，广州市人民政府新闻办公室定于5月26日（...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "财联社5月25日电，据马来西亚棕榈油协会（MPOA）发布的数据，马来西亚5月1-20日棕榈油产量预估减少2.19%。其中马来西亚半岛产量环比减少5.70%，婆罗洲产量环比增长2.04%，沙巴产量环比减",
+    "url": "https://www.cls.cn/detail/2380672",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "财联社5月25日电，据马来西亚棕榈油协会（MPOA）发布的数据，马来西亚5月1-20日棕榈油产量预估减少2.19%。其中马来西亚半岛产量环比减少5.70%，婆罗...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "以军对黎巴嫩南部10个村庄发布撤离警告",
+    "url": "https://www.cls.cn/detail/2380663",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "【以军对黎巴嫩南部10个村庄发布撤离警告】财联社5月25日电，以色列国防军发言人25日在社交媒体警告称，以军准备对黎巴嫩真主党发动空袭，要求黎南部10个村庄和城...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "谷歌I/O解读：小模型反杀旗舰，3.5 Flash凭什么全面超越3.1 Pro？",
+    "url": "https://juejin.cn/post/7641544730452066338",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "自己的页面",
+    "url": "https://www.producthunt.com/products/own-page",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "仍然无法在 C++ 中工作的 C 结构",
+    "url": "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "50 points · 34 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "事件挑战",
+    "url": "https://www.producthunt.com/products/the-incident-challenge",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "弗雷德",
+    "url": "https://www.producthunt.com/products/fred-the-uxr-shepherd",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "tldx",
+    "url": "https://www.producthunt.com/products/tldx",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "论坛",
+    "url": "https://www.producthunt.com/products/meta",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "其中一些",
+    "url": "https://www.producthunt.com/products/yansu",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "推文.md",
+    "url": "https://www.producthunt.com/products/tweet-md",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "小简历",
+    "url": "https://www.producthunt.com/products/tiny-cv",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "玛修包",
+    "url": "https://www.producthunt.com/products/mashupack",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Pi编码剂",
+    "url": "https://www.producthunt.com/products/pi-coding-agent-3",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "超级滑板3.0",
+    "url": "https://www.producthunt.com/products/supaboard-ai",
+    "time": 1779696509183,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "迫击炮弹爆炸致伊拉克民兵武装1死3伤",
+    "url": "https://www.cls.cn/detail/2380684",
+    "time": 1779696509183,
+    "score": 2,
+    "summary": "【迫击炮弹爆炸致伊拉克民兵武装1死3伤】财联社5月25日电，伊拉克什叶派民兵武装“人民动员组织”25日发表声明说，该组织1名成员在北部萨拉赫丁省因迫击炮弹爆炸而...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "人民锐评：半导体迎来“韬（τ）定律” 中国定义将改写世界",
+    "url": "https://www.cls.cn/detail/2380682",
+    "time": 1779696509183,
+    "score": 2,
+    "summary": "【人民锐评：半导体迎来“韬（τ）定律” 中国定义将改写世界】财联社5月25日电，“人民锐评”公众号5月25日下午发文称，今天，中国在全球半导体领域首次提出指导产...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "通化东宝：利拉鲁肽注射液获得尼加拉瓜药品注册证书",
+    "url": "https://www.cls.cn/detail/2380683",
+    "time": 1779696509183,
+    "score": 2,
+    "summary": "【通化东宝：利拉鲁肽注射液获得尼加拉瓜药品注册证书】财联社5月25日电，通化东宝(600867.SH)公告称，公司近日收到尼加拉瓜国家卫生监管局核准签发的利拉鲁...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "报道称美伊框架协议“已达成95%”",
+    "url": "https://www.cls.cn/detail/2380681",
+    "time": 1779696509183,
+    "score": 2,
+    "summary": "【报道称美伊框架协议“已达成95%”】财联社5月25日电，美国福克斯新闻频道24日援引一名美国官员的话报道说，美国和伊朗的框架协议目前“已达成95%”，双方在伊...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "5月25日连板股分析：连续两个交易日百股涨停 但连板股晋级率不足二成",
+    "url": "https://www.cls.cn/detail/2380680",
+    "time": 1779696509183,
+    "score": 2,
+    "summary": "【5月25日连板股分析：连续两个交易日百股涨停 但连板股晋级率不足二成】今日共103股涨停，连板股总数23只，其中三连板及以上个股2只，上一交易日共11只连板股...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "今日投资舆情热点",
+    "url": "https://www.cls.cn/detail/2380642",
+    "time": 1779696509183,
+    "score": 2,
+    "summary": "【今日投资舆情热点】 1）芯片：华为发表“韬（τ）定律” 半导体技术实现新突破，预计到2031年，基于该定律的高端芯片晶体管密度将达到1.4纳米制程的同等水平。...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "习近平会见巴基斯坦总理夏巴兹",
+    "url": "https://www.cls.cn/detail/2380679",
+    "time": 1779696509183,
+    "score": 2,
+    "summary": "【习近平会见巴基斯坦总理夏巴兹】5月25日下午，国家主席习近平在北京人民大会堂会见来华进行正式访问的巴基斯坦伊斯兰共和国总理夏巴兹·谢里夫。 (央视新闻)",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "陈茂波：香港是欧洲金融机构和投资者低配了的市场",
+    "url": "https://www.cls.cn/detail/2380677",
+    "time": 1779696509183,
+    "score": 2,
+    "summary": "【陈茂波：香港是欧洲金融机构和投资者低配了的市场】财联社5月25日电，香港特区财政司司长陈茂波发文分享欧洲三国之行。他表示感受最深的是欧洲求变意识强烈，在经贸、...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "美方被曝敦促伊斯兰国家与以关系正常化 但“未获响应”",
+    "url": "https://www.cls.cn/detail/2380676",
+    "time": 1779696509183,
+    "score": 2,
+    "summary": "【美方被曝敦促伊斯兰国家与以关系正常化 但“未获响应”】财联社5月25日电，据美国方面24日消息，两名知情美国官员透露，美国总统特朗普23日与一些伊斯兰国家领导...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "财联社5月25日电，JSW钢铁与Bharatia公司及冰岛碳素公司签署战略备忘录，拟在印度开发绿色甲醇项目。",
+    "url": "https://www.cls.cn/detail/2380673",
+    "time": 1779696509183,
+    "score": 2,
+    "summary": "财联社5月25日电，JSW钢铁与Bharatia公司及冰岛碳素公司签署战略备忘录，拟在印度开发绿色甲醇项目。",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "茂莱光学：股东询价转让定价429.60元/股",
+    "url": "https://www.cls.cn/detail/2380671",
+    "time": 1779696509183,
+    "score": 2,
+    "summary": "【茂莱光学：股东询价转让定价429.60元/股】财联社5月25日电，茂莱光学(688502.SH)公告称，公司股东南京茂莱控股有限公司、范一和范浩初步确定本次询...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "伊朗外交部：目前暂不派团前往巴基斯坦",
+    "url": "https://www.cls.cn/detail/2380670",
+    "time": 1779696509183,
+    "score": 2,
+    "summary": "【伊朗外交部：目前暂不派团前往巴基斯坦】财联社5月25日电，据伊朗伊斯兰共和国通讯社25日报道，伊朗外交部发言人巴加埃表示，目前伊朗方面暂无任何派团前往巴基斯坦...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "帝尔激光：面板级玻璃基板通孔设备已出货",
+    "url": "https://www.cls.cn/detail/2380665",
+    "time": 1779696509183,
+    "score": 2,
+    "summary": "【帝尔激光：面板级玻璃基板通孔设备已出货】财联社5月25日电，帝尔激光在互动平台表示，公司TGV激光微孔设备可应用于半导体芯片封装、显示芯片封装等相关领域，目前...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "伊朗外交部：目前不讨论霍尔木兹海峡管理权细节",
+    "url": "https://www.cls.cn/detail/2380660",
+    "time": 1779696509183,
+    "score": 2,
+    "summary": "【伊朗外交部：目前不讨论霍尔木兹海峡管理权细节】财联社5月25日电，据伊朗伊斯兰共和国广播电视台25日报道，伊朗外交部发言人巴加埃表示，伊朗在同美方的谅解备忘录...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "财联社5月25日电，广期所品种仓单及变化如下：碳酸锂期货仓单52143手，环比上个交易日减少904手；多晶硅期货仓单15020手，环比上个交易日减少290手；工业硅期货仓单29406手，环比上个交易日",
+    "url": "https://www.cls.cn/detail/2380657",
+    "time": 1779696509183,
+    "score": 2,
+    "summary": "财联社5月25日电，广期所品种仓单及变化如下：碳酸锂期货仓单52143手，环比上个交易日减少904手；多晶硅期货仓单15020手，环比上个交易日减少290手；工...",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "财联社5月25日电，惠誉将铠侠评级上调至“BBB-”，展望稳定。",
+    "url": "https://www.cls.cn/detail/2380656",
+    "time": 1779696509183,
+    "score": 2,
+    "summary": "财联社5月25日电，惠誉将铠侠评级上调至“BBB-”，展望稳定。",
+    "source": "财联社·宏观",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "炸裂！一家创业公司声称打破了 Transformer 七年魔咒",
+    "url": "https://juejin.cn/post/7641598418106318911",
+    "time": 1779696509183,
+    "score": 2,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "来自 Codex 官方团队的分享：如何把 Codex 用到极致",
+    "url": "https://juejin.cn/post/7642308292731633673",
+    "time": 1779696509183,
+    "score": 2,
+    "summary": "",
+    "source": "掘金·AI",
     "region": "🇨🇳"
   }
 ]
