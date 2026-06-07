@@ -1,239 +1,5 @@
 [
   {
-    "title": "人工智能没有意识——特德·蒋",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-    "time": 1780539137450,
-    "score": 8,
-    "summary": "245 points · 433 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "香港推出首个生产力级超级智能体",
-    "url": "https://36kr.com/newsflashes/3838218104604936?f=rss",
-    "time": 1780539137450,
-    "score": 8,
-    "summary": "香港生成式人工智能研发中心（HKGAI）3日举行“HKGAIV3大模型发布暨生态合作大会”，正式发布最新版本的本地大模型HKGAIV3，并推出香港首个生产力级超...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "Cosmos 3：物理 AI 的全模态世界模型",
-    "url": "https://huggingface.co/papers/2606.02800",
-    "time": 1780539137450,
-    "score": 6,
-    "summary": "我们介绍 Cosmos 3，这是一系列全模态世界模型，旨在联合处理和生成语言、图像、视频……",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "消息人士称，Lovable 与 Google Cloud 签署多年协议，将使用量提高 5 倍",
-    "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-    "time": 1780539137450,
-    "score": 5,
-    "summary": "Lovable 和 Google 签署了一项扩大的多年期协议，其中涉及将 Lovable 的足迹扩大 5 倍……",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "MemTrain：自我监督的上下文记忆训练",
-    "url": "https://huggingface.co/papers/2606.03197",
-    "time": 1780539137450,
-    "score": 5,
-    "summary": "记忆力是长期 LLM 代理人不可或缺的能力，使他们能够保存和利用信息...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "深成指率先翻红",
-    "url": "https://36kr.com/newsflashes/3838222499006722?f=rss",
-    "time": 1780539137450,
-    "score": 5,
-    "summary": "36氪获悉，深成指率先翻红，沪指、创业板指跌幅同步收窄。",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "恒生指数跌幅扩大至1%",
-    "url": "https://36kr.com/newsflashes/3838209507428612?f=rss",
-    "time": 1780539137450,
-    "score": 5,
-    "summary": "36氪获悉，恒生指数跌幅扩大至1%，恒生科技指数现跌1.36%。",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "央行今日7天期逆回购操作量为零",
-    "url": "https://36kr.com/newsflashes/3838190393428226?f=rss",
-    "time": 1780539137450,
-    "score": 5,
-    "summary": "36氪获悉，央行公告，根据公开市场业务一级交易商的需求，今日7天期逆回购操作量为零。",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "A股三大指数集体低开，光模块概念领跌",
-    "url": "https://36kr.com/newsflashes/3838188370856201?f=rss",
-    "time": 1780539137450,
-    "score": 5,
-    "summary": "36氪获悉，A股三大指数集体低开，沪指低开0.74%，深成指低开1.05%，创业板指低开1.22%；光模块、半导体领跌，剑桥科技、长光华芯跌超4%，联讯仪器、天...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "人民币兑美元中间价报6.8203，下调19点",
-    "url": "https://36kr.com/newsflashes/3838179124250886?f=rss",
-    "time": 1780539137450,
-    "score": 5,
-    "summary": "36氪获悉，人民币兑美元中间价报6.8203，下调19点；上一交易日中间价6.8184，上一交易日官方收盘价6.7720，上日夜盘报收6.7793。",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "中信证券：建议将汇率纳入盈利分析，关注高出海高汇兑敏感公司的业绩预期差",
-    "url": "https://36kr.com/newsflashes/3838153801566727?f=rss",
-    "time": 1780539137450,
-    "score": 5,
-    "summary": "36氪获悉，中信证券研报称，A股出海收入快速增长，但海外收入稳定并不等于人民币利润稳定。汇率通过收入/成本/汇兑/衍生品和OCI影响报表。投资上，建议将汇率纳入...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "GRAIL：具有可验证奖励的强化学习的梯度重新加权优势",
-    "url": "https://huggingface.co/papers/2606.04889",
-    "time": 1780539137450,
-    "score": 5,
-    "summary": "具有可验证奖励的强化学习（例如 GRPO）现在是提高大型数学推理的常用方法......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "用于视觉语言模型的状态视觉编码器",
-    "url": "https://huggingface.co/papers/2606.04433",
-    "time": 1780539137450,
-    "score": 5,
-    "summary": "视觉语言模型 (VLM) 越来越多地用于多图像、多轮代理环境，其中决策取决于...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "SynCred-Bench：对人工智能生成的视觉错误信息的综合可信度进行基准测试",
-    "url": "https://huggingface.co/papers/2606.03348",
-    "time": 1780539137450,
-    "score": 5,
-    "summary": "最近的生成模型现在可以生成具有真实嵌入文本和布局的视觉工件，从而创建新的错误...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "自适应自动控制：开放式任务流上代理系统部署的持续自我改进",
-    "url": "https://huggingface.co/papers/2606.01770",
-    "time": 1780539137450,
-    "score": 5,
-    "summary": "A-Evolve、GEPA 和 Meta-Harness 等自动线束系统通过优化提示、技能、工具、管理来改进 LLM 代理。",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Ultralytics YOLO26：统一的实时端到端视觉模型",
-    "url": "https://huggingface.co/papers/2606.03748",
-    "time": 1780539137450,
-    "score": 5,
-    "summary": "实时视觉需要准确、高效且易于跨不同硬件部署的模型。 YOLO家族...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "通过宽基线匹配在 MLLM 中引发复杂的空间推理",
-    "url": "https://huggingface.co/papers/2606.03577",
-    "time": 1780539137450,
-    "score": 4,
-    "summary": "宽基线匹配 (WBM) 需要集成几何理解、视角变化、细粒度感知、...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "自蒸馏政策梯度",
-    "url": "https://huggingface.co/papers/2606.04036",
-    "time": 1780539137450,
-    "score": 4,
-    "summary": "政策上的自我蒸馏，其中语言模型以特权上下文为条件来监督自己的一代，我......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "使用研究人员指定的协变量生成基于 LLM 的文本分析的条件假设",
-    "url": "https://huggingface.co/papers/2606.03029",
-    "time": 1780539137450,
-    "score": 4,
-    "summary": "计算社会科学的一个核心目标是发现语言在不同语言之间的变化的可解释的差异...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "我构建了一个易受攻击的应用程序并花了 1,500 美元看看法学硕士是否可以破解它",
-    "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-    "time": 1780539137450,
-    "score": 3,
-    "summary": "42 points · 16 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "流星在马萨诸塞州上空爆炸",
-    "url": "https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/",
-    "time": 1780539137450,
-    "score": 3,
-    "summary": "51 points · 22 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "“它们是由重物制成的”",
-    "url": "https://maxleiter.com/blog/weights",
-    "time": 1780539137450,
-    "score": 3,
-    "summary": "20 points · 4 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Ü 编程语言",
-    "url": "https://github.com/Panzerschrek/U-00DC-Sprache/",
-    "time": 1780539137450,
-    "score": 3,
-    "summary": "24 points · 13 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "36氪独家｜2026 年字节 AI 的四个关键命题",
-    "url": "https://36kr.com/p/3838454229027072?f=rss",
-    "time": 1780560534477,
-    "score": 808,
-    "summary": "文｜周鑫雨 编辑｜张雨忻 杨轩 《智能涌现》从多个信源处独家获悉，2026 年，字节 AI 有四个重要的命题： 加大对世界模型训练的投入，年底前，模型性能达到现...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "36氪独家 | 火山引擎提升MaaS营收目标至全年150亿元，Seedance 2.0单月营收已超10亿元",
-    "url": "https://36kr.com/p/3836973710423429?f=rss",
-    "time": 1780560534477,
-    "score": 608,
-    "summary": "文｜邓咏仪 编辑｜张雨忻 杨轩 36 氪独家获悉，字节跳动火山引擎在今年 4 月已将 MaaS 业务营收目标上调至 150 亿元，且这个营收目标几乎每月都在上调...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "8点1氪丨A股第4只两千元股诞生；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元",
-    "url": "https://36kr.com/p/3838091144464644?f=rss",
-    "time": 1780560534477,
-    "score": 358,
-    "summary": "今日热点导览 名创优品称会员买单仅限潮玩商品 谷歌扩大Quick Share与AirDrop互传适配范围，覆盖更多安卓机型 Meta在全球范围扩大青少年内容管控...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
     "title": "氪星晚报 ｜曲美家居：境外子公司拟发行不超9亿挪威克朗境外债券；段永平在泡泡玛特持股比例升至6.04%；现货白银向下跌破74美元/盎司",
     "url": "https://36kr.com/p/3837330582008963?f=rss",
     "time": 1780560534477,
@@ -8996,6 +8762,240 @@
     "time": 1780837815171,
     "score": 3,
     "summary": "6 points · 5 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Anthropic，请提供适用于 Linux 的官方 Claude 桌面",
+    "url": "https://github.com/anthropics/claude-code/issues/65697",
+    "time": 1780851560555,
+    "score": 203,
+    "summary": "229 points · 110 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "OpenAI 仍在开发“超级应用程序”",
+    "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+    "time": 1780851560555,
+    "score": 106,
+    "summary": "“聊天已经死了”——至少根据 OpenAI 的一位高级员工的说法。",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "NuScale Power Stock (SMR) 对新董事会任命和人工智能能源需求的看法 - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUGpQTnBBNHVHNzBlRk55bDR6aS1GSTE5N3ZTa0N6c1pjR3JlZ2w4VTg3aXZqb3hBMk50ekF1RTZUeVZJUTJPVDdwN2lsRmExZ3JZTjFNM1FRZEVtVW1ZQktuSFNWWElYdkJESzFGUlVGaHg1bU1VQmk2XzR1NWxmbVhJSEVRbWwydHVTYUZlM0NOY1JuZ3NhUF9XV25PZzNVWGxLbUtpR2p4ZW9mUnA4MXpuX3JIQlVXZlE?oc=5",
+    "time": 1780851560555,
+    "score": 17,
+    "summary": "NuScale Power Stock (SMR) Opinions on New Board Appointments and AI Energy Deman...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "可持续和循环采矿在能源转型中的作用 - Discovery Alert",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRFlzNWJOamFHeS16SDZWZldEY3lYQlpEc256Z0h4VUdyTjU0T2hxVHM1bkt1Wi1lUEUxaWZmWE1qdFBEcjRYT3RXajNlUDBfVC1zb2lmN2lYYTlRMXVtZGFheGQ5aEsxdUFPbUpOMXJCRFVjR2ExTUxNUHlBR09iU1FSTk5hWTlCRWR2eDNDbTJiNTlQMjdoWEtn?oc=5",
+    "time": 1780851560555,
+    "score": 16,
+    "summary": "Sustainable and Circular Mining’s Role in the Energy Transition Discovery Alert",
+    "source": "基建·矿产",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "华恒生物：香港联交所审议公司发行H股并在主板挂牌上市申请",
+    "url": "https://36kr.com/newsflashes/3842801052174601?f=rss",
+    "time": 1780851560555,
+    "score": 16,
+    "summary": "6月7日，华恒生物发布公告，公司正在进行申请发行境外上市股份（H股）并在香港联合交易所有限公司主板挂牌上市的相关工作。香港联交所上市委员会于2026年6月4日举...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "东诚药业：注射用甲磺酸萘莫司他上市许可申请获受理",
+    "url": "https://36kr.com/newsflashes/3842866662230275?f=rss",
+    "time": 1780851560555,
+    "score": 15,
+    "summary": "东诚药业6月7日公告，近日，全资子公司烟台东诚北方制药有限公司收到国家药品监督管理局核准签发的关于注射用甲磺酸萘莫司他上市许可申请的《受理通知书》。目前国内仅有...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "优必选：优世界超仿生人形机器人首发预订单量累计超2110台",
+    "url": "https://36kr.com/newsflashes/3842800238692609?f=rss",
+    "time": 1780851560555,
+    "score": 15,
+    "summary": "6月7日，优必选科技宣布，旗下消费级人形机器人品牌优世界超仿生人形机器人首发预订单量6天累计达2110+台。（界面）",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "沪市公司将密集分红 未来一周A股分红近千亿元",
+    "url": "https://36kr.com/newsflashes/3842799319435784?f=rss",
+    "time": 1780851560555,
+    "score": 15,
+    "summary": "记者从上交所了解到，统计显示，未来一周（6月8日至6月12日），共有近200家公司将实施2025年度期末分红，合计对应年度分红金额919亿元，其中，中国平安、中...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "纳米核将微反应器的进展与不断增长的人工智能数据中心需求联系起来 - Simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVUJ2RWNpaXVTRjl5NndHTGRWRDBQT1AzSWhhSUJBOEpET014M1FNMDU3QjhwZjdMejRGVnBtM3FybklkTDg3UUxFUFN0b2FhbWVHeUxwNWVvMGN4ZW9MQ0x2WkZzMnBBTVZSVmpQTkZxajdSM2hMOUItQnpyVjl3WkNVYThNUVNTYzhDRWtpVXJwR1lFYlNHMHQxNWtaeENjbm11RGRKTEg5S2ZLUkI4NFFicXljaVY0dzlqRlJWdnlYamZlNEhKeEYxTEdEeU9MY2Z4V0dRR19GUdIB3wFBVV95cUxOVTlrTktBUFMwZmhHZWU2UmhRZHZkc1ctMUViampxM1dVWXNuT3R2MGJOTGdXNmJDS2l0LTdVbjA0NERKTkpfRnQ5TjRVVzNodmtKSmFRdDl4SE1KVDFnZXlvNWZ6R25OYm5GOWI3cmJOM1ZCMmt6SExSUWVFdUpmZHJyb25tTGRIMzNxeWtGcm1iNk85aEtDVk5QUzhmOXdoenRXQUJnUE9pLTJQZmpMa3c5UjhGb3lHOUVCREZla0VHOExkb015Y2xlUnZMZWw3Mm5raUc4ODFDeTFkZV9n?oc=5",
+    "time": 1780851560555,
+    "score": 11,
+    "summary": "Nano Nuclear Ties Microreactor Progress To Rising AI Data Center Demand simplywa...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "人工智能驱动进化中的机器人出租车棚方向盘、踏板 - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHZBa1lNRTNoaFE0aFJKbnloVVJuTXdtV24xUUZ2WUhrLXZ1c1pYclNpSUFXZ3FrMHFjZGpiSGVrQ1Fwc1hldzFlSDc0aVZweGItX3plUVBWTlVLSkxSSnNmLUM1YmctTGloOXBWMmRHT0JhdlJJV1B3aTdzcmdBQ25aYVpNcmJa?oc=5",
+    "time": 1780851560555,
+    "score": 11,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "TechCrunch Mobility：通用汽车 9 亿美元电动汽车电池赌博的内幕",
+    "url": "https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/",
+    "time": 1780851560555,
+    "score": 10,
+    "summary": "欢迎回到 TechCrunch Mobility——您获取关于交通未来的新闻和见解的中心中心...",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "历史向 Advanced Micro Devices 投资者发出警告 - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdTBzZDhvMWtweFpxT3dnR09PN1V5WUQxQjd4ckhKMjJZY01sNmlaZENqYlM0bG9uZGJCeHgwcjZwUV83dTM4TnRfNjlPNF9Db29hT3dEVVJ2US1kN3JpSENsRmVZbDJoR2J0alB1UEJnM0kyaEl2X0ptYWExaFBfeG5vRTZ5ODA?oc=5",
+    "time": 1780851560555,
+    "score": 10,
+    "summary": "History Warns Advanced Micro Devices Investors About This AOL.com",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "软糖、假牙和“I Heart Hot Dads”包：Uber 在机器人出租车中发现了数千件物品",
+    "url": "https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/",
+    "time": 1780851560555,
+    "score": 10,
+    "summary": "即使在机器人出租车的未来，仍然需要有人归还乘客留下的东西。",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "美国堵住中国芯片漏洞：海外子公司现已被封锁 - abhs.in",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbXZpMXYtNjV3dlRfeTNvVFI4cVBmam11ZDNQLVphenN1Qm5zS3VjdXd2aUVYT3p1LW45ZzUwOS1nb3dLUjZtNTZuMFkyeDQwejZlSEdvWG8tNmp2MVVtdWZmZERYYjRUNFg5Vkk0ZnI1ZEVZNUhjWUg0RHZPRGtGdXVuSGVLMTlCSjNkTWZ0cW5RVWlqX1ZiX0RaTGpUV2FZT1RmZnFxMTRnSTQ?oc=5",
+    "time": 1780851560555,
+    "score": 10,
+    "summary": "US Closes Chinese Chip Loophole: Overseas Subsidiaries Now Blocked abhs.in",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "孚能科技：股东拟合计减持不超2%公司股份",
+    "url": "https://36kr.com/newsflashes/3842801849076233?f=rss",
+    "time": 1780851560555,
+    "score": 10,
+    "summary": "孚能科技(688567)6月7日公告，合计持股3.5843%的股东江西立达新材料产业创业投资中心（有限合伙）北京立达高新创业投资中心（有限合伙）、共青城立达投资...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "Electron 的州际公路：人工智能将导致基础设施碰撞 - 福布斯",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR0x5dkpKQnZLeVY0VHpRSG5FaXpFdl9xS1JQWEFpcWtYUjN3eEFSVzRXR3NFbEU0ZmZRb1ZHSDlBMUl5Ni1MMHVNVDhJVllYRHZUcVpzYWdLbEo5eGhWamFWV1FkcldhX2p6Tmk1LUNiZktHcFk2eUh4SVN5aTZERmtFYUNKN2JlbW5Icnd0dWVHOEFvbWg5TXNSSi16b25ZQ3l4U3F3XzNUZ3IyMF9xaDJsV1lqX2FlZEhnbkJ4UQ?oc=5",
+    "time": 1780851560555,
+    "score": 6,
+    "summary": "The Electron’s Interstate: AI Will Cause An Infrastructure Collision Forbes",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Show HN: Lathe – 使用法学硕士学习新领域，而不是跳过它",
+    "url": "https://github.com/devenjarvis/lathe",
+    "time": 1780851560555,
+    "score": 5,
+    "summary": "91 points · 17 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "这些股票将推动加拿大 2026 年的国家建设 - Yahoo!加拿大金融",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUElKdm9SUURKNEpkV0xMMEozN3NId1JJVzg4ZlhkQXZfVjdHSEppMGRRTjQ3Sm1SUVJPVWxaMDJ3RzlxcTR3bnJ4R1NUdG5ZOExVYmNXc1ZDOTNxUUtobmVxeGNqMU01ckpYdUNBMVpIdnNmRUFmWjFDM1B6aUhKY0w0X1NaU24tV2NZLQ?oc=5",
+    "time": 1780851560555,
+    "score": 5,
+    "summary": "These Stocks Will Power Canada’s Nation-Building Push in 2026 Yahoo! Finance Can...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "未来一周财报：ORCL、ADBE、FCEL、ACB、CHWY 等 - MSN",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaHE1ZTdaQml6TWF0TWMzNFg4aTk5MDZaYWd1SmIwMTVUQmFwNUY4UzN5Q3o0X1JhUjVyN0NXYUVweU9RdDlsMjBvQ3h5MEdHcVNzTXYxUEsxUEVHaHUxWGhLTG8wcHRmQUtfT3FLZi1FNnVndkJUaWtLMC1PTktlbXNwQW55NTB5RGloTjAwZWRiNG1KWmdTRHB4ZW1vLS1mRzBsY091MFJYOWZSc0t5RTduZ1dmTjBBLWROMUc0Qi1BRmx6R0hNdUpuY3k?oc=5",
+    "time": 1780851560555,
+    "score": 5,
+    "summary": "Earnings week ahead: ORCL, ADBE, FCEL, ACB, CHWY, and more MSN",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "怀孕期间的维生素 D3 和 10 岁时的认知表现",
+    "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122",
+    "time": 1780851560555,
+    "score": 3,
+    "summary": "77 points · 35 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "克隆 Sennheiser BA2015 电池组",
+    "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
+    "time": 1780851560555,
+    "score": 3,
+    "summary": "23 points · 1 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "翻录 DVD 在 1999 年属于联邦犯罪，到 2026 年需要 22 美元和免费软件",
+    "url": "https://ringmast4r.substack.com/p/in-1999-this-was-a-federal-crime",
+    "time": 1780851560555,
+    "score": 3,
+    "summary": "4 points · 0 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "保姆级教程：如何0成本调用千问3.6大模型？讯飞星辰MaaS平台上手指南",
+    "url": "https://juejin.cn/post/7648157267778486287",
+    "time": 1780851560555,
+    "score": 3,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "Podman 6：机器可用性改进",
+    "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
+    "time": 1780851560555,
+    "score": 3,
+    "summary": "36 points · 1 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "游戏玩家向行业发起挑战，阻止其关闭游戏",
+    "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o",
+    "time": 1780851560555,
+    "score": 3,
+    "summary": "13 points · 5 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "最好的关系是包容一切的。",
+    "url": "https://andys.blog/the-best-relationships/",
+    "time": 1780851560555,
+    "score": 3,
+    "summary": "36 points · 26 comments",
     "source": "HackerNews",
     "region": "🇺🇸"
   }
