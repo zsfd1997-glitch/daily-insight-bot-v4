@@ -1,230 +1,5 @@
 [
   {
-    "title": "bytedance/deer-flow: 一个开源的长期 SuperAgent 工具，用于研究、编码和创建。在以下人员的帮助下",
-    "url": "https://github.com/bytedance/deer-flow",
-    "time": 1781078207085,
-    "score": 8,
-    "summary": "⭐70.9k stars · Python",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Meta 与 Reliance 签署印度首个人工智能数据中心协议",
-    "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-    "time": 1781078207085,
-    "score": 6,
-    "summary": "这个 168 兆瓦的设施将支持 Meta 的全球人工智能计算需求，并且可以随着时间的推移进行扩展...",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "千问发布高考志愿填报Agent，免费提供志愿咨询",
-    "url": "https://36kr.com/newsflashes/3847027456870661?f=rss",
-    "time": 1781078207085,
-    "score": 6,
-    "summary": "36氪获悉，6月10日，千问上线高考志愿填报Agent，具备“志愿报告”、“志愿日历”、“志愿问答”三项核心能力，为考生免费提供志愿咨询服务。",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "U-TTT：通过测试时训练实现通用 PET 图像去噪",
-    "url": "https://huggingface.co/papers/2606.11032",
-    "time": 1781078207085,
-    "score": 5,
-    "summary": "现有的正电子发射断层扫描 (PET) 图像去噪深度学习模型经常遇到严重的性能问题...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "后层融合就足够了：视觉饱和下多模态大语言模型的双路径视觉令牌路由",
-    "url": "https://huggingface.co/papers/2606.09131",
-    "time": 1781078207085,
-    "score": 5,
-    "summary": "多模态大语言模型 (MLLM) 通常继承专为单模态设计的深层、对称 Transformer 主干......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Flow-DPPO：流匹配模型的发散近端策略优化",
-    "url": "https://huggingface.co/papers/2606.11025",
-    "time": 1781078207085,
-    "score": 5,
-    "summary": "最近的工作表明，在线强化学习（RL）可以显着提高质量和一致性......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "商络电子：公司系三星电机、TDK、国巨等MLCC原厂授权分销商",
-    "url": "https://36kr.com/newsflashes/3847057784982017?f=rss",
-    "time": 1781078207085,
-    "score": 5,
-    "summary": "36氪获悉，商络电子在互动平台表示，公司系三星电机、TDK、国巨等MLCC原厂授权分销商，与上述原厂长期深度合作、关系稳固。",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "凯盛新能：光伏玻璃行业供需失衡，行业中部分产线将逐步停产",
-    "url": "https://36kr.com/newsflashes/3847052514429187?f=rss",
-    "time": 1781078207085,
-    "score": 5,
-    "summary": "36氪获悉，针对媒体有关“光伏玻璃企业在snec展期间达成了联合减产的意向，减产1万吨/天”的报道，凯盛新能在互动平台表示，展会期间，光伏玻璃行业公司确有交流，...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "瑞斯康达：董事长李月杰因个人原因辞职，选举韩猛为新任董事长",
-    "url": "https://36kr.com/newsflashes/3847048931936512?f=rss",
-    "time": 1781078207085,
-    "score": 5,
-    "summary": "36氪获悉，瑞斯康达公告，董事长李月杰因个人原因辞职，自2026年6月9日起生效。公司第六届董事会第十二次会议选举韩猛为新任董事长，任期至第六届董事会届满。韩猛...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "乘联分会：6月1-7日全国乘用车市场零售22.8万辆，同比下降23%",
-    "url": "https://36kr.com/newsflashes/3847044048242947?f=rss",
-    "time": 1781078207085,
-    "score": 5,
-    "summary": "36氪获悉，6月10日，乘联分会数据显示，6月1-7日，全国乘用车市场零售22.8万辆，同比去年6月同期下降23%，较上月同期下降11%，今年以来累计零售732...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "南向资金净买入额达80亿港元",
-    "url": "https://36kr.com/newsflashes/3847042363656706?f=rss",
-    "time": 1781078207085,
-    "score": 5,
-    "summary": "36氪获悉，截至目前，南向资金净买入额达80亿港元。",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "我国已建成五基空天地一体生态监测网络",
-    "url": "https://36kr.com/newsflashes/3847017232927240?f=rss",
-    "time": 1781078207085,
-    "score": 5,
-    "summary": "过去对河流环境污染的监控只能依靠人工巡查、定点监测，往往只能进行局部排查、问题的发现相对滞后。随着生态遥感科技的飞速升级，一套空天地一体化的智慧监测体系正在全面...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "世界奥林匹克：你的世界模特能在铁人三项比赛中幸存吗？",
-    "url": "https://huggingface.co/papers/2606.11129",
-    "time": 1781078207085,
-    "score": 5,
-    "summary": "我们推出 WorldOlympiad，这是一个诊断基于视频的世界模型的基准，涵盖物理忠实度、几何......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "UniPET：跨不同剂量减少因子的高质量 PET 图像去噪的通用网络",
-    "url": "https://huggingface.co/papers/2606.11131",
-    "time": 1781078207085,
-    "score": 4,
-    "summary": "大多数现有的基于深度学习的 PET 图像去噪方法都假设一个固定且已知的剂量减少因子 (DRF)...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "德国裁决宣布谷歌对人工智能概述中的错误答案承担责任",
-    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-    "time": 1781078207085,
-    "score": 4,
-    "summary": "424 points · 237 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Rich Sutton 谈人工智能创造力和发现",
-    "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-    "time": 1781078207085,
-    "score": 4,
-    "summary": "93 points · 50 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "回顾性利用优化：通过轨迹推出的自我偏好来改进 LLM 代理",
-    "url": "https://huggingface.co/papers/2606.05922",
-    "time": 1781078207085,
-    "score": 4,
-    "summary": "人工智能代理依靠一系列技能、工具和工作流程来解决复杂的问题。不断改进这一线束...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "唇部强迫：用于实时唇部同步的少步自回归扩散",
-    "url": "https://huggingface.co/papers/2606.11180",
-    "time": 1781078207085,
-    "score": 4,
-    "summary": "基于扩散的唇形同步模型实现了强大的视觉质量和视听对齐，但全序列...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "数据记者代理：将数据转换为可验证的多模式故事",
-    "url": "https://huggingface.co/papers/2606.11176",
-    "time": 1781078207085,
-    "score": 4,
-    "summary": "数据讲述塑造社会的故事；数据记者的工作是将原始信息转化为非专家可以理解的故事……",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "混合法学硕士中的注意力遗忘症：当 CoT 微调破坏远程召回时，以及如何修复它",
-    "url": "https://huggingface.co/papers/2606.11052",
-    "time": 1781078207085,
-    "score": 4,
-    "summary": "思想链（CoT）监督微调（SFT）被广泛采用来提高推理能力，但我们发现它......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "重新思考 LLM RL 中的散度正则化",
-    "url": "https://huggingface.co/papers/2606.09821",
-    "time": 1781078207085,
-    "score": 4,
-    "summary": "强化学习（RL）已成为训练后大型语言模型（LLM）的关键组成部分。在实践中，LLM R...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "iArt.ai",
-    "url": "https://www.producthunt.com/products/iart-ai",
-    "time": 1781078207085,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "背板聚光灯",
-    "url": "https://www.producthunt.com/products/backplanes",
-    "time": 1781078207085,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "打字头脑",
-    "url": "https://www.producthunt.com/products/typing-mind",
-    "time": 1781078207085,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "如何设计价值 3 万美元的电动皮卡？福特臭鼬工厂内部",
-    "url": "https://arstechnica.com/cars/2026/05/how-do-you-design-a-30000-electric-pickup-inside-fords-skunkworks/",
-    "time": 1781078207085,
-    "score": 3,
-    "summary": "14 points · 2 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
     "title": "Vibe 编码开启健康家庭之路：伽莫夫实验室简介",
     "url": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/",
     "time": 1781078207085,
@@ -8998,5 +8773,230 @@
     "summary": "讨论 |关联",
     "source": "ProductHunt",
     "region": "🇺🇸"
+  },
+  {
+    "title": "折腾了一下午，终于让Codex用上了DeepSeek",
+    "url": "https://juejin.cn/post/7648030233720012810",
+    "time": 1781345817901,
+    "score": 102,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "别再裸用 Claude Code 了：我常驻的 6 个 MCP + 4 条提效工作流（亲测）",
+    "url": "https://juejin.cn/post/7648152309277933608",
+    "time": 1781345817901,
+    "score": 102,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "不用 GPT-Image2，DeepSeek V4/GLM-5.1 + draw.io 就很顶!",
+    "url": "https://juejin.cn/post/7648855419078918150",
+    "time": 1781345817901,
+    "score": 102,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "曼联，要被卖了",
+    "url": "https://36kr.com/p/3851350342325504?f=rss",
+    "time": 1781345817901,
+    "score": 27,
+    "summary": "图片来源：视觉中国 作者/余梦莹 报道/投资界PEdaily 史上最盛大世界杯正在上演。 48支球队、39天、104场比赛，总奖金飙升至8.71亿美元。梅西、C...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "NuScale Power Stock (SMR) 对核培训中心开放和人工智能能源需求的看法 - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOThOMEdVYWpHUFZLVGdRcEgwTWdTQk1YcXlCTjlBakZJQVM1Z1RscXpsaDVPdlA5MFo5V2tYMkhCOElVNEh1UE5BQUFTS2gxN2VUU3RlbzliempTSjhrdmNKZ0ppYnpyQjNEQmRQcUVoNGoyU0N4dXRQVHJ3NEMtVzctSDJ6N3V5Qm9vWG50UGF1T1FrWFBMSGpsWkxfU3pBVS1yRjVfeTNfVkVpMVpxaERHcFZmZ1dKWVVuY1JNRmhTNG9hOEE?oc=5",
+    "time": 1781345817901,
+    "score": 21,
+    "summary": "NuScale Power Stock (SMR) Opinions on Nuclear Training Center Opening and AI Ene...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "台积电遭抨击：专利调查和谷歌芯片拆分暴露市场份额低于 72% 的风险 - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb184Wmo3dHQ5UnZHZnpzR1JpQkt2SXJXbXdzRnlSTXRSNUNaVWNfN3JEYkJHZ1ZJRC1FRlJabmhtcEpJNC1wWnhNcGkxbkJpbXl2UUFadThJR1c0TnVyYmx3aXBFdnA4alBJUWZvNS1heUVtNHhEZ0ptaE9QVDcxNTRiU2M1cjFkNlNWN1ZBNVdNR1dzS1lqZlRHSnlUUUs1Zm8yaEJaRXc0NHY3NmUwM04tMHRDWVpOZmg5MkltMzF5cmpaay1DUUM2VWU?oc=5",
+    "time": 1781345817901,
+    "score": 16,
+    "summary": "TSMC Under Fire: Patent Probe and Google's Chip Split Expose Risks Beneath 72% M...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "恶意软件开发人员将核武器和生物武器文本添加到他们的间谍软件中",
+    "url": "https://twitter.com/jsrailton/status/2064661778978533571",
+    "time": 1781345817901,
+    "score": 13,
+    "summary": "392 points · 221 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Evotrex 筹集了 3000 万美元来建造不需要充电站的房车",
+    "url": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
+    "time": 1781345817901,
+    "score": 11,
+    "summary": "该初创公司是众多进入房车领域的初创公司之一，但它依靠的是混合动力系统，该系统可以......",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "你从未听说过的最重要的人工智能公司 - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNnVlWDNRdjIwaU4tMFpDRm1XaTNzdjF5Tzh1all0cmhlTjZvTDJ4cXpBMmpYYlpLX1BkQmRqVUE4RElhV0xsUlhSMUVFSHk4d1N6cmF6a2U3Qm9VT3hWUjdkRnM0MERpVUI0c3ZQbDFqdEFtMExTeHZaMFhBbWFjdg?oc=5",
+    "time": 1781345817901,
+    "score": 11,
+    "summary": "The Most Important AI Company You've Never Heard Of AOL.com",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "“木头姐”买入逾4亿美元SpaceX股票",
+    "url": "https://36kr.com/newsflashes/3851373053056005?f=rss",
+    "time": 1781345817901,
+    "score": 10,
+    "summary": "“木头姐”旗下ARK方舟基金于6月12日（周五）公布了当日交易记录，显示出了投资策略的重大转变。最引人注目的操作是，旗下多只ETF合计买入3,291,184股S...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "江丰电子：公司生产的先端存储芯片用高纯300mm硅靶已批量供货",
+    "url": "https://36kr.com/newsflashes/3851370635334919?f=rss",
+    "time": 1781345817901,
+    "score": 10,
+    "summary": "36氪获悉，江丰电子在互动平台表示，公司是全球少数几家同时具备技术领先优势与规模化供应能力的高纯金属溅射靶材制造商。公司生产的先端存储芯片用高纯300mm硅靶已...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "美格智能：存储芯片价格上涨成本在合理、有序向下游客户传导",
+    "url": "https://36kr.com/newsflashes/3851282375971842?f=rss",
+    "time": 1781345817901,
+    "score": 10,
+    "summary": "36氪获悉，美格智能6月11日接受机构调研时表示，公司目前存货金额较大，其中很大部分是存储芯片备货。在存储芯片涨价早期，公司根据研发项目、订单情况，及对存储芯片...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "资深投资者：Talen Energy 的股价至少翻了一番，随着电力需求的上升，还有三位数的上涨空间 - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbHhBUThRLWUtYWdFUW1fbDI4X0w0dVk5MlI0eTlnM1AzVC1tWHZrVU1qM1NySGRYeW5kLVFnS3E2NWcxR0xrYnZ1cTVfTXJ0cDR4TDZuamtma3JsNVZZUFk0ZVo1UTBqVktaNVQtbnZWamhUTHk0NTVBR0VGejQ0TDZNUjlaaTJRWWZoa2VBR1ZVaFVTNjdiYzhLZlgyeGpWU0dpaHcxNjhaMkpSZ01ZZmFQY3hxcV83c0JnNnpnVDdkVzE3Njh0c2dNeS1oeGpvdFFjWEVOT29pTDQ?oc=5",
+    "time": 1781345817901,
+    "score": 10,
+    "summary": "Veteran Investor: Talen Energy Is a Double at Minimum, With Triple-Digit Upside ...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "充分利用数据中心繁荣的 10 只最佳能源股 - Insider Monkey",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObFBud1RxQ092T05KRTc1d0ZKSVYwSHJveFFjSHBQMGNrQ2tyeU1QR3FkVEtLNkhVYzlsUnkwUjRGbmZnaHBrb3cxbG5aSE01Z0tTa1QyZDlqMXF1Zk4waTFsT0dBa3hPdDExdXN2c2Mza2gzUXRtb09nYU9vSWFCTzFUT2FhR3Rja2ZoRGhSUjF0SHpxeVM3bTJmMW84TGpZSXdRMdIBrAFBVV95cUxQa2Q0d0pNVS02V1FRdlZiU0FCSkstQlhyRXV6ZWxsTFYwdXRkOUdsTEh1NTIzWkNKT2lfMDBXcEZyUDVoX0o0RERHU1Q1MGpucEtLZ2VoaHp2eTZRRVVaZjVYRmlYUHpiUjRwR0Z2eFZZZHczeDlLNENCM01SOFpoQmtTRnZjTFkwbWRaVDhEam9GVkNoSjNFdHhmZjBuZW42emprYjM3Z2t5WjF2?oc=5",
+    "time": 1781345817901,
+    "score": 10,
+    "summary": "10 Best Energy Stocks Capitalizing on the Data Center Boom Insider Monkey",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "英特尔股票预测：为什么微软的 18A 订单可能成为 INTC 的转折点：苹果会是下一个吗？ - 交易密钥",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWXZIX2pvNjVlUk9ScDdHRmxORHhQVkZhcEJNWVgyMG5QeWZkUjFGcjFIWTZrckhqV1VCTjRuZ083NDJhRDhjUDdhNkVqN3ZxS2xoeDNMMFhQaWx4eEF3R3dTM3pZellINGdDRG5KbEUxQmRBdTlFd19EeU9HMno5b1djLW5FMFN4NkZjdVkzRFl1dFY3LWVKMUVGYm1VR0VMb2JCTW9fVUcwa1lZZm9abHZHdjk3ZVBSOFltN0M4V2ZiX0F6ek5uY3pLMlBsc2g2Y2dPMFRSbWUtZlNf?oc=5",
+    "time": 1781345817901,
+    "score": 10,
+    "summary": "Intel Stock Forecast: Why Microsoft's 18A Order Could Be a Turning Point for INT...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "科大讯飞发布星火多模态大模型X2-VL",
+    "url": "https://36kr.com/newsflashes/3851320295166976?f=rss",
+    "time": 1781345817901,
+    "score": 8,
+    "summary": "36氪获悉，据无锡发布，6月11日，在锡举行的2026长三角机器人及自动化展览会暨无锡具身智能机器人产业链伙伴大会上，科大讯飞发布星火多模态大模型X2-VL。这...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "首尔禁止中小学生戴AI眼镜参加期末考试",
+    "url": "https://36kr.com/newsflashes/3851265277220103?f=rss",
+    "time": 1781345817901,
+    "score": 6,
+    "summary": "韩国首都首尔市教育厅12日说，已于前一日向该市中小学校及辖区教育部门下发通知，禁止考生戴AI智能眼镜参加期末考试。据韩国《中央日报》报道，首尔市教育厅担心学生利...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "近六成美国人认为到2050年美国重要性将减弱",
+    "url": "https://36kr.com/newsflashes/3851267747664897?f=rss",
+    "time": 1781345817901,
+    "score": 6,
+    "summary": "美国皮尤研究中心12日发布的一项民意调查显示，在美国独立250周年之际，美国民众普遍情绪悲观，约58%受访者认为到2050年美国在全球的重要性将减弱。这项民调结...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "讯灵智能与腾讯云达成战略合作",
+    "url": "https://36kr.com/newsflashes/3851266881344521?f=rss",
+    "time": 1781345817901,
+    "score": 6,
+    "summary": "36氪获悉，据腾讯云消息，近日，深圳市讯灵智能技术科技有限公司与腾讯云计算（北京）有限责任公司正式签署战略合作协议。双方将围绕技术底座共建、AI营销一体化方案、...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "Vistra 与 Constellation：现在更适合购买哪只人工智能电力股票？ - 美国在线",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMkxWaGczdmR1RHM4NFRKdFJGN3RGR0M0SGZpNGRHVXpiQUt5dTBKSHg3NTB6NmlST05fMFZHZUJWOW5VVU85VEwtdEk1aktrUTR6QzhBNl9EcXZrNXhTWnk1Z0h0TTZnMlpzeVJMUE8xbkh5Z0MzclY4ZmVGUnhwNG5R?oc=5",
+    "time": 1781345817901,
+    "score": 6,
+    "summary": "Vistra vs. Constellation: Which AI Power Stock Is the Better Buy Right Now? AOL....",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "国家网信办就《金融信息服务数据分类分级指南》答记者问",
+    "url": "https://36kr.com/newsflashes/3851332613870856?f=rss",
+    "time": 1781345817901,
+    "score": 5,
+    "summary": "36氪获悉，国家互联网信息办公室有关负责同志就《指南》回答了记者提问。当前，金融信息服务有序发展，金融信息服务领域数据规模扩大、流动频繁，亟需分类分级规范管理。...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "《金融信息服务数据分类分级指南》印发",
+    "url": "https://36kr.com/newsflashes/3851331950728194?f=rss",
+    "time": 1781345817901,
+    "score": 5,
+    "summary": "36氪获悉，为指导金融信息服务机构开展数据分类分级和重要数据识别工作，提升金融信息服务数据安全水平，依据《中华人民共和国网络安全法》、《中华人民共和国数据安全法...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "云南铜业：今年以来硫酸销售价格持续处于高位",
+    "url": "https://36kr.com/newsflashes/3851282943792133?f=rss",
+    "time": 1781345817901,
+    "score": 5,
+    "summary": "36氪获悉，云南铜业近日接受机构调研时表示，根据公司2026年度生产计划，硫酸全年计划产量为576万吨。2026年一季度，硫酸产量按计划有序推进。价格方面，硫酸...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "NousResearch/hermes-agent: 与您共同成长的代理商",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "time": 1781345817901,
+    "score": 3,
+    "summary": "⭐192.3k stars · Python",
+    "source": "GitHub·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "沉迷 Vibe coding 后我幡然醒悟：为什么可持续开发要回归半古法编程",
+    "url": "https://juejin.cn/post/7648829716128563251",
+    "time": 1781345817901,
+    "score": 2,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
   }
 ]
