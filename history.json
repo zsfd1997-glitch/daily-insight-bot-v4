@@ -1,185 +1,5 @@
 [
   {
-    "title": "思泉新材：向特定对象发行股票申请获中国证监会同意注册批复",
-    "url": "https://36kr.com/newsflashes/3857023840441349?f=rss",
-    "time": 1781686244909,
-    "score": 5,
-    "summary": "36氪获悉，思泉新材公告，公司近日收到中国证监会出具的批复，同意公司向特定对象发行股票的注册申请。",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "斯泰兰蒂斯告知工会，正为玛莎拉蒂寻求合作方",
-    "url": "https://36kr.com/newsflashes/3857014103020550?f=rss",
-    "time": 1781686244909,
-    "score": 5,
-    "summary": "斯泰兰蒂斯告知工会，正为玛莎拉蒂寻求合作方。（财联社）",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "华友钴业旗下浙江进出口公司增资至5.3亿，增幅约15%",
-    "url": "https://36kr.com/newsflashes/3857006451594503?f=rss",
-    "time": 1781686244909,
-    "score": 5,
-    "summary": "36氪获悉，天眼查App显示，近日，浙江华友进出口有限公司发生工商变更，注册资本由4.6亿人民币增至5.3亿人民币，增幅约15%。该公司成立于2006年6月，法...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "爱磁科技增资至871万",
-    "url": "https://36kr.com/newsflashes/3856990674621449?f=rss",
-    "time": 1781686244909,
-    "score": 5,
-    "summary": "36氪获悉，天眼查App显示，近日，爱磁科技（宁波）有限公司发生工商变更，注册资本由约838万人民币增至约871万人民币。该公司成立于2015年8月，法定代表人...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "文本视觉联合指导图像编辑",
-    "url": "https://huggingface.co/papers/2606.16767",
-    "time": 1781686244909,
-    "score": 4,
-    "summary": "现有的图像编辑方法大致可以分为基于文本指令的图像编辑方法和基于视觉提示的图像编辑方法......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "从自我未来中学习：dLLM 的政策自我蒸馏",
-    "url": "https://huggingface.co/papers/2606.18195",
-    "time": 1781686244909,
-    "score": 4,
-    "summary": "事实证明，按策略自蒸馏 (OPSD) 对于训练后大型语言模型 (LLM) 是有效的，但其应用...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "创始人的剧本：建立一家人工智能原生初创公司",
-    "url": "https://claude.com/blog/the-founders-playbook",
-    "time": 1781686244909,
-    "score": 4,
-    "summary": "57 points · 56 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "重新思考高效注意力在混合架构中的作用",
-    "url": "https://huggingface.co/papers/2606.15378",
-    "time": 1781686244909,
-    "score": 4,
-    "summary": "现代语言模型越来越多地采用混合架构，将充分注意力与高效注意力模块相结合......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "显示信号，隐藏噪声：像素空间扩散的光谱强迫",
-    "url": "https://huggingface.co/papers/2606.15236",
-    "time": 1781686244909,
-    "score": 4,
-    "summary": "像素空间扩散模型是在全带宽噪声图像上训练的，但降噪器可用的有用信号......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "尽管有 130 万个签名，“停止杀戮游戏”仍未能获得欧盟法律的支持",
-    "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
-    "time": 1781686244909,
-    "score": 4,
-    "summary": "207 points · 103 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "可变宽度变压器",
-    "url": "https://huggingface.co/papers/2606.18246",
-    "time": 1781686244909,
-    "score": 4,
-    "summary": "缩放模型大小，特别是深度和宽度，推动了基于 Transformer 的语言模型的重大进展。 ...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "LoopCoder-v2：仅循环一次即可实现高效的测试时间计算扩展",
-    "url": "https://huggingface.co/papers/2606.18023",
-    "time": 1781686244909,
-    "score": 4,
-    "summary": "循环变压器通过重复应用共享块来扩展潜在计算，但顺序循环会增加后期......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "近端策略优化区域：老师在提示中，而不是梯度中",
-    "url": "https://huggingface.co/papers/2606.18216",
-    "time": 1781686244909,
-    "score": 4,
-    "summary": "知识蒸馏将教师的能力转移给小学生，但在小学生制度中是脆弱的：f...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Tyto by ai-coustics 设计",
-    "url": "https://www.producthunt.com/products/tyto",
-    "time": 1781686244909,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "帕拉诺.ai",
-    "url": "https://www.producthunt.com/products/parano-ai",
-    "time": 1781686244909,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "黑鸟",
-    "url": "https://www.producthunt.com/products/mirlo",
-    "time": 1781686244909,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "杜奥拉",
-    "url": "https://www.producthunt.com/products/dualora-dual-size-recorder",
-    "time": 1781686244909,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "NousResearch/hermes-agent: 与您共同成长的代理商",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "time": 1781686244909,
-    "score": 3,
-    "summary": "⭐195.7k stars · Python",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "香菜",
-    "url": "https://www.producthunt.com/products/cilantro",
-    "time": 1781686244909,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "泰瑞诺",
-    "url": "https://www.producthunt.com/products/typerino",
-    "time": 1781686244909,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
     "title": "地下真菌网络长度超过 100 万亿公里",
     "url": "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study",
     "time": 1781686244909,
@@ -8994,6 +8814,186 @@
     "title": "Loop Engineering 深度解析与实战指南（全网最全）",
     "url": "https://juejin.cn/post/7651132540997124148",
     "time": 1781941150814,
+    "score": 2,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "白嫖DeepSeek V4 Pro！免费无限用，还能接入Claude-Code",
+    "url": "https://juejin.cn/post/7650882103059939337",
+    "time": 1781950924903,
+    "score": 202,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "随着代理时代的到来，英伟达将扩大人工智能芯片的领先地位 - MSN",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOFVYYUMyc3Rkc2k3bkMtZW90RXJiQmNzMjlzSng2YXFrWnZGeG5lQWM1c0xtZTA4UFplcW5SRmZ5MFJqRi1UMzQ0OHBaZGpkb29WX0lqTUFfTTlzd0QwbDlEQzVCRWV5U1FYMGpya09HWEdsTXF6M1IxUEdlTHRRU1BpNjkxUmpHOUI5M1c3cjBiOHBRYlAyZ3VLUkhnTFcxX3g1M2NtNDRkY1Yy?oc=5",
+    "time": 1781950924903,
+    "score": 111,
+    "summary": "Nvidia set to extend AI chip lead as agentic era dawns MSN",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "为什么 NVIDIA（纳斯达克股票代码：NVDA）继续主导人工智能对话？ - 卡尔金媒体",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1UyTFcxRzQ5MHlTck1GbXF3R0dhakxqNEFnV2REMm9sVGZEVFQwZkZvdmZ4VERPWUplcHY5WFhMOFV3LU1VdmoxQ0NzajdFXzZSa0NTRmhGaGtBNzI5VEN5dDNXeXEySEJoc21QVTBVR216WHVoYmtkQlFPdHd3N0pWQjJqZkdBTzhqZktjYW9mNUJjWWNDdkN5bkFHNXlUSG02a0h6NEJTc1p0cWc?oc=5",
+    "time": 1781950924903,
+    "score": 106,
+    "summary": "Why NVIDIA (NASDAQ:NVDA) Continues To Dominate The AI Conversation? Kalkine Medi...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "特朗普：不再将Anthropic视为国家安全威胁",
+    "url": "https://36kr.com/newsflashes/3861259140764678?f=rss",
+    "time": 1781950924903,
+    "score": 106,
+    "summary": "在6月19日发布的《阿克西奥斯秀》（《Axios Show》）访谈节目中，美国总统特朗普表示，他已经不再将美国人工智能公司安特罗匹克（Anthropic）视为国...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "GPT-5.5 产生的幻觉是 MIT 许可的 GLM-5.2 的 3 倍",
+    "url": "https://arrowtsx.dev/bigger-models/",
+    "time": 1781950924903,
+    "score": 103,
+    "summary": "166 points · 47 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Waymo 推出忠诚度计划，提供 10% 现金返还和免费取消服务",
+    "url": "https://techcrunch.com/2026/06/11/waymo-launches-a-loyalty-program-with-10-cash-back-and-free-cancellations/",
+    "time": 1781950924903,
+    "score": 20,
+    "summary": "该计划名为“Waymo Premier”，会员每月必须缴纳 29.99 美元。",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "美国核燃料制造商标准核电计划首次公开募股 - AKM.RU",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3ZjcGItaERXOW9oTGZ6YVZuQmczX3dKTDJkMC05endod1JmcUNPaDkzUld3Q0p3MktDLTFTUVFkNzhFbl9CZzdGRjUzekwtekRNNGNiRVNIQnN6dDljLWlIbVh2T3lTVjlZWXA0OXRLbjBXaUxHajJPZkRPNXBRMTViR0UwTC1uODVld21Jb2luVDVoZGd6UWxOTG40Z2Vr?oc=5",
+    "time": 1781950924903,
+    "score": 20,
+    "summary": "American nuclear fuel manufacturer Standard Nuclear is planning an IPO AKM.RU",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "3 只核能股推动 6 月份人工智能热潮 - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOHhMZEpZOHBnRXM0WTE0UzM5dWxfdEVRM2RUYmpXcXNyWGJMdXhzZnoxRGw2dDJpSlB2LU1TWjdaR3hBdThXeWlZSkZKZzJVVnBjR0R0MjgwekUxbVJ5RDFaVXd2UGZYa3VTaktBTkVIRXYtazFkWHNrcThMSm45NQ?oc=5",
+    "time": 1781950924903,
+    "score": 16,
+    "summary": "3 Nuclear Energy Stocks Powering the AI Boom in June AOL.com",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "马斯克已行使了其2018年特斯拉CEO薪酬方案的全部权利 获得了3.04亿股股票",
+    "url": "https://36kr.com/newsflashes/3861257361626112?f=rss",
+    "time": 1781950924903,
+    "score": 10,
+    "summary": "根据美国证券交易委员会（SEC）的一份新文件，马斯克已行使了其2018年特斯拉CEO薪酬方案的全部权利，获得了3.04亿股股票，账面收益约为1160亿美元（约合...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "新型量子传感器可探测引力波和暗物质",
+    "url": "https://36kr.com/newsflashes/3861211883607305?f=rss",
+    "time": 1781950924903,
+    "score": 6,
+    "summary": "英国《自然》杂志日前发布的一项新研究结果显示，一种新型量子传感器能有效消除背景噪声对测量精度的影响，可用于搜寻此前技术难以探测的微弱信号，有助于解开超大质量黑洞...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "上交所拟完善股票期权组合策略业务，推出单边平仓功能",
+    "url": "https://36kr.com/newsflashes/3861199831700744?f=rss",
+    "time": 1781950924903,
+    "score": 6,
+    "summary": "近日，记者从业内获悉，为进一步提升期权投资者资金使用效率、降低交易成本、促进期权市场健康发展，上交所发布股票期权组合策略单边平仓业务方案，拟在现有组合策略业务基...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "挪威将禁止小学生使用生成式人工智能",
+    "url": "https://36kr.com/newsflashes/3861257682129921?f=rss",
+    "time": 1781950924903,
+    "score": 5,
+    "summary": "挪威首相斯特勒6月19日表示，为防止对学习产生负面影响，挪威将禁止小学生使用生成式人工智能工具，同时限制人工智能工具在高年级学生教育中的使用。根据挪威政府公布的...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "中国在商用光纤端部构建了一种三维光纤微镊 输出力是传统光镊的十万倍以上",
+    "url": "https://36kr.com/newsflashes/3861209206740228?f=rss",
+    "time": 1781950924903,
+    "score": 5,
+    "summary": "近日，从安徽大学获悉，该校光电信息获取与防护技术全国重点实验室青年教师潘登与中国科学技术大学团队合作，提出了面向纤基集成器件的飞秒激光复合制造方法，在商用光纤端...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "张雪称自己创业时比李书福幸福",
+    "url": "https://36kr.com/newsflashes/3861205226787840?f=rss",
+    "time": 1781950924903,
+    "score": 5,
+    "summary": "近日，在央视财经《对话》节目录制现场，张雪直言比李书福“幸福”，他口中的“幸福”，是中国制造一步步攒出来的底气。李书福说：“当时我们造汽车，确实啥也没有。虽然啥...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "6月20日全国铁路预计发送旅客1224万人次",
+    "url": "https://36kr.com/newsflashes/3861040294941699?f=rss",
+    "time": 1781950924903,
+    "score": 5,
+    "summary": "从中国国家铁路集团有限公司获悉， 6月20日端午节假期第2天，预计发送旅客1224万人次，计划加开旅客列车598列。6月19日，全国铁路发送旅客1936.8万人...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "jeecgboot/JeecgBoot: AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP",
+    "url": "https://github.com/jeecgboot/JeecgBoot",
+    "time": 1781950924903,
+    "score": 5,
+    "summary": "⭐46.8k stars · Java",
+    "source": "GitHub·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "1969年的一次摄影师罢工创造了楼上楼下的多元宇宙",
+    "url": "https://ironicsans.ghost.io/the-color-strike/",
+    "time": 1781950924903,
+    "score": 4,
+    "summary": "30 points · 5 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "刚刚，Fable-5之下，智谱开源的GLM-5.2拿下AI编程第一！",
+    "url": "https://juejin.cn/post/7651812531246678026",
+    "time": 1781950924903,
+    "score": 3,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "多年来的足球街机游戏",
+    "url": "https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/",
+    "time": 1781950924903,
+    "score": 3,
+    "summary": "20 points · 4 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "腾讯云一键部署OpenClaw打造QQ机器人",
+    "url": "https://juejin.cn/post/7651145221669355571",
+    "time": 1781950924903,
     "score": 2,
     "summary": "",
     "source": "掘金·AI",
