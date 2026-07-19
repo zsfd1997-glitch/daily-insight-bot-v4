@@ -1,221 +1,5 @@
 [
   {
-    "title": "Boogu-Image-0.1：促进开源统一多模态理解和生成",
-    "url": "https://huggingface.co/papers/2607.13125",
-    "time": 1784181981468,
-    "score": 4,
-    "summary": "我们介绍 Boogu-Image-0.1，一个开源的统一多模态理解和生成模型家族，包括 Ba...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "别再说人工智能只是一个工具，重要的是如何使用它",
-    "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
-    "time": 1784181981468,
-    "score": 4,
-    "summary": "22 points · 12 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "高带宽闪存为模型权重提供高效存储",
-    "url": "https://spectrum.ieee.org/high-bandwidth-flash",
-    "time": 1784181981468,
-    "score": 4,
-    "summary": "27 points · 8 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Hallo4D：多模态幻觉缓解，实现一致的时空生成",
-    "url": "https://huggingface.co/papers/2607.12752",
-    "time": 1784181981468,
-    "score": 4,
-    "summary": "虽然 3D 生成领域的最新进展已经实现了令人印象深刻的视觉合成，但现有方法通常依赖于 2D 扩散...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Vinci2：在连续的以自我为中心的视频中提供主动帮助",
-    "url": "https://huggingface.co/papers/2607.11523",
-    "time": 1784181981468,
-    "score": 4,
-    "summary": "智能助理什么时候应该在没有被询问的情况下说话？连续的以自我为中心的视频提供了丰富的、不断发展的概念...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "从噪声痕迹到根本原因：用于代理优化的结构轨迹分析和因果提取",
-    "url": "https://huggingface.co/papers/2607.07702",
-    "time": 1784181981468,
-    "score": 4,
-    "summary": "长视野智能体的优化越来越依赖于基于反射的机制，其中大型语言模型......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "MetaView：具有尺度感知隐式几何先验的单目新颖视图合成",
-    "url": "https://huggingface.co/papers/2607.12000",
-    "time": 1784181981468,
-    "score": 4,
-    "summary": "当前的视觉生成模型能够生成高质量的内容，但缺乏对内容的连贯感知...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "GigaWorld-Policy-0.5：由 AutoResearch 提供支持的更快更强的 WAM",
-    "url": "https://huggingface.co/papers/2607.13960",
-    "time": 1784181981468,
-    "score": 4,
-    "summary": "世界动作模型（WAM）通过联合建模动作和未来视觉观察来改进机器人策略学习，使用...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "ShortOPD：通过从短到长的保单蒸馏恢复修剪后的法学硕士",
-    "url": "https://huggingface.co/papers/2607.13124",
-    "time": 1784181981468,
-    "score": 4,
-    "summary": "结构化剪枝是一种硬件友好的压缩 LLM 的方法，但它主要在多项选择识别上进行验证...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Ring-Zero：将零 RL 扩展到万亿个参数以进行紧急推理",
-    "url": "https://huggingface.co/papers/2607.12395",
-    "time": 1784181981468,
-    "score": 4,
-    "summary": "无需人工注释数据即可验证奖励的强化学习（通常称为零强化学习）已经出现了……",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "音乐盗版失去的乐趣",
-    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-    "time": 1784181981468,
-    "score": 3,
-    "summary": "51 points · 6 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "如果你想从头开始创建一个按钮，你必须首先创建宇宙",
-    "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
-    "time": 1784181981468,
-    "score": 3,
-    "summary": "57 points · 11 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "蓝天商标 ATProto",
-    "url": "https://atproto.com/blog/at-protocol-trademark",
-    "time": 1784181981468,
-    "score": 3,
-    "summary": "62 points · 24 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "让 768 台服务器看起来像 1",
-    "url": "https://planetscale.com/blog/making-768-servers-look-like-1",
-    "time": 1784181981468,
-    "score": 3,
-    "summary": "33 points · 6 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "DJB 网弦",
-    "url": "https://cr.yp.to/proto/netstrings.txt",
-    "time": 1784181981468,
-    "score": 3,
-    "summary": "4 points · 1 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "1,300 张 19 世纪美丽的野生动物插图现已修复",
-    "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
-    "time": 1784181981468,
-    "score": 3,
-    "summary": "25 points · 2 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "22道AI Agent 工程师必会的面试题，别啥都不会就出去找工作",
-    "url": "https://juejin.cn/post/7660415930171490356",
-    "time": 1784181981468,
-    "score": 3,
-    "summary": "",
-    "source": "掘金·AI",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "G# – 一种现代 .NET 语言，采用 Go、Kotlin 和 Swift 人体工程学设计",
-    "url": "https://davidobando.github.io/gsharp/",
-    "time": 1784181981468,
-    "score": 3,
-    "summary": "75 points · 33 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "法学硕士能否对计算机架构论文进行深入的技术理解",
-    "url": "https://arxiv.org/abs/2607.11859",
-    "time": 1784181981468,
-    "score": 3,
-    "summary": "18 points · 1 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "特斯拉将德克萨斯州的 Model Y Robotaxi 车队一天之内扩大了 50% - eletric-vehicles.com",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMlVQeXMyVWcyNW5KbXNMdVljMmswVlF0X0ZhelJrSkRXQkVreVlJSHlwMFF3RjAwQUNzMWptaGk5c05wOXIwOGRPRkQzMHU5dmNDTUJ3bzA1cUhFYUZidHEweU9JbFdsNldyMTdPcE1SSF9HX3k0TU5LS1hiV3R0dFcxOVlXd0Z0RWNZSWJ6X1N1MVZLRm1zMWY1UGswYmxaZ1J5OXlB?oc=5",
-    "time": 1784195399377,
-    "score": 16,
-    "summary": "",
-    "source": "汽车·EV",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "台积电仍然是无可争议的人工智能芯片之王吗？人工智能",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmpFT3FZS1liRVdOdEZVaWhIOFdxQkFmck5EODN0NlFsWFNSWXZsSnVMNVB4YmZWcFZpWWI5RnVpSzN0S1FzM2poekhWUFM2eXc0RlZreGc4N3g0RTdMLTVtb1U5dVlBa3padzFxZXA0QnlqV19sOUFfZzJDNTdjako3eG9LRkk?oc=5",
-    "time": 1784195399377,
-    "score": 16,
-    "summary": "Is TSMC Still the Undisputed King of AI Chips Kavout | AI",
-    "source": "基建·芯片",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "韩国将暂停新的单一股票杠杆ETF上市，以抑制市场波动",
-    "url": "https://36kr.com/newsflashes/3898120685897353?f=rss",
-    "time": 1784195399377,
-    "score": 15,
-    "summary": "韩国将暂停新的单一股票杠杆交易所交易产品上市，以抑制市场波动。此前与三星电子和SK海力士挂钩的杠杆基金需求激增。韩国金融服务委员会周四发表声明称，该禁令将持续有...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "台积电第二季度业绩超出预期：上调全年展望，在美国增加 1000 亿美元投资迎接 AI 热潮 - TradingKey",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdWkzcVM3Y0hPMXg2UnNUV3l3bTBpbXVyMEtsQm51ekJybjViXzVxNWZJQjA4SWpmbngtVGVRd2c4YXVEMWRvZzV1Ynl6X1dBbmVQcElsRG9LWFh1UGJ6b2RwaWJqaENuWW9PdGFleGh4V3NLdUtUdEJFZmZaR3ZERDl0Y1Bqc0RnMXJud2VzWkZZZkhWV05PSVEtWGVFRUttWTZKUDNSNVRBQnp0bGFNV3J1T1BvMkVUYTZtVHZHQ3dqdEJ5a3ZF?oc=5",
-    "time": 1784195399377,
-    "score": 11,
-    "summary": "TSMC Q2 Results Beat Estimates: Raises Full-Year Outlook, Adds $100 Billion Inve...",
-    "source": "基建·芯片",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "美国商务部确认台积电投资 100B 美元，这是美国历史上最大的外国直接投资 - Crypto Briefing",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxYW9BRE5ZZ0w3cDkwSE1iQ2V5NF9Hclc5T1JYWEFhZl9MQ0lzWDBXeDZJekVseUp1QWJSLVZiUF9icnhNYzhhNkpLOGR3R2hYLUxfeDVlY1hxOXZ5WDZrRkR0VGRlZk1QaEF3YWNn?oc=5",
-    "time": 1784195399377,
-    "score": 10,
-    "summary": "US Department of Commerce confirms $100B TSMC investment, the largest foreign di...",
-    "source": "基建·芯片",
-    "region": "🇺🇸"
-  },
-  {
     "title": "TechCrunch Mobility：机器人出租车最后通牒",
     "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
     "time": 1784195399377,
@@ -8998,5 +8782,221 @@
     "summary": "",
     "source": "掘金·AI",
     "region": "🇨🇳"
+  },
+  {
+    "title": "内存股暴跌，台积电销售额猛增 36%。这对 NVIDIA 和 AMD 意味着什么 - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiNVE3dEVzWmFyRVBtNWNySTJOeTIxSTMxRkZDT1dlYl84c2pwQTRPRHpaMVF2MHRxeEZkMkFwdjBlX1c4bkd3NWNoUzFnLWhNVGpJSTAySnMwbWp6VW1yZld3ckE0Y2c0NXBvZGxtdTAzUXUydjNNRA?oc=5",
+    "time": 1784493197213,
+    "score": 115,
+    "summary": "TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD AO...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "苹果的诉讼会破坏 OpenAI 的硬件计划吗？",
+    "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "time": 1784493197213,
+    "score": 106,
+    "summary": "在最新一期的《Equity》节目中，我们讨论了苹果的诉讼是否会影响 OpenAi 的多盘...",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k",
+    "url": "https://github.com/openai/codex/pull/33972/files",
+    "time": 1784493197213,
+    "score": 105,
+    "summary": "259 points · 118 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "台积电、ASML 公布创纪录业绩，英特尔 18A 良率达 85%：半导体格局发生巨变 - Finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fTU1SZ2xUR3lOOUpmQVdQZUhBS3BvUVY0V2NOZXpCN0pFOWFodTlSUFh0YW91ekJldGwya3NidUpXNjcxUWtzRXM1SWdLbEtwdUdkX2F2OXE5YkNWY0toNGF1TkZkZ3AyQzg0UUphM2daWnNuU0E?oc=5",
+    "time": 1784493197213,
+    "score": 20,
+    "summary": "TSMC, ASML Post Record Results, Intel 18A Yield Hits 85%: A Seismic Shift in the...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "科氪 | 从生命预警到七诊合参，安顿“双核首发”的技术密码",
+    "url": "https://36kr.com/p/3902428274427525?f=rss",
+    "time": 1784493197213,
+    "score": 17,
+    "summary": "在2026世界人工智能大会（WAIC 2026）上，安顿健康以两项首发引发广泛关注：我国首个生命预警表标准，以及行业首个七诊合参中医机器人——安顿中医机器人。 ...",
+    "source": "36Kr·AI首发",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "台积电刚刚通过这一令人瞠目结舌的公告表明人工智能 (AI) 建设充满活力 - 环球邮报",
+    "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQU205Q3J3a19MajdwVDdRdDl1OXRYXzBPelhwblpYZHdrS2JMbWdjemVJX3Y1MElhTjM0UzJGeWpreUt6STVueS1HQkQtRUxGaUYwN2FCTEZFNjRrY2FfLThuZ3luUW9GZUtqTlVpaGtJbU9wVm5lQklyeU9ldVd2eWtSRDhLZUtINktreVpqU3FuVUtUVi1vc0wtV01rV0pQWG5HZmRXU3d1d2dMSVlfRklSSzgxazdLd2Fpd0pzWVBZdGlFbHliX0VaRGVrZjJxMGpvVmxRS2V5cHpwUUNOSlJWdjdGSm94MldTVDZyNWd5TjBrRzZlUUxmeHhNQkxLQnFQZGlYc2hNODJqY2o5SHlCZHNaMHlrc0YzVUNiNmd6eWpSRDNVbTRqbkQtTktRaXRaT0pOb3hXdTE1cFVjUHk0UzdLemo3QkZB?oc=5",
+    "time": 1784493197213,
+    "score": 16,
+    "summary": "Taiwan Semiconductor Manufacturing Just Showed the Artificial Intelligence (AI) ...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "台积电季度营收达到创纪录的 40.2B 美元，表明人工智能芯片热潮远未结束，加密货币矿工应注意 - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ydl92TXNkVGtlbVQ5Vk56b0JrR2xRaE9LYkdCY3RUeG1CUmEyM0trdXR0VHNzeF9abVNLMUZtbDZBX2pTV2RqdXd6QURKdDJfcl9qd0cwWUVuWkVZS05jUHFTLWZ1SjJSak5QRXJxUkxoSUlxRGc?oc=5",
+    "time": 1784493197213,
+    "score": 16,
+    "summary": "TSMC's record $40.2B quarter signals the AI chip boom is far from over, and cryp...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "特斯拉机器人出租车车队揭幕，公司加速自动驾驶雄心 - 国际商业时报",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2FfRGRZRFlnYWlLWHRVMEt4Yk14WFdiZUM5RWdyR3dfZ3JjbWJ4R05kb2RGdmF1QlZwYmo3YTZpX2JtZjByN05VR0RHSEg1ZXB3VlhXSHJJRXhYd3AwenN5aFNPbzdmcVdOZGotbURqOGpfUmNFU0FvS29xUzZJZEdCMWQtOHVnVnIwbGpMZXk?oc=5",
+    "time": 1784493197213,
+    "score": 15,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Centrus Energy (LEU) 测试其核守门人说法的估值 - simplewall.st",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUGFJUGVHYVFVWk81TDJlMkc0ci1SeXRycHdiaTRVamVnN1RlNFNTWWp2QWN5Nl81a3U1M1dIcmRZdFRwd1ZnWnBOSXJGNlRQbGp5bmNVUXJSZ29VNVg0VHhRNkVJVWd2bEl0dE1TdE94bFpQa2VsVy1ScmxTZlBxV0tvaXhIQVJCZmxjWWtJeV9RY1VpWGZ5bzBMelN3bTBjMzJnY1JBaW5XNVBacXJDODFNMnZnejV2dEduN3duems0NVFSUXl30gHMAUFVX3lxTE5HclY2MkNfTmdWR3JYQW5iWmtTM05UT1h5emc5UGVYLTktN3hCc09jaHNJbjZOUVlrTjUteGQyVC1QeGFvMmNKRlo2R29wWUhHZXkyekRhWFNXWDUtdDhpVGdIdXpKQWZyTGlGU083MW95TkpOVXVGYlYzVGJXTHdLMXhGd1hLWlF5Ukp3ek9lSFZKTzlEd0JsMDg3UmNsT2QxYkdOZ255MmNhZHJnYm44UnpuN1ZsNnVPX25EQTQ1MDVzVTIzelJvVmZqUQ?oc=5",
+    "time": 1784493197213,
+    "score": 15,
+    "summary": "Centrus Energy (LEU) Tests Its Valuation As Its Nuclear Gatekeeper Narrative Hol...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Lucid Motors 否认正在考虑破产的报道",
+    "url": "https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/",
+    "time": 1784493197213,
+    "score": 11,
+    "summary": "该公司在其股价因一份报告而下跌超过 50% 后表示，“谣言完全是假的”。",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "自动驾驶和自动驾驶汽车新闻：卡车司机、特斯拉、NTSB、自动驾驶汽车中的生物废物和 NHTSA - 自动联网汽车新闻",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVWgwUTRnX1NUd2JpT0J6M1dmMDlNQ0ZWM3p0MmR6ZVBvRUUyVzBrWE53b3o4aHV4SHV3Z3BMT3pDS0lGMUlDRDhKYW5EazRnLWVURi14bHpfemo3TjNEQ0hEeFpzRTNWY3BWQ29KRDZfMEtaaF9XUEU5d05QWm83c3RQVkh3X3FPVjRQckdWYkNTbnNTZ21LR2hpMTVRa3kxTFRFd09yRzExUUE5cXVjVXZIRlVJXzFNSEtUM0pPWQ?oc=5",
+    "time": 1784493197213,
+    "score": 11,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "为什么数据中心是我们电网解决方案的一部分？意见 - 三城先驱报",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3lrQUxvcWJKVFdqWVdYSTN2S2prLWVvOF9BeXVEbFctOFc1b0VES0FBY0owSWdLNUV5Tzl6V3RCM3VJcWpVd0UtcFIzS0YtTDNITjI3ZGVZbWIxX05zLXJER0RfcFdsM2w5SUVKZThMczQ2bGFNYlVIV3l4dmZfY1dhREXSAYQBQVVfeXFMTnc2bUE2OGJ3aGJnQ3FKRkhoaloySGt0UXZIQmo3RHRmTGlwTTBXbVA4Qkd1MUk1cEJiZ1lzZlE3OEtTODZZWEFPeUJ0U19FVC1RX0prWHJYRXJJUGtweUZZTmlkakpFQjJmOTYxSGJ6dXpEWXo0Qng5YmZDbGM2SE5nUVhB?oc=5",
+    "time": 1784493197213,
+    "score": 10,
+    "summary": "Why data centers are part of the solution for our power grid | Opinion Tri-City ...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Uber 的 1 亿美元充电赌注不仅仅是电动汽车 - InsideEVs",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TLXJ5UXJlUVMwU1RTbTQ1TXFnSGp1VHFTOFRJVFdONTFzX1Jra1Z3WWdJQmNtMVVrZ1E2UjVxMTNSLWR4ckpnZ0tra3FhZmlQS01saURXZ1JRbFpyajUxYlNIU2ZoSTVwcVRuSWdEZHgyWFp1VjM0Z3FXcjc?oc=5",
+    "time": 1784493197213,
+    "score": 10,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT: AutoGPT 的愿景是为每个人提供易于使用和构建的人工智能。我们的使命是提供",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "time": 1784493197213,
+    "score": 9,
+    "summary": "⭐185.6k stars · Python",
+    "source": "GitHub·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "langgenius/dify: 用于代理工作流程开发的生产就绪平台。",
+    "url": "https://github.com/langgenius/dify",
+    "time": 1784493197213,
+    "score": 8,
+    "summary": "⭐149.3k stars · TypeScript",
+    "source": "GitHub·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "bytedance/deer-flow: 一个开源的长期 SuperAgent 工具，用于研究、编码和创建。在以下人员的帮助下",
+    "url": "https://github.com/bytedance/deer-flow",
+    "time": 1784493197213,
+    "score": 8,
+    "summary": "⭐77.4k stars · Python",
+    "source": "GitHub·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "公用事业 ETF 今年迄今因人工智能电力需求飙升 8%。这是购买哪一款 - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Jb0tOTnZ0T2VMdFl3R3hoaHZGeThQSnR1eWJCNUcyUDY5TG1CYnFoakJxUjVDTS1FNUpWdlZVMlJhQlVyMGd5QldJVm1vazVERElBa1pmN2l1ek1rSmJrNXIxTlhWZzloTEprUWRfQnl2TmFsNFE?oc=5",
+    "time": 1784493197213,
+    "score": 6,
+    "summary": "Utility ETFs Soar 8% YTD on AI Power Demand. Here’s Which One to Buy AOL.com",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Injective 强调了 SEC 注册以及 INJ 在峰会上的 Robinhood 上市 - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb1F4OG5LTUE2MUZVbWk1RFpjbXpxaDdLaTFLNUVJRU1tcWJpWG9SYmYxWFA5bGFJaDJkSDZwUlJFYzlaU1VJd0pfc1MyRjVNa2hiYUxURWVxY0hLR0lKTk5ubnZEZUNmamFJZHlDNGstLURJamdTbnpKN25qeWNyMFF6NWhlUQ?oc=5",
+    "time": 1784493197213,
+    "score": 5,
+    "summary": "Injective highlights SEC registration, Robinhood listing for INJ at Summit Crypt...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Show HN：我用价值 1,600 美元的 ESP32 更换了价值 12 万美元的保龄球中心系统",
+    "url": "https://news.ycombinator.com/item?id=48968606",
+    "time": 1784493197213,
+    "score": 3,
+    "summary": "659 points · 63 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "HomeLab #1：MikroTik 作为家庭路由器",
+    "url": "https://justsomebody.dev/blog/mikrotik-home-router",
+    "time": 1784493197213,
+    "score": 3,
+    "summary": "13 points · 5 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "并行编程之禅",
+    "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+    "time": 1784493197213,
+    "score": 3,
+    "summary": "24 points · 0 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "C64 基础地下城探索：哥布林攻击（C64 基础第 8 部分）",
+    "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
+    "time": 1784493197213,
+    "score": 3,
+    "summary": "39 points · 1 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Kagi 的 Orion 浏览器",
+    "url": "https://orionbrowser.com/",
+    "time": 1784493197213,
+    "score": 3,
+    "summary": "7 points · 4 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "头显触摸4G",
+    "url": "https://www.hmd.com/en_int/hmd-touch-4g",
+    "time": 1784493197213,
+    "score": 3,
+    "summary": "49 points · 42 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
   }
 ]
