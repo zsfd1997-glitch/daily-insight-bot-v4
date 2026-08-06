@@ -1,167 +1,5 @@
 [
   {
-    "title": "新一轮车企博弈，美国燃油车赶超欧洲电动车",
-    "url": "https://36kr.com/newsflashes/3923417110261129?f=rss",
-    "time": 1785739691407,
-    "score": 5,
-    "summary": "美国市场对燃油皮卡与大型SUV的需求推高了底特律车企的利润，与欧洲车企形成鲜明反差：欧洲车企正面临销量下滑、裁员压力。大众市场车企中，仅有通用汽车与福特在交出亮...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "海联金汇等成立新公司，含智能机器人研发业务",
-    "url": "https://36kr.com/newsflashes/3923387268623745?f=rss",
-    "time": 1785739691407,
-    "score": 5,
-    "summary": "36氪获悉，企查查App显示，近日，海联精工科技（江苏）有限公司成立，经营范围包含：工业机器人制造；工业机器人销售；智能机器人的研发；服务消费机器人销售等。企查...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "永辉呼和浩特首店连续18天销售破百万元",
-    "url": "https://36kr.com/newsflashes/3923377947864713?f=rss",
-    "time": 1785739691407,
-    "score": 5,
-    "summary": "36氪获悉，永辉呼和浩特首店业绩持续走强，7月16日至8月2日，该店累计销售额超2500万元，连续18天单日销售突破100万元；累计客流超26万人次。从销售结构...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "沪深京三市成交额超1.5万亿元",
-    "url": "https://36kr.com/newsflashes/3923360316239240?f=rss",
-    "time": 1785739691407,
-    "score": 5,
-    "summary": "36氪获悉，沪深京三市成交额超1.5万亿元，较上日此时缩量4606亿元。",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "langgenius/dify: 在一项协作工作中构建 Agentic 工作流程、RAG 管道，并提供丰富的 AI 模型和工具支持",
-    "url": "https://github.com/langgenius/dify",
-    "time": 1785739691407,
-    "score": 5,
-    "summary": "⭐151.1k stars · TypeScript",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "QQWorld：世界模型正则化的分位数-分位数匹配",
-    "url": "https://huggingface.co/papers/2607.28415",
-    "time": 1785739691407,
-    "score": 5,
-    "summary": "潜在世界模型通过在紧凑的表示空间中预测未来状态来实现有效的规划，但它们的...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "N_0-VTLA：使用潜在触觉标记扩展视觉-触觉-语言-动作模型",
-    "url": "https://huggingface.co/papers/2607.23782",
-    "time": 1785739691407,
-    "score": 5,
-    "summary": "我们提出 N_0-VTLA，一种视觉-触觉-语言-动作 (VTLA) 基础模型，能够 (1) 细粒度的接触丰富的 m...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Qwen3.8-Max：编码和协作的新标杆",
-    "url": "https://qwen.ai/blog?id=qwen3.8",
-    "time": 1785739691407,
-    "score": 4,
-    "summary": "409 points · 167 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误",
-    "url": "https://arxiv.org/abs/2607.28271",
-    "time": 1785739691407,
-    "score": 4,
-    "summary": "29 points · 24 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "基于可复制上下文的保障措施无法为法学硕士提供可靠的安全性",
-    "url": "https://huggingface.co/papers/2607.27951",
-    "time": 1785739691407,
-    "score": 4,
-    "summary": "大型语言模型保护措施在查看答案将如何使用之前决定是否回答。这创建了一个基本...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "通过自蒸馏增强基于 Rubric 的强化学习",
-    "url": "https://huggingface.co/papers/2607.18082",
-    "time": 1785739691407,
-    "score": 4,
-    "summary": "基于Rubric的强化学习最近在改善开放式任务的法学硕士方面表现出了希望。橡胶的一个广泛认可的局限性...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "ExtractBench：模式引导企业文档提取的基准",
-    "url": "https://huggingface.co/papers/2607.29677",
-    "time": 1785739691407,
-    "score": 4,
-    "summary": "企业工作流程越来越依赖代理进行模式引导提取：给定文档和用户定义的模式...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Meshy T2：通过流匹配快速生成原生网格",
-    "url": "https://huggingface.co/papers/2607.28675",
-    "time": 1785739691407,
-    "score": 4,
-    "summary": "多边形网格是现代 3D 管道的标准表面表示，并生成高质量的网格...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "视觉生成中文本调节的缩放属性",
-    "url": "https://huggingface.co/papers/2607.29679",
-    "time": 1785739691407,
-    "score": 4,
-    "summary": "我们研究视觉生成中文本调节的经验缩放特性。这些特性很少被测量...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "从 RLVR 到 RLSVR：任务转换为开放式 LLM 自我提升带来可自我验证的奖励",
-    "url": "https://huggingface.co/papers/2607.23802",
-    "time": 1785739691407,
-    "score": 4,
-    "summary": "具有可验证奖励的强化学习（RLVR）推动了面向推理的大型语言模型的最新进展...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "不要成为肉类代理",
-    "url": "https://gruhn.me/blog/2026-08-03/",
-    "time": 1785739691407,
-    "score": 3,
-    "summary": "37 points · 13 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "显示 HN：Isopolis – SF 的等距像素图",
-    "url": "https://sf.isopolis.city/",
-    "time": 1785739691407,
-    "score": 3,
-    "summary": "176 points · 37 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "为什么我们要编写自己的 C 和 C++ 推理引擎",
-    "url": "https://localai.io/blog/why-we-write-our-own-engines/",
-    "time": 1785739691407,
-    "score": 3,
-    "summary": "31 points · 13 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
     "title": "融合还不够",
     "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-02/",
     "time": 1785739691407,
@@ -8998,5 +8836,167 @@
     "summary": "讨论 |关联",
     "source": "ProductHunt",
     "region": "🇺🇸"
+  },
+  {
+    "title": "台积电坐拥 10 亿美元苹果芯片，等待 DRAM - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWFFCQmlwai1jU1J1MnkxeUlnb2xnRkl4Rl8xNXBrVk5fd3RSMnJCU3VSTjRHY3gwdkRRQkswMzJKM3dLVExDT2pJSzl4NlcwanlSUjB4OEgxa0VMZ056Mm1SRlBSZV9mQ2pkWldPNmM3SjNQSmZvSThCc2d5N3RmU3JSSklQTWFnZ3V6WTRTcVVHU0dsdG43MmNPQU5Tcy1FTng00gGjAUFVX3lxTE9YUUJCaXBqLWNTUnUyeTF5SWdvbGdGSXhGXzE1cGtWTl93dFIyckJTdVJONEdjeDB2RFFCSzAzMkozd0tUTENPaklLOXg2VzBqeVJSMHg4SDFrRUxnTnoybVJGUFJlX2ZDamRaV082YzdKM1BKZm9JOEJzZ3k3dGZTclJKSVBNYWdndXpZNFNxVUdTR2x0bjcyY09BTlNzLUVOeDQ?oc=5",
+    "time": 1786022634238,
+    "score": 16,
+    "summary": "TSMC Sits on $1 Billion of Apple Chips as It Waits for DRAM TechPowerUp",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "台积电坐拥 10 亿美元 iPhone 18 Pro 芯片，但无法完成 - techtimes.com",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZURSdk40VGRlbHdVTDR2bTNXTDF4ZDRMTThhMFNaeVBHQkZ0U2lDZWJkZnZBU3k3bUpMNnYwNjNxM2NkM3Z3RmxEbUQwY1ZDaFJPZWhYdHFodkRkaW5tb29ISzNYdkdicU9GNkJkdjRaaDJnZjBjWGhGR3ZqQi12Y09aeThDUU9CYnNjbjJUV3FSWjNQN3dJX2tqdGswYnVJUEZNWElRWmlVbVBmNHpjX0JUQjBseVE?oc=5",
+    "time": 1786022634238,
+    "score": 15,
+    "summary": "TSMC Is Sitting on $1 Billion in iPhone 18 Pro Chips It Cannot Complete techtime...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "核电卷土重来真的吗？这是投资它的最佳方式。 - 杂七杂八的傻瓜",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVGt2QUlfRDdXUVNjajU5S09UMkVNaFVtZm95dXoxU0U3RHNuel9qYW9nV0NNc2tIUnlpNkJjeEpoS3d4S3cwTllmc1o4SUR3U1h6YmpzZkE5V1RYVDNDZmdsZWpFRG5CajV4OFZhX21KSWgyWWFqS29MNnhYTkpxdVhfRG9KdjR5YnhhR211a1kxWHBFa0hN?oc=5",
+    "time": 1786022634238,
+    "score": 10,
+    "summary": "Is the Nuclear Power Comeback Real? Here's the Best Way to Invest in It. The Mot...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "堆了 20 套主题、10+ 组件，用户还是用不出来？我给设计 Skill 加了「自动驾驶」",
+    "url": "https://juejin.cn/post/7670092136000716843",
+    "time": 1786022634238,
+    "score": 7,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "Spotify 前员工筹集 1000 万美元，将人工智能引入电子商务建议",
+    "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+    "time": 1786022634238,
+    "score": 6,
+    "summary": "该初创公司的平台可以预测购物者接下来想要什么产品，了解他们的总体品味，并确定...",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "福特新款电动卡车“Fathom”起价 28,350 美元",
+    "url": "https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/",
+    "time": 1786022634238,
+    "score": 6,
+    "summary": "福特周四表示，预计将于“2027 年秋季”推出，直到明年初才会透露 Fathom 的外观……",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "独家： Mirendil 与 Google Cloud 签署价值超过 1 亿美元的协议，以扩展自我改进的人工智能",
+    "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+    "time": 1786022634238,
+    "score": 6,
+    "summary": "Mirendil 与 Google Cloud 签署了价值超过 1 亿美元的合作伙伴关系，以扩展其计算基础设施...",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Omilia 融资 6700 万美元以扩展其客户支持平台",
+    "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+    "time": 1786022634238,
+    "score": 6,
+    "summary": "B 轮融资是该公司自 2020 年上次融资以来的第二次融资。当时，我...",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "数据中心可能会给 PHL 供电带来压力 - BusinessWorld Online",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNTh1UWRwRWgwM0lVV25nckdsRVFWak1QY09jOXZ6ZWUteEhnaWh3Q1l5YUpRRzNRQ242bVN0ZlRBZEh3X2hxU2NxRmVUenZHM3pmS3ZXcURyNEJvR2pieUxJd1RJdWliUzFzcDVPVjNLNlJRTDhkbVpUakIxVXZaaGJyWEF1cVpfak1RclBvVEJkaERoTG9QV1hDSQ?oc=5",
+    "time": 1786022634238,
+    "score": 6,
+    "summary": "Data centers may strain PHL power supply BusinessWorld Online",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "拟议的土地禁令使价值 100B 美元的肯塔基州数据中心成为民主党的瞄准目标 - 列克星敦先驱领袖",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85Q3VtSVhqWXZ6Wkc0R29nSnVHRzlfMUlMUkVGS1VPNm9FMjkwS2FCOVJXdFl3UjdWdXFZMGE1NDlqYUNtTl9pUlNOT2ZjaHh5cW9hYkJ5S1hITUp0MVp3Um4wdTk4ZzBKXzFXMVowakNTTFJ0d3VZc280d9IBe0FVX3lxTFByQUcza08tVFI1MGVvdGpMVWIwU1RZUHZXRDV6SHU1ak1UdkNYSE41OUl5Q0owZ1liU1ZIMEljOUZ3WEE4dXR4RmhWXzN2MzMtdmMtLUtxRXktalY3QXpZTHFYLU55a1VKZnl5OEpKRVZqZlVhenk2TnhoQQ?oc=5",
+    "time": 1786022634238,
+    "score": 6,
+    "summary": "Proposed land ban puts $100B Kentucky data center in Democrats’ crosshairs Lexin...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "DRIFT：利用对抗性补丁攻击破坏流量匹配 VLA 的去噪轨迹",
+    "url": "https://huggingface.co/papers/2608.03207",
+    "time": 1786022634238,
+    "score": 5,
+    "summary": "诸如 pi0 之类的流匹配视觉语言动作 (VLA) 模型通过集成学习的去噪功能来生成机器人动作...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "谷歌地图增加了代理功能，包括食品订购和酒店预订",
+    "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+    "time": 1786022634238,
+    "score": 5,
+    "summary": "这些新功能的推出反映了谷歌将谷歌地图从导航转变为...",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "在非root Android 17上，ADB卸载系统应用程序失败",
+    "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
+    "time": 1786022634238,
+    "score": 4,
+    "summary": "112 points · 51 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "在 4 万次游戏运行中，人类错过了三分之一批准 AI 代理命令的威胁",
+    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+    "time": 1786022634238,
+    "score": 4,
+    "summary": "9 points · 1 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "马里奥遇见帕累托",
+    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+    "time": 1786022634238,
+    "score": 3,
+    "summary": "113 points · 18 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "帕累托前沿",
+    "url": "https://en.wikipedia.org/wiki/Pareto_front",
+    "time": 1786022634238,
+    "score": 3,
+    "summary": "72 points · 33 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "为什么越来越少的租客希望搬家？",
+    "url": "https://libertystreeteconomics.newyorkfed.org/2026/08/why-do-fewer-renters-expect-to-move/",
+    "time": 1786022634238,
+    "score": 3,
+    "summary": "4 points · 0 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "与 AI 共造一件工具：我用 TraeWork 做出「群聊捕手 · AI 社群分析工具」的全过程",
+    "url": "https://juejin.cn/post/7669257737558556715",
+    "time": 1786022634238,
+    "score": 3,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
   }
 ]
