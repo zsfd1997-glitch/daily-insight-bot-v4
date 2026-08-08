@@ -1,185 +1,5 @@
 [
   {
-    "title": "金卡智能：子公司签署约8.9亿元智能燃气表合同",
-    "url": "https://36kr.com/newsflashes/3925021294278791?f=rss",
-    "time": 1785838850496,
-    "score": 5,
-    "summary": "36氪获悉，金卡智能公告，近日，子公司金卡哈萨克与BTS Digital签署了销售智能燃气表的合同，合同总金额为620.75亿坚戈（含税，折合人民币约8.9亿元...",
-    "source": "36Kr·AI首发",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "DreamTraj：通过读取未渲染的视频扩散潜伏生成 6-DoF 对象轨迹",
-    "url": "https://huggingface.co/papers/2608.00486",
-    "time": 1785838850496,
-    "score": 4,
-    "summary": "在操纵过程中准确预测物体轨迹对于闭合感知-动作循环至关重要。程序...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "GradCuit：信用分配的梯度流可实现稳健且可解释的测试时潜在推理",
-    "url": "https://huggingface.co/papers/2608.02585",
-    "time": 1785838850496,
-    "score": 4,
-    "summary": "基于优化的潜在推理通过优化特定于实例的连续状态来改进大型语言模型输出...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "GPTQ-2D：三次时间两侧自适应舍入",
-    "url": "https://huggingface.co/papers/2607.27042",
-    "time": 1785838850496,
-    "score": 4,
-    "summary": "自适应舍入方法，例如 GPTQ，或等效的 Babai 的最近平面算法，将实数矩阵舍入为整数......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "内部放松，整体平衡：视觉语言专家混合的几何引导负载平衡",
-    "url": "https://huggingface.co/papers/2608.00574",
-    "time": 1785838850496,
-    "score": 4,
-    "summary": "视觉语言 MoE 批次包含不同数量的图像和文本标记。图像分辨率、图像数量、平铺、...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "那次我微软面试没通过",
-    "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
-    "time": 1785838850496,
-    "score": 4,
-    "summary": "62 points · 111 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "DeepVoyager-VL：激励长视野多模式代理的视觉在环搜索",
-    "url": "https://huggingface.co/papers/2608.01827",
-    "time": 1785838850496,
-    "score": 4,
-    "summary": "多模态大语言模型 (MLLM) 具有先进的视觉理解和推理能力，但其静态参数...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "超越形态学的运动：从抽象运动表示引导跨类别运动转移",
-    "url": "https://huggingface.co/papers/2608.01628",
-    "time": 1785838850496,
-    "score": 4,
-    "summary": "视频运动传输旨在使用参考视频的动态来为目标对象制作动画。现有配方大...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "防空人工智能",
-    "url": "https://www.producthunt.com/products/airproof-ai",
-    "time": 1785838850496,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "MemPalace/mempalace: 最佳基准的开源人工智能存储系统。而且它是免费的。",
-    "url": "https://github.com/MemPalace/mempalace",
-    "time": 1785838850496,
-    "score": 4,
-    "summary": "⭐58.0k stars · Python",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "视频有我",
-    "url": "https://www.producthunt.com/products/video-ai-me",
-    "time": 1785838850496,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "克罗多人工智能",
-    "url": "https://www.producthunt.com/products/crodo-ai",
-    "time": 1785838850496,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "成长手册5.0",
-    "url": "https://www.producthunt.com/products/growthbook",
-    "time": 1785838850496,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "FFmpeg 9.0",
-    "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-    "time": 1785838850496,
-    "score": 3,
-    "summary": "103 points · 8 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "驱动",
-    "url": "https://www.producthunt.com/products/driven-ai",
-    "time": 1785838850496,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "多莫",
-    "url": "https://www.producthunt.com/products/domo-a-claude-agent-for-your-calendar",
-    "time": 1785838850496,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "你不需要 React：用 Vanilla JavaScript 创建一个最小的 UI 库",
-    "url": "https://pedroth.github.io/?p=post/NoNeedReact",
-    "time": 1785838850496,
-    "score": 3,
-    "summary": "33 points · 18 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "利用工程进行自我提升",
-    "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-    "time": 1785838850496,
-    "score": 3,
-    "summary": "54 points · 6 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "凤凰",
-    "url": "https://www.producthunt.com/products/finyuus",
-    "time": 1785838850496,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "firecrawl/firecrawl: 用于大规模搜索、抓取和与网络交互的上下文 API。 🔥",
-    "url": "https://github.com/firecrawl/firecrawl",
-    "time": 1785838850496,
-    "score": 3,
-    "summary": "⭐160.5k stars · TypeScript",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
     "title": "AI 的玩法，该做减法了",
     "url": "https://juejin.cn/post/7667380763466285119",
     "time": 1785838850496,
@@ -8998,5 +8818,185 @@
     "summary": "29 points · 3 comments",
     "source": "HackerNews",
     "region": "🇺🇸"
+  },
+  {
+    "title": "Anthropic 正在打造自己的芯片！几周后，马斯克同意每月向马斯克支付 12.5 亿美元的计算费用 - wionews.com",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZnE0YU4yQ1hWRHpqdDFXc3hmemZsYVo4bTFfYzRULUtNQTV5OEI4ekVMRE1PRmdUUXpfVE1oV3d3MzI2N09CblBpUGFLUUhuS2MwNTM4U3JsQW0zSWNpV2U0VWdQRXVoVmRGbmVwNDRuVGs2QnAzT05FcGMzcks1TmhLV3dsNXJyT1BTVjBBVnBsQmoxaVlVTjc1OVNTOFBhalMzcnVkSWNTVDI5aUFlWHB6R0J5R1U2cnRvU0Z6dXdjWEtWbU5mRC10R1VkQUY3b09ELXNoLXNQbEo1enfSAeMBQVVfeXFMTlJ5bDNwTlVXZElqV2dua0tWcngwQmJhRWIxOHFSOGpMV2daR3NHLUlVOXVNZTZ6WWpVX19FQWdlT2VoS28xVW1RcTI5cDNWYWhOVmlBdG1hZUt4bUlaelB3R3RlTmd4Z2ZPSS0wb01jZi1vcC1MOEluRDlUS2xkRFNhNFVtQzFveDQxMGE4dVRWYU03clUyTXBZekE0ODIyRUhJRFlBU0pwT0w1MTlXZEpvVmxqa0ZIakZVdXd4ZFRLclg0UlVoalZRczVkLVoxYlZlRUdvQ20wMkY5QUJaWm1fUmM?oc=5",
+    "time": 1786205658058,
+    "score": 111,
+    "summary": "Anthropic is building its own chips! Weeks after agreeing to pay Musk $1.25 bill...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "随着 AI 收入激增，AMD 股票是否值得买入？ -theglobeandmail.com",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdWIycm5MX05Uc29zUkdfV2xJUGZiRmtlSVhUQ0lvYkM4VUlINTg1TG91blZiczZHS3Y5Ny1GdENtODIybkZzaExpU3EtN1MtUzRXSG1RdG9IT3JLU0c5eC1rTUNfMlFQbTlNc0tOaU1IMkRqZnEyc0F2S2J1aVFhV3Zua0VaU1hid2NVVDc2U1NwWHNrNDFEeGNqVUtHWDJqU0pzc2JxZWxYMmtsM2RCX281TUN4TWVQNVdHZDQ2a3doZ1FRbmluaUxSM2w0WUZQ?oc=5",
+    "time": 1786205658058,
+    "score": 26,
+    "summary": "Is AMD Stock a Buy on the Dip as AI Revenue Surges? theglobeandmail.com",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "人工智能需求如何推动铜价飙升 - discoveryalert.com.au",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS2NsTzZiWENGU2RDdGw0R2NYTzFKWldqNGRFTnpoR2F4Si00TF9RVjVNTGdJMm9ZWlpGUlVRZUhIbTFJb2xMTzNoQWZGdlM5Z3dEVG52WjJIUTZDVHFaWndKLVFZb2lCaGViakN1ZXYzcktxYnVaMFlzWEdhM1VLbnN4bjJtNzRiWEZITXF3?oc=5",
+    "time": 1786205658058,
+    "score": 21,
+    "summary": "How the Copper Surge Is Being Driven by AI Demand discoveryalert.com.au",
+    "source": "基建·矿产",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "与人工智能电力需求相关的核能股票值得关注 - simplewall.st",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbkRjTTU2QUVaOGhGS09qYVFJY1Q4aFp5YlNFMTFyTWZvOHBxSENYOFpFOEM3elB5QS1fUVlyVGw5cGhZR2hIWXZBSTlXQjV3azcwaFlTc215aUJpYWJjLUJvLV8zVWtST3FJVjFnZnNLbnd2MTNuZ18wdDl1MzlJRVZrSjlxeHMwVElJYk1oeHA4YWh6ZUNFbl8ta2k0d0xRV05RYTYzVXZmVEUwaUI3ZmVNbl9LVXMtcXUwVnpvS0Y3V1hvcHZoUnc2OVdLbF9Y0gHWAUFVX3lxTE5LeU94cG9HZm4tbzJ6cEstNEFmZ28yb1NlODFkRVZGUDdESXcxWUJWNEVHRHFiYlZwNXNwaWV3cWIta01LUEI0Q2trNVN6LURRZjFrU3dCMDFTRVNlQ3hyZ0R4NU83bUZGc0o4dTJaQTlJdTE5LURHNWtjNVBrVnhLUXJKX1R6OGtOQmlDcHFqN2RfZldPakNvRUJmYVE5YkZRTUtfblRrdk42Y3p5emFXUUVKcHlUOElhX2tUa1BTM3Nxc3lqTUF4XzRnVHhaLUV6c2pBc0E?oc=5",
+    "time": 1786205658058,
+    "score": 16,
+    "summary": "Nuclear Energy Stocks Tied To AI Power Demand Worth Watching simplywall.st",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "MSG背后有117年历史的公司在AI芯片中发挥着关键作用 - HOKANEWS.COM",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc0VKT2RpMXd0c2tVVEhvcm5SNzNYYVRsMl9WSlpyMHd5eWNMMThLZEZQRkNJLTJKYm5tWHdzckh6RTdVZmxzc29WWFk0YnAzTXJyNUZTd1dQaWVCcHR3cVBqQUFSdk1ITGN4RzB6N1dUdXpISmlYNF9oT1N6MHotblh1OA?oc=5",
+    "time": 1786205658058,
+    "score": 12,
+    "summary": "The 117-Year-Old Company Behind MSG Has a Critical Role in the AI Chip HOKANEWS....",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "在美国重新推动核燃料发展之际，Aurora 项目转向 47 孔钻探 - 有趣的工程",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaEJGc0c2Vk9LRG1MZzdMRmR6ZE1DS0F0cFJQQjdSdTI3aUpqOVRES0R2UUh2cnVWRWN3V0hGaGFRN1lHVlBpUktXTmpFazlaWlR5N0l2bUdMTEZ6MGRubzBub0dGVlhNX3R3X1gtdWNuS21qYk5CZ0FOOTd1WU5OMFFFQ0xlQkhxcHU3VDVCRVc?oc=5",
+    "time": 1786205658058,
+    "score": 11,
+    "summary": "Aurora project moves toward 47-hole drilling amid renewed US nuclear fuel push I...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Robotaxis 现在正在扩展，稍后解决问题 - Businessinsider.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR0NkZE5iVHlESGtqM0NXSmpXS2ZCbFNBVk1fWEFOVmJxdGtwNE9jUkpGT1MtRWJmSHh3RmhOdWJqZHNZWUdFUmxIaXAwbElabDlkb0w0bjdXU3FEX0NhMWphYnNqTXNjV1Q4emp6MzVsRDV2RnBkN3pSbHZvN2pxRDlBZWw3TERMbzNFVk9FRVdVSXVSOHA0UWJvbHFVYjNJVDdfTGdkdlFzd3Uwa2x6WTVlLVg4bjRHbkJyR0lLaTg?oc=5",
+    "time": 1786205658058,
+    "score": 10,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "台积电盈利跃升 77%，资本支出达到 64B 美元 [2026] - tech-insider.org",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWi1td2FPbC1YV1pKUEZVR0lVMV9iZDNsUHpsZ25nTklIU0VhRElSS1BOaHVrbnJfd2gtZ0pJd1E4MVFsSV9xZzEyUFdkUDZyM0s1clZTZVRIVUtGamo2Q3NzYm1mbGhQeFE?oc=5",
+    "time": 1786205658058,
+    "score": 10,
+    "summary": "TSMC Earnings Jump 77%, Capex Hits $64B [2026] tech-insider.org",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "俄罗斯的主要王牌：如果没有俄罗斯的铀，美国人工智能可能无法生存 - www1.ru",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQWVJTVV6OEpkVjgxdUNQOFZPVFpDMTFqY1NoNTFQR3JlU3RDbnZUTnI0bzhZQnh0RUZ1NGYwandzUExTc05ablQtR3UyVmRlN1hKSElNQUdDX1gxY3U2SXdKQkZ3MGZFVG84UkFiX2R4dnJib0hMT1hQQmx1dzRNX1FsMTRDOG1sMlNCVXMzR19xTVhIYndPRmh3Zmh2alY5ZWhwMl95UDdKMVhRWWdISzIwNHpaOHF2NWxwX9IBwgFBVV95cUxOWUZfZ0pCeVRhY2NlWWRxRTBkVDJLUlN4WUVrLUhRRUoxc0tkV2tFY1lOcnVFT1BtbjVGblFfSnBxaG96XzZmMTg3RFdCc3l5VllsVkNfZDFmdU9DQ0VTajZtTDNiTmp0eFF1T1ZsLTM2aDFVYUM3MWl3WUhkNG9jSWxFR0xzMDctTlI1bnpWT1hidVdGb0g1Q2dYOXRjeXpqRkVnaDdvNllQdG5PSUdlTmFBRktQM2owSUxFaGJtbjVRUQ?oc=5",
+    "time": 1786205658058,
+    "score": 6,
+    "summary": "Russia's Main Trump Card: American AI May Not Survive Without Russian Uranium ww...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "域名现在可以在 DNS 中说它正在出售",
+    "url": "https://specification.website/spec/foundations/for-sale-dns/",
+    "time": 1786205658058,
+    "score": 4,
+    "summary": "116 points · 54 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Gentoo bugzilla 由于 AI bot scraper 过载而关闭",
+    "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+    "time": 1786205658058,
+    "score": 4,
+    "summary": "69 points · 26 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Gateway 2000 在 90 年代的搞笑糟糕广告（第二部分）",
+    "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
+    "time": 1786205658058,
+    "score": 3,
+    "summary": "43 points · 33 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "大便时不要使用手机",
+    "url": "https://nate.spot/no-phone-while-poop/",
+    "time": 1786205658058,
+    "score": 3,
+    "summary": "141 points · 137 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Voyager 1 FDS 计算机模拟器",
+    "url": "https://zaneham.github.io/voyager-fds-emulator/",
+    "time": 1786205658058,
+    "score": 3,
+    "summary": "28 points · 6 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "BYOC 不仅仅是“部署到他们的云中”",
+    "url": "https://omnistrate.com/blog/byoc-anywhere-the-spectrum-of-bring-your-own-cloud-deployments",
+    "time": 1786205658058,
+    "score": 3,
+    "summary": "27 points · 5 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "rasbt/LLMs-from-scratch: 在 PyTorch 中从头开始一步步实现类似 ChatGPT 的 LLM",
+    "url": "https://github.com/rasbt/LLMs-from-scratch",
+    "time": 1786205658058,
+    "score": 3,
+    "summary": "⭐101.3k stars · Jupyter Notebook",
+    "source": "GitHub·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "美国军方网络指挥部门正在努力解决多起自杀死亡事件",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+    "time": 1786205658058,
+    "score": 3,
+    "summary": "76 points · 94 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "k 着色比计算色数更快",
+    "url": "https://arxiv.org/abs/2607.25973",
+    "time": 1786205658058,
+    "score": 3,
+    "summary": "40 points · 5 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Triton：适用于 QEMU 的 DirectX 11 驱动程序",
+    "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+    "time": 1786205658058,
+    "score": 3,
+    "summary": "6 points · 0 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "我用 Codex 自动剪视频，全靠这 9 个 视频 skills",
+    "url": "https://juejin.cn/post/7670567758656962595",
+    "time": 1786205658058,
+    "score": 2,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
   }
 ]
