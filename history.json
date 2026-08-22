@@ -1,122 +1,5 @@
 [
   {
-    "title": "DeepSeek Harness 发布，一切皆是插件",
-    "url": "https://juejin.cn/post/7673696068215652404",
-    "time": 1787026869306,
-    "score": 103,
-    "summary": "",
-    "source": "掘金·AI",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "深夜炸场！DeepSeek 没发新模型，却重构了整个 Agent 生态",
-    "url": "https://juejin.cn/post/7673424123989393435",
-    "time": 1787026869306,
-    "score": 103,
-    "summary": "",
-    "source": "掘金·AI",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "DeepSeek V4 Pro 发布，1.6T 参数、1M 上下文，又有人坐不住了",
-    "url": "https://juejin.cn/post/7673295877813649444",
-    "time": 1787026869306,
-    "score": 103,
-    "summary": "",
-    "source": "掘金·AI",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "用时1.5天，Claude突破了黎曼猜想的新纪录",
-    "url": "https://juejin.cn/post/7672283918334001198",
-    "time": 1787026869306,
-    "score": 102,
-    "summary": "",
-    "source": "掘金·AI",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "给 DeepSeek Harness 装个\"应用商店\"：一条命令，595 个插件随你逛",
-    "url": "https://juejin.cn/post/7673978658780332083",
-    "time": 1787026869306,
-    "score": 102,
-    "summary": "",
-    "source": "掘金·AI",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "DeepSeek 调价正式生效：一夜涨 11 倍，靠低价薅羊毛的日子结束了",
-    "url": "https://juejin.cn/post/7674645475095167028",
-    "time": 1787026869306,
-    "score": 102,
-    "summary": "",
-    "source": "掘金·AI",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "Waymo 已进口 3,200 多辆 Ojai 机器人出租车，准备大规模扩张",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON25KcGxiTjZuMGc4a1RUakEycTZVaWRmVWhxdDVZTHFFRW9YTGd4ZzRtLVBHSDQ4ZWpPa29BNWVzTUp5V1hSU2xOaURNWFlNSHF3VVpkOWo0VDlFVmRRVzlmenVkNlhfNXhGY1VuLUQ5TVRmOTc4Sm0tb1hCaEc1dzVaWEJ5cVVsNVlCdlp2ZnF4aVd3MGpGT3BGWnE2VzJRYl9jTUxudjE0TU90ZlpNSURUVmFsWXlsdkpCdnJwNjhSY0x5ZDFXVzlYMktJYm1U?oc=5",
-    "time": 1787026869306,
-    "score": 21,
-    "summary": "",
-    "source": "汽车·EV",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "内华达州限制特斯拉维加斯“Robotaxi”车队数量为 10 辆，但实际要求为 5,000 辆 - Electrek",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaXROU2thT3NtUUhpb0RlQVNwWFJqVUx0bWxMNUd2RlV6VEdwaDdYLVR1WTAxVkxVYXVYeHFGRVJvSkV1a1JzMnFhNjJxNWwzSmpSNGpTczJRNVJ2VmZJXzhsUmFka0R1OUpXeFllVHdRTFRnTHBEVVR1VWtwQlBLODdndTM0VUdNWWc?oc=5",
-    "time": 1787026869306,
-    "score": 20,
-    "summary": "",
-    "source": "汽车·EV",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Alphabet 旗下 Waymo 在安全性方面领先，但特斯拉仍可缩小与 Robotaxi 的差距 - 雅虎财经",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFNYWGdxZml1bjE3SGJ2N3R6U0RDLUw0WDRZY2RHWVlfdTJjZHJNSFdCeGdaNVdGTHRhLUQzM0ZuQk1YT2FwTVF3ZEJjdHdOZm5fSGYtTnBGd0xhMDUwSzNxRFhqT2hBZDZzbkw4THFPbzMxVk4ydFdwa0ZTS25OTFdDMzFxX2tqY0VaMW5NSnJ2M1lkOHlQel92MXNLQQ?oc=5",
-    "time": 1787026869306,
-    "score": 20,
-    "summary": "",
-    "source": "汽车·EV",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "特斯拉的 Cyber​​cab 即将推出，但我们不知道 - Electrek",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmoyVkEwS2QwV0pJM2FDWkdtQS0wb1ZUeWFxekh1TGE5YWZQbUJEanJINWJZY2NzNjFTckc3QjVKWEgxblE2TnNvbWdiaTdrT3FtallKOVhjNWNacnlkYy0xTVpMNVZjNG9RZEEwbjZld0JaV0pRTTBhMmNCZXNjTE0zZmZBaUhi?oc=5",
-    "time": 1787026869306,
-    "score": 20,
-    "summary": "",
-    "source": "汽车·EV",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "为什么 Waymo 支付高额关税进口中国电动汽车用于机器人出租车 - TechStory",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ3F3SzRReUVCdU5iVmg5MFZKa29SWHl2QXIwQ1VlYVN1bHg2elEtOC13Sm9HaWg0RU1xeWZRRWJqb2ZYRkVBVC1tbkd0UXc3WFFuV2tXUXRrblFMWjdpbWEwbzNQcDlXTG9HdXp2LVNKa3ZTU3JfTlBIZjAyT2RsbHJzbDgwOEdpN2Z5RDNVbEYxcWo3?oc=5",
-    "time": 1787026869306,
-    "score": 20,
-    "summary": "",
-    "source": "汽车·EV",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Rivian 首席执行官 RJ Scaringe 同时押注于电动汽车、机器人和自动驾驶——他将在 Disrupt 2026 上解释原因 ",
-    "url": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
-    "time": 1787026869306,
-    "score": 16,
-    "summary": "Rivian 的首席执行官 RJ Scaringe 在 TechCrunch Disrupt 2026 上发表讲话，详细介绍了他的旅程以及从中得到的教训……",
-    "source": "汽车·TechCrunch",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "星座能源股票和 2 个与人工智能电力需求相关的核选择 - simplewall.st",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSGVERC1MT2M1ZFRkdUJINk1TVnZXR0R0clhrRVY0bktWV3FjTlRkRHBxWXNiS0hybDBPUVRaZ3R3TzZwbjhlMS0zMkk0aHg5Q1c3Z1NKd25vcXVwQTNLYThURjVhUFd4aTF6cEtPWTJmNWVtZnFBYTRVRDJuMGdjWG5PNDlscUM4TE5rNl9IWDVKWDRwTXJsWjVoUmxwck5fMVJOVG9rdXVwaHNnWlVWZUNKdWlBbXF5TUNmZXBjbkgyMXdvOUlsY2pOX3NFZ9IB0wFBVV95cUxNbklybFVJUWhTblNfbmoyU0VKOHlUdzNpNmp6UGRZM05NVnVzNWNjd2R3RnZXLVhzYkhzbS1vVjVONFo1bjlqZVhCMGd2Qno0T3U1NEVNSDdNQ0V5LVhLbHMxUHZlcGpEZjc2NTdPTDhUQzN4ZEVKdnJYcFhNUnFJd2RlbE9JZ2MwbTZKTDFWRnYxZnpnNUJ2TXpZN2lnVE85LW45X0VWWTMyVGE2andEeGpRVkxXaVNmWmQ1WnJnMFJfMXRqVzF5c0kzWnhXSjFwV1ZB?oc=5",
-    "time": 1787026869306,
-    "score": 16,
-    "summary": "Constellation Energy Stock And 2 Nuclear Picks Tied To AI Power Demand simplywal...",
-    "source": "基建·能源",
-    "region": "🇺🇸"
-  },
-  {
     "title": "台积电追随金钱：现75%以上收入来自美国客户 - semivision",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aSk1FZHF0YkJpclI1UkFPTkU1V3RkOUZXajZnM0NWX3k3YWdOa1BkT1FUTHpTVElCWi1LV1dlRVJmVmZjdEktOGNvc3BQWmQ2dlhRZkJYN2pab1RWRVRjejNaN29XNC0zWThoUzdOalY5d3Z5a1Z5anVWb3R2dw?oc=5",
     "time": 1787026869306,
@@ -8996,6 +8879,123 @@
     "time": 1787358178299,
     "score": 3,
     "summary": "1 points · 0 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "特斯拉 (TSLA) 获得内华达州（包括拉斯维加斯）Robotaxi 服务的批准 - Tesla Oracle",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0JZem9yM3RYb3Q2NVdUcF9iVFhmbEJnc050VFFfXzBFRVY5b2lqeExGb3AteVhvQnI5WllsYjZ0RDJRMnUxdWFOZk9hc3BtOWN6UHJsc3lubm5uS19qRHZCMndUdWhBN09IclF3WlBPNjBQOGN0U3lzeUZqUnJES05raVl0cDUtblZQQkpuRjFsWDdMWXJNMEJxZ2QyQjNKOFJPRXI1R2lMXzN0MVBxc2N4VGV1N0gtZUE?oc=5",
+    "time": 1787372261910,
+    "score": 21,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "AMD不再只是一家芯片公司：其全栈AI战略如何成形 - semivision",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONFZGMWNQSW1qOGpOY0tWci02eHU1dWIzSmVJWnJYazJhdlpnVkRKZExjLUVCNmwyRzlES0JOV3BXTHpQemc1cGllczlEWEhkaFBrMmJiUHpSOXNGTWRDNEhZVHNRbFl2NFRRZXRpeFZJYkx1MW9aa0dldnJWM21XUmZvdw?oc=5",
+    "time": 1787372261910,
+    "score": 16,
+    "summary": "AMD Is No Longer Just a Chip Company: How Its Full-Stack AI Strategy Is Taking S...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Meta 资助七座天然气发电厂为最大的数据中心供电 - EnergyNow.com",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUzcyeGI1Vjd2aExhV1VVZ01SaFl0QnpmcndvNGpZUkhkVkZVeVRHTGlvR2VEV0VLb2piemNQbHZ4c2ZDbV94Y0hoYlIyQlpUVkRHZjlHNWJ6eTY3OVQ2NUw3bFJwNzdiN3JCSU1XVU5oWG1GMnJBNGJ1NzluUFVjZ3RCTWhiTGtIS2NhZVUyc1c?oc=5",
+    "time": 1787372261910,
+    "score": 15,
+    "summary": "Meta Funds Seven Gas Plants to Power Biggest Data Center EnergyNow.com",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "汽车行业新闻、值得关注的自动驾驶汽车和电动汽车股票 - 投资者商业日报",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNXZqbG10WUxlNUg2dGNUY19pNFVMTlloQ3FzQlhxNktxanRZaU5VZnZ0cGVPS29IdGlMVGxJZmJOYVZNSWpaNHJPMDl0REVTcjdac0l6QTkwNGFnOHBMS0lqR2d1WHNNemlsb0pzSHlnMExNdHkxM3BKTkhmZGhkeXNURVBSUmdnZzV6TEZwLUhuZFBWSVdNb2Z3?oc=5",
+    "time": 1787372261910,
+    "score": 12,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "我们与摩托罗拉合作的最初重点是常规非折叠设备",
+    "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+    "time": 1787372261910,
+    "score": 8,
+    "summary": "34 points · 13 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "微软支持的三哩岛重启遭遇数据中心强烈反对 - thenationalnews.com",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVjYxRXRrXzJ3TEpxbVYyMmQ2VXN6UFVBaDJDazJhRm1aYXVIUDExQTR5MFA1UXdHZmxTZTZfYUJha1BvNHM2UURlRmMtMXMzS0VuT0kzX0JCOWRodmZfQ0FJdXZjbUNnQ1UxdzBhdEJoOGFLT21PMzE3VXVkOEFBaGhfZGFWWWtqdkxIdjVHVnJHVlAwdmRtaDBwcERfZmNk?oc=5",
+    "time": 1787372261910,
+    "score": 6,
+    "summary": "Microsoft-backed Three Mile Island reboot meets data centre backlash thenational...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "人工智能基础设施热潮重塑工业材料采购 - Digital Journal",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOENVWm4xVDdIR29ZZ0pBVTBjV1ZfUlAwQTQ1bGtjZ253Z2x5TndQcVJlUldwRm82MjJEQUtEQm80c2VtdVVKNzFteDFlbVZCMWd5VFFlc0JJRFdueTA0ZDBlU0tZRVFNSXl5OUZKSUJoSmNJYXNETUpaVm5aMlhRUUlua1N3a21sSVkwOW5oc3g3VE1jcGFuYzg0VElLaXFoaHcyc1dBZw?oc=5",
+    "time": 1787372261910,
+    "score": 6,
+    "summary": "AI infrastructure boom reshapes industrial materials procurement Digital Journal",
+    "source": "基建·矿产",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "软件没有理由再慢了",
+    "url": "https://danluu.com/perf-opt/",
+    "time": 1787372261910,
+    "score": 3,
+    "summary": "152 points · 135 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Rust Glancer：Rust LSP 使用的 RAM 减少了 100 倍",
+    "url": "https://rust-glancer.github.io/blog/hello-world/",
+    "time": 1787372261910,
+    "score": 3,
+    "summary": "71 points · 24 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "f/prompts.chat: F.K.A.很棒的 ChatGPT 提示。分享、发现并收集社区中的提示。免费和操作",
+    "url": "https://github.com/f/prompts.chat",
+    "time": 1787372261910,
+    "score": 3,
+    "summary": "⭐167.7k stars · HTML",
+    "source": "GitHub·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "OTel 进展不顺利（我为此制作了一个电子表格）",
+    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+    "time": 1787372261910,
+    "score": 3,
+    "summary": "59 points · 18 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "臭氧：错误不在我们的树木，而在我们自己",
+    "url": "https://www.science.org/content/blog-post/fault-not-our-trees-ourselves",
+    "time": 1787372261910,
+    "score": 3,
+    "summary": "12 points · 1 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "早期人类可能吃碳水化合物和含糖食物",
+    "url": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
+    "time": 1787372261910,
+    "score": 3,
+    "summary": "12 points · 10 comments",
     "source": "HackerNews",
     "region": "🇺🇸"
   }
