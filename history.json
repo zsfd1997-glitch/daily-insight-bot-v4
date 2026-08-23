@@ -1,158 +1,5 @@
 [
   {
-    "title": "新论文显示，2021 年至 2024 年期间，美国 37% 的工人实际工资下降 [pdf]",
-    "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
-    "time": 1787113347715,
-    "score": 4,
-    "summary": "302 points · 158 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Show HN：任何 HuggingFace 模型的交互式动画架构",
-    "url": "https://modelmap.cc",
-    "time": 1787113347715,
-    "score": 4,
-    "summary": "56 points · 7 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "通过公共层方程统一图神经网络",
-    "url": "https://huggingface.co/papers/2608.16097",
-    "time": 1787113347715,
-    "score": 4,
-    "summary": "图神经网络通常通过特定于族的方程来描述，其符号掩盖了共享计算...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "FreeToken：具有带宽自适应执行能力的高效边缘原生 MoE 服务",
-    "url": "https://huggingface.co/papers/2608.16157",
-    "time": 1787113347715,
-    "score": 4,
-    "summary": "前沿开放权重模型越来越可用，但为它们提供服务仍然很大程度上假设数据中心基础设施......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Embodied-Navigator：指向、思考、记忆和对齐以实现高效导航",
-    "url": "https://huggingface.co/papers/2608.17512",
-    "time": 1787113347715,
-    "score": 4,
-    "summary": "尽管大型视觉语言模型 (VLM) 具有显着先进的具体导航，但它们的直接部署...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "GS-Voxel：用于大规模 3DGS 生成的免拟合结构化潜在模型",
-    "url": "https://huggingface.co/papers/2608.17988",
-    "time": 1787113347715,
-    "score": 4,
-    "summary": "许多可扩展的潜在 3D 生成器在结构化张量上运行，而预先优化的 3D 高斯分布 (3DGS) 记录...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "AVA-Encoder：迈向代理原生视频表示学习",
-    "url": "https://huggingface.co/papers/2608.12313",
-    "time": 1787113347715,
-    "score": 4,
-    "summary": "创意人员仍然缺乏从高质量人类电影中学习的有效方法，限制了他们制作创意的能力……",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "StartupBench：根据市场验证的端到端工作流程对通用代理进行基准测试",
-    "url": "https://huggingface.co/papers/2608.17800",
-    "time": 1787113347715,
-    "score": 4,
-    "summary": "大型语言模型（LLM）和代理的最新进展极大地提高了人工智能系统执行...的能力",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "aDSL：通过联合代理程序设计进行代理 3D 创建",
-    "url": "https://huggingface.co/papers/2608.17975",
-    "time": 1787113347715,
-    "score": 4,
-    "summary": "程序化表示为 3D 内容创建提供了引人注目的范例，支持细粒度编辑、解释...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Meta 的重磅试验与大型烟草公司相似",
-    "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
-    "time": 1787113347715,
-    "score": 3,
-    "summary": "79 points · 51 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "开放逻辑",
-    "url": "https://openlogi.org/en",
-    "time": 1787113347715,
-    "score": 3,
-    "summary": "97 points · 25 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "大脑CS-4",
-    "url": "https://www.cerebras.ai/cs4",
-    "time": 1787113347715,
-    "score": 3,
-    "summary": "141 points · 89 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Palomar：精益验证数学的注册表",
-    "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-    "time": 1787113347715,
-    "score": 3,
-    "summary": "25 points · 1 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Solo – 静态 Linux 二进制文件的 .so 加载器",
-    "url": "https://github.com/pg83/solo",
-    "time": 1787113347715,
-    "score": 3,
-    "summary": "74 points · 75 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "科学家对超低排放区儿童肺部恢复情况感到震惊",
-    "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
-    "time": 1787113347715,
-    "score": 3,
-    "summary": "74 points · 40 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "CUDA 共享内存调配",
-    "url": "https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/",
-    "time": 1787113347715,
-    "score": 3,
-    "summary": "13 points · 0 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "克劳德·沃特马克",
-    "url": "https://www.producthunt.com/products/claude-watermark",
-    "time": 1787127477217,
-    "score": 103,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
     "title": "从 NuScale Power Stock 开始满足 AI 电力需求的核能股票 - Simplywall.st",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcEpDcTNmQWpvLXNpdVhKNjlzNjkzM2pCS3Ntdks1d2ZEb01RcjBqU0pOR3ZweGtRWGZVQ2lyNnRDdnl2cTRRR2NnQUp1WDFMZE5KZDJRWlNtS3h6cmpxOTBWXzRNa3BNd1NxUHBXU3lnOGloRmJkYUZuaGItOUZhRDZmT3pHaGtCYzhwQUtBeHpBQUw2UThTU2FpUVh5MXRLbmJYZzM4dngzX0N1QlRvS1hjU3VadS1pVE5BbW1pY3RQeFFjR1Qyd1J0TjIxa2hIYVVZTdIB1AFBVV95cUxOcEpDcTNmQWpvLXNpdVhKNjlzNjkzM2pCS3Ntdks1d2ZEb01RcjBqU0pOR3ZweGtRWGZVQ2lyNnRDdnl2cTRRR2NnQUp1WDFMZE5KZDJRWlNtS3h6cmpxOTBWXzRNa3BNd1NxUHBXU3lnOGloRmJkYUZuaGItOUZhRDZmT3pHaGtCYzhwQUtBeHpBQUw2UThTU2FpUVh5MXRLbmJYZzM4dngzX0N1QlRvS1hjU3VadS1pVE5BbW1pY3RQeFFjR1Qyd1J0TjIxa2hIYVVZTQ?oc=5",
     "time": 1787127477217,
@@ -8998,5 +8845,158 @@
     "summary": "",
     "source": "掘金·AI",
     "region": "🇨🇳"
+  },
+  {
+    "title": "TechCrunch Mobility：定制芯片推动 Waymo 机器人出租车的雄心",
+    "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+    "time": 1787515225887,
+    "score": 20,
+    "summary": "欢迎回到 TechCrunch Mobility——您获取关于交通未来的新闻和见解的中心中心...",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "2 股能源股因数据中心电力紧缩而受挫 - 环球邮报",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVzNCZXJnMEN0NGp1cllScWVoYTV5amt4LXgzODRTTGRtMTNFcTI0TTF3cUFXcTJLM1Q5SjR4Sms1bE9QdUd4NGp4Y0RoMURjQ0VFSnhhZG5PMzhfNjFoWE9vdXhYaTg5UkgwSjRuZ181ejRHOXR6b19mN05IMkVIZHpKZ1BfTExuMkV3M0I2dlRJTzdVaDlFX1plSDlHUFZrVnV5NmVQM29JYTVCNVhzQlREM2NyaXRRZWZDZTBGTm1RVDA2bDdKUWFRcDJ1QnJD?oc=5",
+    "time": 1787515225887,
+    "score": 11,
+    "summary": "2 Energy Stocks Riding the Data Center Power Crunch The Globe and Mail",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "2只能源股乘着数据中心电力紧缩之势 - Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbHVxVkZoMWw4bVZHOXNOclFqaFVxeTJVUXBNcV9HajBRTlpXYi1YQ0JuakR6VnBQY2VlYl8tWWU2b3JGY0lxT01UcWxxMXdLOTdsTWVFcWZTT3g3bHNCaXZjXzV4bU5QQlp3OGNLUXpTMVZScE1xUGNqZEtyNndTR0JXeS1vLTVBZldMOVZCVHhxS2RYNWFLVA?oc=5",
+    "time": 1787515225887,
+    "score": 10,
+    "summary": "2 Energy Stocks Riding the Data Center Power Crunch The Motley Fool",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "值得购买的 2 只核股以及每只股票需要做什么 - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zVmhrcFd6R3JVcXB4d01GVWNsQ1ViR084b0ZGUHYwQzN2YURUS2xRRzhqWnIySm0zNWhtSGVodDliWEdDSTZ3UTFfQlVOTVplYkRUb0hQenR0NGhITnVEVGxqWEQteWVVTVVFNGlnSFhkMTVuRUw0?oc=5",
+    "time": 1787515225887,
+    "score": 10,
+    "summary": "2 Nuclear Stocks to Buy and What Each One Needs to Go Right AOL.com",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Uber 称其拥有推动电动汽车充电增长的“超能力” - InsideEVs",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55ZnVFb2oyTzlTRlBCN1hmclR2NXNoOTBlVUZsMGdQVHo1RDBMX1BBdlh2ejBVZEtDZlhCdEpUNDN4eG4tZ3A0Z3RJZ0NvV2NUTFFTLWN0ZTVzWHBVa1dLVVN1aU9OV01MTXNGVjFyYWVvNHA2WDhzaQ?oc=5",
+    "time": 1787515225887,
+    "score": 10,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "雅培称德克萨斯州数据中心“自掘坟墓” - 新闻周刊",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa1lpUHFpX3RjNzJKSWtGMklTN01aSFZxYVpyMDlPemRPOEt6MDB6SFNISkxVR0I5bkdobmRYeEVVaGc3UG5YNEhid21XSzBfaklBUmRnckFIeUg3cVhOZGZkSFRKUklKb2lNNjJCdVJ0eUJnaHRPUTdoZnZabDJEVXFsVndvSzltaTc2TzdxWXp5TzkzOTFieg?oc=5",
+    "time": 1787515225887,
+    "score": 6,
+    "summary": "Abbott says data centers \"dug their own grave\" in Texas Newsweek",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "铀 ETF 暴跌 30%，而人工智能电力需求不断打破记录 - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yRkJOdlh3ZEhOTW5GME1ZdjZ6bkxmajY4TllmTFoyaUJKWDFUNVpuUDJ6LUZYOV9ZVmdmS3poV05CUTdVWjgwZDIxTkNNRUZQbWNXLWVOa3hvTVFOb0thdlppOVBUamE1aXpsdmVHOUZhMjVDdXBtVFFEVi0?oc=5",
+    "time": 1787515225887,
+    "score": 6,
+    "summary": "Uranium ETFs Just Crashed 30 Percent While AI Power Demand Keeps Breaking Record...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Uber 因自动驾驶司机停职而面临近 10 亿美元的罚款",
+    "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+    "time": 1787515225887,
+    "score": 5,
+    "summary": "荷兰数据保护局对 Uber 处以 8.25 亿欧元罚款，这是有史以来第二大罚款。",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "关键矿物蕴藏巨大潜力 - 马尼拉时报",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnNFRmZNeXFxMjBqMF9HSWp0M1pCdy16Q2h2dzZ0MmQ0UGJJbmZNTmR1VlR5cGliTjYyamZuVDVVd25UMEVDUnhVbEc3NllSUTYxbGxXTWU1TlRydlNydkN5SzVxWGMzWHA0Z2dNbURPcWp0NnVTOWJjRXN4WGhwSlBpZGpaYkRPQkEteEd4RjV1Zmc3a2R0bU9KUUltUUxvRjJhVktHZ9IBrAFBVV95cUxNdjllUUhXSUs0ak01UzgyUHd2aFowazBKYVdKclRqZDZxb0lqLTFvYksyazMtcWROVVBJWDRaWFJtNHpJbUNMRFliam9jTk04OVVVSlRRSC1xMVdFa1lmaGFBRXFycTFqY19DUGZwbmZYU3ZDYlh1S0x0V2NsQmVMbG9CYng3VFZGVGhmVG5fUm9OdDJMampjdGd5ZnczazQyVGxTSU1pUzc4ZWdf?oc=5",
+    "time": 1787515225887,
+    "score": 5,
+    "summary": "Critical minerals offer a big potential The Manila Times",
+    "source": "基建·矿产",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "像我十岁一样向我解释一下",
+    "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+    "time": 1787515225887,
+    "score": 4,
+    "summary": "18 points · 13 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "一个提供已发布的开源替代品的网站",
+    "url": "https://debloat.dev/",
+    "time": 1787515225887,
+    "score": 3,
+    "summary": "116 points · 56 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "作为一名高级工程师，我如何找到需要解决的问题",
+    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+    "time": 1787515225887,
+    "score": 3,
+    "summary": "15 points · 5 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "为什么萨尔·汗不这样做：论通过制作来学习，通过讲述来教学",
+    "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+    "time": 1787515225887,
+    "score": 3,
+    "summary": "72 points · 44 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "在发动机测试中，椰子油喷气燃料的效率与煤油相当",
+    "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
+    "time": 1787515225887,
+    "score": 3,
+    "summary": "94 points · 85 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "寓言与免费午餐的终结",
+    "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+    "time": 1787515225887,
+    "score": 3,
+    "summary": "14 points · 1 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "氛围税",
+    "url": "https://insufferable.dev/posts/vibe-tax/",
+    "time": 1787515225887,
+    "score": 3,
+    "summary": "8 points · 2 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "超过 17 万个非营利组织丢失了所有数据。微软该受责备吗？",
+    "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+    "time": 1787515225887,
+    "score": 3,
+    "summary": "36 points · 8 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
   }
 ]
