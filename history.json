@@ -1,158 +1,5 @@
 [
   {
-    "title": "西红柿、土豆和洋葱：质疑人脸呈现攻击检测中人脸的必要性",
-    "url": "https://huggingface.co/papers/2608.21455",
-    "time": 1787660236926,
-    "score": 9,
-    "summary": "人脸呈现攻击检测 (PAD) 传统上被表述为特定于人脸的问题，尽管许多人...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "EXPL-FR：通过视觉语言对齐解释人脸识别模型",
-    "url": "https://huggingface.co/papers/2608.21486",
-    "time": 1787660236926,
-    "score": 6,
-    "summary": "深度人脸识别（FR）模型达到了接近饱和的精度，但仍然不透明：从业者无法询问哪个语义......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "德国加入有兴趣勘探巴西关键矿产潜力的国家行列 - BNamericas",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc0oxa3ZPNFpmZi1kbVZlOEh1U0ZwUTJuZXJDbWVMXzRwOUdMQlYyZVBkWUdJSFRWVU1CS3pieDFLWjdVV0pvMTFhQ0JUclFxSl9XX1lmRFdlei0yUnkzRUs0YU5jd09EMzNld2phejYxYmFTaHB1andCMVV4clFkbC04aHY1TnVRR21uZFlvdkhQZEtaOHJsSjlDVm9oMDNHNGxwRHZSeVJfam80RGxGUzNKSmhoZGdtTW8yYjdzanBnTFVwSEFkdA?oc=5",
-    "time": 1787660236926,
-    "score": 5,
-    "summary": "Germany joins the list of countries interested in exploring Brazil’s critical mi...",
-    "source": "基建·矿产",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "WorldToken：用于机器人模仿学习的时间优先序列建模",
-    "url": "https://huggingface.co/papers/2608.22591",
-    "time": 1787660236926,
-    "score": 5,
-    "summary": "机器人策略在每个决策步骤接收异构观察，但序列模型在组织方式上有所不同......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "工业指令：用于根据工业技术报告构建指令调优和基准数据集的端到端框架",
-    "url": "https://huggingface.co/papers/2608.22817",
-    "time": 1787660236926,
-    "score": 5,
-    "summary": "工业技术报告包含维护、故障排除和产品工程的高价值知识，但是......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Jotform人工智能数据助手",
-    "url": "https://www.producthunt.com/products/jotform",
-    "time": 1787660236926,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "忍者AI",
-    "url": "https://www.producthunt.com/products/ninjo-ai",
-    "time": 1787660236926,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "AutoResearch：洞察，消除幻觉",
-    "url": "https://huggingface.co/papers/2608.17906",
-    "time": 1787660236926,
-    "score": 4,
-    "summary": "自主研究系统执行长时间研究工作流程的能力越来越强，但仅靠自动化并不能...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "量化感知修复：恢复压缩的 4 位 LLM 的实用方法",
-    "url": "https://huggingface.co/papers/2608.20953",
-    "time": 1787660236926,
-    "score": 4,
-    "summary": "廉价地提供大型语言模型越来越意味着交付模型在结构上被压缩为分形......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "混合量子启发的柯尔莫哥洛夫-阿诺德网络用于隐私感知联合生物信号学习",
-    "url": "https://huggingface.co/papers/2608.13914",
-    "time": 1787660236926,
-    "score": 4,
-    "summary": "心电图 (ECG) 记录是敏感的生物医学数据，限制了医院和可穿戴设备的能力......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "迈向十亿级容量的用户表示学习的致密法则",
-    "url": "https://huggingface.co/papers/2608.23392",
-    "time": 1787660236926,
-    "score": 4,
-    "summary": "现实世界工业场景中的用户表示学习通常通过增加用户数量、行为来扩展......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "NousResearch/hermes-agent: 与您共同成长的代理商",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "time": 1787660236926,
-    "score": 3,
-    "summary": "⭐236.2k stars · Python",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "我不知道",
-    "url": "https://www.producthunt.com/products/inquio",
-    "time": 1787660236926,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "阿克塔专业版",
-    "url": "https://www.producthunt.com/products/akta-pro",
-    "time": 1787660236926,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "hiyouga/LlamaFactory: 100多个LLM和VLM的统一高效微调（ACL 2024）",
-    "url": "https://github.com/hiyouga/LlamaFactory",
-    "time": 1787660236926,
-    "score": 3,
-    "summary": "⭐74.3k stars · Python",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "信用卡奖励成为 $9.2B 财富转移",
-    "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
-    "time": 1787660236926,
-    "score": 3,
-    "summary": "58 points · 41 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "量子电池颠覆充电规则",
-    "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
-    "time": 1787660236926,
-    "score": 3,
-    "summary": "34 points · 29 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
     "title": "whoisthegoat.lol",
     "url": "https://www.producthunt.com/products/whoisthegoat-lol",
     "time": 1787660236926,
@@ -8998,5 +8845,158 @@
     "summary": "",
     "source": "掘金·AI",
     "region": "🇨🇳"
+  },
+  {
+    "title": "不是英伟达。不是AMD。这家半导体巨头将成为人工智能（AI）硬件竞赛的最终赢家。 - 雅虎财经",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWJ4dGZtY3JEb2tVVU00Z0pqNFdIaHprUmQzal9rdUJnOUdFTDMtRTN3a3FRX2ctdjJEbmEwMnRMblBrTXYwS1ByaUR0NXBCaXgwd3RSOWRlb1hwa0VmWkFQaXV0SGJYWjhuSjRhX3NSNm1MR3ZKdmExVzhxd3pfeUt0MjA3REcyWXpXZnVZODJGVzgwOHJjaVlCMTQ?oc=5",
+    "time": 1788140424074,
+    "score": 121,
+    "summary": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Grayson Brulte：特斯拉推出的 Cyber​​cab 不会给人留下深刻印象，PACCAR 正在“榨取”其淘汰之路 - Finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtSjE1clFuQVpLM1ZhTm9lUGk0YjRxUlRTMFZFMjBPcG9YcG5VWFF5M2NQV1liZGJaanJZSGR6TU1YWFRiYVdfdTFEQUFpeUhmWXlIc0hybzN6OFk?oc=5",
+    "time": 1788140424074,
+    "score": 20,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "AI产能已满：台积电传全线涨价10%至15%",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tbVFELTZYcFNJTW92VUhHZjFwMlFTMi1RNHhoaGtJZTg3NTVzWWYzVk1UUjJHUGtnRGszc0ZjNVJtSUJ2dzN4b2l0SmY5emQydDBtb1ZpZ21PZ2lZUWNhZWIyUnBfb0RRNE1fR2VBaWdzQjVselE?oc=5",
+    "time": 1788140424074,
+    "score": 12,
+    "summary": "AI Capacity Fully Booked: TSMC Reportedly Raising Prices Across the Board by 10%...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "美国动员三大科技巨头前往非洲第二富裕经济体，对抗中国华为建设2008芯片人工智能数据中心 - 非洲商业内幕",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOFpBaUhWbGJoRnpmWi16cFZvby1XUUhleUtEUDNQdlNRZnlRS2tMTjRfQWRXNy1JS1RnbS1Yek9wV3lHbnNvNlhYNmx2M19rbVZfZVBXQ2RhVW0tdVJpeWM0NDJFNUhoSURXRzVwQkljajZPSjR6WlhweTFvUHhxS1dUd3BxV0l0amlMeVM1MjZGNDZpNkpuUW1LRVZuWGtGcy15OG12MXl5V2IwWkpRZ3laVGxsVzNVUUlMeXVZZGV5OHhEb2loRkF4dWIzWUUyLW5hUHYwdzZrUQ?oc=5",
+    "time": 1788140424074,
+    "score": 11,
+    "summary": "America mobilises 3 powerful tech giants to Africa’s second-richest economy to c...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "TechCrunch Mobility：机器人出租车隐藏的人力成本",
+    "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+    "time": 1788140424074,
+    "score": 10,
+    "summary": "欢迎回到 TechCrunch Mobility，这里是您未来交通运输的中心，现在，不仅仅是……",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "美国陆军将花费 2.2B 美元购买军事基地的核微反应器 - 今日原油价格石油价格网",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd0dkUU8wZGxBNFpaTFZudnJHbnhrdWJCMlFrZ0xOVExPaGVYelJGNFJMaDJmRzJkYUZ5X2wwMURCcXJzeGJLcE1jakp4VW4yQl9XN1U2RWdLVzlVZ1NScWNiZnJiODE0UlRxWm9STHhoaW1HSVRFaGE4RDNJM19IeUt4UUZFVE8ycjdJcDNTaFl6VU1LMFRZbUZ4ck1JWjEyUU5CcmlPVU5wbjZiOEZkNV94SmdrSWYwR092cWxFXzFjM2g30gHEAUFVX3lxTE93R2RRTzBkbEE0WlpMVm52ckdueGt1YkIyUWtnTE5UTE9oZVh6UkY0UkxoMmZHMmRhRnlfbDAxREJxcnN4YktwTWNqSnhVbjJCX1c3VTZFZ0tXOVVnU1JxY2JmcmI4MTRSVHFab1JMeGhpbUdJVEVoYThEM0kzX0h5S3hRRkVUTzJyN0lwM1NoWXpVTUswVFltRnhyTUlaMTJRTkJyaU9VTnBuNmI4RmQ1X3hKZ2tJZjBHT3ZxbEVfMWMzaDc?oc=5",
+    "time": 1788140424074,
+    "score": 10,
+    "summary": "U.S. Army To Spend $2.2B On Nuclear Microreactors At Military Bases Crude Oil Pr...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "通用汽车电动汽车的制动问题受到更严格的联邦审查",
+    "url": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
+    "time": 1788140424074,
+    "score": 10,
+    "summary": "在一次事故中，一辆 2024 Blazer EV 的司机表示，他们必须“故意将车辆转向......",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Relm4 使开发漂亮的跨平台应用程序成为习惯",
+    "url": "https://relm4.org/",
+    "time": 1788140424074,
+    "score": 8,
+    "summary": "12 points · 7 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Qcells 和微软深化美国太阳能合作伙伴关系，支持人工智能基础设施不断增长的电力需求 - Energies Media",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40NnYtc0VjZzRLdmIya2lnYWtNZnNhOEtfNndSaDhCSlQ3R3hNanZWZ3NZd2tWVk1DUmxCV0NLbVBfczVEYzBuLUlRdTdjd1FWNkpucDFYMEc1bmgzSklxY1NqdlF2SVBlcjMxaUdMaGJVaHNYcHJZ?oc=5",
+    "time": 1788140424074,
+    "score": 6,
+    "summary": "Qcells and Microsoft deepen their U.S. solar partnership to support growing elec...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "特拉华州为数据中心制定严格的清洁能源要求 - RTO Insider",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORy02OGlFY2ZrakRpdU5Cb1VweUd4MnlIN2VYNk1RVzNieDRIUmplMUo5aWZvemprb1B2Qk44YjJlN0JzdnlBeGYzRUZsTEw5U2dvaW1QcEFwR2JPZHpPMEVjU1Y4djh0cVpuTmRoUk0xRzctT3BrMW15cy13eklHSUtiMmExYTNCaDdFbVByRUtwM1ZZOWtESGp2SQ?oc=5",
+    "time": 1788140424074,
+    "score": 5,
+    "summary": "Delaware Enacts Strict Clean Power Requirements for Data Centers RTO Insider",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "mudler/LocalAI: LocalAI 是开源人工智能引擎。在任何设备上运行任何模型 - 法学硕士、视觉、语音、图像、视频",
+    "url": "https://github.com/mudler/LocalAI",
+    "time": 1788140424074,
+    "score": 5,
+    "summary": "⭐48.8k stars · Go",
+    "source": "GitHub·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "NRC 为欧安诺位于橡树岭的价值 50 亿美元的铀浓缩设施开启为期 60 天的公开听证会 - Energies Media",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6cmtiNE1ELTdBbkcxc2tqaVlvenVGQW5aVFBDZm1RWU5DUkh0QWs2MnJ5TE9WMHZqNlJkaVB6WlZfWUt6N2JFd2RuVE53eF9HbDdNMXZaQWdwRDZQbE1ac2ZKWllCbGo4Qjl2UHVEVU5hVmFQZHdB?oc=5",
+    "time": 1788140424074,
+    "score": 5,
+    "summary": "NRC opens 60-day public hearing window for Orano's $5 billion uranium enrichment...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "市售自行车发电机不可持续 (2011)",
+    "url": "https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/",
+    "time": 1788140424074,
+    "score": 4,
+    "summary": "25 points · 17 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "日元兑美元汇率跌破 160 日元，削弱干预收益",
+    "url": "https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/",
+    "time": 1788140424074,
+    "score": 4,
+    "summary": "31 points · 26 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "“我只是仔细选词”",
+    "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+    "time": 1788140424074,
+    "score": 3,
+    "summary": "260 points · 70 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "启动反模式",
+    "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
+    "time": 1788140424074,
+    "score": 3,
+    "summary": "78 points · 38 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "rohitg00/ai-engineering-from-scratch: 学习它。建造它。寄给别人。",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "time": 1788140424074,
+    "score": 3,
+    "summary": "⭐51.3k stars · Python",
+    "source": "GitHub·AI",
+    "region": "🇺🇸"
   }
 ]
