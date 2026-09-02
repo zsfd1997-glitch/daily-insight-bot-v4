@@ -1,266 +1,5 @@
 [
   {
-    "title": "AI 工程师笔记本 – Colab 上免费、无框架的 RAG/代理/评估",
-    "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-    "time": 1787889134756,
-    "score": 9,
-    "summary": "62 points · 6 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "CaSKG：用于可扩展代理技能检索的反事实因果技能图",
-    "url": "https://huggingface.co/papers/2608.25500",
-    "time": 1787889134756,
-    "score": 9,
-    "summary": "可重用的技能库允许大型语言模型（LLM）代理跨任务重用程序知识，但它们...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "WikiSkill：将代理经验编译为技​​能进化的持久知识",
-    "url": "https://huggingface.co/papers/2608.27454",
-    "time": 1787889134756,
-    "score": 9,
-    "summary": "代理技能将专业知识和工作流程打包成可重复使用的资源，从而扩展人工智能代理的功能。接收...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "了解 LLM 推理的演变策略：比 GRPO 更广泛的推理覆盖范围",
-    "url": "https://huggingface.co/papers/2608.27351",
-    "time": 1787889134756,
-    "score": 9,
-    "summary": "进化策略（ES）最近作为一种用于法学硕士推理的记忆有效的训练后范例而出现。然而，...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "GLM-5.3-Flash 发布：追平 Opus 4.8 的智力，1/40 的价格，跑在国产芯片上",
-    "url": "https://juejin.cn/post/7678214547980582952",
-    "time": 1787889134756,
-    "score": 8,
-    "summary": "",
-    "source": "掘金·AI",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "最终",
-    "url": "https://www.producthunt.com/products/eventually-3",
-    "time": 1787889134756,
-    "score": 8,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "随着市场代理商的进步，SPS Commerce AI 网络处理的 GMV 达到 650B 美元 - Streetwise Reports",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN3pTMGFBY3FaYnQxdUJaNkhfTXg3Z21BS0EtRmpaNGwxN05mT0lKZGtSYmtPNkp0STFKUUNhRUpPV0JfZm1nR2htQjZieGVhRzFvZkJ5dGxrcVByYkhRSi1QT2ZZY19PVHZGVGhVeXEtYWVlNjNSa0FiX1FIVXA4YWRSYzZxZEFKTEhiTHpFMEd4OTlyclUyRWFyV3ZRUGxtZlJ0TUIxM19aSFBCcVpST0pHa1RkQzlSYkVEclVNUFE5aXVmdUhj?oc=5",
-    "time": 1787889134756,
-    "score": 7,
-    "summary": "SPS Commerce AI Network Handles $650B GMV as Marketplace Agents Advance Streetwi...",
-    "source": "基建·矿产",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "国际团队概述了矿产供应链的研究议程 - 西北大学",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQlQydVZyX042YkRNN0xmcWRZcm94NGEwd0lYRjN5dEl6d2J3Nm1PamhXRTIzQlFKdmZTc1lnZlVBZDB6Tks4MndYM2ZfVHkzODUzSmNtN05yVlhJVGNqc205bTJIcXAzX3NhNEQycUNNRnJlY2Fob25mbVNvR1lCZWtCckpxanBZWWpjSTNMZDNLQm1ra0tON1BkZDVzLUhlRlk2cG5KOHl1czhlcWRISWZzcGt1emE4ak9sZU9CbEk3QS1oaEZCU2ZGOA?oc=5",
-    "time": 1787889134756,
-    "score": 6,
-    "summary": "International Team Outlines Research Agenda for Mineral Supply Chains Northweste...",
-    "source": "基建·矿产",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "喂养机器：人工智能时代的铀 - 澳大利亚股票",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55ZW5mblEtWXN1cl9GQmJlWGU4QnFrcVVjMC1OYVN3cThIeG1BMDlSd1o1QWRNV2RFYWRwNEp4bEJvVjJKUHpVLU95c1U5bThnVWxIdVdJaWZWbTdnOWMzVE5fQQ?oc=5",
-    "time": 1787889134756,
-    "score": 6,
-    "summary": "Feeding the Machines: Uranium in the Age of AI Stocks Down Under",
-    "source": "基建·能源",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "PAWBench：我们距离概率对齐世界建模还有多远？",
-    "url": "https://huggingface.co/papers/2608.27345",
-    "time": 1787889134756,
-    "score": 5,
-    "summary": "最近的视频生成模型越来越多地被视为世界模型。许多物理过程可以在超过......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "零 WAM：基于人类视频的上下文世界动作建模，用于开放式任务泛化",
-    "url": "https://huggingface.co/papers/2608.26103",
-    "time": 1787889134756,
-    "score": 5,
-    "summary": "零样本跨任务泛化，即策略必须执行训练期间从未见过的操作任务，仍然......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Self-OPD：无教师的流匹配模型的在策略蒸馏",
-    "url": "https://huggingface.co/papers/2608.26872",
-    "time": 1787889134756,
-    "score": 5,
-    "summary": "在政策蒸馏 (OPD)，它利用预先训练的专业教师模型来提供密集的监督标志...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "GUI 基元：诊断视觉语言 GUI 基础中的空间推理失败",
-    "url": "https://huggingface.co/papers/2608.21832",
-    "time": 1787889134756,
-    "score": 5,
-    "summary": "计算机使用代理根据屏幕截图中的自然语言指令来定位界面元素，但现有的工作台......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "TTPO：测试时策略优化",
-    "url": "https://huggingface.co/papers/2608.27448",
-    "time": 1787889134756,
-    "score": 4,
-    "summary": "最近著名的后训练方法，例如强化学习（RL）和策略自蒸馏（OPSD），...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Show HN：我们构建了开放的 OpenRouter，将使用转变为更好的模型",
-    "url": "https://github.com/experientiallabs/experiential",
-    "time": 1787889134756,
-    "score": 4,
-    "summary": "127 points · 21 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Aphanta：诊断任务对齐的图像编辑中间体以进行多模态推理",
-    "url": "https://huggingface.co/papers/2608.26993",
-    "time": 1787889134756,
-    "score": 4,
-    "summary": "显式视觉中间体可以帮助多模态大语言模型 (MLLM) 外部化空间证据并更新......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "CaRGo-T：因果推理思维图提高多模态幽默理解",
-    "url": "https://huggingface.co/papers/2608.23172",
-    "time": 1787889134756,
-    "score": 4,
-    "summary": "大规模视觉语言模型（VLM）在广泛的多模态任务中表现出了卓越的多功能性...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "UrbanGround：从本地感知到真实规模城市的空间代理",
-    "url": "https://huggingface.co/papers/2608.27456",
-    "time": 1787889134756,
-    "score": 4,
-    "summary": "多模态大语言模型（MLLM）可以解释街景，但城市能动性取决于此类本地事件是否...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Magpie：互动游戏的实时世界渲染器",
-    "url": "https://huggingface.co/papers/2608.27168",
-    "time": 1787889134756,
-    "score": 4,
-    "summary": "现代游戏开发严重依赖传统的图形管道。高质量的视觉内容需要建模......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "什么是好的代理数据？ LLM 代理数据生成的 ACE 视角",
-    "url": "https://huggingface.co/papers/2608.27260",
-    "time": 1787889134756,
-    "score": 4,
-    "summary": "LLM 代理越来越依赖生成的交互数据来学习如何与外部环境交互。代理...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Show HN：OpenTIE 和 OpenXWA，Tie Fighter 和 X-Wing Alliance 的现代移植",
-    "url": "https://github.com/elyosh/OpenTIE/",
-    "time": 1787889134756,
-    "score": 3,
-    "summary": "93 points · 21 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "firecrawl/firecrawl: 用于大规模搜索、抓取和与网络交互的上下文 API。 🔥",
-    "url": "https://github.com/firecrawl/firecrawl",
-    "time": 1787889134756,
-    "score": 3,
-    "summary": "⭐173.3k stars · TypeScript",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "GoGoGrandparent (YC S16) 正在招聘后端工程师",
-    "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
-    "time": 1787889134756,
-    "score": 3,
-    "summary": "1 points · 0 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "langchain-ai/langchain: 代理工程平台。",
-    "url": "https://github.com/langchain-ai/langchain",
-    "time": 1787889134756,
-    "score": 3,
-    "summary": "⭐145.2k stars · Python",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "从 Internet.blogposts 中选择 *",
-    "url": "https://pfrazee.leaflet.pub/3mu3p2smmis22",
-    "time": 1787889134756,
-    "score": 3,
-    "summary": "58 points · 21 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "可引导构建：如何以及为何",
-    "url": "https://lwn.net/Articles/1088279/",
-    "time": 1787889134756,
-    "score": 3,
-    "summary": "5 points · 0 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "克拉2.0",
-    "url": "https://www.producthunt.com/products/kraa",
-    "time": 1787889134756,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "钴",
-    "url": "https://www.producthunt.com/products/cobalt-10",
-    "time": 1787889134756,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "无独有偶",
-    "url": "https://www.producthunt.com/products/sendra",
-    "time": 1787889134756,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
     "title": "我拿 4 个真实前端任务试了 GLM-5.3 Flash：代码一遍跑通，账单 4 分钱",
     "url": "https://juejin.cn/post/7678531174247874586",
     "time": 1787889134756,
@@ -8997,6 +8736,267 @@
     "score": 3,
     "summary": "讨论 |关联",
     "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "INTC、AMD、AVGO：Nvidia 发布井喷报告后芯片股盘前上涨 - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQUU4dTZXYndUX2YwZlZ6VmR6d3JoV2dDbE1XR1FKS0p2YTZScmlIclZkTUxxb0paRW00TEgwVlE1Qk5hT3BnM3J4eVZqVDBpZ3o1blFiYTQ5M2t3OTlJU3pud01kVlJYQzFVaF82a2xfWXRfM2R2MzBVRDczX0pnRkpPZ3dpam03QlhibkliRnQ3NWhJU25VM0d1bVlvSm02bjJaV2pjZlJwTUpVVnZCMHRxYjFFd2Q2RXRNOFl3ZkItc0llS0JKR2dVN1VORDg?oc=5",
+    "time": 1788375526429,
+    "score": 116,
+    "summary": "INTC, AMD, AVGO: Chip Stocks Jump Premarket After Nvidia's Blowout Report Stockt...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "美国政府在对法学硕士进行版权材料培训问题上支持 OpenAI",
+    "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "time": 1788375526429,
+    "score": 106,
+    "summary": "“美国对继续开发强大且有竞争力的人工智能有着浓厚的兴趣......",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "一个数字告诉我 Nvidia 的股价可能会更高 - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcHFRaU00cC1aZGZMTDFYYWc3Zi1tUXVCdnBnZ2x0NFFQMFA3MnZyTXVKeWtXanhJRlFxczE1UHNQUVNwalBxYk5aQWRLSGZGdl9hOEQwME0yVFg4NGVVV2JKNk9YRGpWd1Z6Q0xwWUR1SXFHX2J3UXhIVjUtQUpxRk1UVnhpdU1qTE1JZy05YmE4U1RIR2Q4a2NFYkxLZw?oc=5",
+    "time": 1788375526429,
+    "score": 105,
+    "summary": "One Number Tells Me Nvidia Stock Could Go Much Higher 24/7 Wall St.",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Gemini 3.8 Flash 和 3.8 Flash Cyber",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "time": 1788375526429,
+    "score": 103,
+    "summary": "541 points · 331 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "OpenAI 断供 Cursor：这不是商业决定，是战争行为",
+    "url": "https://juejin.cn/post/7679222800792338483",
+    "time": 1788375526429,
+    "score": 103,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "特斯拉在发布活动前为其德克萨斯州机器人出租车车队增加了网络出租车 - InsideEVs",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IVGN5N1VEV0xwNlpSZjVmNHZqZWhnOGx4NS1zeDNCZ1pDNUduUHo0dk1pUDdlWFJUTC1WWUVTUGZ0b0JSZndHa25YYTFHQTBNTzhXYXlQWjRDOHV4X084ZU1yaTUzYTh1TGx2T0dMeVpxc0ZZOUZla0lHMDk?oc=5",
+    "time": 1788375526429,
+    "score": 30,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Waymo 在坦帕向公众推出首款机器人出租车 - wtsp.com",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOFlDZHRiVk4xWWw2YkZKTGJyajZpSTl1dXpIVEVlSklnZGw5Yks0eGlZbFNuUTVCU3haVE1aQkkxVl92QllQMktVSHp0aG1nb2VBX0xpaElPc3ZsRVVldTV4ZS1HQjJCTUNwZEQtdy1OU3JLVHAxa0NrNGFCNk02c0MwMFhoVWdSZ0V3Q3dGT1ZaNlF4WlJXaVhjcUVtWllSN2dleDdRNURnZWtDMTdhQnBob2ZMOXRwS3RaeVR2Zk45UG5OOWhNaVllVndfeHhsVlpSSV81NW1jTWthNTNZeg?oc=5",
+    "time": 1788375526429,
+    "score": 25,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "扭伤、疼痛和扭伤：Waymo 和 Zoox 测试驾驶员因机器人出租车规模而受伤",
+    "url": "https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/",
+    "time": 1788375526429,
+    "score": 16,
+    "summary": "Waymo 和 Zoox 的测试驾驶员在 2024 年和 2025 年因硬伤而受伤。",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "随着竞争的加剧，亚马逊的 Zoox 和 Alphabet 的 Waymo 扩大了 Robotaxi 的覆盖范围 - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTZHX2oyQzNMaXZYSmpfTWgyQ2QyZjJOcWdSNWJUU05GWmx4NlFRZUxhMl8xLTVTRV9BYVhLMEVYZXFpeXFIVkhfTjNxbTMweG1RWDllcTRKcTNfanlLbGlhUVFjd1ZsdUZnZ1Y2ZHdKSW93aWZKWUFYNkF2X0k3N05pRFNUclVpTTRKSnI2SlVvYjBhLWFySDAxdnJrS2t4OTdpSEc0NA?oc=5",
+    "time": 1788375526429,
+    "score": 15,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "预测：AMD 将在 2030 年加入 2 万亿美元俱乐部，市场将实现历史性增长 - 环球邮报",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVC1zcXZTaWFpeG94OVQxaWhQbkdJX2Iwc1VVbmNsNl9SV0J5NXZTOWxTVlhPNEJKTndkcEJ1dVlibUNOWUpqTHRDOV9meTJIVExJZUVjTzhaTjZDRU5JQUZ5MVpodlZPd2hvVWM3czVjZU1zMmRseXdsM0JHaFo5S3FKcXU4SEU0NWtqNFgwa19KZnR5UE5rcHRTTzNpTFJRell3QnBlTVpwMFN6QmlPREUzY1c5TmF2MzFwNXc1Y08wZ1VhcWJrTThyeGxkdzI5ZDk4dHJsTUN2N2JNc3ZmSU94NUR5c2g0ODJaYXhTRnE3YTIxZlR0c0sxbHlad3oxWkg4OA?oc=5",
+    "time": 1788375526429,
+    "score": 11,
+    "summary": "Prediction: AMD Will Join the $2 Trillion Club in 2030 Amid Historic Growth in T...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "为数据中心供电的私人天然气厂将绕过该州的可再生能源法 - 这就是里诺",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Nam13M2ZoR0JvRFZ0NkJWejJDVU1VNmxqTF9YZDBoYWtuZUt6LVBRMTBtMmVLT1NTMDQzempmZjh2d012ZTdfYWZTektXWElDNk5pdHJCa1NGNVczTzEyWm1pWE5UV3p5YkVGcg?oc=5",
+    "time": 1788375526429,
+    "score": 11,
+    "summary": "Private gas plants to power data centers would skirt state’s renewable energy la...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "One Nuclear 签署路易斯安那州数据中心园区 2.88 吉瓦燃气发电厂和大型 BESS 协议 - POWER Magazine",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdE9pQlVNVVhlVXFzQm45U2VTX1JYREVxY0RBTEhkVWdFUmxkVzZ6cWh2dklNVHRFeUY1MXY3NV9qWmUzNWtyQzVNWmpBN1N2ZVZvbW5YV3pNUzBCOXc4cjZIVF8wNFJrWUJyZ0NKS08wajJxRlRFdHNrVzJ0QzNSb1JkLTZIaUhrQkhwbmZ1SnFHTHZqSmc0bjhBM0E4TUNPUUtZVnhJOUJLOThyMmFRdlFoZWZzNHREdTNhUg?oc=5",
+    "time": 1788375526429,
+    "score": 10,
+    "summary": "One Nuclear Signs Deal for 2.88-GW Gas-Fired Plant, Large BESS for Louisiana Dat...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "探索数据中心的繁荣 - Berks Community Television",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBY2NCRWFFWVg3bnEyRUZqOENERGRQckd0UUZQbFNuajVPSzRZQ0xwcnZMRHV0MmxRYnNjOElNU1hoVEZmSmYyaFl0cUVVYkpPbXFRQkJoUXBMUy05Q3k1ZmQta3ZvWHdja2tOZi1yX1Q?oc=5",
+    "time": 1788375526429,
+    "score": 10,
+    "summary": "Exploring the Data Center Boom Berks Community Television",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "AgentJudgeBench：评估法学硕士法官代理工具调用的多难度基准",
+    "url": "https://huggingface.co/papers/2608.26623",
+    "time": 1788375526429,
+    "score": 9,
+    "summary": "LLM 法官广泛用于评估代理工具调用系统，但它们在结构化、依赖驱动方面的可靠性......",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "SteamdDB 加入 Nexus Mods",
+    "url": "https://www.nexusmods.com/news/15597",
+    "time": 1788375526429,
+    "score": 8,
+    "summary": "54 points · 24 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Pangram 的 Max Spero 解释了为什么人工智能检测比“真假”更难",
+    "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "time": 1788375526429,
+    "score": 6,
+    "summary": "互联网存在信任问题，这不仅仅是因为社交媒体上充斥着……",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Cathie Wood 最新人工智能股票走势的主要见解 - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXhrN2c1YXF0clNOV2NMQnEteUJTVlZIbGFYUDFBWk5lc1RyQVFwM3hxWV9FVWpBRk5HQUhFajlfaXZQUzlGMXBkRWJBa0tVUjlDdUQ0ZG1OVmZFYkFzdS1jeEMxVVdfNkJ0YVJpYlg0NUM1WUpnSWxPcXNCNkRKWG5Dc3FGaDdqZ0duREVpWUZRZi10VmZBTG1waml2cXZkc2lwaG02MUpiblpBTDNlWk41M1RfUTdma2d4WmFfTQ?oc=5",
+    "time": 1788375526429,
+    "score": 6,
+    "summary": "Key insights from Cathie Wood’s latest AI stock moves Investing.com",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "印度首富现在希望将老化的电脑变成支持人工智能的个人电脑",
+    "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+    "time": 1788375526429,
+    "score": 6,
+    "summary": "Jio 打赌它可以将一台老化的电脑变成一台支持人工智能的电脑，两台电脑只需 11 美元......",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Pangram 首席执行官表示，我们“危险地接近”死亡互联网理论",
+    "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+    "time": 1788375526429,
+    "score": 5,
+    "summary": "互联网存在信任问题，这不仅仅是因为社交媒体上充斥着……",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Wonderful 在不到 6 个月内估值翻倍多至 5B 美元",
+    "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+    "time": 1788375526429,
+    "score": 5,
+    "summary": "Wonderful表示将利用其5.5亿美元的C轮融资来更快地开发产品、扩大...",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "DramaChain Bench：短剧生成的端到端基准",
+    "url": "https://huggingface.co/papers/2609.00646",
+    "time": 1788375526429,
+    "score": 5,
+    "summary": "商业短片制作遵循多阶段链：剧本、故事板、关键帧图像、镜头级视频、...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "陆军 SMR 入围名单 - 罗伯特·布莱斯 (Robert Bryce)子栈",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11YmN5S2h5OU15RTZ4bzN6bm5IY3N4UzU1NTFJa1k2QS0wQ1lxRExOMVpZdHdnNXY4akVNVlROcGwxWkVtWFRUMS13NVpQaHJjQmJPM2VLUmRWMjMyWGdseDUtYW1lWFJlaHc?oc=5",
+    "time": 1788375526429,
+    "score": 5,
+    "summary": "The Army’s SMR Shortlist Robert Bryce | Substack",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Paint.net 5.2 alpha 现在可以在 Linux 上运行",
+    "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
+    "time": 1788375526429,
+    "score": 4,
+    "summary": "81 points · 49 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "通过非结构化数据的自适应结构化实现令牌高效的数据推理代理",
+    "url": "https://huggingface.co/papers/2608.31082",
+    "time": 1788375526429,
+    "score": 4,
+    "summary": "有价值的数据仍然嵌入在非结构化来源中：网页、报告、合同、文件、财报电话会议和 PDF...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Firefox 的 AI 开关已关闭。遥测不是",
+    "url": "https://marius.blog/firefox-155-ai-kill-switch-retest/",
+    "time": 1788375526429,
+    "score": 4,
+    "summary": "9 points · 0 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "无梯度适应：仿射统计传输及其证书可以告诉您什么",
+    "url": "https://huggingface.co/papers/2609.00374",
+    "time": 1788375526429,
+    "score": 4,
+    "summary": "测试时适应（TTA）通常假设模型参数可以在推理时更新。这个假设是...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "我没有智能手机",
+    "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
+    "time": 1788375526429,
+    "score": 3,
+    "summary": "88 points · 65 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "许多",
+    "url": "https://www.producthunt.com/products/monid",
+    "time": 1788375526429,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "洛斯阿拉莫斯 Rolodex 名片精选",
+    "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
+    "time": 1788375526429,
+    "score": 3,
+    "summary": "96 points · 20 comments",
+    "source": "HackerNews",
     "region": "🇺🇸"
   }
 ]
