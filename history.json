@@ -1,230 +1,5 @@
 [
   {
-    "title": "不要放弃 Dropout：优化层稀疏性以实现高效的 LLM 训练和推理",
-    "url": "https://huggingface.co/papers/2609.05275",
-    "time": 1788770366748,
-    "score": 5,
-    "summary": "层丢失（又名随机深度）已被证明可以实现更快的训练、更高的准确性和零鲁棒性...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "问 HN：《神鬼寓言》黑了我的钢琴，我可以公布结果吗？",
-    "url": "https://news.ycombinator.com/item?id=49577129",
-    "time": 1788770366748,
-    "score": 4,
-    "summary": "145 points · 84 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "空运码",
-    "url": "https://www.producthunt.com/products/airuncode",
-    "time": 1788770366748,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Show HN：Engrim – 用于 AI CLI 的通用、本地优先的 SQLite 内存引擎",
-    "url": "https://github.com/timgordontg/engrim",
-    "time": 1788770366748,
-    "score": 4,
-    "summary": "28 points · 6 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "NIXI 已杀死“Dot In”域名（2025）",
-    "url": "https://www.naavi.org/wp/nixi-has-killed-the-dot-in-domain-name/",
-    "time": 1788770366748,
-    "score": 4,
-    "summary": "6 points · 3 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "在生活环境中观察世界：统一的室内外城市世界一代",
-    "url": "https://huggingface.co/papers/2608.05879",
-    "time": 1788770366748,
-    "score": 4,
-    "summary": "文本驱动的 3D 生成在创建大型室外环境和详细的室内场景方面取得了快速进展，...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Coldtea.ai 的 PR 镜头",
-    "url": "https://www.producthunt.com/products/coldtea",
-    "time": 1788770366748,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "τ^τ-Bench：端到端、现实代理构建的环境",
-    "url": "https://huggingface.co/papers/2609.04611",
-    "time": 1788770366748,
-    "score": 4,
-    "summary": "LLM 代理正在迅速成为生产软件，用于处理客户服务、裁决纠纷和运营……",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "ShallowStream：浅索引然后深回答以实现流视频理解",
-    "url": "https://huggingface.co/papers/2609.02780",
-    "time": 1788770366748,
-    "score": 4,
-    "summary": "流媒体视频理解是现实世界应用的一项关键功能，包括体现智能、自动...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "AdaptVPR：用于鲁棒视觉位置识别的路线感知硬阳性生成",
-    "url": "https://huggingface.co/papers/2609.04369",
-    "time": 1788770366748,
-    "score": 4,
-    "summary": "视觉地点识别 (VPR) 通过检索相同或附近地点的数据库图像来定位查询图像，但它...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "优化前询问：用于交互式优化的动态预配制澄清",
-    "url": "https://huggingface.co/papers/2609.05258",
-    "time": 1788770366748,
-    "score": 4,
-    "summary": "大型语言模型 (LLM) 越来越多地用于根据自然语言问题描述制定优化模型...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Motion-Omni：用于口语对话的端到端联合语音和全身运动",
-    "url": "https://huggingface.co/papers/2609.04250",
-    "time": 1788770366748,
-    "score": 4,
-    "summary": "进行对话的化身应该决定要说什么以及说话时要移动，但这些能力存在于……",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "MaxKernel：TPU 的代理内核生成",
-    "url": "https://huggingface.co/papers/2609.04523",
-    "time": 1788770366748,
-    "score": 4,
-    "summary": "为加速器设计和编写高性能定制内核是一项复杂的任务，需要深入的硬件...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "RISE：通过自外推策略蒸馏进行递归改进",
-    "url": "https://huggingface.co/papers/2609.05295",
-    "time": 1788770366748,
-    "score": 4,
-    "summary": "策略蒸馏 (OPD) 为语言模型训练后提供密集的、按令牌的监督，但其有效...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "当量化破坏内存时：低精度时间推理中的循环状态回写",
-    "url": "https://huggingface.co/papers/2609.04490",
-    "time": 1788770366748,
-    "score": 4,
-    "summary": "量化被广泛用于减少神经网络推理的计算和内存需求。在循环网...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "WorldSculpt：从接地视频生成构图世界",
-    "url": "https://huggingface.co/papers/2609.05416",
-    "time": 1788770366748,
-    "score": 4,
-    "summary": "我们研究生成包含数百个对象的杂乱场景的组合 3D 表示的问题......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "组自适应裁剪策略优化",
-    "url": "https://huggingface.co/papers/2609.00444",
-    "time": 1788770366748,
-    "score": 4,
-    "summary": "用于具有可验证奖励的强化学习（RLVR）的组相对策略优化通常使用固定的投入...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "西普特利",
-    "url": "https://www.producthunt.com/products/sciptly",
-    "time": 1788770366748,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "保持我们的服务器运行",
-    "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-    "time": 1788770366748,
-    "score": 3,
-    "summary": "383 points · 86 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Databox 例程",
-    "url": "https://www.producthunt.com/products/databox",
-    "time": 1788770366748,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "塔基",
-    "url": "https://www.producthunt.com/products/tucky",
-    "time": 1788770366748,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "马克·扎克伯格是时候从 Meta 辞职了",
-    "url": "https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta",
-    "time": 1788770366748,
-    "score": 3,
-    "summary": "12 points · 9 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "提醒",
-    "url": "https://www.producthunt.com/products/remind-7",
-    "time": 1788770366748,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "瑞士联邦政府正在取代微软的 3k 计算机",
-    "url": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
-    "time": 1788770366748,
-    "score": 3,
-    "summary": "87 points · 56 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "尼娜（Antalpha）",
-    "url": "https://www.producthunt.com/products/antalpha",
-    "time": 1788770366748,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
     "title": "Show HN：GET Together – 一个无需 POST 即可发帖的社交网络",
     "url": "https://gettogether.dev",
     "time": 1788770366748,
@@ -8996,6 +8771,231 @@
     "time": 1789152358620,
     "score": 3,
     "summary": "42 points · 10 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "TSM 创纪录的销售额表明 AI 芯片正在蓬勃发展。 Nvidia 与 AMD 之争现在的焦点是谁能保持利润 - 雅虎财经",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSW5oRnc4bWlJWUU3eW9NQmVrRTVQQ2hGNXV6TlNmX0U1RkplbHFpU3YxeUpLVUpGU1RkNHdrRUZhWGhpNTVrRG1USzJVNFBSdENzNGU2NFRScHktc0hOaExZUHFIeDlPNUR3R0h6M3Y2SEZ5MGlFaUVGbXRkbVowTTlrc0VhdE01QlZvN1dtb1dSSWs?oc=5",
+    "time": 1789164063165,
+    "score": 116,
+    "summary": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About W...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Piper Sandler 首次报道 AI 芯片领域：NVIDIA (NVDA.US) 和 Broadcom (AVGO.US) 是“首选”，预计到 2030 年算力市场规模将达到 2.2 万亿美元。 - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVA5UXl5ODdVaUVkV2U4T2ZlejdqQzdjOXg2M1NBMF9BNERodWt3aG5na0FjR2ctN1J1SFZKcmNsWkgxazVJYnFTVjkta0ZGM2lLbG1GOGNoYldxaVNOaFFnaUIwSUc0QzJPTk9LTVJpNjZwekUzMnF4QnVBN1RYUExsZGlFYVR5cUk4NTNsTExoUmtoVjBNQWF3aXVsTW12MFlLSFVn?oc=5",
+    "time": 1789164063165,
+    "score": 111,
+    "summary": "Piper Sandler initiates coverage on the AI chip sector: NVIDIA (NVDA.US) and Bro...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "忘记AMD吧。以下是 Nvidia 真正需要担心的人。 - 杂七杂八的傻瓜",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0Q2UXUzZDlXVnBSNUpIS283WnA4bFBHdndITFQ2SmhLRVJUZXRoTk5SQjUwajlJSGlCbDhxM0hoWTVYRlhOek02cmNXS2JKTzJ0V1lDb3VlSzFPc1BxX09rdzNvVE1Xa2hZc0M5UW5aeVRQand3SVVOalNuT0RUeWUtRlE3WGlETFhyLTQwUmZ0YnhC?oc=5",
+    "time": 1789164063165,
+    "score": 110,
+    "summary": "Forget AMD. Here's Who Nvidia Really Needs to Be Worried About. The Motley Fool",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "OpenAI 与数学家的不和只会不断升级",
+    "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "time": 1789164063165,
+    "score": 106,
+    "summary": "二十五位顶尖数学家签署了一封公开信，认为人工智能实验室正在威胁他们的......",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "JuliusBrussee/caveman: 🪨 很少的令牌就能完成戏法，为什么要使用大量的令牌 — 克劳德代码技能，通过说话削减 65% 的令牌",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "time": 1789164063165,
+    "score": 103,
+    "summary": "⭐105.0k stars · Go",
+    "source": "GitHub·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "报告：AI芯片短缺蔓延至竞争对手，台积电将于 2028 年将 CoWoS 产能翻倍 - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWhvMW41X29DMUZ6QTNITFJ6bWtSckNBX1ByYzIwV29aYVNaVGMwWF9KTEc2SEQ5UjJXX1kzYU4tNU9iUXo4cUlNTEFmLWFHLTBqNUJtVTA0aWdrVHJzclFybVB0bE5nUzZ6S2R3MkUwNjU4dkpVZTZRM0F1X05TcXlaSjVCdFYwbzhQT2U4Qi1rY0pmTWlka3NaWkpOQWRxM2lXX1NUTzJkcnNL0gGyAUFVX3lxTE5RRTIta0k5cDhvc01EaWJUM3Z2anNiZzF6ZHdTSEVkc3FzRWpDU0ctUlRTdDV1VmhkYjJZbU9ZN2VKNkU3NGNVM0ZxTUJZTWZ6cG5wcE5PeXE3dTkwUXBQT0d2SkZKbms5R0dkd1g5MXhnQ3BYemlCSXY0Tm1ZNjN1MldVUVlMTzR6Q2didHJlVF9vZ08wSXhkMDJEb01iLUNsMHE0MW9GY2ItdGpHdDhabnc?oc=5",
+    "time": 1789164063165,
+    "score": 17,
+    "summary": "Report: TSMC to Double CoWoS Capacity by 2028 as AI Chip Shortage Spills Over to...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Aalo Atomics 于 7 月 4 日达到临界状态 - 美国核协会",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZEdxQm85dW0yM3Z4UVF3US1WTVRIU2ZlSldXNzkzYmVKWlNTdV9CMkZob3dTeG40bXQwcFB5dmh1VkI4SE9SWHZMRWhRak1rd1U3TEgtRWNoWXlndGhkUEZUOHlodHRyaF9jSHdHaFhjYjFuekMzSk4xbzV4UExlNENfdk1IOTRnNGc?oc=5",
+    "time": 1789164063165,
+    "score": 15,
+    "summary": "Aalo Atomics achieves criticality on July 4 American Nuclear Society",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "特斯拉看起来很贵，而 Waymo 正在退出 - 美股指南 - 美股开户 - 港股开户",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdnQ3Wk5FN0hMTFF0SXAzbjNWSTNidDRpTjNhODhnY1pxT053X1FJS3k4Ri1tUnRnSnpRVEM3SDhTUGtRN2xpZnFJY0xMMXJCZHRWbmxFS1ZTbEJPaE1wcUFJcHlxTDVGcTctejF1RlVVX3BfSlpLT0pNMVJsTmZhNnlwdWtGek5kOHI0anNVTHdTQQ?oc=5",
+    "time": 1789164063165,
+    "score": 15,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Kimi 制造商 Moonshot AI 的年收入目标是 20 亿美元",
+    "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+    "time": 1789164063165,
+    "score": 11,
+    "summary": "虽然近几个月 K3 的使用量略有下降，但 OpenRouter 数据目前显示...",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "爱达荷州的核机会也应该是教育机会 - 爱达荷州教育新闻",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHp2VE1PX2lrNGtvMTNfbHBsOC04dDkxRWV4NlYtR0thdFYtV0dYR1ZxUDBWVHdPNjZnV3gwMnRmUzJ0c2dLMTNNcHNSa2pUY1VtX3JEdV9EV0QyTktIZVhtVjVWZ1JqZi1NZk5RcU1tWktyQjE1WmpGZzQwdUJJdHR6WDZHU1ZnSnRDejdwSV9UNVAzVlNPRkhFLW1SbUxxU0hsUg?oc=5",
+    "time": 1789164063165,
+    "score": 11,
+    "summary": "Idaho’s nuclear opportunity should also be an education opportunity Idaho Educat...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026 会外活动的最后、最后、最后征集",
+    "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+    "time": 1789164063165,
+    "score": 10,
+    "summary": "申请在 TechCrunch Disrupt 2026 期间主办官方边会的绝对最后机会是...",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "MetroLLM-Bench：评估作为公交信息亭运行时的语言模型",
+    "url": "https://huggingface.co/papers/2609.10016",
+    "time": 1789164063165,
+    "score": 10,
+    "summary": "我们引入了 MetroLLM-Bench，这是一个包含 955 个案例的基准测试，用于测试作为交通信息亭策略层的语言模型。它...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "矿业集团表示，墨西哥在关键矿产方面拥有战略机遇 - BNamericas",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjRfMG1Scl85WEJxOVU1bjJJeGlvZk80VEduVHRhRGYtRTcxVW56cFhCc2JoX3g0cGF3djVzb0c3bGYxQWgybndMd2FGTG12aWtjcnZEMzIwV0prV29GbHBwdERHVXVUZktTOVJmV1A0b3huMkNTeS1xZGctaUN4YTFaUkdUUlNTRFNZZEtwX2hRc05TdzhlOHlhWk9wMGF2Rld3R1kwRXJjcE44?oc=5",
+    "time": 1789164063165,
+    "score": 10,
+    "summary": "Mexico holds strategic opportunity in critical minerals, mining group says BName...",
+    "source": "基建·矿产",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "中国：中芯国际成为全球第三大半导体代工厂 - Overclocking.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeDZYUjl5RXJFblFmVnVfTm9TbDZsSlBUZGNLOERnaXVtZWwxTlBPbldXcHRDVHdFcVRWYjhCVzZpXy13V2FtVHRKNTBaR1g1LU5pV3VlYnJJOHppNUh6Z0JsSjdOUGM4YVhrdFNYMms5RmNEcG5ndjZidmtaTFJyYmZLNHlDamNFbmhQTTQxWHYwYU50MlpPZHl3?oc=5",
+    "time": 1789164063165,
+    "score": 10,
+    "summary": "China: SMIC Becomes the World’s Third-Largest Semiconductor Foundry Overclocking...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "6 美元的柴油价格是否能为 Tesla Semi 开辟快车道？ （TSLA：纳斯达克） - 寻求阿尔法",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT3dxRUplcjlEZ0ZjM3ZpMVkwSm91VklIUF9BMy0yT0R3SDN4TklDZ1ROV3k4SExIZmNQZGtsbmpiX2lkUjZUM085QkFaLUlSYUhnS0NJNjV3alN2WkNtT3hZVzFDRktYQ09aOUJQOUNRRldIenpJUm90RDFESFBwTGZxWUtBSHpMMEF5MHhHVGdFQjJyUTlVTFhNLWVjVk9Qd3FZNA?oc=5",
+    "time": 1789164063165,
+    "score": 10,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "德文的声音",
+    "url": "https://www.producthunt.com/products/devin-voice",
+    "time": 1789164063165,
+    "score": 8,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型",
+    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "time": 1789164063165,
+    "score": 7,
+    "summary": "谭认为，前沿模型本身是根据公共人类知识进行训练的，因此可以获得有能力的人工智能......",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "研究图像分词器作为统一多模态模型中的视觉语言",
+    "url": "https://huggingface.co/papers/2609.09143",
+    "time": 1789164063165,
+    "score": 5,
+    "summary": "图像标记器定义了统一多模态模型的“视觉语言”，但通常通过孤立的...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "距离 TechCrunch Disrupt 2026 预订展位还有一周时间",
+    "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+    "time": 1789164063165,
+    "score": 5,
+    "summary": "只剩下一周的时间来确保您的展台安全。席位有限，九月前即可售完。",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "日本着眼下一代快中子增殖反应堆，中国、俄罗斯处于领先地位 - 日经亚洲",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX0ZleDRBcEh6QzdMX2luOUpXUVVxRmFUM0F5WEQ5V3U0ZjNEdkdZYkJoMXB1c2ttb1BSei1Mc1lqU0VsQ2lqT1hyUHY5a0h2MUJ2SF9JYnhnWG10SkFpT2JZcTJteHVjSUotQjVPNlZGdjBBNk9rckM2djNpcG1zaXZvV1B2aml1OGFEa29veUd0Wkdzb2ljS0UxUzdKcWd3VGk3Sw?oc=5",
+    "time": 1789164063165,
+    "score": 5,
+    "summary": "Japan eyes next-gen fast breeder reactors as China, Russia lead Nikkei Asia",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "GrapheneOS 重写的消息应用程序发布",
+    "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+    "time": 1789164063165,
+    "score": 4,
+    "summary": "131 points · 70 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Async/Await 的设计空间探索",
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "time": 1789164063165,
+    "score": 4,
+    "summary": "43 points · 4 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "我在 Google 应用广告上花费了 220 美元，60% 的安装是机器人",
+    "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+    "time": 1789164063165,
+    "score": 3,
+    "summary": "110 points · 54 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "改变精神的药物在安第斯文明的崛起中发挥了关键作用",
+    "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+    "time": 1789164063165,
+    "score": 3,
+    "summary": "69 points · 49 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "AlphaGenome 绘制 9B DNA 变异图谱",
+    "url": "https://spectrum.ieee.org/alphagenome-atlas",
+    "time": 1789164063165,
+    "score": 3,
+    "summary": "49 points · 5 comments",
     "source": "HackerNews",
     "region": "🇺🇸"
   }
