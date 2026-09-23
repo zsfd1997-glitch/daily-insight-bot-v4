@@ -1,365 +1,5 @@
 [
   {
-    "title": "角色查询",
-    "url": "https://www.producthunt.com/products/rolequiry",
-    "time": 1789768606343,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "本地机器人",
-    "url": "https://www.producthunt.com/products/lokalbot",
-    "time": 1789768606343,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "原始心智",
-    "url": "https://www.producthunt.com/products/proto-mind",
-    "time": 1789768606343,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "蛋壳",
-    "url": "https://www.producthunt.com/products/eggshell-2",
-    "time": 1789768606343,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "零球",
-    "url": "https://www.producthunt.com/products/zerosphere",
-    "time": 1789768606343,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Codex GPU 队列",
-    "url": "https://www.producthunt.com/products/codex-gpu-queue",
-    "time": 1789768606343,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Kanverse GPU 借用",
-    "url": "https://www.producthunt.com/products/kanverse-gpu-borrow",
-    "time": 1789768606343,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "asgeirtj/system_prompts_leaks: 从 Anthropic 中提取的系统提示 - Claude Fable 5.1、Opus 5、Claude Design、Claude Code。打开",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks",
-    "time": 1789782087458,
-    "score": 405,
-    "summary": "⭐67.5k stars · JavaScript",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "OpenAI 如何利用自己的法学硕士来设计 Jalapeo 芯片",
-    "url": "https://spectrum.ieee.org/llms-for-chip-design",
-    "time": 1789782087458,
-    "score": 109,
-    "summary": "53 points · 50 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "开放式人工智能还是封闭式人工智能？ Nvidia 的 Nader Khalil 和 Sydney Sykes 在 TechCrunch Disrupt 2026 上做出了塑造下一代初创公司的决策之一",
-    "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-    "time": 1789782087458,
-    "score": 106,
-    "summary": "Nvidia 的 Nader Khalil 和 Sydney Sykes 讨论了塑造下一代初创公司的决策之一……",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "unslothai/unsloth: 用于运行和训练法学硕士和扩散模型的本地 UI。支持GGUF、MLX、Qwen3.8、DeepSeek-V4、MiniM",
-    "url": "https://github.com/unslothai/unsloth",
-    "time": 1789782087458,
-    "score": 105,
-    "summary": "⭐76.4k stars · Python",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Anthropic 正在运营一个进行生物学实验的实验室",
-    "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-    "time": 1789782087458,
-    "score": 105,
-    "summary": "人工智能领导者一直承诺人工智能是治愈人类疾病的关键。人类研究人员已经...",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Show HN：Cactus Needle 3：8-29MB自动化模型可匹配DeepSeek V4 Flash",
-    "url": "https://cactuscompute.com/needle",
-    "time": 1789782087458,
-    "score": 104,
-    "summary": "164 points · 78 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Waymo 的下一个目的地是新加坡，届时它将推出机器人出租车服务 - ArenaEV - ArenaEV",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQjZfbW1qLUpCNUIyUnozQ2MwVEc0eHJ3bWJtZ0g2MDZiZk55ZTNjX0R1NVFpR1dicnZXRm0wbWxxMzJGemNQWWcwZlJrMUFqaDhTbXplTzlEZmNaM0EtcnhmX1Z4cmt3Y2MwYWVVaWRabmlPOTBXQXZMY2dON29YbDJXY2J0ZUpLN1hJMHhkZnBMcGlpOUp2RERmTGFUX2lQLUUybTRyOFlfUHRuRGU1aVRIa3Q4SEw5OWw4Q9IBuAFBVV95cUxNVV9KRElkSURDYThUT0FrdExtczlZRWJ1RDFoWjMxUVhlTU5JbEstY3E3ZDlJMDVOTktxZnZuY01hQ0JSN3FmTFo2N0J1NE5TZjlPNWthMzZ4RDhwUWwxQ3FNdUJORWo2bGFOQnZMMjhCOG0zQ3ZjdHAwdHkxOFlEMFE1YTVuT1h6aTNVTndyRWdScWZuZUhsNFlaUHNWV0Z1bXZnX1RCRk9lWklhNi1KX0dKcHNYcV9D?oc=5",
-    "time": 1789782087458,
-    "score": 30,
-    "summary": "",
-    "source": "汽车·EV",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "南美关键矿产协议旨在解决铜锂供应缺口 - Streetwise Reports",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT1V5UVRZOXgzZ0pBdFJNN1pUZ09VQVBacFZlUFM1Vkp3VWdwZndQUDByVmprUWxPRE84bS1ITmVPVzEzam05MHF3SllBSk5Eb3pITVBtRjZIRElyS2VIWTBJUGE5VF9nbE1RbG5BcmVua3lkTDJGUExBV0U4RmYyU2xCVUYyR1NQQWxPNF9ZZ2NXaVNSVHFlc2plUEhaU3N1TjlCN3VqYWtsR0tFbEUxd2JheUlOMVB0a0JKN2F2TVpLQVI5QjRV?oc=5",
-    "time": 1789782087458,
-    "score": 16,
-    "summary": "South American Critical Minerals Pact Targets Copper-Lithium Supply Gap Streetwi...",
-    "source": "基建·矿产",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Lucid 将建立一支拥有 25,000 辆车的机器人出租车车队 - Autoweek",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaEdkQjkzdzFRWThjcnEtQ2ZjTEtjWVIyN19GWS1lQzd1U2tIdDcwWHBnUmZIUFMxRkR6aDBxME1qbU8ydDdiRmlRa1lFRmltcXlFd2NJcnVHbXZ1aU9VLUhIeXczNTk3NXJtTFRoUHVJM1EzcW9nZ0Y2ZElwT1luMGRhU1o1S2x2b3lvZg?oc=5",
-    "time": 1789782087458,
-    "score": 15,
-    "summary": "",
-    "source": "汽车·EV",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "关注更多：雪佛龙寻求更多交易来为美国数据中心供电 - EnergyNow.com",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZUpidFR4a2x3cWVINllXNFJRZzlnT1UzVUJBUnBEMXRjSnpoeUx0VkdQbHh3WXdpSWZIcjdEd3Fyb0ZVbzZSLXZUM3ZyTDlmWC1sdEN4YlBsT1JvMlZfMDZ5c0s5djFzVkxTMUJSUVBvd2x4cWxpeHV5dnJOMmtOeTYwZ1lzZw?oc=5",
-    "time": 1789782087458,
-    "score": 15,
-    "summary": "EYEING MORE: Chevron Eyes More Deals to Power US Data Centers EnergyNow.com",
-    "source": "基建·能源",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "NuScale Power 股价下跌 7%，核电股回吐投票涨势； Oklo Falls 下跌 5%，Centrus Energy 下跌 3% - 24/7 华尔街",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMVdwXzZUc3BkdHo1WkRab3hweDlTNDQ5aGVqU1NBSUhad24yb1VlODdjQTl4N3lDM3Q0LW1ldXowcFBTU2VQTDhEX3pqUWIwYk9DS1FGWm00OXZYWVBhX2VpZFlGbDBKY2dHdXNvN2RHYUtNb1pGNW9xRTdXZmk1NnR5UDFGUmhoMWZFYUlCQU9NZFFJQkoxbE5LZklXdDBJTmRJUkNLakt6TWVsTnVhZm4yUWtRV3pLUnBPYXU0WmFCd0F0YWdBdjdmYUhnX2tlZ3NwVVVRdTdiQjFEakE?oc=5",
-    "time": 1789782087458,
-    "score": 15,
-    "summary": "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%...",
-    "source": "基建·能源",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "美国能源部副部长谈论数据中心、干旱和“核复兴” - 怀俄明州公共媒体",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbElKdEtaR051dWtfeGpxeHBkUk94Y0t6aHd2dGFnRmpibFVIa0V2djdjVjdsb3IwenBkMk1PaFZPeUVWWjJSQmxTS3Z0a0tTaHpFSTQtVWxfcFc0X0Zra1FDTmRsZHQwSjJBbEV2bFVVV3Z0QktxLTR4NVpJZG1KOFFsWHJiaWpDX2lZYVZXbjUzbXRqeEQxQkQzMVdUNmY1RldnV1dOVzV4MUZFd1VYbWpVUjkxNlo3WmpsSm9xdWVTbXBMR3BYUlJwR0s?oc=5",
-    "time": 1789782087458,
-    "score": 11,
-    "summary": "DOE Under Secretary talks data centers, drought and the “nuclear renaissance” Wy...",
-    "source": "基建·能源",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "TechCrunch Mobility：Lyft 已加入机器人出租车聊天",
-    "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
-    "time": 1789782087458,
-    "score": 10,
-    "summary": "欢迎回到 TechCrunch Mobility，这里是您未来交通的中心，现在，不仅仅是...",
-    "source": "汽车·TechCrunch",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Vistra Corp (VST) — 为核电之外的数据中心提供电力基础设施 - AlphaStreet",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVk0VjRZVHJoTHlFNXRTR2w5Z1V0a0trMDRncnZtQ3EzOHBOUy0wemg5b2Zwd1RfWDFqb2tkMDJva19aQTUyX0RoNThvRmtoYzhkdmFrVnBtcGQzZEQwbFBYa1h5T19kd195RldVdE9zU1o0VjMyd1ZBWkk1c3R3YUdXaEw2UERVSjU4T2phTlFScGxfWk5WeUdGclBJQnNER1RsQjNSWllzbkXSAasBQVVfeXFMTW1ZNFY0WVRyaEx5RTV0U0dsOWdVdGtLazA0Z3J2bUNxMzhwTlMtMHpoOW9mcHdUX1gxam9rZDAyb2tfWkE1Ml9EaDU4b0ZraGM4ZHZha1ZwbXBkM2REMGxQWGtYeU9fZHdfeUZXVXRPc1NaNFYzMndWQVpJNXN0d2FHV2hMNlBEVUo1OE9qYU5RUnBsX1pOVnlHRnJQSUJzREdUbEIzUlpZc25F?oc=5",
-    "time": 1789782087458,
-    "score": 10,
-    "summary": "Vistra Corp (VST) — Power Infrastructure Play for Data Centers Beyond Nuclear Al...",
-    "source": "基建·能源",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "内乌肯寻求通过供应 Vaca Muerta 沙子来扩大采矿业 - Panorama Minero",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa2dtdzVESEYzQ0lUcGI4b1ZYb0xVWTlTeG5FMHYwZjl0LVpuRkprUlZlU2w1Q0RhSmRsaDMxcWVkakhLMkZ5VGltRDhtdkxKUVdzR1BhLXdNcTM1NmswSk51QmJUWnVVeXFSQjNkWUdLUENaSncxV0Y0T20tb2d5TjVoRzlJN2l2RDhFT2NXbFVyVHN3b0xFQnZpbUR5TFpYQlFLUkJtR1hWOGZ1X2E3clMyQzRucTdKRzlBLUtxTQ?oc=5",
-    "time": 1789782087458,
-    "score": 10,
-    "summary": "Neuquén Seeks to Expand Its Mining Industry Through the Sand Supplying Vaca Muer...",
-    "source": "基建·矿产",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "3 只日本核电股，盈利增长高达 26% - Simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLUcxN054NW5ScDFER2hzZjFNTXVGWXlJNjVTd2VCUVlsR1hib0wwMlVXVHVHVldENVNZX0dSM3k4M0o5MmltVmYxQml0MVBmUzAyMkJEa1dkcUp5czhROVI0QVpaSk16cWdBTmFkNjUzNkZFcFdsbnhXMVByZU90VmZlZWlqVnpubzVENXNSOVY0TFNHcEw3aEVzZk94aEpvcWxSSElIRkU0SXg3bldTV05yUkJoYnVFeHNnVHU2clhQVGtFSUhZQzBB0gHPAUFVX3lxTFBYTkRyZXd0Sk5PTEZIV2owUVcxT244VFVDUW1OQkxBalNfbk1NODRaUlJnaXlKd3FtZXQtUjNtOTg5RTlHQnNKcTJYcDFQcGluNFItc3NDSklralFidFNvaWRzaEdNUFl4M2pRNkpKOWtnUDFpbmtpZWVZQm9USEJ0U1FCbVdmM0ltTDVNQjFVNGw0SmgyOUlDOGU4QXotZ2hkUXdURmhSbXJzRW84TlJVcTR4YmFob1Jwa19LWEJ5SFU1N1FHSm94VG5OVnRoRQ?oc=5",
-    "time": 1789782087458,
-    "score": 10,
-    "summary": "3 Japanese Nuclear Stocks With Up To 26% Earnings Growth simplywall.st",
-    "source": "基建·能源",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "自我进化的搜索索引",
-    "url": "https://huggingface.co/papers/2609.19656",
-    "time": 1789782087458,
-    "score": 9,
-    "summary": "随着法学硕士代理人处理涉及不同信息需求的复杂任务，信息检索变得越来越重要。 ...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "样本数量不够：候选人生成策略塑造了 LLM 测试时间扩展的能量和性能",
-    "url": "https://huggingface.co/papers/2609.19499",
-    "time": 1789782087458,
-    "score": 9,
-    "summary": "测试时间缩放可以通过生成和组合多个候选响应来改进大型语言模型推理。我...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "印度强制来电显示应用程序向电信公司提供垃圾邮件报告",
-    "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-    "time": 1789782087458,
-    "score": 6,
-    "summary": "Truecaller 表示，单向共享要求将赋予一项具有商业价值的专有资产……",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "一家创建其他初创公司的初创公司筹集了 1 亿美元，并全力投入物理人工智能",
-    "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-    "time": 1789782087458,
-    "score": 6,
-    "summary": "UP.Labs 现在以 Vantora 的名义开展业务，正在为工业企业建立初创公司......",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "AI幻觉险些引发美军行动",
-    "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-    "time": 1789782087458,
-    "score": 6,
-    "summary": "“对于服役人员来说，了解法学硕士固有的不确定性非常重要，”GovAI 的一项研究...",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Kanary 的人工智能课程",
-    "url": "https://www.producthunt.com/products/ai-class-by-kanary",
-    "time": 1789782087458,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "公民404",
-    "url": "https://www.producthunt.com/products/citizen404",
-    "time": 1789782087458,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Unfetch.com",
-    "url": "https://www.producthunt.com/products/unfetch-com",
-    "time": 1789782087458,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "法尔内塞的信",
-    "url": "https://simonklee.dk/farnese-letter",
-    "time": 1789782087459,
-    "score": 3,
-    "summary": "26 points · 5 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "OpenAlgo 图表",
-    "url": "https://www.producthunt.com/products/openalgo-charts",
-    "time": 1789782087459,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "伊兹特",
-    "url": "https://www.producthunt.com/products/izzit",
-    "time": 1789782087459,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "代码80%是AI写的，这家AI公司呼吁暂停AI开发",
-    "url": "https://juejin.cn/post/7684228650583375878",
-    "time": 1789782087459,
-    "score": 3,
-    "summary": "",
-    "source": "掘金·AI",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "电脑解剖",
-    "url": "https://www.producthunt.com/products/pc-anatomy",
-    "time": 1789782087459,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "普什里",
-    "url": "https://www.producthunt.com/products/pushary",
-    "time": 1789782087459,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "衣服",
-    "url": "https://www.producthunt.com/products/sutura",
-    "time": 1789782087459,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "公会经理",
-    "url": "https://www.producthunt.com/products/guild-manager",
-    "time": 1789782087459,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "第二只眼",
-    "url": "https://www.producthunt.com/products/second-eyes",
-    "time": 1789782087459,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
     "title": "Poke 战斗播音员",
     "url": "https://www.producthunt.com/products/poke-battle-announcer",
     "time": 1789782087459,
@@ -8997,6 +8637,366 @@
     "score": 3,
     "summary": "讨论 |关联",
     "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "埃隆·马斯克 (Elon Musk) 全力买入英伟达 (Nvidia)，但这两只芯片股更值得买入吗？ - 杂七杂八的傻瓜",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHc1Tk0xSGd2WFFyLU51aFBRdWJnRy1Lb0FVdmJZSFZEUHp1U256TEFBUVhvdUxERzVvOTNMWUlSOWV5QTdSZHhIZW94by15RS12cUZRM3ZobXNjLVFMQS0tclNZT04xRFVteDhtOHNtbllBWVpmdlB3X0FGOVctc2hLVlE0RDRIcXNFNnV3MkdITGh1d0xv?oc=5",
+    "time": 1790202537065,
+    "score": 110,
+    "summary": "Elon Musk Is Going All In on Nvidia, but Are These Two Chip Stocks Better Buys? ...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Albanese 透露 OpenAI 违反了医疗保险",
+    "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+    "time": 1790202537065,
+    "score": 109,
+    "summary": "82 points · 31 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Anthropic 表示其生物实验室已经发现了重大发现",
+    "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "time": 1790202537065,
+    "score": 105,
+    "summary": "但也许最大的启示是，人类并没有让克劳德在其生物实验室中失败。人类...",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "AI 热点日报（2026-09-18）：华为昇腾960超节点发布，OpenAI 首次公开模型失准报告",
+    "url": "https://juejin.cn/post/7686588753230364708",
+    "time": 1790202537065,
+    "score": 105,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "克劳德的承重接缝",
+    "url": "https://madradavid.com/claudes-load-bearing-seams/",
+    "time": 1790202537065,
+    "score": 103,
+    "summary": "43 points · 14 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "长鑫存储、中芯国际助力中国芯片行业利润猛增620% - 日经亚洲",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaVdJdlRmSDBLWGk5NDROajdtRF9mSWF5S2lfRGYxU0ZVa2NtcGNGS0pETlI3WEpmU2ZxcEJHYmxySjZGbTdIaHhseFU2NHNXd2thenlxMVN1T19VY21ScmtZNy1KUGY4MUhkMDVYNmo2Z0NoUVNtTV9SbkRWOVU2bG9aN1pqUWVETzdaQ1l6MGNHd1czVnViUzdxRDRQM2tjdy1sUWdLTDZQQmc1VkNkUFFWM1g?oc=5",
+    "time": 1790202537065,
+    "score": 20,
+    "summary": "CXMT, SMIC power 620% surge in profits in China's chip industry Nikkei Asia",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "随着人工智能数据中心需求重振其核故事，NuScale Power (SMR) 便宜吗？ - simplewall.st",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT3Bhd2ZZcVpCdWd2c1hrT1h2RERHZk5nUGZvS0toY2xiNG9SWlVOUVgwUk56RldZc05lY0ZwdUhfR3ItSFlwSm53aVRKVmViSHFLVm9lV0EzbXZrMWRmRHY0a2hrbncwaEh5RWdmT3k2d0t2SnBySXVfTWF0ZVNlcXJNZkJtRzdjcXdCVkd6eUlYWUtyN3ZPRWxpdlNDOU9nS252ZDhXeWRKeWtNa1B2aWNEekh5T3RmR0ZmNzdGdHNBeUlNUk5HWFZjdWxlZ9IB0wFBVV95cUxOU3NNam9rWF85OW5PMnZtNzFaQzlmY19WWXh3eWgyMGJqNEl3UG9Pa2Z6dC1nX2JxTEM3V0JNZzBMdUF5N0FvakpPbElNT01PdnBVX2tLZ0hpNTI3d202QmdzcTFoUWRocjhwZDUyR1VmbHpkSXJZc3d0TGs4MmpZM2g0MXQyWGZCUWtEQjI3YUVYTFBVQzd5aW5kRzhIdVU3NnpYYlFuWVJSSzJlNTBtTC1UMHJ1STItZ2JvQnVUNzhPRGxzWG9wSHZxU2xFMW1rRzNR?oc=5",
+    "time": 1790202537065,
+    "score": 16,
+    "summary": "Is NuScale Power (SMR) Cheap As AI Data Center Demand Revives Its Nuclear Story?...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Frank Giustra 强调铜供应、黄金需求和哥伦比亚的两个矿业活动 - Streetwise 报告",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZXJqRzVUaGRNX0NSdXRPNE5rMFpUbXNwM09ERnBVM0VHWF9FTVlXbWdpU2VpeFRBY3RSSE83M3JWNzN3ekdMM0tCdVk5bnNkNHRFQm5yNjZKamNwVkVuOW11V3FQRDA5cDBvUzFOVjgzaVVWRGFkb1NHckFMWV9Oc3Y0T2tmYW5iR1hmaXhrcThzR0o3eG1aVXFyTmFVdVZwa00yQkRLMjhRSnZrM3RuZG9SX3lNbGRIWjYzYmJmYjh3ZXNWNlJMRmVXOU90akF3N2pqcWh3?oc=5",
+    "time": 1790202537065,
+    "score": 16,
+    "summary": "Frank Giustra Highlights Copper Supply Gold Demand & Two Colombian Mining Plays ...",
+    "source": "基建·矿产",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Cadence锁定台积电A14工具认证，迈向代理AI芯片，设计迭代次数减少2.5倍 - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTko3MGI0N0RJNms3OXNuT1RqR19oamg4ZTh0V1VDeVBpanFhbEpaZFhWRHVxOUR0c0k1SDJDTk5oQ01HWXNzUjNyRHVJSWVjTXQ4dU9JbjdGTTZzQWNqZ1BHREFyVHlackpic3Z0My1XWFRsT1JQX05COVV6LU84eFJ6X2Q2RnltZ09lYVBHQW1QYmgteTVKb2hxazJvdDBhT0HSAacBQVVfeXFMTWZieFR5cEtyQUMxcnBOTUwwcmJqOGFuWEMxOHQ3aVA2R2tBQjJXV2ltZ0V3ZW9VRW9uYWhlcmZtRDMtRHQ2MUJqbzVxNVpkdi1rUTc1SFg4Uzlxb1ZUd2V5WDk2ODlmSjN2VVZDTGJNX0FWQXFjdVNMMG0wa0ZVaGFKZnl3VERZNWVlLWRINWdXUWswcjlnVnlWekFINEl4RDVCNnJUVHM?oc=5",
+    "time": 1790202537065,
+    "score": 16,
+    "summary": "Cadence Locks In TSMC A14 Tool Certification, Cutting Design Iterations By 2.5X ...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "高通与三星保持密切联系，但台积电生产了两款新的 2nm Snapdragon 芯片 - Sammy Fans",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX3VLNFdCTHQ4R1RLdmJJcXBWbUIxQmhFVzVVTnpZbjJqN1hvUnp5LXQwNk5WMkJEcktkR2c1XzZGalN1dGhNVWNDZE5JRkdQZjBhUWdZVjZhQm1VQ0NUWkNRVXNYNV9PMDQwOVQ3TDJKMWRWbUdzcFdadll0OTJJaHF5ai1hNkR3X0gyZ28tZmNVR3cyRldTazMzak3SAaIBQVVfeXFMTVRtNFU3TDV6cTlnU2NUZDZ4QlhLS0wxNzF1b29jZVZVczhZYXJHQk95SDU5akhobzhQeWNCSHM5RjYyV3FyNTQ2eXNlRVNuOEdFSnVzZE9YVDlTM2Q5aGpTMzV2d1BkZ1RDaTBScTRHY1dwOXJubVZmQ2Rtc19iOEQxZ0EtVFdybGhDUmY4WUJCWGZrZ0lZSEVaekpDTmpmd2xB?oc=5",
+    "time": 1790202537065,
+    "score": 16,
+    "summary": "Qualcomm keeps Samsung close, but TSMC makes both new 2nm Snapdragon chips Sammy...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Kevin O'Leary 解释了为什么他的人工智能大赌注是铀，而不是大型科技：“现在的贸易是能源贸易” - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa215WTc2dUU2SEtiVU9wZ29vUDFoeXNLXzRySm16V3ZJOXhvb0JXYzEydTIxZGdmbE1GZF9Zclltd0VmLWpQTkszT0NZY1pKOGNjLU1NY1FxNFAtUEhLZE51WWhmRm9jOVdWZVpfTjUxXzNRWkxKM3FNbXZfUUs2QkJ3NkUyTHlUVGo4WUprUHlEWXB0dmtsOURGeGlzZzhwZi1TOENUYl96b1ptOThVUmYtUFBjVk1VTC1CbzJfOE12emNYdVdadVdnMzBXUTViakFVUmtvS3ZoTVAwUU4zVTA3Zmt1dDZyUkswLTVxZw?oc=5",
+    "time": 1790202537065,
+    "score": 16,
+    "summary": "Kevin O'Leary Explains Why His Big AI Bet is Uranium, Not Big Tech: 'The Trade i...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "洪水问题发生 5 个月后 Waymo 重新启动圣安东尼奥服务",
+    "url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
+    "time": 1790202537065,
+    "score": 15,
+    "summary": "4月份，该公司的一辆机器人出租车被冲走后，暂停了在该市的服务。",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Lucid Motors 在欧洲有潜在的机器人出租车合作伙伴",
+    "url": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/",
+    "time": 1790202537065,
+    "score": 15,
+    "summary": "该公司正在与移动平台 Bolt 合作，但目前尚未下达任何车辆订单……",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "佐治亚电力公司正在扩大其核电容量，谷歌将支付大部分费用 - energytech.com",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbFg5U3pkemdmMnQ0NElCZDJ2cXR1Tk12Rkp5SzA3T2puX2l4TGNzR3YydjlJQnNRNTNQcjdFTkRsQ0g2bF9rUi1SSTd5U0ZweVFOemprR1JBRkhfX21DdldibXBJX0lsOXBsM0QtVF9wVzIxek9VbUlDNlFmdVZ3NGt5M3dQa2J6eGxCeVR4WXNjdWYwY0EwSzlaSU10WXAxdzFvQmRmMnhHa0VlNmZtNWdIcElSakludjE2UFBkaFRFcWF4RzNnMVJPM0t5M3hjLTVSZk9yWVJGX2t1Y2xncmhmRQ?oc=5",
+    "time": 1790202537065,
+    "score": 15,
+    "summary": "Georgia Power is Expanding its Nuclear Capacity, and Google is Paying for Much o...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Spotify 在美国推出“Taste Profile”，为您提供推荐算法的关键",
+    "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+    "time": 1790202537065,
+    "score": 15,
+    "summary": "Spotify 正在向美国的 Premium 用户推出 Taste Profile，让听众了解如何...",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "加里·布莱克表示传统汽车制造商不会获得特斯拉 FSD 许可，而是押注于内部自动驾驶工作：“倾向于建造” - 雅虎财经",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM05reG0wTHppSi1vdkYyOF9kNlBBSTIzdjNaZ2d4cmRpNWJJUEQ4TGhBbkJlT1lyUjZNZ0hidkVWeFpMclA1dlRKbGJNMXl4X0UxYThib0VvbTNJNF9COWN3VzBDaWV5SGZfbTNFOFVPd1NDYkJ0czcySTJXNXNqSlEwdXFNaXZCSmFjT1ppQl9qc2EtLVh4ZlBENTRFU0k?oc=5",
+    "time": 1790202537065,
+    "score": 15,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "随着对可靠清洁电力的需求增长，核能股上涨 - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd3hwRkJVR1kwbnpXek1mNWZRNjZndkw0RTJBM1dFem0yWEkxSUJVSnY3RDdMbk1aYWkwNE14U0FBUmZjcnpoVS14SXluOTBvWXNZeGZXVDZFbTdxQmNkdERrVDIycTdpc0ZpMUVmeVdTM3R2RUs2azNQMHhUWjcwR2c5OFVUZkd2cTh4SFNJNUZOZzktam5uUDk3R0FHZ3Bic0ZMZktkNzExN2QtaDc1aHpLVGV2ZU1rd3RkZlZwb1RNZw?oc=5",
+    "time": 1790202537065,
+    "score": 15,
+    "summary": "Nuclear Energy Stocks Rally as Demand for Reliable Clean Power Grows TradingView",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "TechCrunch 创始人峰会议程揭晓：11 月 4 日在波士顿解锁筹款、招聘和人工智能见解",
+    "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+    "time": 1790202537065,
+    "score": 11,
+    "summary": "创始人不应该以最惨痛的方式学习最惨痛的教训。 TechCrunch 创始人峰会...",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "现代汽车转向机器人出租车，中国小鹏汽车瞄准全球自动驾驶市场 - 디지털투데 Been",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdlBfaWdoeUszeVloX3BwUWljaE5lMkpEcEw3SEVZVzV5NnhiNUJsVXFPeG1FUHpKMjdEcHNhQVRzOGFVOVR6eTJiTGxwbjFqWElsQlJMbDhpZmNiemFYTklHU3BxRmZLV2JkbVdRTE4xbXZPTmkxUlM4cS0wMHZLS3hhLUdiODNZR3NkY3J0aXdiS005ZFNsdGE5SVNCQlRUQ1NfTnVKLXQ?oc=5",
+    "time": 1790202537065,
+    "score": 11,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "华为在SMM ACM 2026上寻求非洲绿色矿业合作并与ZESCO进行业务洽谈 - 上海有色金属市场",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaGlKc3oxUEdoekZPSVlCU0NMNGpqaWlsWXpiZlB5Sk0tbzRuTGJ6Y1RmcHJfUVJLaVFNRFBwZXIzYXpfVHRwekdkWW5tUlYyMER3YzJSYVhQMEdWc0lONkZ3U0xyQ0l3czRSbkk0dFZyc2JPanA4eUxydHN1Z19RQkJraWwza280NTB1TXkyek83WFh1and1aXhuY2JrQTM5Yk0wcGV1dl9yT3RpLXZaRDVtbkwtb3VWekpwYVdJWGlaekQyeXduU3p3cDRQY2QwNG5jMFpKSWw3NDQ5ekRxandBYzdfU2pBRnFR?oc=5",
+    "time": 1790202537065,
+    "score": 11,
+    "summary": "Huawei Pursues Africa Green‑Mining Partnerships and Holds Business Talks with ZE...",
+    "source": "基建·矿产",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "科技巨头和核能领导者在 CERAWeek 上制造新闻 -- ANS / Nuclear Newswire - 美国核学会 -- ANS",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRjZBT3dXTHlySUN4Rm5WRm9YM01zRHFyb0xGUmRzRUZOSWt4R0lHYmRnR0tfLTVudi1TblFGSWRQeHJ4R18tcWNuQTRyNHFWY01YUlpycTQ4ZG4ybGhuUGZJQjdKMUNMbnN1VGRrbFV0M29xSGhLRVdIeFRTZXBrblpCdF9ILXkwMnVGQVJ1V0ozcE13akgw?oc=5",
+    "time": 1790202537065,
+    "score": 11,
+    "summary": "Tech giants and nuclear leaders make news at CERAWeek -- ANS / Nuclear Newswire ...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Tri-PvP：通过感知命题证据冲突揭示全模态大语言模型中的模态偏差",
+    "url": "https://huggingface.co/papers/2609.06011",
+    "time": 1790202537065,
+    "score": 10,
+    "summary": "全模态大语言模型（OLLM）联合处理视觉、音频和文本，但它们在跨模态下存在模态偏差...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "AMD 今年股价上涨 187%：获利了结还是买入更多？ - 24/7 华尔街",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR0txUGFnR1ZJMnR4R3V5SVZ4Ry1McUFYM09qN1hSWWdnR1I3SmNLSVpLc2ZvNmNNSVg2VFVySkoxbGs0cVVBOWcycWlfbUJuV0NPcEhpX3ZvU1lUbnJzczFmM0xLVW56TG1MdDNQTHZLa2V4cl9pQnhadlNPdU16T0c1dzNibUlCcG5kYzh3cGc2dXN5aV9xRkJWUEczY2tiXzN0U21rTE40MWRHTkVYV2JsaG94MGMyVE1QTjNIZ1BGcThRR1E?oc=5",
+    "time": 1790202537065,
+    "score": 10,
+    "summary": "AMD Is Up 187% This Year: Take Profits, or Buy More? 24/7 Wall St.",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "StableVQ：稳定矢量量化分词器训练的实用指南",
+    "url": "https://huggingface.co/papers/2609.26774",
+    "time": 1790202537065,
+    "score": 10,
+    "summary": "矢量量化 (VQ) 是离散视觉分词器的基础，它为现代自回归和掩模图像提供动力......",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "与 Rick Squire 一起寻找采矿价值 - 澳大利亚人报",
+    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQV1JPZUg5cm94Ri1OUmhOQVhHSzdYd0tQREwxd0JnN2VadDlqRl9hX2hoZi1oNDh3YkpvOHp4and5alk4b1N2alBMYjlIZGZOSVFFa1JKc2tPV1FSaE4zZ2FaeVF3LUhTYWJUZUsyVHF0Nm55RThfc0d4UlNjcVp5OHRrUTJiRTFYcTNrTWZyT3lORGJ4V3RNLUhrV3RMb2tJZTh5LWpZVF90dFZpNld5a2tiZGNRZEFhQWlnZDI3aUxzMTBVVUVBUDUyc2RPQXp3dW8zODZTLVN6MlRtSUhYMHZSbFFDaEtLeGxoRzR1M3dYV0hlS2RzZFhZWWp0MS1LSnJiODNuQ0VoQW5PNlFYc29Xel9PT29EcXZSYQ?oc=5",
+    "time": 1790202537065,
+    "score": 10,
+    "summary": "Finding mining value with Rick Squire The Australian",
+    "source": "基建·矿产",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Centrus Energy (LEU) 达成新的 HALEU 交易，但其估值仍被低估 - Simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbWZqNUpyNXY2WG05NXZLeDVwdjYxMTczWnA5MlBhMDZWS2xPNXIwaDVJT3BuS0dIbGlDU0hPMXQzWGRwNzZkMHR6RTBJSVpKaG9zeXVrZ2Myc3g0U3ZiSVdaRWVUMUMwSUtZdlBNY3VYZlZTaFJJWTJXeEdNd2laNkRHZ0VLcHlKTEY1UEhINmJFMjhkc3ZSWnkwdkdDODNBN2N1NXRSa015OFZaaXBnTXpvbHF2XzZlNWNDU21sNTB4ZVdCVGw00gHMAUFVX3lxTFAxZ3EzaE5uZG5oNU9iN1V4WWdYUkJ0R24zSFBMRUFER1VJYWh2WS15bmVfSDNFcnZsX2R0c0swM1dRbm1STnBmbXZLOHU5RkFMY0oxNWNVS091MWFabzhWMEl5LUJnQ0dBYUQ5NDhXR0Z5c3hfMjFfNVpOSWRoLVRvV1paeV9VTU1zcm9JVUZ2aDluY1RCMElKeDdPUjZ6NnI2cS1nbS1rb2l5WU44QkJMU19FZmtRRlE4TVhNc3RpcEJWNVZxbEhNMWNWQw?oc=5",
+    "time": 1790202537065,
+    "score": 10,
+    "summary": "Centrus Energy (LEU) Lands Fresh HALEU Deals On A Narrative That Still Looks Und...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Agensh：将组织智能扩展到 1,024 个代理",
+    "url": "https://huggingface.co/papers/2609.26781",
+    "time": 1790202537065,
+    "score": 9,
+    "summary": "多代理系统可以通过同时执行工作来减少复杂任务的延迟。几款开创性的线束框架...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "JEV 作为法官：有信心时接受，不确定时升级",
+    "url": "https://huggingface.co/papers/2609.26550",
+    "time": 1790202537065,
+    "score": 9,
+    "summary": "法学硕士作为法官可以对不同的任务进行评估，但推理成本和置信可靠性在......",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Jev是什么AI模型？不做自然语言生成为何引发热议",
+    "url": "https://juejin.cn/post/7687583607784636426",
+    "time": 1790202537065,
+    "score": 9,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "LensVLM：将长上下文压缩为图像，仅扩展相关页面",
+    "url": "https://huggingface.co/apple/LensVLM-9B",
+    "time": 1790202537065,
+    "score": 8,
+    "summary": "25 points · 2 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "25 行 Python 中的 Jev",
+    "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+    "time": 1790202537065,
+    "score": 8,
+    "summary": "600 points · 190 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "DoorDash 花费 140 万美元试图阻止 Mamdani 成为市长。现在我们知道为什么了",
+    "url": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
+    "time": 1790202537065,
+    "score": 8,
+    "summary": "259 points · 97 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "杰夫州",
+    "url": "https://www.producthunt.com/products/jev-state",
+    "time": 1790202537065,
+    "score": 8,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "YouTube 在 Studio 应用中为创作者发布了新的人工智能功能",
+    "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+    "time": 1790202537065,
+    "score": 8,
+    "summary": "YouTube 正在添加新功能来产生创意并监控缩略图的表现。",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Enveda 获得 3.11 亿美元融资，将更多源自自然的人工智能药物纳入临床试验",
+    "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "time": 1790202537065,
+    "score": 6,
+    "summary": "该轮融资对这家 AI 生物技术公司的估值为 20 亿美元。目前正在测试治疗皮肤病的药物...",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "浮动数据中心迈向基础设施规模 - 数据中心前沿",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSE0yMWxTUThkbGJ0UjU2V21mMm45WE5hZHphY2pteERUQWsxQ1M1MEtBRDVxNVhEZjJ0Z29iSFN3SVoxTjhrU05kVHlZRHlCeG5feVBtUGkxZ0ZxMlcweTctTWJCNEN0TkJyeTgxQjFkbmJRMFFsUDIwM2k3SXJieWgxWUJ1RFp6Zk90aFdZRkY5SXBlOHN3R3BJQTdocG9tVjhabkQzOWdrdlFNSDdkTmxBZFRVd0Iy?oc=5",
+    "time": 1790202537065,
+    "score": 5,
+    "summary": "Floating Data Centers Move Toward Infrastructure Scale Data Center Frontier",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "VSCode 的 SSH 代理是 Bananas",
+    "url": "https://fly.io/blog/vscode-ssh-wtf/",
+    "time": 1790202537065,
+    "score": 3,
+    "summary": "47 points · 30 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "古代神头上的神秘动物",
+    "url": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
+    "time": 1790202537065,
+    "score": 3,
+    "summary": "17 points · 3 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "标点符号的神奇力量",
+    "url": "https://www.newyorker.com/magazine/2026/09/28/on-the-mark-louis-menand-book-review",
+    "time": 1790202537065,
+    "score": 3,
+    "summary": "8 points · 1 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "显示 HN：带有交互式架构图的系统设计图集",
+    "url": "https://atlas-sysdes.vercel.app/",
+    "time": 1790202537065,
+    "score": 3,
+    "summary": "27 points · 7 comments",
+    "source": "HackerNews",
     "region": "🇺🇸"
   }
 ]
