@@ -1,140 +1,5 @@
 [
   {
-    "title": "接地动作模型：3D 接地作为机器人技术的基础",
-    "url": "https://huggingface.co/papers/2609.23863",
-    "time": 1790066984009,
-    "score": 5,
-    "summary": "操纵策略必须知道哪些对象重要以及它们在哪里，但当前机器人的预训练骨干......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "像世界模型一样思考，像 VLA 一样行动：将世界模型表示提炼成紧凑的机器人策略",
-    "url": "https://huggingface.co/papers/2609.24682",
-    "time": 1790066984009,
-    "score": 5,
-    "summary": "视觉-语言-行动 (VLA) 模型将观察结果映射到没有目标的行动，以解释世界如何响应...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "HuRo：将人类视频自动化以实现可扩展的 VLA 预训练",
-    "url": "https://huggingface.co/papers/2609.10706",
-    "time": 1790066984009,
-    "score": 5,
-    "summary": "人类视频数据集提供了丰富多样的交互数据源，可以补充昂贵的真实机器人数据...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "gzip 可以作为语言模型吗？",
-    "url": "https://nathan.rs/posts/gzip-lm/",
-    "time": 1790066984009,
-    "score": 4,
-    "summary": "91 points · 29 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "你好人工智能",
-    "url": "https://www.producthunt.com/products/hola-ai",
-    "time": 1790066984009,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Mira-Scene：生成 3D 场景的像素对齐布局",
-    "url": "https://huggingface.co/papers/2609.23796",
-    "time": 1790066984009,
-    "score": 4,
-    "summary": "单图像 3D 对象生成现在可以生成高保真资产，同时准确地将它们放入连贯的场景中......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "2BA.AI",
-    "url": "https://www.producthunt.com/products/2ba-ai",
-    "time": 1790066984009,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "CARE：针对愿景-语言-行动政策的经验引导原子纠正执行",
-    "url": "https://huggingface.co/papers/2609.24118",
-    "time": 1790066984009,
-    "score": 4,
-    "summary": "视觉-语言-行动（VLA）策略在机器人操作方面取得了强劲的表现，但一旦执行却仍然脆弱......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "1% 的代币就足够了：关于策略蒸馏中的梯度估计",
-    "url": "https://huggingface.co/papers/2609.24432",
-    "time": 1790066984009,
-    "score": 4,
-    "summary": "稀疏策略蒸馏（OPD）将教师监督分配给学生生成的轨迹中的一小部分令牌......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Harness-Zero：通过 Agent-as-Harness 进行 Harness Distillation",
-    "url": "https://huggingface.co/papers/2609.24974",
-    "time": 1790066984009,
-    "score": 4,
-    "summary": "代理工具是调解模型与环境交互的外部系统，可以显着提高代理性能...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "测量 Checker：GPU 内核基准预言机的突变分析",
-    "url": "https://huggingface.co/papers/2609.22220",
-    "time": 1790066984009,
-    "score": 4,
-    "summary": "LLM 生成的 GPU 内核的基准通过一些随机输入和宽松的浮点容差来决定正确性...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "VideoGen-Agent：增强视频生成代理",
-    "url": "https://huggingface.co/papers/2609.24997",
-    "time": 1790066984009,
-    "score": 4,
-    "summary": "视频生成模型的最新进展已经实现了高保真、时间连贯的视频生成。然而，这...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "宁静数据库",
-    "url": "https://www.producthunt.com/products/serenedb-krummelanke",
-    "time": 1790066984009,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "OneStream直播2.0",
-    "url": "https://www.producthunt.com/products/onestream",
-    "time": 1790066984009,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "视频流工作室",
-    "url": "https://www.producthunt.com/products/videoflow-studio",
-    "time": 1790066984009,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
     "title": "故事运行",
     "url": "https://www.producthunt.com/products/thestory-run",
     "time": 1790066984009,
@@ -8994,6 +8859,141 @@
     "title": "Wapi发送器",
     "url": "https://www.producthunt.com/products/wapisender",
     "time": 1790460770227,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "开放人工智能 (2015)",
+    "url": "https://openai.com/index/introducing-openai/",
+    "time": 1790474070930,
+    "score": 104,
+    "summary": "25 points · 12 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "NANO Nuclear Energy Inc. (NNE) 股票价格、新闻、报价和历史 - 雅虎！加拿大金融",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84UGcyRU04Q0gxVXhsbWZoYlByR1luOE1EbkN0eF9JMzlmdjVWVE13QnEyZldtYmluamI5Nm1ScWNWcHFsVXpidTlHMnJNN3lX?oc=5",
+    "time": 1790474070930,
+    "score": 16,
+    "summary": "NANO Nuclear Energy Inc. (NNE) Stock Price, News, Quote & History Yahoo! Finance...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "AMD 半导体销售额达 1 万亿美元，创历史新高 - Equiti.com",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ1BNOFBsd005Z29mM2RiWGZMSHFVV2R0dWhNaDBVNldMMW5KM0haU3A5c2xEd0RMV3NoZUJpclpja0ZCSFE3d05TdTN5MFRuVFV3djE0TUF5REwzOFBSdlhQOWF2aUZzZGxHLU9TWHh5d1IxYnFPVV9RVUdfSG9PcE1HVkcxZzlHRDgtTnpEalpxVUEyajNXdzZGOXhwZGcwdkdOTGRZcjI?oc=5",
+    "time": 1790474070930,
+    "score": 15,
+    "summary": "Semiconductor sales hit a record as AMD reaches $1 trillion equiti.com",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "对 Intel 8087 的正切算法进行逆向工程：不仅仅是 CORDIC",
+    "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+    "time": 1790474070930,
+    "score": 13,
+    "summary": "28 points · 5 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "买入 1 只 Agentic 人工智能芯片股票，卖出 1 只 Agentic AI 芯片股票 - 96配资",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYmRRY1dGTlFPMWozZm43ejVmSF9zT2lPME0yc09kZWdoTlBnRnllODBnVzdrUjVjRFJIZmRUUFhRVWl0SnVtbkNaRHdrMHhmcUI3ZnJGSXpnSGc2MG9rQTZFOXBrdk1lcWRWWFZKel9OdWlFcFlHaTlrMjJTbDNkNEdnSWlpYy1DMncyR3pfLVA?oc=5",
+    "time": 1790474070930,
+    "score": 11,
+    "summary": "1 Agentic AI Chip Stock to Buy and 1 to Sell The Motley Fool",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "这种核股可以让耐心的投资者致富 - 96配资",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSGp5THdOeHhzVXEyZnc5RElndTN0U2VJNzAwaVVta2hQODJMZ3lzT0RIWUI4bWM0YmVVN3RlcGJqT0c0VlczRE1Bek5pVTlnZFVOa2FPc1R4UERnZVVSVWJEekFSeHhOcXp2NURNODVvRTJJb3FrWU9jNHBWT1lkR3otMEN3MGlmb3dHN3pBMDNEVU51NEZ4eQ?oc=5",
+    "time": 1790474070930,
+    "score": 10,
+    "summary": "This Nuclear Stock Could Make Patient Investors Rich The Motley Fool",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Walter Piecyk 和 Grayson Brulte：Robotaxi 的瓶颈是仓库，而不是软件 - Finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlREZaMnNLXzJxMGdBNUQ0S0Y1VGxGb0NqVWJtZVpfOGl2SW9pZnNhRFpacjVLUUdFOG10S0ozWHFVazVveWkxQUt3dnNNeFlyU1BiVlNTNjlreWs?oc=5",
+    "time": 1790474070930,
+    "score": 10,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "人工智能时代不断发展的编程语言",
+    "url": "https://dashbit.co/blog/evolving-ai-era",
+    "time": 1790474070930,
+    "score": 9,
+    "summary": "30 points · 11 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "将 GLM-5.3-Flash 转变为类似 Jev 的决策模型",
+    "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+    "time": 1790474070930,
+    "score": 9,
+    "summary": "25 points · 9 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "别吹 Jev 了",
+    "url": "https://juejin.cn/post/7687793891199418374",
+    "time": 1790474070930,
+    "score": 7,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "Kairos 与三星就 EPC 服务达成 1 亿美元协议 - Neutron Bytes",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORUd4UEE3eEpiY2pOYWFTai05Yjd4UlcydFlqWTkweFViQlBUNTRnWkc5Uk9uYnYwY1hqNnJVR19QSl9LQVpwM2RUel8tMlcwazB2bjVHakZiMWlXeFo2aFhDaWpkbWo1Tzd2b2YxRzNpeUpkNURzNjcyZlFQWHZULUI2dWluWVJu?oc=5",
+    "time": 1790474070930,
+    "score": 6,
+    "summary": "Kairos & Samsung in $100M Deal for EPC Services Neutron Bytes",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "乔治主义有用吗？五年后",
+    "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+    "time": 1790474070930,
+    "score": 3,
+    "summary": "119 points · 65 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Go 并发提炼",
+    "url": "https://antonz.org/go-concurrency-distilled/",
+    "time": 1790474070930,
+    "score": 3,
+    "summary": "37 points · 9 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "生物学可能不是量子的，但它的数学是类量子的",
+    "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+    "time": 1790474070930,
+    "score": 3,
+    "summary": "14 points · 4 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "同意卫士",
+    "url": "https://www.producthunt.com/products/agreeguard-ai-terms-privacy-analyzer",
+    "time": 1790474070930,
     "score": 3,
     "summary": "讨论 |关联",
     "source": "ProductHunt",
