@@ -1,176 +1,5 @@
 [
   {
-    "title": "用于机器人操作的跨代理的递归线束蒸馏",
-    "url": "https://huggingface.co/papers/2609.33378",
-    "time": 1790676582478,
-    "score": 4,
-    "summary": "机器人技术的一个中心目标是能够在不断变化的任务和环境中进行操作。视觉-语言-行动（VLA...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "更改产品，保留参数：变压器的关联代数层",
-    "url": "https://huggingface.co/papers/2609.32814",
-    "time": 1790676582478,
-    "score": 4,
-    "summary": "快速矩阵乘法算法保持乘积固定，并寻找更便宜的方法来评估它。相反，我们问...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "OPD 的 RL 视图：用于样本高效 LLM 推理的最小二乘策略蒸馏",
-    "url": "https://huggingface.co/papers/2609.35505",
-    "time": 1790676582478,
-    "score": 4,
-    "summary": "我们通过强化学习的视角研究策略蒸馏（OPD），在...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "具有干净锚点的飞行中 KV 缓存可实现更快的自回归视频扩散",
-    "url": "https://huggingface.co/papers/2609.32540",
-    "time": 1790676582478,
-    "score": 4,
-    "summary": "少步自回归视频扩散通过将视频分割成时间块并生成长视频...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "在 Godot 中使用任何 C++ 库",
-    "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
-    "time": 1790676582478,
-    "score": 3,
-    "summary": "31 points · 7 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "里克利",
-    "url": "https://www.producthunt.com/products/ricly",
-    "time": 1790676582478,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "叶序：音频反应 LED 显示屏",
-    "url": "https://jagi.studio/posts/phyllotaxis/",
-    "time": 1790676582478,
-    "score": 3,
-    "summary": "146 points · 16 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "没有人会测试的系统",
-    "url": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
-    "time": 1790676582478,
-    "score": 3,
-    "summary": "61 points · 26 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "ColdIQ x Slack",
-    "url": "https://www.producthunt.com/products/coldiq-x-slack",
-    "time": 1790676582478,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "该服务器于 1993 年启动，目前仍在运行，但运行时间不会太长（2017 年）",
-    "url": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
-    "time": 1790676582478,
-    "score": 3,
-    "summary": "49 points · 12 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "由于葡萄酒需求下降，加州农民正在努力出售葡萄",
-    "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
-    "time": 1790676582478,
-    "score": 3,
-    "summary": "220 points · 516 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "从今天早上开始，Firebase SDK 正在导致所有 iOS 应用程序崩溃",
-    "url": "https://twitter.com/GergelyOrosz/status/2104825886922911981",
-    "time": 1790676582478,
-    "score": 3,
-    "summary": "64 points · 29 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "画 AI 漫画，别只会写“日漫风”：10 种画风、适用故事和可复制提示词",
-    "url": "https://juejin.cn/post/7690197651807633462",
-    "time": 1790676582478,
-    "score": 3,
-    "summary": "",
-    "source": "掘金·AI",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "我打回了 AI 写的 PR：新立 3 条规矩，第 1 条就有争议",
-    "url": "https://juejin.cn/post/7689029662157668390",
-    "time": 1790676582478,
-    "score": 3,
-    "summary": "",
-    "source": "掘金·AI",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "rohitg00/ai-engineering-from-scratch: 学习它。建造它。寄给别人。",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "time": 1790676582478,
-    "score": 3,
-    "summary": "⭐60.7k stars · Python",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "超武",
-    "url": "https://www.producthunt.com/products/supertake",
-    "time": 1790676582478,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "粘贴7",
-    "url": "https://www.producthunt.com/products/paste",
-    "time": 1790676582478,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "罐体问题",
-    "url": "http://www.jimsitu.com",
-    "time": 1790676582478,
-    "score": 3,
-    "summary": "116 points · 25 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Block Game 中的软件遮挡剔除",
-    "url": "https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game/",
-    "time": 1790676582478,
-    "score": 3,
-    "summary": "11 points · 0 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
     "title": "你愿意付钱吗？",
     "url": "https://www.producthunt.com/products/would-you-pay",
     "time": 1790676582478,
@@ -8994,6 +8823,177 @@
     "title": "皇冠！",
     "url": "https://www.producthunt.com/products/crowny-2",
     "time": 1791040517185,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "英伟达股价创历史新高后值得关注的 3 只人工智能芯片股票 - 雅虎财经",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGtKSEV2U3hSYWE5djM3VUZKVEpqYmRZTENGZWtqT3JhMkdHLW5pYk1hY0ZoZlB3WFJGaHU1WFJ2Sm1RNHJCLV94US1JcFlPRzkyN3VPTm9SbFVFT0xQc1E1eDZjZ1hLMnV4VGd2N0xpTEd6TjhoN3h2blpUR1NGMjV1YzRXR3h5cHhxSFRDMA?oc=5",
+    "time": 1791053432341,
+    "score": 111,
+    "summary": "3 AI Chip Stocks To Watch After Nvidia Stock Hit A Fresh All Time High Yahoo Fin...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "OpenAI 安全员工辞职，声称公司“文化被破坏”",
+    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "time": 1791053432341,
+    "score": 106,
+    "summary": "大卫·罗宾逊 (David Robinson) 自己承认，他“有点陈词滥调”：一家领先人工智能公司的员工……",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "OpenAI、软银投入 600 万美元用于当地儿童保育；特朗普在人工智能峰会上大力宣传数据中心 - The Athens Messenger",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNcmRhRU1zZnFHZngzeVI1WXNObnZYby0wUnJrcnZ1dElDM2xLbUJnTks1VjROVXUwUHQtZHE4b25Nc1Ntd2ZTM2gtYk05SXBVNHduZXQwUVZ1cm5adDc3ZTRqMTMyR3hKRWxzUkZTc2YtcXRxeHJpY00zbU9YZnpFRXYwa2RMbnRNZTBVOGFpV3ZkXy1nV29ZdEs4WDlxeFBibHVIR1E2VjFQOUVOUXdZQzh4aGNzQkRBbGR0MXIwa1NiZkszUWRnOXI4NjhHYUV6OGZSdlZtZ1pWMHVFY3I2c2p6UTRCRHdCTGRWWjlvRVNrNkR5ZFJlaE9faGJWZW04Y0xKdA?oc=5",
+    "time": 1791053432341,
+    "score": 106,
+    "summary": "OpenAI, SoftBank putting $6M toward local childcare; Trump touts data centers at...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "如果没有这家公司，人工智能芯片革命就不可能发生 - aol.com",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IVUlBbS1SdUpqeS1fNG1TelowNGZRMWtENW5qQ0J5c2NxTTNPS2dZMWpxOGlZeDdBNVZXbVU1aGZpUGFpTEVpREY3QkV3c3h0dFUwMHIzLUJXRDNqdGd1SC0tYl9WRnVOVHZMZjNPQ1RNTEw1NHJablUtTQ?oc=5",
+    "time": 1791053432341,
+    "score": 16,
+    "summary": "The AI Chip Revolution Wouldn’t Be Possible Without This Company aol.com",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Meta 资助七座天然气发电厂为最大的数据中心供电 - EnergyNow.com",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUzcyeGI1Vjd2aExhV1VVZ01SaFl0QnpmcndvNGpZUkhkVkZVeVRHTGlvR2VEV0VLb2piemNQbHZ4c2ZDbV94Y0hoYlIyQlpUVkRHZjlHNWJ6eTY3OVQ2NUw3bFJwNzdiN3JCSU1XVU5oWG1GMnJBNGJ1NzluUFVjZ3RCTWhiTGtIS2NhZVUyc1c?oc=5",
+    "time": 1791053432341,
+    "score": 15,
+    "summary": "Meta Funds Seven Gas Plants to Power Biggest Data Center EnergyNow.com",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Volantis 筹集了 8800 万美元用于连接人工智能和存储芯片的技术 - ET CIO",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbFVaWV96TXZKNDAzV1RnNG9vQ1o2cDlnc0Y4cFRzR01nMnJvSHFwNzcycjU3NVBIOW5XMU41RFRkME9FQU9TNG9XcnVXUkVuQk5lSFNpOGplT1pzRGFlZWZOMFBTRGZuWFZwZGk4eDZCTk1WejR3aHI5VXptLXJ3bEdDZUtNa1JDSFZuMTlPQ2dDbWFLekttdWo3YmxlWHhwTGtuQmpUYVNZZkV1dUhKSnJVZHBKNXdnR0RiVThpN0cyNXlnNUlsMm1CdFR0eXZKbjRwS3pXTFFab2VS0gHcAUFVX3lxTFBsVVpZX3pNdko0MDNXVGc0b29DWjZwOWdzRjhwVHNHTWcycm9IcXA3NzJyNTc1UEg5blcxTjVEVGQwT0VBT1M0b1dydVdSRW5CTmVIU2k4amVPWnNEYWVlZk4wUFNEZm5YVnBkaTh4NkJOTVZ6NHdocjlVem0tcndsR0NlS01rUkNIVm4xOU9DZ0NtYUt6S211ajdibGVYeHBMa25CalRhU1lmRXV1SEpKclVkcEo1d2dHRGJVOGk3RzI1eWc1SWwybUJ0VHR5dkpuNHBLeldMUVpvZVI?oc=5",
+    "time": 1791053432341,
+    "score": 11,
+    "summary": "Volantis raises $88 million for tech to connect AI, memory chips ET CIO",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "铀价刚刚打破 19 年新高，但核库存却在崩溃 - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNR004RXNRcEFtZy1tS1BfRlNnd1k3cWo2bTVYU2hLRmFnUlVuY2lYd3Z2OW5mTU04UFZ0N1FoRF9lazJXakNBUm8wSGtSelRWaDdBakRpeHdFTldRQURVbXZRd01FTWlsNk9oTWtjUXJnbmhMaFJTRTBkMXd2TGZwR3pwbnd2OEI3UUY0YTBUZzQtb3NJcGNJRWVwWUZZak45bm1KMUNreTJQUE5CWnVxeEVIa1FHc3lEcjB1MWctZ2ZORHZtVXMyWjRSTDFMRlowSVMwQTlZTjRKUDk2MmVyMWtZc3hubXJQZzNVQjdBd0l1b0Rl?oc=5",
+    "time": 1791053432341,
+    "score": 10,
+    "summary": "Uranium Prices Just Broke a 19-Year Record, but Nuclear Stocks Are Collapsing An...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "MPEG-2 传输流和最小起订量：是的，MPEG-TS 今天仍然相关",
+    "url": "https://www.red5.net/blog/mpeg-2-transport-streams-and-moq-yes-mpeg-ts-is-still-relevant-today/",
+    "time": 1791053432341,
+    "score": 8,
+    "summary": "15 points · 3 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "亚马逊回应数据中心的强烈反对，表示不再使用保密协议",
+    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "time": 1791053432341,
+    "score": 5,
+    "summary": "亚马逊网络服务公司的首席执行官试图反驳人们对数据中心的普遍怀疑。",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "铀版税（UROY）提交货架登记，股票是否被高估？ - 简单的华尔街",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNzRNZGNRR3c2dUdNdTA0a2ZVYXZMaktzeWhYczJBZ3YyV2JwR1JYMTFNQXU3VU13X2ZKZGZJaXBIRF9QeDlLY1ZOclZWdXluNV9OQ2RuSml1X0VueVZleF9oekVJQVIwUGEtVkI0Q1RobVNDbnYxWWhFVERYa29wVXcwQndOS0w3RENwU3ZBYzM3eF85SGJzQm5UUDE5RzV5NE9kbk9Fd0daMmdPMmFIRGMyUElpSkpuOFd2MFhiQ2dkazh2Uk1JLVJJLTVzc3FI0gHWAUFVX3lxTE1xZ1N3M0t3QXpZdldoR1ZUVURfeGFnTU5URy1GSUZ3bVFxd0d0Nlh4UmhJQ0RjTXdxUGFEbFNsRjg1SG42c1RUX1VOZVVfRnkxNTM4MlU1eVdPbVIxZmJWTXVPTVo3b3JwVTFibnViUTFBaFZFUXVUb3lDdDA3UjVQOU1FYjNvbVU2d0REaFdvQi1ici1KSkc2SGx3YXdQM1JXWVNBYjl6UkRYSjZxT0x1QnRSZzJSYjhlX1MydWVjci1JRVBINmUzOUxtODJ2dml5WWNXa3c?oc=5",
+    "time": 1791053432342,
+    "score": 5,
+    "summary": "Uranium Royalty (UROY) Files A Shelf Registration, Is The Stock Overvalued? Simp...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Kolibri – 技术报告 [pdf]",
+    "url": "https://aleph-alpha.com/downloads/tech-report.pdf",
+    "time": 1791053432342,
+    "score": 4,
+    "summary": "23 points · 1 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "FTL：新的云操作系统",
+    "url": "https://ftl-os.org/",
+    "time": 1791053432342,
+    "score": 4,
+    "summary": "94 points · 43 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "RetailReady (YC W24) 正在招聘",
+    "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+    "time": 1791053432342,
+    "score": 4,
+    "summary": "1 points · 0 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "多动症、自闭症或复杂的创伤？ [pdf]",
+    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf",
+    "time": 1791053432342,
+    "score": 3,
+    "summary": "54 points · 4 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "打孔：将你的宇宙飞船抛向引力场",
+    "url": "https://notoriousbfg.com/hole-punch/",
+    "time": 1791053432342,
+    "score": 3,
+    "summary": "13 points · 0 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行 pi 编码代理",
+    "url": "https://pipod.dev/",
+    "time": 1791053432342,
+    "score": 3,
+    "summary": "10 points · 3 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "戈芬凤头鹦鹉的身体意识",
+    "url": "https://www.nature.com/articles/s41598-026-57500-7",
+    "time": 1791053432342,
+    "score": 3,
+    "summary": "24 points · 3 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Show HN：我们的太空游戏有一个运行 Linux 的内置 RISC-V 模拟器",
+    "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
+    "time": 1791053432342,
+    "score": 3,
+    "summary": "24 points · 9 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "多路复用器",
+    "url": "https://www.producthunt.com/products/bmux",
+    "time": 1791053432342,
     "score": 3,
     "summary": "讨论 |关联",
     "source": "ProductHunt",
