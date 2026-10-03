@@ -1,167 +1,5 @@
 [
   {
-    "title": "GrapheneOS – 当应用程序运行缓慢时",
-    "url": "https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html",
-    "time": 1790621158264,
-    "score": 3,
-    "summary": "6 points · 0 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Databox 的 MCP 连接器",
-    "url": "https://www.producthunt.com/products/databox",
-    "time": 1790621158264,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "谁写了伊丽莎白一世最严厉的信件？",
-    "url": "https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/",
-    "time": 1790621158264,
-    "score": 3,
-    "summary": "7 points · 1 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "关于构建视觉识别生成器，纹章学和 Mon 可以教给我们什么",
-    "url": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
-    "time": 1790621158264,
-    "score": 3,
-    "summary": "41 points · 13 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Codex 本地自定义 Agent 与模型配置实战：TOML、AGENTS.md 和优先级",
-    "url": "https://juejin.cn/post/7688528701483827241",
-    "time": 1790621158264,
-    "score": 3,
-    "summary": "",
-    "source": "掘金·AI",
-    "region": "🇨🇳"
-  },
-  {
-    "title": "MongoDB CEO辞职加入Meta",
-    "url": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
-    "time": 1790621158264,
-    "score": 3,
-    "summary": "187 points · 175 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "精明销售",
-    "url": "https://www.producthunt.com/products/salesmartly",
-    "time": 1790621158264,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Nvidia推出新平台来控制流氓人工智能代理",
-    "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-    "time": 1790639929991,
-    "score": 117,
-    "summary": "随着最近出现的一系列流氓人工智能代理是否是迈向 AGI 的一步还是更进一步的争论愈演愈烈。",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "不是英伟达，不是AMD。博通的定制芯片业务正悄然成为人工智能芯片巨头 - 91配资",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZURMdm96V3pUS3pFMU96RWFXOElSUDF5Ql9mLUtLWF8zNW8xblJBcC14bW5kREFUb2tzTlhCME1na2tWeGNTeVFVblBudzE1YnBkdDVDYjk4X190ZWRQWUFOa0ZfN0tvTVhLdzZNRndnOXUyZ2l1YVduYWZqb2ptWFNfU2s5Z1lOc3A1M1pQUEFNUExhTHg2bQ?oc=5",
-    "time": 1790639929991,
-    "score": 116,
-    "summary": "Not Nvidia, Not AMD. Broadcom's Custom Silicon Business Is Quietly Becoming an A...",
-    "source": "基建·芯片",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "英伟达、苹果合作伙伴台积电揭示了如何阅读图表的线索 - 投资者商业日报",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGlkZjNxb1VTcUNZTzJWX3pPTWhfa21NRFBiTks4ZlZURVl1X0s3TFJzZWZKaVlhcFZZLUhWSHZBQVBtV1FLVVdsYzR4WmVvTnRrNDhFLVRuOFkyRmVWUmx4U3gwR04xRnNIUzBndTNqSEVHcUhabHZteUgtREEwVlNGbXVucTc0dFZURkNsR0F3RUZwdm9uTVVzbVVkaWVPMUhHVDgzNC10c1pKYVNnNDMwQl8wUUJkZzdFYVRydFozZw?oc=5",
-    "time": 1790639929991,
-    "score": 116,
-    "summary": "Nvidia, Apple Partner TSMC Reveals These Clues On How To Read Charts Investor's ...",
-    "source": "基建·芯片",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "由于人工智能漏洞引发安全担忧，芯片股下跌，但英伟达逆势而上：每日图表 - 雅虎财经",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRmw5ak5yb3R1Y3A0TGk2cVk0dEJDQkQzZkJTZVNQMGpvcDZHWVYyZ1RLN0g4cGtnSFdpdi1UbVl4LUNHcncwckV2bkNBZnByVkpSTTZjQkJIdmM1dHRlS3FraURNQW5jUHBPWFpiNDBDcjNCVk5WeVhYLUJ0U0Q3T0JfbTZIcVoyWXVrUE93NlMyWWlyYlMxODBScE5fRzZqMjZmbGY0eVAwaWhxLWI4TXpyZjNSRTZhWDNYZVRTRGdtd3dIQXpLcXJRNTBOb3VqSndMLWJZd3hTNmc5ZWdJdHM0ajAyQ1U?oc=5",
-    "time": 1790639929991,
-    "score": 112,
-    "summary": "Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend:...",
-    "source": "基建·芯片",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Nvidia 的玻璃封装推动可能重塑 AI 芯片 - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOFhEaWg2Qm1vVGM5WExJZmVrVHoxMFRrV0lmYnl6QWR1eXVoQUtha1dCV2F4bnhDLXprRFJSOTdOU1hBaWN4NDJKTXdIV0d4UU9PM05TemtLNVdBRnJXMXQ0eUdZd09ta1A2ZjJEQU9LaTZKUnpmajFKQUVjYjVvMndaVXRCRkZaT3EwRGMxR1JjVThySEViS0dNWQ?oc=5",
-    "time": 1790639929991,
-    "score": 111,
-    "summary": "Nvidia’s Glass Packaging Push Could Reshape AI Chips 24/7 Wall St.",
-    "source": "基建·芯片",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "据报道 OpenAI 出于安全考虑放弃了模型",
-    "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-    "time": 1790639929991,
-    "score": 108,
-    "summary": "人工智能实验室的一位高管告诉《华尔街日报》，相关模型显示......",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Anthropic 发布 Sonnet 5.5，称其为更便宜、更快的工作伙伴",
-    "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-    "time": 1790639929991,
-    "score": 106,
-    "summary": "Anthropic 发布了最新版本的中档型号，拥有更快的响应时间和...",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "OpenAI 似乎仍然无法控制所有流氓人工智能活动",
-    "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-    "time": 1790639929991,
-    "score": 106,
-    "summary": "周五，OpenAI 发布了一个新网站，专门介绍“错位报告”以及该事件的广度……",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Anthropic、Gamma 和 Clay 在 TechCrunch Disrupt 2026 上分享了企业实际部署人工智能时会发生什么",
-    "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-    "time": 1790639929991,
-    "score": 106,
-    "summary": "Anthropic、Clay 和 Gamma 探讨 AI 产品如何超越 AI 舞台上的演示……",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "谷歌正在淘汰 Gemini 的 Gems，转而支持“技能”",
-    "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-    "time": 1790639929991,
-    "score": 105,
-    "summary": "随着 Meta 的 Muse 和 Instinct 等一体式人工智能代理的兴起，谷歌选择终止一项功能……",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "交出方向盘：特斯拉 FSD 十三年风险、争议与进化之旅｜硅谷101 - Finance.biggo.com",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10T2lRa3hkY3QzLUZueFlxRFQzeThoM1Utai1SS3k2WFMtalM4bWYybXpyQ1hiSWJMZW9DbXB0c2pVRE5ZenJ6NmRtY3dNazVKc080NFRJMzdQcUp6eDVJ?oc=5",
-    "time": 1790639929991,
-    "score": 20,
-    "summary": "",
-    "source": "汽车·EV",
-    "region": "🇺🇸"
-  },
-  {
     "title": "Meta 推出企业人工智能平台，聘请 MongoDB 首席执行官领导新计划",
     "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
     "time": 1790639929991,
@@ -8998,5 +8836,167 @@
     "summary": "讨论 |关联",
     "source": "ProductHunt",
     "region": "🇺🇸"
+  },
+  {
+    "title": "Claude Opus 5.5 最新焚诀发布了！",
+    "url": "https://juejin.cn/post/7690930433831354378",
+    "time": 1790994161366,
+    "score": 103,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "Adv Micro Devices (AMD-Q) 新闻稿 - 环球邮报",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVnhKSVdSTHRfMktJS3gzRzl5cEEtYjlIeDhJNHluRUV6MWNfdTBERnl5WUZVdTFtWTBYSi1GUjdIZ1F2Tm5Lb2Y0QXp2RDlxbzhxdG4zX252MXU5Z1RBMXpOUVQtRWozRFcxY0Y5VGtPd2VRaTU3TFRISE4wckdPUG5LMA?oc=5",
+    "time": 1790994161366,
+    "score": 17,
+    "summary": "Adv Micro Devices (AMD-Q) Press Releases The Globe and Mail",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "We Energies 达成使用核能为 Oracle 数据中心供电的协议 - Civic Media",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbTlsRzdlbDZhc1AzR2lfMGpram84a01MSHFIckY2V3dLNjF3YnBmSlYtdUliTzExQURwVlpwVnd1X3VlVm9GYnpEekxhb1daZkdvbEc3TFllTzFXTl9oaEpTcFAtMDFRbVNvTFROTU1iRDNWTEVKX3B0R2JERXpmZTlsTGczVEFUQktnV2RSSDdNRXdnSGNSdzFleGd3c0gzTVN6M094RzNTOEFxS0RB?oc=5",
+    "time": 1790994161366,
+    "score": 15,
+    "summary": "We Energies strikes deal to power Oracle data center with nuclear energy Civic M...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "甲骨文计划为其威斯康星州数据中心购买核电 - 每日记者",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNODNtVVhnNWktN3VNZ3J4U0tRWlNQZXJkNmU4NFlCbkY4c1Z0ZDJrZkEzQ0hSaGFfYjkwS0pZWWRhek5DVmpVMExZdmNFSXplNVkxNDBiZDFmbFh6VlhnV3VubU16a2UteWJkZlVWRllBdDBFSlZkNER3WkZRTmZVd0o5TnBrdmEzUGxzVU9n?oc=5",
+    "time": 1790994161366,
+    "score": 12,
+    "summary": "Oracle plans to buy nuclear power for its data center in Wisconsin The Daily Rep...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "用 Jev 决策模型替换大型语言模型以实现低延迟边缘服务编排",
+    "url": "https://huggingface.co/papers/2609.22753",
+    "time": 1790994161366,
+    "score": 10,
+    "summary": "自然语言服务请求在执行开始之前可能需要语言模型决策，消耗部分资源...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Meta 希望您的下一个小工具融入 Muse",
+    "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "time": 1790994161366,
+    "score": 5,
+    "summary": "Meta 希望在您的电视和烤面包机中安装 Muse，因此免费提供代码。",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "脱发只是开始。 Ozempic 用户也报告了指甲问题",
+    "url": "https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821",
+    "time": 1790994161366,
+    "score": 5,
+    "summary": "32 points · 18 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "NTSB 初步报告：Prime Air 767 跑道冲出 [pdf]",
+    "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+    "time": 1790994161366,
+    "score": 5,
+    "summary": "14 points · 6 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "为什么十亿年的地质时钟控制着关键的矿产供应 - Discovery Alert",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5maGJQQ05iY0xLcHZ6UTJFaThhOE0xVHk3RmN2OVUwVkNIREFEalJDY181VHRlU3lQdm92MmhmLXhJcGZWR2tiSkh0Ym9ub2JTWndmNVA2VGFvZnpHUHpQaFlVYU0xbzZEMUxJQzEwUm9mUEhEWV9qWDVwNmEwZw?oc=5",
+    "time": 1790994161366,
+    "score": 5,
+    "summary": "Why a Billion-Year Geological Clock Controls Critical Mineral Supply Discovery A...",
+    "source": "基建·矿产",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "SpaceX 的 Starship 火箭首次进入轨道",
+    "url": "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/",
+    "time": 1790994161366,
+    "score": 5,
+    "summary": "进入轨道是一个重要的里程碑，它可以让 SpaceX 开始使用 Starship 进行常规商业……",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "macOS 中的完整磁盘访问更新",
+    "url": "https://developer.apple.com/news/?id=p6zjojqw",
+    "time": 1790994161366,
+    "score": 4,
+    "summary": "130 points · 72 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "明显导致癌症的事情",
+    "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+    "time": 1790994161366,
+    "score": 3,
+    "summary": "58 points · 26 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "斜线编辑器",
+    "url": "https://www.producthunt.com/products/slash-editor",
+    "time": 1790994161366,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "纬切",
+    "url": "https://www.producthunt.com/products/weftcut",
+    "time": 1790994161366,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "八个字节是一个数字",
+    "url": "https://blog.sebastiansastre.co/posts/eight-bytes-are-already-a-number/",
+    "time": 1790994161366,
+    "score": 3,
+    "summary": "6 points · 1 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "谱号",
+    "url": "https://www.producthunt.com/products/cloudflare-clef",
+    "time": 1790994161366,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "突发！字节内部大调整，QA直接转研发了？",
+    "url": "https://juejin.cn/post/7689818941397778478",
+    "time": 1790994161366,
+    "score": 2,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "31岁罗福莉，晋升小米最高职级22级",
+    "url": "https://juejin.cn/post/7691227873460125734",
+    "time": 1790994161366,
+    "score": 2,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
   }
 ]
