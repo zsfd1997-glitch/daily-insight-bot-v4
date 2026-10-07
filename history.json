@@ -1,284 +1,5 @@
 [
   {
-    "title": "亚马逊与 Constellation 签署 20 年购电协议，助力美国核电站建设 - NucNet",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPekFKMEc4X0JUMFphVzZQa1czdHlhYU1hbmMzR2w4MzhBLWp2NHlWSGljdXhRZERORDFnekF6S0ZzdzN1VkdjRm92WVVZTmZ3TnFfRVBYRHpQem9TQ2FidWJCTlBmVHk5Wk00U2xuY2VMcGlNNWNzbUpMTWozaEJLT0VzbEtzbXFkd04tcUZBc3BjZjdGVmxMRDRXc3ZEcFFmWVRmWW9NRTdUMmlodXExXw?oc=5",
-    "time": 1790897289993,
-    "score": 10,
-    "summary": "Amazon And Constellation Sign 20-Year PPA In Boost For US Nuclear Station NucNet",
-    "source": "基建·能源",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "DAGent：深度研究代理的评估然后发展规划",
-    "url": "https://huggingface.co/papers/2609.39154",
-    "time": 1790897289993,
-    "score": 9,
-    "summary": "深度研究任务需要智能体导航庞大的知识空间，综合多个来源的证据，并适应...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "MILO：通过精心策划的多代理进化实现自动线束发现",
-    "url": "https://huggingface.co/papers/2609.38349",
-    "time": 1790897289993,
-    "score": 9,
-    "summary": "现代代理系统将人工智能模型与控制执行和环境交互的工具相结合。哈内斯...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "重新思考潜在视觉推理：将潜在推理扎根于视觉证据",
-    "url": "https://huggingface.co/papers/2609.34563",
-    "time": 1790897289993,
-    "score": 9,
-    "summary": "潜在视觉推理 (LVR) 使多模态大语言模型 (MLLM) 能够以协同方式执行中间计算...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "CSS Bed：无类 CSS 主题用作 Web 开发的起点",
-    "url": "https://www.cssbed.com",
-    "time": 1790897289993,
-    "score": 8,
-    "summary": "30 points · 6 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Basedash 聊天仪表板预览",
-    "url": "https://www.producthunt.com/products/basedash",
-    "time": 1790897289993,
-    "score": 8,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "杰夫GPT",
-    "url": "https://www.producthunt.com/products/jevgpt",
-    "time": 1790897289993,
-    "score": 8,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "据报道，马斯克的人工智能聊天机器人 Grok 鼓励特朗普捕获委内瑞拉总统",
-    "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-    "time": 1790897289993,
-    "score": 7,
-    "summary": "据报道，特朗普总统在入侵委内瑞拉并抓获尼古拉斯之前征求了格罗克的意见……",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Opus 5.5 喜欢告诉你“这很重要”（以及其他人工智能写作告诉你的）",
-    "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-    "time": 1790897289993,
-    "score": 6,
-    "summary": "Opus 5.5 最大的亮点是“可靠”这个词，它出现的频率是人类的 23 倍……",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Lyft 支付 2.725 亿美元以和解有关司机分类方式的诉讼",
-    "url": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
-    "time": 1790897289993,
-    "score": 5,
-    "summary": "如今，零工经济驱动者被归类为承包商。这项和解协议清除了一项挥之不去的法律……",
-    "source": "汽车·TechCrunch",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "ChatGPT 现在可以为您虚拟试衣",
-    "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-    "time": 1790897289993,
-    "score": 5,
-    "summary": "OpenAI 正在为 ChatGPT 推出新的购物功能，让用户可以虚拟地试穿衣服……",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "通过位置选择性自蒸馏从语言反馈中培训法学硕士法官",
-    "url": "https://huggingface.co/papers/2609.38792",
-    "time": 1790897289993,
-    "score": 5,
-    "summary": "我们研究根据自然语言反馈来培训法学硕士法官，特别是对于判决取决于...的主观任务。",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "langgenius/dify: 在一项协作工作中构建 Agentic 工作流程、RAG 管道，并提供丰富的 AI 模型和工具支持",
-    "url": "https://github.com/langgenius/dify",
-    "time": 1790897289993,
-    "score": 5,
-    "summary": "⭐157.7k stars · TypeScript",
-    "source": "GitHub·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "投票选出《黑客新闻》针对人工智能提出的哪些挑战已得到解决",
-    "url": "https://stoppels.ch/goalposts/",
-    "time": 1790897289993,
-    "score": 5,
-    "summary": "60 points · 61 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "将一步生成模型与奖励加权传输蒸馏相结合",
-    "url": "https://huggingface.co/papers/2609.30840",
-    "time": 1790897289993,
-    "score": 5,
-    "summary": "一步生成器通过单个网络评估即可实现高质量的视觉生成，但它们的后训练是...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "数据中心私人电力：谁来监管用户侧发电？ - 数据中心前沿",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQalZLb0RZVGpuNVhCbjJHMnF4bXZFa3Rlc05zN1J2bS1nUzhvcjU5ektuTm5WR1dQZVR3ejlQNUp5Uzh4Tzd6cUZMdHI1MFhtLWplU3BsbHF6Yk1seEZFZ0t2VzNkSjJvOU5aaHFfOUtSUklmNDlEb0hmUmJFeDhEMExBeV9LWlBIUW0zajlwR3lvN2NlX1hOTFgwRm5CeHl5VjQzd193WXBzbFVJUVVKNUhXOWgxbzJabTdlVzU2enlfSkEt?oc=5",
-    "time": 1790897289993,
-    "score": 5,
-    "summary": "Data Center Private Power: Who Regulates Behind-the-Meter Generation? Data Cente...",
-    "source": "基建·能源",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "BiasReducer：奖励模型的自适应偏差缓解",
-    "url": "https://huggingface.co/papers/2609.32720",
-    "time": 1790897289993,
-    "score": 5,
-    "summary": "奖励模型对大型语言模型 (LLM) 的响应进行评分，并根据人类偏好指导 LLM 培训。然而...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "ArXiv 更新的速率限制政策",
-    "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
-    "time": 1790897289993,
-    "score": 4,
-    "summary": "52 points · 14 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "使用 Opus 5.5 发现渡渡鸟的新目击记录",
-    "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
-    "time": 1790897289993,
-    "score": 4,
-    "summary": "18 points · 1 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Aweb – AI 代理的通信",
-    "url": "https://aweb.ai",
-    "time": 1790897289993,
-    "score": 4,
-    "summary": "8 points · 1 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Tacit-TTS：从自回归解码到屏蔽预测，实现高效的无转录语音克隆",
-    "url": "https://huggingface.co/papers/2609.38658",
-    "time": 1790897289993,
-    "score": 4,
-    "summary": "具有自回归语义建模的 TTS 系统已展现出强大的零样本语音克隆性能和丰富的...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "完全投入",
-    "url": "https://www.producthunt.com/products/utter-in",
-    "time": 1790897289993,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "圆周率1.0",
-    "url": "https://earendil.com/posts/pi-1-0/",
-    "time": 1790897289993,
-    "score": 3,
-    "summary": "599 points · 199 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "SvelteKit 3",
-    "url": "https://svelte.dev/blog/sveltekit-3-is-here",
-    "time": 1790897289993,
-    "score": 3,
-    "summary": "68 points · 19 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "问 HN：谁在招聘？ （2026 年 10 月）",
-    "url": "https://news.ycombinator.com/item?id=49922569",
-    "time": 1790897289993,
-    "score": 3,
-    "summary": "134 points · 138 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Pi 耐用",
-    "url": "https://earendil.com/posts/pi-durable/",
-    "time": 1790897289993,
-    "score": 3,
-    "summary": "175 points · 16 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "自动变速箱——联网车辆的数据隐私研究",
-    "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
-    "time": 1790897289993,
-    "score": 3,
-    "summary": "128 points · 124 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "缺氧的水下区域可能不是“死亡区”，而是早期生命的线索",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
-    "time": 1790897289993,
-    "score": 3,
-    "summary": "69 points · 3 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "DSH 桌面",
-    "url": "https://www.producthunt.com/products/deepseek",
-    "time": 1790897289993,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "好友掉落",
-    "url": "https://www.producthunt.com/products/buddy",
-    "time": 1790897289993,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "半导体 ETF 2026 年回报率约为 Nvidia 的 3 倍 - 环球邮报",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMWVyX251MGtuSkxseHp1ZHFGMUVXdkpfQXpnVDNCWGVJU0xOcGJKM2RwdDl3bWE4d3JnQlVObkZJSm5EX0RVLURxTEFCTTJ0eU1EZmw5amJQM1RvU1kyTHhCV2wxMmhQRS1WMVBETHpBdVB1YnZzcjZrNUNMSVJIWHp4T29mVmY0NWJWVkxxc3hGcGZOSnZHeUNub1EyQ1oxSmRYWGRzQ0cydjZJTDdlbkxGeW1rNlROaFFhd1plS1pqMnM1V2I4dlU1TmdYdzRaSjh1N0FfenROdTA?oc=5",
-    "time": 1790908607264,
-    "score": 111,
-    "summary": "The Semiconductor ETF's 2026 Return Is About 3 Times Nvidia's The Globe and Mail",
-    "source": "基建·芯片",
-    "region": "🇺🇸"
-  },
-  {
     "title": "机器人出租车运营商将因阻止急救人员而面临罚款",
     "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
     "time": 1790908607264,
@@ -8998,5 +8719,284 @@
     "summary": "讨论 |关联",
     "source": "ProductHunt",
     "region": "🇺🇸"
+  },
+  {
+    "title": "OpenAI 给 AI 发了台电脑，可惜你还没学会派活",
+    "url": "https://juejin.cn/post/7691151105850654758",
+    "time": 1791341050042,
+    "score": 103,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
+  },
+  {
+    "title": "谷歌采用核能为其人工智能数据中心提供动力，承诺从 Constellation 购买 890 兆瓦能源 - SiliconANGLE",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSEtqa1MxTUVUQkhpellLMjNkTDZ6MGJ2UW5yNUxNN2JNa3pUNmh6dWZjNkJlZHVNLVRMYl9WVmNkRFJ5d1lySU1ZUUE0d0RSeTlJZHBBOVE1SzRCYXhjQndONGR0a1oyZERiQkpsakVWXzJSQzNSVTFKdkl5Nkk2Y1Itd3VhMVYtYklJX2M0Q2ZUbTBJS3F6T0pGaFZ3MGk0MHIzMExsTWtmV0NlT3VBTWdDdlhPWDYyLWJUcGhmN19Xekt5Qkk2Y1FobXVoTDc5TExGWnRBZjR3MlVNcFNnNXVqZ0xOdw?oc=5",
+    "time": 1791341050042,
+    "score": 16,
+    "summary": "Google goes nuclear to power its AI data centers, committing to buy 890 megawatt...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "数据中心给美国电网带来压力，谷歌支持“现有核电站”",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdV81QkhQWU5vWjRTSHhMaklJVDZxS0hJYWM5em9aUGF6Zy1TZGpsUjY5ZlE5dzEzM1IxU0VDUHJQbXNfcXBuUDhBeHhuX2czdFFERGRVOWxORUhvc1MwdmpCUjJ0T09RQ29ZNXJIOXhvbFpfSF85aHg0a1ZnZkkxYUNodjJkWHZ5ZUZISWhjQTVpSl9o?oc=5",
+    "time": 1791341050042,
+    "score": 16,
+    "summary": "Google backs 'existing nuclear plants' as data centres strain US energy grid The...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "核能贸易见底了吗？ Jan Van Eck 对 Constellation-Google 交易的看法 - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdmVjMGI0VFUtb3JDU3FIT3RzOVdxd2hNSEc4aTEwbjBJUzBwV3dfUHFtRmppU09VdzJKYkcwck4xVllhTFppRU9zWU95Z3J0RlhjSWRVOFpVcmZKTldEUU9kZzd6b0ZmMGVwWmp0bUh6WnJ5YzRJVmJwZFlrMmRyWTVZY3NoV3U5UGtkMkthTnRwaUduVVlxNFM0cnhzRU9ia2dQU1BqdnEwLUtoY1g0YVBRZUVUUlFna3RXM0FvMXhZb0ZzN21ZNnBxSzRiMWFDZmNFTEx2TWdmZ09INDFsMmdGUUVmc1pJQUdSSQ?oc=5",
+    "time": 1791341050042,
+    "score": 15,
+    "summary": "Has Nuclear Energy Trade Seen Its Bottom? What Jan Van Eck Sees In The Constella...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "AutoSciBench：用于评估科学代理的自主基准生成",
+    "url": "https://huggingface.co/papers/2610.05140",
+    "time": 1791341050042,
+    "score": 9,
+    "summary": "随着代理的快速发展，现有的基准可能会变得饱和，限制了它们区分功能和...的能力。",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "EVISKILL：可重播证据中的基础技能进化",
+    "url": "https://huggingface.co/papers/2610.05030",
+    "time": 1791341050042,
+    "score": 9,
+    "summary": "持续的技能发展使 LLM 代理能够从交互体验中积累和提炼可重用的程序知识...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "通过推测执行隐藏设备上级联语音代理中的工具延迟",
+    "url": "https://huggingface.co/papers/2610.07641",
+    "time": 1791341050042,
+    "score": 9,
+    "summary": "工具增强语音助手通常将自动语音识别、大型语言模型推理和电子...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "通过模块化可执行开发原语将工程应用于软件工程",
+    "url": "https://huggingface.co/papers/2610.07832",
+    "time": 1791341050042,
+    "score": 9,
+    "summary": "配备终端访问的大型语言模型（LLM）在自动化软件方面表现出了强大的能力...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "2026 年开发者状况",
+    "url": "https://2026.stateofdevs.com/en-US/",
+    "time": 1791341050042,
+    "score": 8,
+    "summary": "81 points · 25 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "到 2030 年，这 5 只人工智能基础设施股票的价值将达到 5,100 美元 - 环球邮报",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWVh3NEx4T0NCa1pPM2hPUjM1azZadlpGdW83bG1HLXhMOHU2c1FMMGhLZkhvelNxa3BmS250OG52eEhobU45QVF4ZzdreDJrZy1pWXR3ZDd1TWpfNHFrR0Q2eFR2UXp0NVpqY3M0cVBEM0xZYkRtalppMmI2dDIxRVNvVFhnczkxdGpoOTBzbkNia0dXMko1Vy1idXRlNmE5anNEek41YzdRbV9LamJwMTVSdnQ3Unp4azFSU1B1QWd6Xy1INndhR1Rha3ZXcWdkdExQaUVKVzByaUhIVURUVDRyWTg4dXlFWlM0Y2o1a2xDS19UbnZJS2N2X2dyNG8?oc=5",
+    "time": 1791341050042,
+    "score": 6,
+    "summary": "$5,100 Split Across These 5 AI Infrastructure Stocks Could Be Worth This Much by...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "世界模特的最后一次物理考试",
+    "url": "https://huggingface.co/papers/2610.08791",
+    "time": 1791341050042,
+    "score": 5,
+    "summary": "视频世界模型可以产生视觉上令人信服但物理上不一致的序列，引起人们对其可靠性的担忧......",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "HiPLEX：全双工语音语言模型的分层策略分解",
+    "url": "https://huggingface.co/papers/2610.07727",
+    "time": 1791341050042,
+    "score": 5,
+    "summary": "随着人类与人工智能的交互变得更加会话化，全双工语音语言模型能够自然实时地...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Strands Decider 2B：小型开源决策模型",
+    "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+    "time": 1791341050042,
+    "score": 4,
+    "summary": "16 points · 1 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Penguin Mail – 适用于 Linux 且具有 AI 功能的开源 Rust 电子邮件客户端",
+    "url": "https://penguin-mail.com/",
+    "time": 1791341050042,
+    "score": 4,
+    "summary": "81 points · 32 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "DistScene：用于 3D 场景生成的对象到场景蒸馏",
+    "url": "https://huggingface.co/papers/2610.06960",
+    "time": 1791341050042,
+    "score": 4,
+    "summary": "我们提出了 DistScene，一个通过联合建模环境来生成单图像合成 3D 场景的框架......",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "EmbodiedSmith：通过仿真中的递归自我改进飞轮缩放体现数据",
+    "url": "https://huggingface.co/papers/2610.07969",
+    "time": 1791341050042,
+    "score": 4,
+    "summary": "扩展机器人基础模型需要多样化的训练数据和可靠的评估环境。模拟提供...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "VeriFine：具身推理自我改进的规模验证",
+    "url": "https://huggingface.co/papers/2610.08761",
+    "time": 1791341050042,
+    "score": 4,
+    "summary": "自我完善的政策不断暴露新的失败模式，改变法官必须能够验证的内容。豪...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "从单一图像构建罗马",
+    "url": "https://huggingface.co/papers/2610.08790",
+    "time": 1791341050042,
+    "score": 4,
+    "summary": "单图像场景生成旨在从单个图像生成完整的 3D 场景网格，包括相机的表面...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "DuoMatching：用于少步视频生成的联合边缘分布匹配",
+    "url": "https://huggingface.co/papers/2610.03543",
+    "time": 1791341050042,
+    "score": 4,
+    "summary": "流媒体视频生成受益于分布匹配蒸馏（DMD），它与联合分布相匹配...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "基于选择的结构化推理：迈向高效的多模态搜索代理",
+    "url": "https://huggingface.co/papers/2610.01892",
+    "time": 1791341050042,
+    "score": 4,
+    "summary": "多模式代理通常在每个动作之前生成自由形式的推理。对于小型模型，有限的模型容量可以...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "DiVer：VLA 测试时间缩放的决策关键验证者学习",
+    "url": "https://huggingface.co/papers/2610.04933",
+    "time": 1791341050042,
+    "score": 4,
+    "summary": "扩展机器人数据和模型能力改进了视觉-语言-动作（VLA）策略，但进一步的进展正在建设中......",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "让法学硕士说出他们的想法：衡量和改进 CoT-可解释性一致性",
+    "url": "https://huggingface.co/papers/2609.38972",
+    "time": 1791341050042,
+    "score": 4,
+    "summary": "思想链 (CoT) 轨迹通常可以作为大型语言模型 (LLM) 如何得出答案的代理。然而...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "ALIVE：用于第一帧引导视频编辑的交互对齐对象插入",
+    "url": "https://huggingface.co/papers/2610.08779",
+    "time": 1791341050042,
+    "score": 4,
+    "summary": "当前的视频编辑器可以插入对象，但通常很难让它们参与交互，例如被挑选......",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "阿普托",
+    "url": "https://www.producthunt.com/products/appto",
+    "time": 1791341050042,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "易切",
+    "url": "https://www.producthunt.com/products/easycut-2",
+    "time": 1791341050042,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "谎言的代价：一个 Mineserver 的故事",
+    "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+    "time": 1791341050042,
+    "score": 3,
+    "summary": "10 points · 1 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "AnyPS5：将 PS5 二进制文件移植到 PC，无需仿真（映射 87% 的系统库）",
+    "url": "https://github.com/boykopovar/AnyPS5",
+    "time": 1791341050042,
+    "score": 3,
+    "summary": "118 points · 90 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "ESP32-C3 广告拦截",
+    "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+    "time": 1791341050042,
+    "score": 3,
+    "summary": "6 points · 0 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "夫妇因发布有关 Norm Macdonald 的帖子而在 2 年内被殴打 55 次",
+    "url": "https://www.cbc.ca/radio/asithappens/milwaukee-swatting-couple-9.7370118",
+    "time": 1791341050042,
+    "score": 3,
+    "summary": "70 points · 60 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "留图",
+    "url": "https://www.producthunt.com/products/staycharted",
+    "time": 1791341050042,
+    "score": 3,
+    "summary": "讨论 |关联",
+    "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "用纯 Java 做一个企业级 Agent Harness 平台：BizBuddy 的设计与取舍",
+    "url": "https://juejin.cn/post/7692084224499367971",
+    "time": 1791341050042,
+    "score": 2,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
   }
 ]
