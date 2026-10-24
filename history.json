@@ -1,176 +1,5 @@
 [
   {
-    "title": "FineSplat：精细补丁、本地组、详细 Splats",
-    "url": "https://huggingface.co/papers/2610.25011",
-    "time": 1792486434275,
-    "score": 5,
-    "summary": "前馈 3D 高斯分布 (3DGS) 有望通过高质量的新颖视图合成实现即时场景重建。 ...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "稀疏特征策略遗忘减轻了视觉-语言-动作模型中的状态幻觉",
-    "url": "https://huggingface.co/papers/2610.09496",
-    "time": 1792486434275,
-    "score": 5,
-    "summary": "视觉-语言-动作 (VLA) 模型通过利用丰富的表示，在机器人操作方面表现出了很强的泛化性...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "LIBERO-Industry：工业流程约束下的机器人操作基准测试",
-    "url": "https://huggingface.co/papers/2610.16782",
-    "time": 1792486434275,
-    "score": 5,
-    "summary": "柔性制造中的工业操作，例如高混合、小批量 (HMLV) 电子组装，需要机器人...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Go 将拒绝包含八个不可信 SPKI 的证书链",
-    "url": "https://github.com/golang/go/issues/82345",
-    "time": 1792486434275,
-    "score": 4,
-    "summary": "85 points · 30 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "利用短信拒绝指示实现多式联运安全",
-    "url": "https://huggingface.co/papers/2606.31876",
-    "time": 1792486434275,
-    "score": 4,
-    "summary": "多模态大语言模型 (MLLM) 的安全性取决于用于训练后对齐或激活的不安全多模态数据。",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "新人",
-    "url": "https://www.producthunt.com/products/the-new-beings",
-    "time": 1792486434275,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "ESP马赛克",
-    "url": "https://www.producthunt.com/products/esp-mosaico",
-    "time": 1792486434275,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "收到电子邮件",
-    "url": "https://www.producthunt.com/products/gotemail",
-    "time": 1792486434275,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "物理RSI能力从何而来？ LLM政策的观察尺度法则",
-    "url": "https://huggingface.co/papers/2610.26848",
-    "time": 1792486434275,
-    "score": 4,
-    "summary": "在本文中，我们系统地研究了物理递归的机制、缩放行为和泛化......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "ECHO：超越辅助多标记预测的高效因果自递归",
-    "url": "https://huggingface.co/papers/2610.24766",
-    "time": 1792486434275,
-    "score": 4,
-    "summary": "现有的多令牌预测（MTP）方法在设计上是辅助的：多水平损失主要训练模块...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "长上下文线性注意力的克罗内克德尔塔规则",
-    "url": "https://huggingface.co/papers/2610.26834",
-    "time": 1792486434275,
-    "score": 4,
-    "summary": "我们提出了 KronLSTM，一种基于 Kronecker Delta 规则的线性注意力架构，这是一种新颖的关联更新规则...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "BlenderWorld：根据现实世界参考对 3D 创建视觉代理进行基准测试",
-    "url": "https://huggingface.co/papers/2610.23986",
-    "time": 1792486434275,
-    "score": 4,
-    "summary": "多模式大语言模型 (MLLM) 的最新进展使它们能够充当自主代理，创建并......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "SpecMRL：在参数谱中重新设计俄罗斯套娃表示学习",
-    "url": "https://huggingface.co/papers/2610.26824",
-    "time": 1792486434275,
-    "score": 4,
-    "summary": "Matryoshka 表示学习 (MRL) 旨在通过联合优化嵌套来支持灵活的表示大小...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Nordwand Mono – 适合程序员和冒险家的等宽字体",
-    "url": "https://github.com/tywr/Nordwand-Mono",
-    "time": 1792486434275,
-    "score": 3,
-    "summary": "191 points · 57 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "国会大厦阿尔法机",
-    "url": "https://www.producthunt.com/products/capitol-alpha-machine",
-    "time": 1792486434275,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "OpenBSD 8.0",
-    "url": "https://www.openbsd.org/80.html",
-    "time": 1792486434275,
-    "score": 3,
-    "summary": "262 points · 76 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "恢复视网膜再生潜力",
-    "url": "https://www.nature.com/articles/s41467-025-58290-8",
-    "time": 1792486434275,
-    "score": 3,
-    "summary": "45 points · 1 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "潘萨",
-    "url": "https://www.producthunt.com/products/panza-2",
-    "time": 1792486434275,
-    "score": 3,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "WhatsApp的帮助页面隐藏了LLM说明：不推荐监管机构",
-    "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-    "time": 1792486434275,
-    "score": 3,
-    "summary": "397 points · 105 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
     "title": "给我打电话",
     "url": "https://www.producthunt.com/products/call4me",
     "time": 1792486434275,
@@ -8998,5 +8827,176 @@
     "summary": "",
     "source": "掘金·AI",
     "region": "🇨🇳"
+  },
+  {
+    "title": "泄露的视频揭露了工业规模的中国工厂如何拆卸数千台 RTX 5090 来为 AI 服务器提供动力——GPU 芯片和内存被拆焊并移植到鼓风机设计中；定制卡到 Nvidia Founders Editions on the chopping b - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPWEJjQi1za1l1bTI1SFNZcVBMeDJ6RFVQNWJ1RU5iWWVBQzFUN18wTndLek15MWplRmpTSW1rMklpSFBDbUZobk5WMXBsTlY2YzI5dVByWVdXTHYyNUp2OGUxaUk0c0NvSkZBcC1NbWtnQVR1ZXN6NDd6WmhBZ2lIbS1rVmhDVWlWbHJqZTh0UF9xLXpKSXYwNlYxUFJCUEJKTjNEVmVabTdRaDZ2RUIwNFBkUmd2T3FLNW1ZOHc5V1JDTkphb2JidEFhRjQ3Y3Q1RXRPajZRektKNG9KUVRQaVBQbkpJOXhXb2NrcVlnbW9ycTgwVE1CX0s1R3c5MVRDczZDRDZUNHlSTEVES1JlUzFENWprQTVWR2NNTlNtT05xUQ?oc=5",
+    "time": 1792866188874,
+    "score": 206,
+    "summary": "Leaked video exposes how industrial-scale Chinese factories are dismantling RTX ...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "在被迫选择的情况下，Grok 的人工智能模型选择了共和党人。 OpenAI 选择了民主党人。 ",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "time": 1792866188874,
+    "score": 107,
+    "summary": "一项新研究发现，Grok 的 AI 压倒性地推荐共和党候选人，而 OpenAI 的 GPT 有利于……",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "预测：到 2035 年，每月 200 美元投资 Nvidia 将值这么多钱 - 96配资",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjRKeXR1Y2ZxeVBnS21lRDA2S0t4a18yNHJfdVpwUS1DbC1qZEZ2NUFBdnBVMVk4QldTdlVYZjRNWml0LWNpdTNucFYwbVBnMzBjWjZyYV9DMEp2by1ma0lpNW84RUNwYTBpT0l4VHh3MEZHZlVLcU5ITld0Nzg5RjFQNi13eEZha0Z3M1ByVGx1aEVnRjRF?oc=5",
+    "time": 1792866188874,
+    "score": 105,
+    "summary": "Prediction: $200 a Month Invested in Nvidia Will Be Worth This Much by 2035 The ...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "GPU 解锁：Nvidia 3000 卡上的 FP/BF16 指令发出率",
+    "url": "https://github.com/Zagitta/gpu-unlock",
+    "time": 1792866188874,
+    "score": 103,
+    "summary": "103 points · 41 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Lucid 和 Uber 下一步将把机器人出租车带到休斯顿 - InsideEVs",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQmdZejRzMnA3ZU1aVWV6bHRNTEMwRmlMV2JNcC1FUVVtMm5CQy0zamtUZDRLMXoyd2NyNGxublkwZUZ6eFZDek1OTkdzRVIxdWJrblJodmxoUnluNEdsNEhqQ0xrUWwyRVJXSktUb0ZsdnhKdGVCWGYtVUNCSGFJVU5kT2dSc0pJVXdvOGRn?oc=5",
+    "time": 1792866188874,
+    "score": 20,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Ivy Main 和我列出了斯潘伯格州长新能源计划的优点（详细建模、“认真”）和缺点（无法满足数据中心需求；关于核电的荒谬假设等） - 蓝色弗吉尼亚",
+    "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQVVJOaFkxME1pZ2dqTEQ0N0ZwRFBfVVJOU0VOWENabGVvVGxoTDJ0ZVlhNzhpU25YUGN1WV91RDVEMVFRQUJPM241VE4yUlV2OUNYR1NvX2ktLUxNWWxFLThHT0t4cnpRdzJGR0s2M2xrV3ZTXzFRaHJ1anFMaFF3enh5QmpucWw3b0FvdklyYUJ4cHI3VGFJT1JWUDdNbkNUbFN6QlF5UW1xZkpHTWRIend3QVM3c1lBQTY1aTZJSmVmMm5ydlI1SW80azBGSWYwd3RkY0VzWG9PdmpieU9fQS1JZGJNNjlCTGVtSkV4M2FGTVk5Skc3dHZsblYxSFdXMzBqWkVlMXQ4SzJaZC1USEFGZENnXy1qQjljYVhkYUhYNEw2S0E4Y1BFeTZGeFB5dHN6VlU4WVdlTmhUSWc?oc=5",
+    "time": 1792866188874,
+    "score": 18,
+    "summary": "Ivy Main and I Lay Out the Pluses (Detailed Modeling, \"Earnestness\") and Minuses...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "台积电（TSMC）盈利创历史新高，股价仍下跌。这就是市场担心的事情。 - 环球邮报",
+    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNcHV6R253cW9GMTRkSElBdmJ3dy1ZdEFsNEVnM3ZqeC1fZ1hXS3Z3c2loNFRRclNNVkRJSnE0RE5JbmpXeUlYR2N1Uy01RmxHQUtMRGxwOUNsZkFKd1VZREczc3pwRnoxbWxneUczbVZyRVFoMWpuNm5vQnhEbEtqS3BNRzVsa3JoU3ZhcHFaeDk2Uk9QNlhSdjJiSjZFQi1Sdm9CY1U1ajZGYkFobnBPbFFpY3pOazBNdjBYUV9LR25MVnBEQmRkY3FtY2k1bHhiNkRwZUlTVnVMaTJHTDJvXzNHQkFHOVNZb0diVTJwNWhrNjNEb1Z2QzJDRkh2ZVB4VFZ5NFU3NUdIWnJobXRjSnZSTFFNbmdsZ2s0UEEzYw?oc=5",
+    "time": 1792866188874,
+    "score": 16,
+    "summary": "Taiwan Semiconductor (TSMC) Posted Record Profit and the Stock Still Fell. Here'...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Tesla FSD 在 I-80 公路上发生车祸导致 71 岁老人死亡 [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DNjBveURCdDZPY2hSVTU5MjFGcmVxekhBWDMzV0dOUHFkczJHWUx6M1ZqQTROY3hvb0tZQVRoYzhjeEtoTVkxZ0pET1dHQUtkdzh4WE9PN092NU5ZNHNsbXJwSlNkWkl4WGh6MHJsNXpiaVctZkFvWTBJTFQ?oc=5",
+    "time": 1792866188874,
+    "score": 15,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "面对怀疑：凯文·奥利里 (Kevin O’Leary) 位于艾伯塔省的大型数据中心面临公众的怀疑 - EnergyNow",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZm9SVlFwVHRhXzkycjNDbGl6Ri10TThqNlhLc3IxeThrUFlVLVhGX3ZIS1RUc1FLT284VGRNekFUTmhSRjZiZXZuVXFzWXpPYjJWZENCQlJLZF9Zb1JNZFVtM2NaUVB1cmp0VmVpbVRsUjZOaVNXa0o5N0hxWHJCX2dMbHV6TkZSOWpBMkkxSGlxd1NZd0tuMzk0TQ?oc=5",
+    "time": 1792866188874,
+    "score": 15,
+    "summary": "FACING SCEPTICISM: Kevin O’Leary’s Huge Data Center in Alberta Faces a Skeptical...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "当顾问加入转换推动时，投资者可能如何应对铀能源股票 - Simply Wall Street",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOUNpemJrVzhTSXdNOWRoS1V3ZTNrdHJBMW14VTRZRUZUUVYxNnh3blB6cEJEcm9UeWhDMHlwNk5SRExaUEVMSjlvR08xZF9adGc5akdsNm9mdUlrNXZTMXlBNnVUOERkQWFDYkNDQXBYT2hnaGxEa25UaWNneVhnNjNtcTNNdmdvdW81ZHZlbUVmYWd0ckgxY3FncU4wU282WDk4SXBfbml6Wmpib3NoMm8xTGVEQW92bzlNd293eWtORi00dnlxUDFIMNIB0AFBVV95cUxPWjhSbWJOb3ZoUTcxQjY1UEZtQXpTMDJsVGVsS2hxNVN6a1FySVdLTGhHYWh5VnFpTnJFa25JYjQxT3FSMFh2SU1TdGxIVDRjemRXZndHQVJ4UXRrTDhLRG9WS3NJUUNFWG54N1k4V2JISjV6TC13Umk4cXlnTkFLZ0xGeThabHgtbUhuRS02Q1FMdmNzaGc4T0ljcndqaFdYTzBXV3V5YzdyRW9NcUs1QmViWVMwQlBvMjBleWVOWVcxVW5lU19EbEMyZkZhbHRK?oc=5",
+    "time": 1792866188874,
+    "score": 10,
+    "summary": "How Investors May Respond To Uranium Energy Stock As Advisors Join Conversion Pu...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "神经芯片解码大脑区域之间的相互作用",
+    "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+    "time": 1792866188874,
+    "score": 9,
+    "summary": "46 points · 7 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Roku 开发人员存储库从 GitHub 迁移到 GitLab",
+    "url": "https://blog.roku.com/developer/gitlab-move",
+    "time": 1792866188874,
+    "score": 8,
+    "summary": "132 points · 78 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Cecilia Berdichevsky，克莱门蒂娜专家 (1961)",
+    "url": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
+    "time": 1792866188874,
+    "score": 8,
+    "summary": "14 points · 0 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Block 的新语音模型听起来非常人性化",
+    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "time": 1792866188874,
+    "score": 7,
+    "summary": "Block表示语音模型可以在MacBook M4 Max上本地运行",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "美光 AI 需求：为何内存供应越来越紧张 - www.equiti.com",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUllMdEpxZEZsZ01CRUpTMEQ1cmdHTE43RENZNWRWVm9mOGs5YzhQZl93NmZzQXpqR1VZZUxWQnpHMkZMTU9aVDF0V0pUWXFULU1ob3F0elJSX1J0SF84bGdVNk40Z0VuejQ1Uk5hQWNXN3JOT1BDR3VvRkxyQ3RodG9QeXMyMjgtRmc?oc=5",
+    "time": 1792866188874,
+    "score": 6,
+    "summary": "Micron AI Demand: Why Memory Supply Is Getting Tighter www.equiti.com",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "2026 年值得考虑立即购买的 2 只不受欢迎的股票 - 雅虎财经",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdUh0ekZoTUVZZjRxVHhxXzAyam5WcXRGdkQyMWlMOUZxdVRRdmxOODc3TzI5YV9fWjZ0cFJiQXRrcm0taVJDamF4dmJpZ3IwMnNBZDU3XzR0MHM2ZHd5NGZpOHZka3dtN3B5ckl3U3N2V1FWLXlSQWV5TGtybDJOT2ZBUjBpaE5xZ2NQVjN6QUJXNWxvZ2xRMEk0SQ?oc=5",
+    "time": 1792866188874,
+    "score": 5,
+    "summary": "2 Unloved Stocks of 2026 to Consider Buying Now Yahoo Finance",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "免费域名系统",
+    "url": "https://freedns.afraid.org/",
+    "time": 1792866188874,
+    "score": 3,
+    "summary": "157 points · 37 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "圣赫勒拿岛 5 便士硬币上的图案是乔纳森，一只大约 190 岁的乌龟",
+    "url": "https://de.numista.com/9866",
+    "time": 1792866188874,
+    "score": 3,
+    "summary": "44 points · 4 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Python 和 Julia 中的符号学习",
+    "url": "https://github.com/astroautomata/PySR",
+    "time": 1792866188874,
+    "score": 3,
+    "summary": "6 points · 1 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
   }
 ]
