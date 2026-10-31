@@ -1,95 +1,5 @@
 [
   {
-    "title": "SpaceX 与 Apollo 达成 40B 美元 GPU 融资协议",
-    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-    "time": 1793036399176,
-    "score": 5,
-    "summary": "SpaceX 已锁定约 400 亿美元融资的具有约束力的承诺，用于支付人工智能芯片的费用...",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "数据中心对水和电的需求越来越大 - KTTC",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmZTOWlLN3NtS2toYzZhVF95eG52R1dqRm5XRHNLRjhqdFhHNTFCOTVNb2lMVEJLY1FxSUpvX2FoQ2cyUFVjQ1hYSDZmU2d3cU4temxPTEQ5ckNoaWw2R0ZFXzMzRFQ5ZUV2ak04NzVYc0I1YWs0Um1Tb2tNeXZIX04yM1dUWElJRXRBRHU0REV6Y013YklF0gGrAUFVX3lxTE1EX0FFTUpRYlIyLWI2ejVDZlBmd3NRd0dsa2lxdk8tTmNUVEJHOEFUSW5Rd2JDSEVyanpxSS1RZ3pmYldoM0xobTFzdmZFSEVreHdjM3ZUdEV6MFZ0dGZ1R185amgtd1ZlVFIwMG9oRGwtaHdqWDhDbTY5dHEtWWFnd2tCSGhLalRDdGx1bEtyOVk3WThEdXZQSy1ka1EwOUpKRnF2aTd4czNNaw?oc=5",
-    "time": 1793036399176,
-    "score": 5,
-    "summary": "Data centers have become more and more thirsty for water and electricty KTTC",
-    "source": "基建·能源",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "电力和数据需求暴露了金属投资缺口 - Heavy Lift & Project Forwarding International",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTEYzM1hmOFZ0RGxZYU5JRHJoNUt5dFRtWF9YcjFZTEk3b0pKM0JGSUR4VEE5bktycmpMSWY4VF9QbnI1REpXcjZtazMxMEVZZzk1TEg5WjNRSk1QVnpqLTZpY2YzTXZWVF9lazhERmtnaXdHazY5VWluU1JRc2gxNV9HNmlGQ0g4dk9waDh2MjZuWERoVVphb3hIcDRlZw?oc=5",
-    "time": 1793036399176,
-    "score": 5,
-    "summary": "Power and data demand exposes metals investment gap Heavy Lift & Project Forward...",
-    "source": "基建·矿产",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Cameco 的 89 倍溢价估值能否在 10 月 30 日的又一次大失误中幸存下来？ - 24/7 华尔街",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSENJNmxXQk1YQzhraHdyVGUtdFFYQ1diVmpSS1k5MnRSR2VfdjVvaU5XQmRyUm93ZXR6ZjFWYXdiZ2M5ZktSaC00NXRqLWZXallqaE1XT0RIOVg4RnVCQ2xsLWVNMlBDV3FYVFo1UUZLdFJYQWt2MDF5Y3lIMm50VWxxeld2eThnMVB3ZXRhb2hURFVsY0hzbFhEZkhUS0pLS2Fud19DWHR1WWFTMzJHNGtR?oc=5",
-    "time": 1793036399176,
-    "score": 5,
-    "summary": "Can Cameco’s 89x Premium Valuation Survive Another Big Miss on Oct. 30? 24/7 Wal...",
-    "source": "基建·能源",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Git 不记录的内容：两个人工智能辅助研究存储库中的来源易读性",
-    "url": "https://huggingface.co/papers/2610.28655",
-    "time": 1793036399176,
-    "score": 5,
-    "summary": "出版商和资助者越来越多地要求作者披露人工智能工具如何为一项研究做出贡献。在计算...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "FocusVLA：视觉-语言-动作模型的未来意图引导动态视图路由",
-    "url": "https://huggingface.co/papers/2610.31423",
-    "time": 1793036399176,
-    "score": 5,
-    "summary": "通过统一视觉感知，视觉-语言-动作（VLA）模型已成为机器人操作的重要范例...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "LeWorldModel 是否保留局部动作几何形状？",
-    "url": "https://huggingface.co/papers/2610.31716",
-    "time": 1793036399176,
-    "score": 5,
-    "summary": "我们研究了预训练的 LeWorldModel (LeWM) 如何精确地再现微小动作变化的影响。使用匹配的模拟...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Sebastian Raschka 关于构建推理模型的从头开始视频课程",
-    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-    "time": 1793036399176,
-    "score": 4,
-    "summary": "240 points · 26 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "CSS-Tricks 有了新主人",
-    "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-    "time": 1793036399176,
-    "score": 4,
-    "summary": "131 points · 27 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "布莱斯·帕斯卡 (Blaise Pascal) 发明了固定路线公共交通 (2024)",
-    "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-    "time": 1793036399176,
-    "score": 4,
-    "summary": "191 points · 87 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
     "title": "观鸟可以重塑大脑并减缓认知能力下降",
     "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
     "time": 1793036399176,
@@ -8998,5 +8908,95 @@
     "summary": "101 points · 51 comments",
     "source": "HackerNews",
     "region": "🇺🇸"
+  },
+  {
+    "title": "Nvidia 考虑担任 Nscale 位于西弗吉尼亚州的人工智能数据中心的联合签署人",
+    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "time": 1793414821278,
+    "score": 106,
+    "summary": "当投资者对人工智能支出感到紧张时，让销售芯片的芯片制造商有所帮助……",
+    "source": "TechCrunch·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "晚间总结：随着黄金、稀土、铜和锂股因人工智能贸易困境而暴跌，ASX 200 放弃了早盘涨幅 - 市场指数",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVHJlTENZeXd5U18wRXBPQTRvUmd5Q3p1cUxGb2xyM1EyQlF6TjFrUmw5eDBYeDMxQWxwZWtwUjhEMUd3WHkwMXctN2xYbUxuVjNZakN2UFhtVXR5TUFyaG5kYm12X2dpYmZsRDJBaEpDUWZBdTlKOXJCc3FHWnF5bUtHZk1wZ1ZtdF9JQmdpc2JucnprQl9EbklCTkI4M2ZZcF9SeC1pRmlBUQ?oc=5",
+    "time": 1793414821278,
+    "score": 21,
+    "summary": "Evening Wrap: ASX 200 surrenders early gains as gold, rare earths, copper and li...",
+    "source": "基建·矿产",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "美股暴跌纳斯达克跌2.8% 英特尔暴跌31%破坏AI涨势 - BigGo财经",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPdEF2cE9vNjZ5cHhfejNSUk5aU2xqWXM4RUFQN2Z6VjRUZDI5QXBZa3VKN203dEtPbjMwX21ScWt2UVdoUzQ4X3lWQWo1TjNYZngtcGVqMFR4SF9UZ28ybThkOXBEWkdtbjhqeGd6YV9HZ2pNdUE?oc=5",
+    "time": 1793414821278,
+    "score": 11,
+    "summary": "US Stocks Plunge, Nasdaq Falls 2.8% as Intel's 31% Crash Cracks AI Rally BigGo F...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Waymo 拉斯维加斯实地报告｜自治之路 - Finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYVzB3VHNyQVlJWUExUFRmYXM5UXBqZE1pUnBWYjYydjNQS0pDZXNUVDA1TVRDMjlQNVRxcTl1VFB1ZkMyTDdrdks5ZjJ3VW5vTFgxX2F6NTZ5M1lYQ3lN?oc=5",
+    "time": 1793414821278,
+    "score": 11,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "能找到你的机器人出租车、自动挖掘机和无人机｜自主之路 - Finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TRy1OdngzLU1aMVZTTEJjcU5uODhsRlZHZFkzOXRZS3NHQWpvZHU4NW5McGlqRmt6aGh5UDI4T0lMYzZkUEFtekdTSjNBN2k4OUo1Z2otQmZ5UDRmSXRj?oc=5",
+    "time": 1793414821278,
+    "score": 10,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "美国宣布为八个项目提供 5000 万美元，以推进下一代核燃料 - NucNet",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRmJ6VUNwbnJrWHVwMU94MjB6bzliX3IxSzBETE9pZEp4NzNPZEVqaC1BRmlZNFQ5Sm1FSWUtVHFpSUQwQkRFUnJ6eFVSUi1NOEV6Sm8yemMwejh0Q3hLdnl6WlBCTUZLaU5pYzNkQlA4WUhhbXZsbzZEZEtwamlDeGIyTzhTZ0VvM19Dbm05a1VGWkthNTdKa2V3bzE0Vkd3MWpvOWFBRWRJSU1zZmxZZk92MUcwWXBRQW4yNkJRYV9RZw?oc=5",
+    "time": 1793414821278,
+    "score": 10,
+    "summary": "US Announces $50 Million For Eight Projects To Advance Next-Generation Nuclear F...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "安永关键矿产风险展望：为矿山团队解释运营复杂性 - Geomechanics.io",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPai1GcnRUUk1IVVBpNHhDZE9nUHFEV0s5SFBRb2JxdUUxNmlaQU50RHhybkFqMXBKdUJKMkM5NnBfSEQwWEZPOG5icDM5YnZYMkhQRllaelhDTzh2V2s5RGE5czVmeU9jYmJKSEhER3ltWWJQS1FGM0kyMjZGY2hvbE5CYm1ENVJONzFUaU5mdzY2SVJzay1iY3BRdXBVOU5rZndRYk0xYlVqMWctWGtCV2oxNG5HRmFIYlBpZ2d5Zw?oc=5",
+    "time": 1793414821278,
+    "score": 6,
+    "summary": "EY critical minerals risk outlook: operational complexity explained for mine tea...",
+    "source": "基建·矿产",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Show HN：为了纪念帕特里克·斯图尔特爵士，享受 TNG 剧集猜谜游戏",
+    "url": "https://tng.episodle.com/",
+    "time": 1793414821278,
+    "score": 3,
+    "summary": "80 points · 23 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Cloudflare Turnstile 解算器库（无需无头浏览器）",
+    "url": "https://github.com/chris124567/cfsolve",
+    "time": 1793414821278,
+    "score": 3,
+    "summary": "108 points · 31 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "别学 subagent 了，很可能要凉了。",
+    "url": "https://juejin.cn/post/7702012705843232810",
+    "time": 1793414821278,
+    "score": 2,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
   }
 ]
