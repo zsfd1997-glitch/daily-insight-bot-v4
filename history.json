@@ -1,131 +1,5 @@
 [
   {
-    "title": "RoboHarness：简单的安全带优于 VLA 和世界动作模型",
-    "url": "https://huggingface.co/papers/2610.14018",
-    "time": 1793092939878,
-    "score": 5,
-    "summary": "大型语言模型 (LLM) 的兴起开辟了通向通用型具体化 AI 的道路，提出了 LL 如何...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "超越基准：小型开放权重模型能否完成真正的编码工作？",
-    "url": "https://huggingface.co/papers/2610.34241",
-    "time": 1793092939878,
-    "score": 5,
-    "summary": "让开放权重语言模型生成文本与让它完成编码工作不同。此次回顾展...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "重新思考人工智能训练的视频存储：打破跨帧依赖以实现高效随机访问",
-    "url": "https://huggingface.co/papers/2610.33079",
-    "time": 1793092939878,
-    "score": 5,
-    "summary": "大规模人工智能训练越来越依赖于具有随机时间采样模式的海量视频数据集。然而，电...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "用于可扩展预训练和持续学习的嵌套稀疏性",
-    "url": "https://huggingface.co/papers/2610.31818",
-    "time": 1793092939878,
-    "score": 5,
-    "summary": "专家混合 (MoE) 变压器是现代大规模深度学习的标准支柱，采用条件协同...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "人工智能时代的神话人月",
-    "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-    "time": 1793092939878,
-    "score": 4,
-    "summary": "101 points · 83 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "更多内存，更好的视频？长视频生成中视觉记忆的对照研究",
-    "url": "https://huggingface.co/papers/2610.35001",
-    "time": 1793092939878,
-    "score": 4,
-    "summary": "长视频生成器越来越多地检索过去的视觉观察结果，以防止身份漂移。直觉是一种强迫...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "新的“昼夜节律”抑郁症亚型影响四分之一的患者",
-    "url": "https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients",
-    "time": 1793092939878,
-    "score": 4,
-    "summary": "43 points · 15 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "他们说4.0",
-    "url": "https://www.producthunt.com/products/theysaid",
-    "time": 1793092939878,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "品味应用_AI",
-    "url": "https://www.producthunt.com/products/savor-3",
-    "time": 1793092939878,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "离网人工智能",
-    "url": "https://www.producthunt.com/products/off-grid-ai",
-    "time": 1793092939878,
-    "score": 4,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "EmbodiedLab：对行动了解的体现代理进行基准测试",
-    "url": "https://huggingface.co/papers/2610.35385",
-    "time": 1793092939878,
-    "score": 4,
-    "summary": "实体代理有望通过自己决定如何以及何时与……交互来实现现实世界的目标。",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "菌丝体：跨起源、类型学和粒度的幻觉检测的元研究",
-    "url": "https://huggingface.co/papers/2610.33608",
-    "time": 1793092939878,
-    "score": 4,
-    "summary": "幻觉检测对于评估和部署大型语言模型越来越重要。然而，现有...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "人类在太空中：MLLM 能否通过主动的外心探索构建以人为中心的空间理解？",
-    "url": "https://huggingface.co/papers/2610.34149",
-    "time": 1793092939878,
-    "score": 4,
-    "summary": "虽然多模态大型语言模型 (MLLM) 擅长零样本推理，但它们的空间能力主要是...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "S3AC：用于 LLM 推理的稳定、选择性和可扩展的 Actor-Critic",
-    "url": "https://huggingface.co/papers/2610.35518",
-    "time": 1793092939878,
-    "score": 4,
-    "summary": "无批评方法广泛应用于具有可验证奖励的强化学习（RLVR），用于长链思想（...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
     "title": "HiP3R：用于长视野 3D 重建的分层姿势图",
     "url": "https://huggingface.co/papers/2610.31635",
     "time": 1793092939878,
@@ -8997,6 +8871,132 @@
     "score": 3,
     "summary": "讨论 |关联",
     "source": "ProductHunt",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "INTC、AMD、AVGO：Nvidia 发布井喷报告后芯片股盘前上涨 - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQUU4dTZXYndUX2YwZlZ6VmR6d3JoV2dDbE1XR1FKS0p2YTZScmlIclZkTUxxb0paRW00TEgwVlE1Qk5hT3BnM3J4eVZqVDBpZ3o1blFiYTQ5M2t3OTlJU3pud01kVlJYQzFVaF82a2xfWXRfM2R2MzBVRDczX0pnRkpPZ3dpam03QlhibkliRnQ3NWhJU25VM0d1bVlvSm02bjJaV2pjZlJwTUpVVnZCMHRxYjFFd2Q2RXRNOFl3ZkItc0llS0JKR2dVN1VORDg?oc=5",
+    "time": 1793500793181,
+    "score": 116,
+    "summary": "INTC, AMD, AVGO: Chip Stocks Jump Premarket After Nvidia's Blowout Report Stockt...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "泡沫破灭：英特尔股价下跌 28.58%，市值缩水 1300 亿美元 - 专栏 - 欧亚评论",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcEdKT2Z0N1pfLTNWODR0MlYyNU5JSnFTTldkZkx5bnRVWnZqQUtROUY5OTBudXBKR2tCc1pjN3RJZC1wTURqVFpnTTV4TmVTSzM0c1pSVkV2VUhXYlBkX25rQTRqXzhGRS04RUZWYXAteG5hVzlEZVJLV2htMnhoNWtFWWNQUTc5X210d2l6T2QxYnd4RmgyaXpncWRlTi1jSGZYMnNoZUVXeTBTRTVjcWdlRmpVVkU1bzdLVXNGMEdOU1JxN0JtRWpn?oc=5",
+    "time": 1793500793181,
+    "score": 15,
+    "summary": "Bursting Bubbles: Intel Falls 28.58%, Leaving USD130,000 Million In Market Capit...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "什么是AMD？它会成为下一个万亿美元的芯片巨头吗？ - 交易密钥",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNW1KaE1oVTg1dVV2UVRBaElOcmlObEd0QmtBMWg0aTJZTkJNZGhHRHpuYkN4dFhmdmc5Z3NXRTJWa09LV1ByamdTWFRIVk4zT1lUaWRwZEdhVG1XZmNKclNlZFVscG1jY2JsbVQyUlRPeHhQTnY2ejVwMWpmS096X1U4T3AyaGFBVXdBeUFpQWd2M2VRMm1VZXFnNmV5YUF0R1pVZVRpTEhDVUVnemk2UFJFTVpaRG9xRmFHVUxsYVYwbjZpZlE?oc=5",
+    "time": 1793500793181,
+    "score": 15,
+    "summary": "What Is AMD? Will It Be the Next Trillion-Dollar Chip Giant? TradingKey",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "收入增长高达 384% 的 3 只核股 - Simply Wall St",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa3R0bGdvVk5scUZBTE9ydEUxb0h0MHczbFFYNmtiY2NsTXhZQUY0UU1HdzlIbTNXZHk1YTVWUDNyMDY5YzNaOXd2MVBXb0Jhcm5DdENhLTg3aTZUUlJWa0plMUh2ZGExdlJhU0lnb1BBc0VGb0Y0b1hDTzRPQTlSQ2Ewa2h0RWRSZktlblp6NGEzd3JoZVhOeWdXTXRleUtEXzMyTnJjbUJ1RzNSNlNxdVo2TThxQjY50gG-AUFVX3lxTFAwYjFFeDA5ay1scXdqczNRR1BJQUdLaHJYZlNMMWg3SHMybGR0TGVPN1VzT0hpWmVJb2NXb2diZEVtZkV0UDN6blA5cXFwbGxrYUFLSklIRlpiMVkxQUtTMWJkc1J2ZU84VE1qb3FtUFktWG1PUWNvTHFXaWE2WW1rYVRnNzR6YXdLRFhraGI0SUtYYXg4WDhUMkJ3OTQtSmlMM2tKQ3A3aG9Ed2k4d3hEXzJGdFpSYnRIQUJrNFE?oc=5",
+    "time": 1793500793181,
+    "score": 15,
+    "summary": "3 Nuclear Stocks With Revenue Growth Up To 384% Simply Wall St",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "随着旱季退潮，KoBold 等待联合国批准刚果民主共和国锂调查 - Discovery Alert",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjhQVVdyWlVqVW85MkpKbm1yaFVaeUpaaHdJWFExbWdnRHZhMkNOMkdCNGpMWHN3Ynl0SWhreVUwTmF4Wjl4SFNsNDA5WDUwN3hjWjVGQ3JDSnBEOWdUR1NoTTloTkJnbGktYUhSU0l1V3JmOU1kVnRscWMwVkFPUFlmQ1FCRlhNYUNRV0tpaEVrOFdyTmc?oc=5",
+    "time": 1793500793181,
+    "score": 11,
+    "summary": "KoBold Awaits UN Clearance for DRC Lithium Survey as Dry Season Ebbs Discovery A...",
+    "source": "基建·矿产",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Piecyk 表示，Waymo 与丰田的交易结束了车辆短缺 [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2JHcWxwS2ZhbGtkSmktaDg1R2o2T0hkOVNCRkxoVm56X0NFakcwbXpWZjJnVnhkbXJxWV81S1gxYkNaNWRYejR4ck9iclgxWk5LT3BYdW5Vc053UDdlRzZoS1FlRnRUeElnOG53YkZaZ2x4WTdxaVZXS0Z2YkotUVhvNEhHZTF3?oc=5",
+    "time": 1793500793181,
+    "score": 10,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "金价跌破 4,000 美元，ASX 200 矿业股反弹 4.06% - Discovery Alert",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYVBNRktlZUZRV0c1OFd4M0pHeGtlNTdHWWtqODctOFZIakxFNnpyaTcyemFOSXdRcl9FSWVpb3M0aFBweG05Szg5TDItaFdCdWxENmZJMzA0WC1EandLUmx2emJTLWFuNXZ1a01fUUFYa2I4bnV3aThWSGw3eGV4bQ?oc=5",
+    "time": 1793500793181,
+    "score": 10,
+    "summary": "ASX 200 Mining Stocks Rebound 4.06% as Gold Slips Below US$4,000 Discovery Alert",
+    "source": "基建·矿产",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Memdoor：由 5 个 Qwen3.8-27B 模型组成的团队在 LiveCodeBench Hard 上击败了《神鬼寓言 5》",
+    "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+    "time": 1793500793181,
+    "score": 4,
+    "summary": "93 points · 46 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "一位意大利农民在他的阁楼里发现了一些不知名的种子并把它们种下了",
+    "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+    "time": 1793500793181,
+    "score": 3,
+    "summary": "181 points · 51 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "阿尔托兹项目",
+    "url": "https://uvdn7.github.io/altoids-project/",
+    "time": 1793500793181,
+    "score": 3,
+    "summary": "53 points · 2 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "当电动汽车是女性的专利时",
+    "url": "https://spectrum.ieee.org/early-electric-vehicles",
+    "time": 1793500793181,
+    "score": 3,
+    "summary": "44 points · 17 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "阳光捕手计划原型卫星的首次回应",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+    "time": 1793500793181,
+    "score": 3,
+    "summary": "37 points · 37 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "电缆熔炼插座中的锌蠕变导致阿雷西博望远镜于 2020 年瘫痪",
+    "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+    "time": 1793500793181,
+    "score": 3,
+    "summary": "36 points · 12 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Show HN：BBRouter – Ben Eater 的 8 位计算机，在 3D 面包板上模拟",
+    "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+    "time": 1793500793181,
+    "score": 3,
+    "summary": "8 points · 2 comments",
+    "source": "HackerNews",
     "region": "🇺🇸"
   }
 ]
