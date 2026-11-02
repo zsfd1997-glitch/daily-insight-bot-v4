@@ -1,167 +1,5 @@
 [
   {
-    "title": "RoboJev：用于机器人成功检测的开放视觉语言法官",
-    "url": "https://huggingface.co/papers/2610.33718",
-    "time": 1793142898444,
-    "score": 9,
-    "summary": "许多机器人操作视频并没有表明任务是否成功完成。 RoboJev-27B 是一款开放式称重...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "审稿人很少谈论可靠性。业主提出这个问题的频率是原来的两倍",
-    "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
-    "time": 1793142898444,
-    "score": 8,
-    "summary": "10 points · 8 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "脉冲开发",
-    "url": "https://www.producthunt.com/products/pulsedev",
-    "time": 1793142898444,
-    "score": 8,
-    "summary": "讨论 |关联",
-    "source": "ProductHunt",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "前沿人工智能实验室表示，他们的模型驳斥了指数时间假说。这意味着什么？",
-    "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-    "time": 1793142898444,
-    "score": 7,
-    "summary": "TechCrunch 采访了负责解释 OpenAI 最新令人费解的 MIT 计算机科学家……",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Re:Build，从 Slate Auto 分拆出来，筹集了 $2.1B",
-    "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
-    "time": 1793142898444,
-    "score": 6,
-    "summary": "这家制造业加速器自称是“美国版的深圳”。",
-    "source": "汽车·TechCrunch",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "美国银行恳请您不要与人工智能助手分享您的银行密码",
-    "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-    "time": 1793142898444,
-    "score": 6,
-    "summary": "这家银行业巨头提醒客户，“你要对人工智能广告产生的活动负责”……",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Disruptive 筹集 10B 美元基金，对至少 10 家公司进行大赌注",
-    "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-    "time": 1793142898444,
-    "score": 6,
-    "summary": "近年来，Disruptive 因向芯片初创公司 Gro 等公司投入资金而成为头条新闻……",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "模型用过这个吗？反事实训练增强语言模型中的自我归因",
-    "url": "https://huggingface.co/papers/2610.35295",
-    "time": 1793142898444,
-    "score": 6,
-    "summary": "可解释和负责任的语言模型的一个基本挑战是揭示外部信息如何影响......",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "通用汽车现在正在拥抱混合动力汽车",
-    "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
-    "time": 1793142898444,
-    "score": 5,
-    "summary": "通用汽车放弃了混合动力汽车，转而采用电池电动汽车。现在它正准备提供混合动力版本...",
-    "source": "汽车·TechCrunch",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "数据中心的繁荣有一个好处：美国电网的创新",
-    "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-    "time": 1793142898444,
-    "score": 5,
-    "summary": "随着人工智能热潮对现有电网的压力加大，电网现代化的各种新机遇...",
-    "source": "TechCrunch·AI",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Tailscale SSH：调查和修复更新",
-    "url": "https://tailscale.com/ssh-investigation-update",
-    "time": 1793142898444,
-    "score": 5,
-    "summary": "144 points · 89 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "BWX Technologies 签署 Antares TRISO 燃料协议 - Mugglehead Investment Magazine",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYTdwWFFMZEpHN0NpTTJWdTRDVm1SUEpvNnMxdzVNSTVTM2tMT0V6SE9mdHVHVDZiNnJNWUlKT18zX29Jd3ZDblo0WC1rb19vZFZUYjVkU2ZHeTZfVDVWLWE0MWFET0RCOFVVVWJ3TUVyUEZqYnFHZEtVb2I1VjQ0clFldGVXaDA?oc=5",
-    "time": 1793142898444,
-    "score": 5,
-    "summary": "BWX Technologies signs Antares TRISO fuel agreement Mugglehead Investment Magazi...",
-    "source": "基建·能源",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "稀疏自动编码器中的表示重新分布",
-    "url": "https://huggingface.co/papers/2610.21240",
-    "time": 1793142898444,
-    "score": 4,
-    "summary": "稀疏自动编码器 (SAE) 将语言模型激活分解为稀疏特征，但提示转换设计...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "EnvLunch：环境作为学习互动的免费午餐",
-    "url": "https://huggingface.co/papers/2610.33817",
-    "time": 1793142898444,
-    "score": 4,
-    "summary": "对于代理数据分析，语言模型代理通常需要大量带注释的任务来学习如何交互...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "Survival LLM：在您自己的计算机上运行的人工智能助手和应急库",
-    "url": "https://www.brangus.io/survival-llm",
-    "time": 1793142898444,
-    "score": 4,
-    "summary": "124 points · 79 comments",
-    "source": "HackerNews",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "重新思考代理安全带中的验证",
-    "url": "https://huggingface.co/papers/2610.34577",
-    "time": 1793142898444,
-    "score": 4,
-    "summary": "代理工具使大型语言模型能够通过工具进行操作、观察结果并迭代地实现目标...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "ReGE：通过经验综合增强智能体",
-    "url": "https://huggingface.co/papers/2610.33861",
-    "time": 1793142898444,
-    "score": 4,
-    "summary": "反复尝试交互式任务会发现事实、有用的操作和失败，这些可以为后续执行提供信息...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
-    "title": "CRM-Agent-Bench：在有状态的企业环境中使用代理的基准测试工具",
-    "url": "https://huggingface.co/papers/2610.32004",
-    "time": 1793142898444,
-    "score": 4,
-    "summary": "在实际应用程序中部署语言代理需要的不仅仅是正确的答案：代理必须执行多步骤...",
-    "source": "HuggingFace·论文",
-    "region": "🇺🇸"
-  },
-  {
     "title": "将局部上下文粘合到全局含义：变压器表示的层理论分解",
     "url": "https://huggingface.co/papers/2610.17117",
     "time": 1793142898444,
@@ -8998,5 +8836,167 @@
     "summary": "125 points · 35 comments",
     "source": "HackerNews",
     "region": "🇺🇸"
+  },
+  {
+    "title": "AMD（纳斯达克股票代码：AMD）股价在财报公布前暴跌 11%：AI 芯片增长能否扭转抛售潮？ - 澳大利亚股票",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGbVMyR0I3YVN1bWdBUGRSTmFHWXFxUzllMnAtcUctdnZpSXdtMWxBVHVSTU5xVkU3SEdLMlA5RGtwVTNFNExDWHNLTTNkUzlibGNmY0dadmZyc2kybmlpZ25FTWFudTlLZ1R4VXBxRzZBYjRGZzNvZw?oc=5",
+    "time": 1793587649368,
+    "score": 21,
+    "summary": "AMD (NASDAQ:AMD) Stock Crashes 11% Ahead of Earnings: Can AI Chip Growth Reverse...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "这家初创公司的自动驾驶挖掘机帮助筹集了 6 亿美元的新资金",
+    "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+    "time": 1793587649368,
+    "score": 16,
+    "summary": "Bedrock Robotics 目前估值 41 亿美元，特别专注于自主挖掘...",
+    "source": "汽车·TechCrunch",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Rivian 的“无聊”商用货车正在变成秘密武器 - InsideEVs",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHlUQzg4cVlsQ2VrSmZNU0p2VE1veUxyajNFOTBDR0tYSjdqY2ZuMWJKNHFvTWpMb1lmVnlDQ2tKY3RoMWFLV1Q3LUpZbUR3ZzFVejR2Zl9UclVPMExkRlZrVjZEckZpTEdha3pQN3lNUGVLZHlacWcxalFoalZzYlFmU2tuX3dYWFlsTHFLaUxaQQ?oc=5",
+    "time": 1793587649368,
+    "score": 15,
+    "summary": "",
+    "source": "汽车·EV",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "押注1000美元闲钱押注AI：外媒看台积电、ASML未来十年长期价值 - BigGo财经",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4eXhvcUhsSFpkQVF6Um9CU093VWNkUGhLZGhBcDNCMG5nc2FCREhNV1pjelk1Y2JHWExoLVRCRllGODgzLXBCQ0NucXl3N3VucDFBMzZtMnF0ODlSb0sxc1JhMTdxZkZqLW5yeVgzZi1vem9lOUE?oc=5",
+    "time": 1793587649368,
+    "score": 11,
+    "summary": "Betting $1,000 of Spare Cash on AI: Foreign Media Sees Long-Term Value in TSMC a...",
+    "source": "基建·芯片",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "核电站建设创 40 年来新高，电力短缺担忧超越“切尔诺贝利创伤” - 매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92a3U2aHJfRzh3aW8wVzJZT0pRMjdaWXFkWGcwT2FIOGlaSkF4bml0TmFRRnM5WTVCWkhrN1FEclFRQXRzYmstaU9FczJxRWcwd2J3?oc=5",
+    "time": 1793587649368,
+    "score": 10,
+    "summary": "Power shortage fears eclipse ‘Chernobyl trauma’ as nuclear plant construction hi...",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "HiFOR：视觉-语言-行动模型的分层远见与行动引导的世界基础",
+    "url": "https://huggingface.co/papers/2610.40373",
+    "time": 1793587649368,
+    "score": 5,
+    "summary": "视觉-语言-动作（VLA）模型通过集成视觉...",
+    "source": "HuggingFace·论文",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "为日本数据中心供电 - W.Media",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FcHVqVEhmUjJPNURIVUxCNWNPV0NCQk1EUWlMM29SOEVPcnFtZ3B3VDlfa01qS1psX1prMjRZVW9oUGVOVk1OaURqMUF0eDZQMmlnSmllajAxeEE?oc=5",
+    "time": 1793587649368,
+    "score": 5,
+    "summary": "Powering data centers in Japan W.Media",
+    "source": "基建·能源",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "为什么这种稀土金属在美国比在中国贵 346 倍 - 今日原油价格石油价格网",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeDhHeHhIN0hXQkJTdHBxdnpwNWpLU25nRjdnbEV6MXZpMWowVU9mcGQ4WGpNajVINkZ3Q0QzVUxrdy16cGtpc0NwNlBDZWRMRkgxM1lrNXFmSjY3MVdYRG1LLTc0YU5pb3A4UGJUdkduRlVNbnVSNHdZZlJZa255WWNXWU1MNFlaM2EwOFpYVThKbjlJSHBlZWVGMkNwNzhSR202Y2pfQ2R2THZWOVJmSGpVR0NQNWZ3a0FMeExveUJZb0pFUFJpYU5n0gHKAUFVX3lxTE14OEd4eEg3SFdCQlN0cHF2enA1aktTbmdGN2dsRXoxdmkxajBVT2ZwZDhYak1qNUg2RndDRDNVTGt3LXpwa2lzQ3A2UENlZExGSDEzWWs1cWZKNjcxV1hEbUstNzRhTmlvcDhQYlR2R25GVU1udVI0d1lmUllrbnlZY1dZTUw0WVozYTA4WlhVOEpuOUlIcGVlZUYyQ3A3OFJHbTZjal9DZHZMdlY5UmZIalVHQ1A1ZndrQUx4TG95QllvSkVQUmlhTmc?oc=5",
+    "time": 1793587649368,
+    "score": 5,
+    "summary": "Why Is This Rare Earth Metal 346 Times More Expensive In America Than in China C...",
+    "source": "基建·矿产",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "人工智能可以编写更多代码。我们仍然需要设计系统",
+    "url": "https://picon.dev/en/publications/ai-assisted-engineering/",
+    "time": 1793587649368,
+    "score": 4,
+    "summary": "22 points · 7 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "Postgres 19 迟到了，这是 AI 的错",
+    "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+    "time": 1793587649368,
+    "score": 4,
+    "summary": "90 points · 65 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "MemPalace/mempalace: 最佳基准的开源人工智能存储系统。而且它是免费的。",
+    "url": "https://github.com/MemPalace/mempalace",
+    "time": 1793587649368,
+    "score": 4,
+    "summary": "⭐60.2k stars · Python",
+    "source": "GitHub·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "F/OSS 漫画 #13：BSD Unix，第 3 部分 – BSD Unix 的开始",
+    "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+    "time": 1793587649368,
+    "score": 3,
+    "summary": "6 points · 0 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "占领SaaS",
+    "url": "https://occupysaas.com/",
+    "time": 1793587649368,
+    "score": 3,
+    "summary": "69 points · 44 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "保持形象——女性接管殡葬业",
+    "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
+    "time": 1793587649368,
+    "score": 3,
+    "summary": "26 points · 5 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "化学饥饿 (2021)",
+    "url": "https://slimemoldtimemold.com/2021/07/07/a-chemical-hunger-part-i-mysteries/",
+    "time": 1793587649368,
+    "score": 3,
+    "summary": "17 points · 2 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "电网60秒波动之谜被解开",
+    "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+    "time": 1793587649368,
+    "score": 3,
+    "summary": "12 points · 3 comments",
+    "source": "HackerNews",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "headroomlabs-ai/headroom: 在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。 c 的代币减少了 20%",
+    "url": "https://github.com/headroomlabs-ai/headroom",
+    "time": 1793587649368,
+    "score": 3,
+    "summary": "⭐78.6k stars · Python",
+    "source": "GitHub·AI",
+    "region": "🇺🇸"
+  },
+  {
+    "title": "QQ「大肥鱼」AI 机器人",
+    "url": "https://juejin.cn/post/7702015192474419227",
+    "time": 1793587649368,
+    "score": 3,
+    "summary": "",
+    "source": "掘金·AI",
+    "region": "🇨🇳"
   }
 ]
